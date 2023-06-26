@@ -15,7 +15,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 ---
 
-## 🗞️ Papers
+## Papers
 
 ### Speech Synthesis: Prosody and Emotion
 
@@ -27,11 +27,14 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | Laughter Synthesis using Pseudo Phonetic Tokens with a Large-scale In-the-wild Laughter Corpus | [![GitHub](https://img.shields.io/github/stars/Aria-K-Alethia/laughter-synthesis)](https://github.com/Aria-K-Alethia/laughter-synthesis) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12442-b31b1b.svg)](https://arxiv.org/abs/2305.12442) |
 | Explicit Intensity Control for Accented Text-to-speech | [![GitHub](https://img.shields.io/github/stars/ttslr/Ai-TTS)](https://github.com/ttslr/Ai-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2210.15364-b31b1b.svg)](https://arxiv.org/abs/2210.15364) |
 | Comparing Normalizing Flows and Diffusion Models for Prosody and Acoustic Modelling in Text-to-speech | `-` | `-` |
-<!-- | | | | -->
 
 ### Statistical Machine Translation
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** |
+| --------- |:--------:|:---------:|
+| Modular Speech-to-Text Translation for Zero-Shot Cross-Modal Transfer | `-` | `-` |
+| Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.13204-b31b1b.svg)](https://arxiv.org/abs/2305.13204) |
+<!-- | | | | -->
 
 ### Self-Supervised Learning in ASR
 
