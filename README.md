@@ -47,6 +47,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | 14 | Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations | [![GitHub](https://img.shields.io/github/stars/salah-zaiem/augmentations_adaptation)](https://github.com/salah-zaiem/augmentations_adaptation) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00481-b31b1b.svg)](https://arxiv.org/abs/2306.00481) |
 | 15 | Dual Acoustic Linguistic Self-supervised Representation Learning for Cross-Domain Speech Recognition | `-` | `-` |
 | 16 | O-1: Self-training with Oracle and 1-best Hypothesis | `-` | `-` |
+| 17 | MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets | [![GitHub](https://img.shields.io/github/stars/ddlBoJack/MT4SSL)](https://github.com/ddlBoJack/MT4SSL) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07321-b31b1b.svg)](https://arxiv.org/abs/2211.07321) |
 <!-- | | | | | -->
 
 ### Prosody
