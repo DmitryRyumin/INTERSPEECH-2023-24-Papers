@@ -16,4 +16,5 @@ INTERSPEECH 2023 Papers: A curated collection of influential and exciting resear
 | Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2211.06220-b31b1b.svg)](https://arxiv.org/abs/2306.03594) |
 | Speech Synthesis with Self-Supervisedly Learnt Prosodic Representations | `-` | `-` |
 | EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2211.06220-b31b1b.svg)](https://arxiv.org/abs/2306.00648) |
+| Laughter Synthesis using Pseudo Phonetic Tokens with a Large-scale In-the-wild Laughter Corpus | [![GitHub](https://img.shields.io/github/stars/Aria-K-Alethia/laughter-synthesis)](https://github.com/Aria-K-Alethia/laughter-synthesis) | [![arXiv](https://img.shields.io/badge/arXiv-2211.06220-b31b1b.svg)](https://arxiv.org/abs/2305.12442) |
 <!-- | | | | -->
