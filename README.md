@@ -48,10 +48,11 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | 15 | Dual Acoustic Linguistic Self-supervised Representation Learning for Cross-Domain Speech Recognition | `-` | `-` |
 | 16 | O-1: Self-training with Oracle and 1-best Hypothesis | `-` | `-` |
 | 17 | MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets | [![GitHub](https://img.shields.io/github/stars/ddlBoJack/MT4SSL)](https://github.com/ddlBoJack/MT4SSL) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07321-b31b1b.svg)](https://arxiv.org/abs/2211.07321) |
-<!-- | | | | | -->
+| 18 | Comparison of Multilingual Self-Supervised and Weakly-Supervised Speech Pre-Training for Adaptation to Unseen Languages | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2305.12606) |
 
 ### Prosody
 
+<!-- | | | | | -->
 > Will soon be added
 
 ### Speech Production
