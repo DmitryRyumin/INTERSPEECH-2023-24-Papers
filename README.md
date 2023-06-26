@@ -24,3 +24,311 @@ INTERSPEECH 2023 Papers: A curated collection of influential and exciting resear
 ### Statistical Machine Translation
 
 > Will soon be added
+
+### Self-Supervised Learning in ASR
+
+> Will soon be added
+
+### Prosody
+
+> Will soon be added
+
+### Speech Production
+
+> Will soon be added
+
+### Dysarthric Speech Assessment
+
+> Will soon be added
+
+### Speech Coding: Transmission
+
+> Will soon be added
+
+### Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
+
+> Will soon be added
+
+### Analysis of Speech and Audio Signals
+
+> Will soon be added
+
+### Speech Recognition: Architecture, Search, and Linguistic Components
+
+> Will soon be added
+
+### Speech Recognition: Technologies and Systems for New Applications
+
+> Will soon be added
+
+### Lexical and Language Modeling for ASR
+
+> Will soon be added
+
+### Language Identification and Diarization
+
+> Will soon be added
+
+### Speech Quality Assessment
+
+> Will soon be added
+
+### Feature Modeling for ASR
+
+> Will soon be added
+
+### Interfacing Speech Technology and Phonetics
+
+> Will soon be added
+
+### Speech Synthesis: Multilinguality
+
+> Will soon be added
+
+### Speech Emotion Recognition
+
+> Will soon be added
+
+### Spoken Dialog Systems and Conversational Analysis
+
+> Will soon be added
+
+### Speech Coding and Enhancement
+
+> Will soon be added
+
+### Paralinguistics
+
+> Will soon be added
+
+### Speech Enhancement and Denoising
+
+> Will soon be added
+
+### Speech Synthesis: Evaluation
+
+> Will soon be added
+
+### End-to-end Spoken Dialog Systems
+
+> Will soon be added
+
+### Biosignal-enabled Spoken Communication
+
+> Will soon be added
+
+### Neural-based Speech and Acoustic Analysis
+
+> Will soon be added
+
+### DiGo - Dialog for Good: Speech and Language Technology for Social Good
+
+> Will soon be added
+
+### Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources, and Evaluation
+
+> Will soon be added
+
+### Speech, Voice, and Hearing Disorders
+
+> Will soon be added
+
+### Spoken Term Detection and Voice Search
+
+> Will soon be added
+
+### Models for Streaming ASR
+
+> Will soon be added
+
+### Source Separation
+
+> Will soon be added
+
+### Speech Perception
+
+> Will soon be added
+
+### Phonetics and Phonology: Languages and Varieties
+
+> Will soon be added
+
+### Speaker and Language Identification
+
+> Will soon be added
+
+### Speech Synthesis and Voice Conversion
+
+> Will soon be added
+
+### Speech and Language in Health: From Remote Monitoring to Medical Conversations
+
+> Will soon be added
+
+### Novel Transformer Models for ASR
+
+> Will soon be added
+
+### Speaker Recognition
+
+> Will soon be added
+
+### Cross-lingual and Multilingual ASR
+
+> Will soon be added
+
+### Voice Conversion
+
+> Will soon be added
+
+### Pathological Speech Analysis
+
+> Will soon be added
+
+### Multimodal Speech Emotion Recognition
+
+> Will soon be added
+
+### Phonetics, Phonology, and Prosody
+
+> Will soon be added
+
+### Speech Coding: Privacy
+
+> Will soon be added
+
+### Analysis of Neural Speech Representations
+
+> Will soon be added
+
+### End-to-end ASR
+
+> Will soon be added
+
+### Spoken Language Understanding, Summarization, and Information Retrieval
+
+> Will soon be added
+
+### Invariant and Robust Pre-trained Acoustic Models
+
+> Will soon be added
+
+### Speech Synthesis: Representation Learning
+
+> Will soon be added
+
+### Speech Perception, Production, and Acquisition
+
+> Will soon be added
+
+### Acoustic Model Adaptation for ASR
+
+> Will soon be added
+
+### Speech Synthesis: Expressivity
+
+> Will soon be added
+
+### Multi-modal Systems
+
+> Will soon be added
+
+### Question Answering from Speech
+
+> Will soon be added
+
+### Multi-talker Methods in Speech Processing
+
+> Will soon be added
+
+### Sociophonetics
+
+> Will soon be added
+
+### Speaker and Language Diarization
+
+> Will soon be added
+
+### Anti-Spoofing for Speaker Verification
+
+> Will soon be added
+
+### Speech Coding: Intelligibility
+
+> Will soon be added
+
+### Resources for Spoken Language Processing
+
+> Will soon be added
+
+### New Computational Strategies for ASR Training and Inference
+
+> Will soon be added
+
+### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child- Directed Speech
+
+> Will soon be added
+
+### Health-Related Speech Analysis
+
+> Will soon be added
+
+### Automatic Audio Classification and Audio Captioning
+
+> Will soon be added
+
+### Speech Synthesis
+
+> Will soon be added
+
+### Speech Synthesis: Controllability and Adaptation
+
+> Will soon be added
+
+### Search Methods and Decoding Algorithms for ASR
+
+> Will soon be added
+
+### Speech Signal Analysis
+
+> Will soon be added
+
+### Connecting Speech-science and Speech-technology for Children's Speech
+
+> Will soon be added
+
+### Dialog Management
+
+> Will soon be added
+
+### Speech Activity Detection and Modeling
+
+> Will soon be added
+
+### Multilingual Models for ASR
+
+> Will soon be added
+
+### Speech Enhancement and Bandwidth Expansion
+
+> Will soon be added
+
+### Articulation
+
+> Will soon be added
+
+### Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain
+
+> Will soon be added
+
+### Perception of Paralinguistics
+
+> Will soon be added
+
+### Technologies for Child Speech Processing
+
+> Will soon be added
+
+### Speech Synthesis: Multilinguality; Evaluation
+
+> Will soon be added
