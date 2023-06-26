@@ -20,3 +20,7 @@ INTERSPEECH 2023 Papers: A curated collection of influential and exciting resear
 | Explicit Intensity Control for Accented Text-to-speech | [![GitHub](https://img.shields.io/github/stars/ttslr/Ai-TTS)](https://github.com/ttslr/Ai-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2210.15364-b31b1b.svg)](https://arxiv.org/abs/2210.15364) |
 | Comparing Normalizing Flows and Diffusion Models for Prosody and Acoustic Modelling in Text-to-speech | `-` | `-` |
 <!-- | | | | -->
+
+### Statistical Machine Translation
+
+> Will soon be added
