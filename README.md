@@ -9,8 +9,8 @@ INTERSPEECH 2023 Papers: A curated collection of influential and exciting resear
 
 ## 🗞️ papers
 
-|               **Topic**               |                                         **Title**                                          | **Repo** |                                               **Paper**                                                |
-| :-----------------------------------: | :----------------------------------------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------: |
-| Speech Synthesis: Prosody and Emotion | Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks |   `-`    | [![arXiv](https://img.shields.io/badge/arXiv-2211.06220-b31b1b.svg)](https://arxiv.org/abs/2306.03594) |
-|                  ^^                   |          Speech Synthesis with Self-Supervisedly Learnt Prosodic Representations           |   `-`    |                                                  `-`                                                   |
+| **Topic** | **Title** | **Repo** | **Paper** |
+|:---------:|:---------:|:--------:|:---------:|
+| Speech Synthesis: Prosody and Emotion | Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2211.06220-b31b1b.svg)](https://arxiv.org/abs/2306.03594) |
+| ^^                                    | Speech Synthesis with Self-Supervisedly Learnt Prosodic Representations | `-` | `-` |
 <!-- | | | | -->
