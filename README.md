@@ -35,9 +35,8 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | Modular Speech-to-Text Translation for Zero-Shot Cross-Modal Transfer | `-` | `-` |
 | Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.13204-b31b1b.svg)](https://arxiv.org/abs/2305.13204) |
 | StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://styles2st.github.io/StyleS2ST/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17732-b31b1b.svg)](https://arxiv.org/abs/2305.17732) |
+| Joint Speech Translation and Named Entity Recognition | [![GitHub](https://img.shields.io/github/stars/hlt-mt/FBK-fairseq)](https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/JOINT_ST_NER2023.md) | [![arXiv](https://img.shields.io/badge/arXiv-2210.11987-b31b1b.svg)](https://arxiv.org/abs/2210.11987) |
 <!-- | | | | -->
-
-> Will soon be added
 
 ### Self-Supervised Learning in ASR
 
