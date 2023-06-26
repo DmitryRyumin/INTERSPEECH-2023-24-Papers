@@ -7,11 +7,11 @@
 
 INTERSPEECH 2023 Papers: A complete collection of influential and exciting research papers from the INTERSPEECH 2023 conference. Explore the latest advances in speech and language processing. Code included. Star the repository to support the advancement of speech technology!
 
-<p align="center">
-    </br>
+<a href="https://interspeech2023.org/" target="_blank">
     <img width="600" src="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/images/Interspeech2023-Stacked-Colour.png" alt="Interspeech 2023">
-    </br>
-</p>
+</a>
+
+---
 
 ## 🗞️ Papers
 
