@@ -36,7 +36,9 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | 8 | Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.13204-b31b1b.svg)](https://arxiv.org/abs/2305.13204) |
 | 9 | StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://styles2st.github.io/StyleS2ST/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17732-b31b1b.svg)](https://arxiv.org/abs/2305.17732) |
 | 10 | Joint Speech Translation and Named Entity Recognition | [![GitHub](https://img.shields.io/github/stars/hlt-mt/FBK-fairseq)](https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/JOINT_ST_NER2023.md) | [![arXiv](https://img.shields.io/badge/arXiv-2210.11987-b31b1b.svg)](https://arxiv.org/abs/2210.11987) |
-<!-- | | | | -->
+| 11 | Analysis of Acoustic information in End-to-End Spoken Language Translation | `-` | `-` |
+| 12 | LAMASSU: A Streaming Language-Agnostic Multilingual Speech Recognition and Translation Model Using Neural Transducers | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2211.02809-b31b1b.svg)](https://arxiv.org/abs/2211.02809) |
+<!-- | | | | | -->
 
 ### Self-Supervised Learning in ASR
 
