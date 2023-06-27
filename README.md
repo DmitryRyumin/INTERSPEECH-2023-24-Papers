@@ -79,11 +79,12 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | 31 | Parameter-efficient Dysarthric Speech Recognition using Adapter Fusion and Householder Transformation | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.07090-b31b1b.svg)](https://arxiv.org/abs/2306.07090) |
 | 32 | Few-shot Dysarthric Speech Recognition with Text-to-Speech Data Augmentation | `-` | [![idiap](https://img.shields.io/badge/idiap.ch.5055-FF6A00.svg)](http://publications.idiap.ch/index.php/publications/show/5055) |
 | 33 | Latent Phrase Matching for Dysarthric Speech | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.05446-b31b1b.svg)](https://arxiv.org/abs/2306.05446) |
-<!-- | | | | | -->
+| 34 | Speech Intelligibility Assessment of Dysarthric Speech by using Goodness of Pronunciation with Uncertainty Quantification | [![GitHub](https://img.shields.io/github/stars/juice500ml/dysarthria-gop)](https://github.com/juice500ml/dysarthria-gop) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18392-b31b1b.svg)](https://arxiv.org/abs/2305.18392) |
 
 ### Speech Coding: Transmission
 
 > Will soon be added
+<!-- | | | | | -->
 
 ### Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
 
