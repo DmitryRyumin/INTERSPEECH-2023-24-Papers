@@ -63,7 +63,11 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 ### Speech Production
 
-> Will soon be added
+| **No** | **Title** | **Repo** | **Paper** |
+| ------ | --------- |:--------:|:---------:|
+| 25 | Transvelar Nasal Coupling Contributing to Speaker Characteristics in Non-nasal Vowels | `-` | `-` |
+| 26 | Speech Synthesis from Articulatory Movements Recorded by Real-time MRI | `-` | `-` |
+| 27 |  The ART of Conversation: Measuring Phonetic Convergence and Deliberate Imitation in L2-Speech with a Siamese RNN | [![GitHub](https://img.shields.io/github/stars/byronthecoder/S-RNN-4-ART)](https://github.com/byronthecoder/S-RNN-4-ART) | [![arXiv](https://img.shields.io/badge/arXiv-2306.05088-b31b1b.svg)](https://arxiv.org/abs/2306.05088) |
 <!-- | | | | | -->
 
 ### Dysarthric Speech Assessment
