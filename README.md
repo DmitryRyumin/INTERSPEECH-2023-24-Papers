@@ -77,7 +77,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | 29 | Automatic Assessments of Dysarthric Speech: the Usability of Acoustic-phonetic Features | `-` | `-` |
 | 30 | Classification of Multi-class Vowels and Fricatives from Patients Having Amyotrophic Lateral Sclerosis with Varied Levels of Dysarthria Severity | `-` | `-` |
 | 31 | Parameter-efficient Dysarthric Speech Recognition using Adapter Fusion and Householder Transformation | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.07090-b31b1b.svg)](https://arxiv.org/abs/2306.07090) |
-| 32 | Few-shot Dysarthric Speech Recognition with Text-to-Speech Data Augmentation | `-` | [![idiap](https://img.shields.io/badge/idiap.ch.5055-b31b1b.svg)](http://publications.idiap.ch/index.php/publications/show/5055) |
+| 32 | Few-shot Dysarthric Speech Recognition with Text-to-Speech Data Augmentation | `-` | [![idiap](https://img.shields.io/badge/idiap.ch.5055-FF6A00.svg)](http://publications.idiap.ch/index.php/publications/show/5055) |
 <!-- | | | | | -->
 
 ### Speech Coding: Transmission
