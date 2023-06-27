@@ -95,6 +95,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | **No** | **Title** | **Repo** | **Paper** |
 | ------ | --------- |:--------:|:---------:|
 | 39 | Using Text Injection to Improve Recognition of Personal Identifiers in Speech | `-` | `-` |
+| 40 | Investigating Wav2Vec2 Context Representations and the Effects of Fine-tuning, a Case-study of a Finnish Model | [![GitHub](https://img.shields.io/github/stars/aalto-speech/Wav2vec2Interpretation)](https://github.com/aalto-speech/Wav2vec2Interpretation) | `-` |
 <!-- | | | | | -->
 
 ### Analysis of Speech and Audio Signals
