@@ -52,8 +52,10 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 ### Prosody
 
+| **No** | **Title** | **Repo** | **Paper** |
+| ------ | --------- |:--------:|:---------:|
+| 19 | Chinese EFL Learners' Perception of English Prosodic Focus | `-` | `-` |
 <!-- | | | | | -->
-> Will soon be added
 
 ### Speech Production
 
