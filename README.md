@@ -55,11 +55,16 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | **No** | **Title** | **Repo** | **Paper** |
 | ------ | --------- |:--------:|:---------:|
 | 19 | Chinese EFL Learners' Perception of English Prosodic Focus | `-` | `-` |
-<!-- | | | | | -->
+| 20 | Pitch Accent Variation and the Interpretation of Rising and Falling Intonation in American English | `-` | `-` |
+| 21 | Tonal Coarticulation as a Cue for Upcoming Prosodic Boundary | `-` | `-` |
+| 22 | Alignment of Beat Gestures and Prosodic Prominence in German | `-` | `-` |
+| 23 | Creak Prevalence and Prosodic Context in Australian English | `-` | `-` |
+| 24 | Speech Reduction: Position within French Prosodic Structure | `-` | `-` |
 
 ### Speech Production
 
 > Will soon be added
+<!-- | | | | | -->
 
 ### Dysarthric Speech Assessment
 
