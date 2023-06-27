@@ -83,7 +83,12 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 ### Speech Coding: Transmission
 
-> Will soon be added
+| **No** | **Title** | **Repo** | **Paper** |
+| ------ | --------- |:--------:|:---------:|
+| 35 | CQNV: A Combination of Coarsely Quantized Bitstream and Neural Vocoder for Low Rate Speech Coding | `-` | `-` |
+| 36 | Target Speech Extraction with Conditional Diffusion Model | `-` | `-` |
+| 37 | Towards Fully Quantized Neural Networks For Speech Enhancement | `-` | `-` |
+| 38 |  Complex Image Generation SwinTransformer Network for Audio Denoising | [![GitHub](https://img.shields.io/github/stars/YoushanZhang/CoxImgSwinTransformer)](https://github.com/YoushanZhang/CoxImgSwinTransformer) | `-` |
 <!-- | | | | | -->
 
 ### Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
