@@ -72,7 +72,10 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 ### Dysarthric Speech Assessment
 
-> Will soon be added
+| **No** | **Title** | **Repo** | **Paper** |
+| ------ | --------- |:--------:|:---------:|
+| 29 | Automatic Assessments of Dysarthric Speech: the Usability of Acoustic-phonetic Features | `-` | `-` |
+| 30 | Classification of Multi-class Vowels and Fricatives from Patients Having Amyotrophic Lateral Sclerosis with Varied Levels of Dysarthria Severity | `-` | `-` |
 <!-- | | | | | -->
 
 ### Speech Coding: Transmission
