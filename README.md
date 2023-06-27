@@ -89,11 +89,13 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 | 36 | Target Speech Extraction with Conditional Diffusion Model | `-` | `-` |
 | 37 | Towards Fully Quantized Neural Networks For Speech Enhancement | `-` | `-` |
 | 38 |  Complex Image Generation SwinTransformer Network for Audio Denoising | [![GitHub](https://img.shields.io/github/stars/YoushanZhang/CoxImgSwinTransformer)](https://github.com/YoushanZhang/CoxImgSwinTransformer) | `-` |
-<!-- | | | | | -->
 
 ### Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
 
-> Will soon be added
+| **No** | **Title** | **Repo** | **Paper** |
+| ------ | --------- |:--------:|:---------:|
+| 39 | Using Text Injection to Improve Recognition of Personal Identifiers in Speech | `-` | `-` |
+<!-- | | | | | -->
 
 ### Analysis of Speech and Audio Signals
 
