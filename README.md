@@ -24,6 +24,8 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
   <img src="https://contrib.rocks/image?repo=DmitryRyumin/INTERSPEECH-2023-Papers" />
 </a>
 
+<br />
+
 Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/issues) or contact me via [*email*](mailto:ryumin.d@iias.spb.su)**. Your participation is crucial to making this repository even better.
 
 ---
