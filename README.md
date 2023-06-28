@@ -135,8 +135,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 66 | Personalized Acoustic Scene Classification in Ultra-low Power Embedded Devices using Privacy-preserving Data Augmentation | `-` | `-` |
 | 67 | Background Domain Switch: A Novel Data Augmentation Technique for Robust Sound Event Detection | `-` | `-` |
 | 68 | Joint Prediction of Audio Event and Annoyance Rating in an Urban Soundscape by Hierarchical Graph Representation Learning | [![GitHub](https://img.shields.io/github/stars/Yuanbo2020/HGRL)](https://github.com/Yuanbo2020/HGRL) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/Hou%20etal_INTERSPEECH_2023.pdf) |
-| 69 | Anomalous Sound Detection Using Self-Attention-Based Frequency Pattern Analysis of Machine Sounds |  |  |
-| 70 | Improving Audio-Text Retrieval via Hierarchical Cross-Modal Interaction and Auxiliary Captions |  |  |
+| 69 | Anomalous Sound Detection Using Self-Attention-Based Frequency Pattern Analysis of Machine Sounds | `-` | `-` |
+| 70 | Improving Audio-Text Retrieval via Hierarchical Cross-Modal Interaction and Auxiliary Captions | `-` | `-` |
 | 71 | Ontology-aware Learning and Evaluation for Audio Tagging |  |  |
 | 72 | Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Trade-off in Speech Signal Data |  |  |
 | 73 | Learning Emotional Representations from Imbalanced Speech Data for Speech Emotion Recognition and Emotional Text-to-Speech |  |  |
