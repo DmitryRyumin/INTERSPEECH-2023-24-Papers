@@ -170,7 +170,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 81 | How to Estimate Model Transferability of Pre-Trained Speech Models? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01015-b31b1b.svg)](https://arxiv.org/abs/2306.01015) |
 | 82 | Progress and Prospects for Spoken Language Technology: Results from Five Sexennial Surveys | :heavy_minus_sign: | :heavy_minus_sign: |
 | 83 | Acoustic Word Embeddings for Untranscribed Target Languages with Continued Pretraining and Learned Pooling | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02153-b31b1b.svg)](https://arxiv.org/abs/2306.02153) |
-| 84 | CASA-ASR: Context-Aware Speaker-Attributed ASR |  |  |
+| 84 | CASA-ASR: Context-Aware Speaker-Attributed ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12459-b31b1b.svg)](https://arxiv.org/abs/2305.12459) |
 | 85 | Unsupervised Learning of Discrete Latent Representations with Data-Adaptive Dimensionality from Continuous Speech Streams |  |  |
 | 86 | AD-TUNING: An Adaptive CHILD-TUNING Approach to Efficient Hyperparameter Optimization of Child Networks for Speech Processing Tasks in the SU-PERB Benchmark |  |  |
 | 87 | Distilling Knowledge from Gaussian Process Teacher to Neural Network Student |  |  |
