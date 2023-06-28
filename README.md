@@ -126,7 +126,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 57 | Visually-Aware Audio Captioning With Adaptive Audio-Visual Attention | [![GitHub](https://img.shields.io/github/stars/liuxubo717/V-ACT)](https://github.com/liuxubo717/V-ACT) | [![arXiv](https://img.shields.io/badge/arXiv-2210.16428-b31b1b.svg)](https://arxiv.org/abs/2210.16428) |
 | 58 | TFECN: Time-Frequency Enhanced ConvNet for Audio Classification | `-` | `-` |
 | 59 | Resolution Consistency Training on Time-Frequency Domain for Semi-Supervised Sound Event Detection | `-` | `-` |
-| 60 | Fine-tuning Audio Spectrogram Transformer with Task-aware Adapters for Sound Event Detection |  |  |
+| 60 | Fine-tuning Audio Spectrogram Transformer with Task-aware Adapters for Sound Event Detection | `-` | `-` |
 | 61 | Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness |  |  |
 | 62 | Few-shot Class-incremental Audio Classification Using Adaptively-refined Prototypes |  |  |
 | 63 | Interpretable Latent Space Using Space-Filling Curves for Phonetic Analysis in Voice Conversion |  |  |
