@@ -165,7 +165,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
-> Will soon be added
+| **No** | **Title** | **Repo** | **Paper** |
+| ------ | --------- |:--------:|:---------:|
+| 81 | How to Estimate Model Transferability of Pre-Trained Speech Models? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01015-b31b1b.svg)](https://arxiv.org/abs/2306.01015) |
+| 82 | Progress and Prospects for Spoken Language Technology: Results from Five Sexennial Surveys | :heavy_minus_sign: | :heavy_minus_sign: |
+| 83 | Acoustic Word Embeddings for Untranscribed Target Languages with Continued Pretraining and Learned Pooling | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02153-b31b1b.svg)](https://arxiv.org/abs/2306.02153) |
+| 84 | CASA-ASR: Context-Aware Speaker-Attributed ASR |  |  |
+| 85 | Unsupervised Learning of Discrete Latent Representations with Data-Adaptive Dimensionality from Continuous Speech Streams |  |  |
+| 86 | AD-TUNING: An Adaptive CHILD-TUNING Approach to Efficient Hyperparameter Optimization of Child Networks for Speech Processing Tasks in the SU-PERB Benchmark |  |  |
+| 87 | Distilling Knowledge from Gaussian Process Teacher to Neural Network Student |  |  |
+| 88 | Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization |  |  |
+| 89 | Segmental SpeechCLIP: Utilizing Pretrained Image-text Models for Audio-Visual Learning |  |  |
+| 90 | Towards hate speech detection in low-resource languages: Comparing ASR to acoustic word embeddings on Wolof and Swahili |  |  |
+| 91 | Mitigating Catastrophic Forgetting for Few-Shot Spoken Word Classification Through Meta-Learning |  |  |
+| 92 | Online Punctuation Restoration using ELECTRA Model for streaming ASR Systems |  |  |
+| 93 | Language Agnostic Data-Driven Inverse Text Normalization |  |  |
+| 94 | Syllable Discovery and Cross-Lingual Generalization in a Visually Grounded, Self-Supervised Speech Model |  |  |
+| 95 | Transcribing Speech as Spoken and Written Dual Text Using an Autoregressive Model |  |  |
 
 ### Lexical and Language Modeling for ASR
 
