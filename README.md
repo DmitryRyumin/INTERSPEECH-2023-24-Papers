@@ -117,7 +117,30 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Analysis of Speech and Audio Signals
 
-> Will soon be added
+| **No** | **Title** | **Repo** | **Paper** |
+| ------ | --------- |:--------:|:---------:|
+| 53 | Robust Prototype Learning for Anomalous Sound Detection | `-` | `-` |
+| 54 | A Multimodal Prototypical Approach for Unsupervised Sound Classification | [![GitHub](https://img.shields.io/github/stars/sakshamsingh1/audio_text_proto)](https://github.com/sakshamsingh1/audio_text_proto) | [![arXiv](https://img.shields.io/badge/arXiv-2306.12300-b31b1b.svg)](https://arxiv.org/abs/2306.12300) |
+| 55 | Robust Audio Anti-Spoofing with Fusion-Reconstruction Learning on Multi-Order Spectrograms |  |  |
+| 56 | Adapting Language-Audio Models as Few-Shot Audio Learners |  |  |
+| 57 | Visually-Aware Audio Captioning With Adaptive Audio-Visual Attention |  |  |
+| 58 | TFECN: Time-Frequency Enhanced ConvNet for Audio Classification |  |  |
+| 59 | Resolution Consistency Training on Time-Frequency Domain for Semi-Supervised Sound Event Detection |  |  |
+| 60 | Fine-tuning Audio Spectrogram Transformer with Task-aware Adapters for Sound Event Detection |  |  |
+| 61 | Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness |  |  |
+| 62 | Few-shot Class-incremental Audio Classification Using Adaptively-refined Prototypes |  |  |
+| 63 | Interpretable Latent Space Using Space-Filling Curves for Phonetic Analysis in Voice Conversion |  |  |
+| 64 | Topological Data Analysis for Speech Processing |  |  |
+| 65 | Recycle-and-Distill: Universal Compression Strategy for Transformer-based Speech SSL Models with Attention Map Reusing and Masking Distillation |  |  |
+| 66 | Personalized Acoustic Scene Classification in Ultra-low Power Embedded Devices Using Privacy-preserving Data Augmentation |  |  |
+| 67 | Background Domain Switch: A Novel Data Augmentation Technique for Robust Sound Event Detection |  |  |
+| 68 | Joint Prediction of Audio Event and Annoyance Rating in an Urban Soundscape by Hierarchical Graph Representation Learning |  |  |
+| 69 | Anomalous Sound Detection Using Self-Attention-Based Frequency Pattern Analysis of Machine Sounds |  |  |
+| 70 | Improving Audio-Text Retrieval via Hierarchical Cross-Modal Interaction and Auxiliary Captions |  |  |
+| 71 | Ontology-aware Learning and Evaluation for Audio Tagging |  |  |
+| 72 | Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Trade-off in Speech Signal Data |  |  |
+| 73 | Learning Emotional Representations from Imbalanced Speech Data for Speech Emotion Recognition and Emotional Text-to-Speech |  |  |
+| 74 | Towards Multi-Lingual Audio Question Answering |  |  |
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
