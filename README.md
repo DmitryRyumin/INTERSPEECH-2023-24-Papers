@@ -127,8 +127,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 58 | TFECN: Time-Frequency Enhanced ConvNet for Audio Classification | `-` | `-` |
 | 59 | Resolution Consistency Training on Time-Frequency Domain for Semi-Supervised Sound Event Detection | `-` | `-` |
 | 60 | Fine-tuning Audio Spectrogram Transformer with Task-aware Adapters for Sound Event Detection | `-` | `-` |
-| 61 | Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness |  |  |
-| 62 | Few-shot Class-incremental Audio Classification Using Adaptively-refined Prototypes |  |  |
+| 61 | Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness | `-` | `-` |
+| 62 | Few-shot Class-incremental Audio Classification Using Adaptively-refined Prototypes | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.18045-b31b1b.svg)](https://arxiv.org/abs/2305.18045) |
 | 63 | Interpretable Latent Space Using Space-Filling Curves for Phonetic Analysis in Voice Conversion |  |  |
 | 64 | Topological Data Analysis for Speech Processing |  |  |
 | 65 | Recycle-and-Distill: Universal Compression Strategy for Transformer-based Speech SSL Models with Attention Map Reusing and Masking Distillation |  |  |
