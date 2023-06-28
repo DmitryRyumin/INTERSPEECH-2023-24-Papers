@@ -152,7 +152,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 77 | On the N-gram Approximation of Pre-trained Language Models | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.06892-b31b1b.svg)](https://arxiv.org/abs/2306.06892) |
 | 78 | Record Deduplication for Entity Distribution Modeling in ASR Transcripts | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.06246-b31b1b.svg)](https://arxiv.org/abs/2306.06246) |
 | 79 | Learning When to Trust Which Teacher for Weakly Supervised ASR | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.12012-b31b1b.svg)](https://arxiv.org/abs/2306.12012) |
-| 80 | Text-only Domain Adaptation using Unified Speech-Text Representation in Transducer |  | [![arXiv](https://img.shields.io/badge/arXiv-2306.04076-b31b1b.svg)](https://arxiv.org/abs/2306.04076) |
+| 80 | Text-only Domain Adaptation using Unified Speech-Text Representation in Transducer | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.04076-b31b1b.svg)](https://arxiv.org/abs/2306.04076) |
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
