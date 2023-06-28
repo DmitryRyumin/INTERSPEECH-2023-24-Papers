@@ -173,8 +173,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 84 | CASA-ASR: Context-Aware Speaker-Attributed ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12459-b31b1b.svg)](https://arxiv.org/abs/2305.12459) |
 | 85 | Unsupervised Learning of Discrete Latent Representations with Data-Adaptive Dimensionality from Continuous Speech Streams | :heavy_minus_sign: | :heavy_minus_sign: |
 | 86 | AD-TUNING: An Adaptive CHILD-TUNING Approach to Efficient Hyperparameter Optimization of Child Networks for Speech Processing Tasks in the SUPERB Benchmark | [![GitHub](https://img.shields.io/github/stars/liyunlongaaa/AD-TUNING)](https://github.com/liyunlongaaa/AD-TUNING) | :heavy_minus_sign: |
-| 87 | Distilling Knowledge from Gaussian Process Teacher to Neural Network Student |  |  |
-| 88 | Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization |  |  |
+| 87 | Distilling Knowledge from Gaussian Process Teacher to Neural Network Student | :heavy_minus_sign: | :heavy_minus_sign: |
+| 88 | Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization | [![GitHub](https://img.shields.io/github/stars/jasonppy/PromptingWhisper)](https://github.com/jasonppy/PromptingWhisper) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11095-b31b1b.svg)](https://arxiv.org/abs/2305.11095) |
 | 89 | Segmental SpeechCLIP: Utilizing Pretrained Image-text Models for Audio-Visual Learning |  |  |
 | 90 | Towards hate speech detection in low-resource languages: Comparing ASR to acoustic word embeddings on Wolof and Swahili |  |  |
 | 91 | Mitigating Catastrophic Forgetting for Few-Shot Spoken Word Classification Through Meta-Learning |  |  |
