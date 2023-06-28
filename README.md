@@ -1,9 +1,9 @@
 # INTERSPEECH-2023-Papers
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/INTERSPEECH-2023-Papers)
-![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/INTERSPEECH-2023-Papers)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/LICENSE)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/README.md)
+![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/INTERSPEECH-2023-Papers)
 <!-- ![Papers Implemented](https://badgen.net/badge/Papers%20implemented/0) -->
 
 ---
