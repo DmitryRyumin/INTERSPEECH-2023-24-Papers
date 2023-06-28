@@ -8,7 +8,7 @@
 
 ---
 
-INTERSPEECH 2023 Papers: A complete collection of influential and exciting research papers from the [*INTERSPEECH 2023*](https://interspeech2023.org/) conference. Explore the latest advances in speech and language processing. Code included. Star the repository to support the advancement of speech technology!
+INTERSPEECH 2023 Papers: A complete collection of influential and exciting research papers from the [*INTERSPEECH 2023*](https://interspeech2023.org/) conference. Explore the latest advances in speech and language processing. Code included. :star: the repository to support the advancement of speech technology!
 
 <p align="center">
     <a href="https://interspeech2023.org/" target="_blank">
@@ -37,7 +37,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **No** | **Title** | **Repo** | **Paper** |
 | ------ | --------- |:--------:|:---------:|
-| 1 | Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.03594-b31b1b.svg)](https://arxiv.org/abs/2306.03594) |
+| 1 | Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03594-b31b1b.svg)](https://arxiv.org/abs/2306.03594) |
 | 2 | Speech Synthesis with Self-Supervisedly Learnt Prosodic Representations | `-` | `-` |
 | 3 | EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.00648-b31b1b.svg)](https://arxiv.org/abs/2306.00648) |
 | 4 | Laughter Synthesis using Pseudo Phonetic Tokens with a Large-scale In-the-wild Laughter Corpus | [![GitHub](https://img.shields.io/github/stars/Aria-K-Alethia/laughter-synthesis)](https://github.com/Aria-K-Alethia/laughter-synthesis) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12442-b31b1b.svg)](https://arxiv.org/abs/2305.12442) |
