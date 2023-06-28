@@ -178,8 +178,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 89 | Segmental SpeechCLIP: Utilizing Pretrained Image-text Models for Audio-Visual Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 90 | Towards Hate Speech Detection in Low-resource Languages: Comparing ASR to Acoustic Word Embeddings on Wolof and Swahili | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00410-b31b1b.svg)](https://arxiv.org/abs/2306.00410) |
 | 91 | Mitigating Catastrophic Forgetting for Few-Shot Spoken Word Classification Through Meta-Learning | [![GitHub](https://img.shields.io/github/stars/ByteFuse/MAMLCon)](https://github.com/ByteFuse/MAMLCon) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13080-b31b1b.svg)](https://arxiv.org/abs/2305.13080) |
-| 92 | Online Punctuation Restoration using ELECTRA Model for streaming ASR Systems |  |  |
-| 93 | Language Agnostic Data-Driven Inverse Text Normalization |  |  |
+| 92 | Online Punctuation Restoration using ELECTRA Model for streaming ASR Systems | :heavy_minus_sign: | :heavy_minus_sign: |
+| 93 | Language Agnostic Data-Driven Inverse Text Normalization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.08506-b31b1b.svg)](https://arxiv.org/abs/2301.08506) |
 | 94 | Syllable Discovery and Cross-Lingual Generalization in a Visually Grounded, Self-Supervised Speech Model |  |  |
 | 95 | Transcribing Speech as Spoken and Written Dual Text Using an Autoregressive Model |  |  |
 
