@@ -138,9 +138,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 69 | Anomalous Sound Detection Using Self-Attention-Based Frequency Pattern Analysis of Machine Sounds | `-` | `-` |
 | 70 | Improving Audio-Text Retrieval via Hierarchical Cross-Modal Interaction and Auxiliary Captions | `-` | `-` |
 | 71 | Ontology-aware Learning and Evaluation for Audio Tagging | [![GitHub](https://img.shields.io/github/stars/haoheliu/ontology-aware-audio-tagging)](https://github.com/haoheliu/ontology-aware-audio-tagging) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12195-b31b1b.svg)](https://arxiv.org/abs/2211.12195) |
-| 72 | Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Trade-off in Speech Signal Data |  |  |
-| 73 | Learning Emotional Representations from Imbalanced Speech Data for Speech Emotion Recognition and Emotional Text-to-Speech |  |  |
-| 74 | Towards Multi-Lingual Audio Question Answering |  |  |
+| 72 | Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Trade-off in Speech Signal Data | `-` | `-` |
+| 73 | Learning Emotional Representations from Imbalanced Speech Data for Speech Emotion Recognition and Emotional Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://anonymous.4open.science/w/INTERSPEECH2023-F8C4/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.05709-b31b1b.svg)](https://arxiv.org/abs/2306.05709) |
+| 74 | Towards Multi-Lingual Audio Question Answering | `-` | `-` |
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
