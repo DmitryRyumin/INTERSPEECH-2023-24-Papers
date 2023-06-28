@@ -124,8 +124,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 55 | Robust Audio Anti-Spoofing with Fusion-Reconstruction Learning on Multi-Order Spectrograms | `-` | `-` |
 | 56 | Adapting Language-Audio Models as Few-Shot Audio Learners | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.17719-b31b1b.svg)](https://arxiv.org/abs/2305.17719) |
 | 57 | Visually-Aware Audio Captioning With Adaptive Audio-Visual Attention | [![GitHub](https://img.shields.io/github/stars/liuxubo717/V-ACT)](https://github.com/liuxubo717/V-ACT) | [![arXiv](https://img.shields.io/badge/arXiv-2210.16428-b31b1b.svg)](https://arxiv.org/abs/2210.16428) |
-| 58 | TFECN: Time-Frequency Enhanced ConvNet for Audio Classification |  |  |
-| 59 | Resolution Consistency Training on Time-Frequency Domain for Semi-Supervised Sound Event Detection |  |  |
+| 58 | TFECN: Time-Frequency Enhanced ConvNet for Audio Classification | `-` | `-` |
+| 59 | Resolution Consistency Training on Time-Frequency Domain for Semi-Supervised Sound Event Detection | `-` | `-` |
 | 60 | Fine-tuning Audio Spectrogram Transformer with Task-aware Adapters for Sound Event Detection |  |  |
 | 61 | Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness |  |  |
 | 62 | Few-shot Class-incremental Audio Classification Using Adaptively-refined Prototypes |  |  |
