@@ -102,7 +102,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ------ | --------- |:--------:|:---------:|
 | 39 | Using Text Injection to Improve Recognition of Personal Identifiers in Speech | `-` | `-` |
 | 40 | Investigating Wav2Vec2 Context Representations and the Effects of Fine-tuning, a Case-study of a Finnish Model | [![GitHub](https://img.shields.io/github/stars/aalto-speech/Wav2vec2Interpretation)](https://github.com/aalto-speech/Wav2vec2Interpretation) | `-` |
-<!-- | | | | | -->
+| 41 | Transformer-based Speech Recognition Models for Oral History Archives in English, German, and Czech | `-` | `-` |
+| 42 | Iteratively Improving Speech Recognition and Voice Conversion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://demosamplesites.github.io/IterativeASR_VC/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15055-b31b1b.svg)](https://arxiv.org/abs/2305.15055) |
+| 43 | LABERT: A Combination of Local Aggregation and Self-Supervised Speech Representation Learning for Detecting Informative Hidden Units in Low-Resource ASR Systems | `-` | [![nottingham-repo](https://img.shields.io/badge/nottingham-repo.22183323-1A296B.svg)](https://nottingham-repository.worktribe.com/output/22183323) |
+| 44 | TranUSR: Phoneme-to-word Transcoder Based Unified Speech Representation Learning for Cross-lingual Speech Recognition | | |
+| 45 | Dual-Mode NAM: Effective Top-K Context Injection for End-to-End ASR | | |
+| 46 | GhostRNN: Reducing State Redundancy in RNN with Cheap Operations | | |
+| 47 | Task-Agnostic Structured Pruning of Speech Representation Models | | |
+| 48 | Factual Consistency Oriented Speech Recognition | | |
+| 49 | Multi-Head State Space Model for Speech Recognition | | |
+| 50 | Cascaded Multi-task Adaptive Learning Based on Neural Architecture Search | | |
+| 51 | Probing Self-supervised Speech Models for Phonetic and Phonemic Information: a Case Study in Aspiration | | |
+| 52 | Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers | | |
 
 ### Analysis of Speech and Audio Signals
 
