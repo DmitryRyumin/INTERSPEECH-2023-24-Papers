@@ -130,7 +130,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 61 | Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness | `-` | `-` |
 | 62 | Few-shot Class-incremental Audio Classification Using Adaptively-refined Prototypes | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.18045-b31b1b.svg)](https://arxiv.org/abs/2305.18045) |
 | 63 | Interpretable Latent Space Using Space-Filling Curves for Phonetic Analysis in Voice Conversion | [![GitLab](https://img.shields.io/gitlab/stars/speech-interaction-technology-aalto-university/sfvq)](https://gitlab.com/speech-interaction-technology-aalto-university/sfvq) | [![Aalto](https://img.shields.io/badge/aalto-fi-005EB8.svg)](https://research.aalto.fi/en/publications/interpretable-latent-space-using-space-filling-curves-for-phoneti) |
-| 64 | Topological Data Analysis for Speech Processing |  |  |
+| 64 | Topological Data Analysis for Speech Processing | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://topohubert.github.io/speech-topology-webpages/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.17223-b31b1b.svg)](https://arxiv.org/abs/2211.17223) |
 | 65 | Recycle-and-Distill: Universal Compression Strategy for Transformer-based Speech SSL Models with Attention Map Reusing and Masking Distillation |  |  |
 | 66 | Personalized Acoustic Scene Classification in Ultra-low Power Embedded Devices Using Privacy-preserving Data Augmentation |  |  |
 | 67 | Background Domain Switch: A Novel Data Augmentation Technique for Robust Sound Event Detection |  |  |
