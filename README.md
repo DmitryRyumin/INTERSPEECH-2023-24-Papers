@@ -7,8 +7,7 @@
 <!-- ![Papers Implemented](https://badgen.net/badge/Papers%20implemented/0) -->
 
 ---
-
-[*INTERSPEECH 2023*](https://interspeech2023.org/) Papers: A complete collection of influential and exciting research papers from the [*INTERSPEECH 2023*](https://interspeech2023.org/) conference. Explore the latest advances in speech and language processing. Code included. Star the repository to support the advancement of speech technology!
+INTERSPEECH 2023 Papers: A complete collection of influential and exciting research papers from the [*INTERSPEECH 2023*](https://interspeech2023.org/) conference. Explore the latest advances in speech and language processing. Code included. Star the repository to support the advancement of speech technology!
 
 <p align="center">
     <a href="https://interspeech2023.org/" target="_blank">
