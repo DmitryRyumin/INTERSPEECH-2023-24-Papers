@@ -108,7 +108,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 44 | TranUSR: Phoneme-to-word Transcoder Based Unified Speech Representation Learning for Cross-lingual Speech Recognition | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.13629-b31b1b.svg)](https://arxiv.org/abs/2305.13629) |
 | 45 | Dual-Mode NAM: Effective Top-K Context Injection for End-to-End ASR | `-` | `-` |
 | 46 | GhostRNN: Reducing State Redundancy in RNN with Cheap Operations | `-` | `-` |
-| 47 | Task-Agnostic Structured Pruning of Speech Representation Models | | |
+| 47 | Task-Agnostic Structured Pruning of Speech Representation Models | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.01385-b31b1b.svg)](https://arxiv.org/abs/2306.01385) |
 | 48 | Factual Consistency Oriented Speech Recognition | | |
 | 49 | Multi-Head State Space Model for Speech Recognition | | |
 | 50 | Cascaded Multi-task Adaptive Learning Based on Neural Architecture Search | | |
