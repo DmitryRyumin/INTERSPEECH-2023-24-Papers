@@ -121,8 +121,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ------ | --------- |:--------:|:---------:|
 | 53 | Robust Prototype Learning for Anomalous Sound Detection | `-` | `-` |
 | 54 | A Multimodal Prototypical Approach for Unsupervised Sound Classification | [![GitHub](https://img.shields.io/github/stars/sakshamsingh1/audio_text_proto)](https://github.com/sakshamsingh1/audio_text_proto) | [![arXiv](https://img.shields.io/badge/arXiv-2306.12300-b31b1b.svg)](https://arxiv.org/abs/2306.12300) |
-| 55 | Robust Audio Anti-Spoofing with Fusion-Reconstruction Learning on Multi-Order Spectrograms |  |  |
-| 56 | Adapting Language-Audio Models as Few-Shot Audio Learners |  |  |
+| 55 | Robust Audio Anti-Spoofing with Fusion-Reconstruction Learning on Multi-Order Spectrograms | `-` | `-` |
+| 56 | Adapting Language-Audio Models as Few-Shot Audio Learners | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.17719-b31b1b.svg)](https://arxiv.org/abs/2305.17719) |
 | 57 | Visually-Aware Audio Captioning With Adaptive Audio-Visual Attention |  |  |
 | 58 | TFECN: Time-Frequency Enhanced ConvNet for Audio Classification |  |  |
 | 59 | Resolution Consistency Training on Time-Frequency Domain for Semi-Supervised Sound Event Detection |  |  |
