@@ -144,7 +144,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
-> Will soon be added
+| **No** | **Title** | **Repo** | **Paper** |
+| ------ | --------- |:--------:|:---------:|
+| 75 | Diacritic Recognition Performance in Arabic ASR | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2302.14022) |
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
