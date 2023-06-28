@@ -113,7 +113,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 49 | Multi-Head State Space Model for Speech Recognition | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.12498-b31b1b.svg)](https://arxiv.org/abs/2305.12498) |
 | 50 | Cascaded Multi-task Adaptive Learning Based on Neural Architecture Search | `-` | `-` |
 | 51 | Probing Self-supervised Speech Models for Phonetic and Phonemic Information: a Case Study in Aspiration | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.06232-b31b1b.svg)](https://arxiv.org/abs/2306.06232) |
-| 52 | Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers | | |
+| 52 | Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers | `-` | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/selective-biasing-with-trie-based-contextual-adapters-for-personalised-speech-recognition-using-neural-transducers) |
 
 ### Analysis of Speech and Audio Signals
 
