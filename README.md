@@ -132,9 +132,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 63 | Interpretable Latent Space Using Space-Filling Curves for Phonetic Analysis in Voice Conversion | [![GitLab](https://img.shields.io/gitlab/stars/speech-interaction-technology-aalto-university/sfvq)](https://gitlab.com/speech-interaction-technology-aalto-university/sfvq) | [![Aalto](https://img.shields.io/badge/aalto-fi-005EB8.svg)](https://research.aalto.fi/en/publications/interpretable-latent-space-using-space-filling-curves-for-phoneti) |
 | 64 | Topological Data Analysis for Speech Processing | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://topohubert.github.io/speech-topology-webpages/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.17223-b31b1b.svg)](https://arxiv.org/abs/2211.17223) |
 | 65 | Recycle-and-Distill: Universal Compression Strategy for Transformer-based Speech SSL Models with Attention Map Reusing and Masking Distillation | [![GitHub](https://img.shields.io/github/stars/sungnyun/ARMHuBERT)](https://github.com/sungnyun/ARMHuBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11685-b31b1b.svg)](https://arxiv.org/abs/2305.11685) |
-| 66 | Personalized Acoustic Scene Classification in Ultra-low Power Embedded Devices Using Privacy-preserving Data Augmentation |  |  |
-| 67 | Background Domain Switch: A Novel Data Augmentation Technique for Robust Sound Event Detection |  |  |
-| 68 | Joint Prediction of Audio Event and Annoyance Rating in an Urban Soundscape by Hierarchical Graph Representation Learning |  |  |
+| 66 | Personalized Acoustic Scene Classification in Ultra-low Power Embedded Devices using Privacy-preserving Data Augmentation | `-` | `-` |
+| 67 | Background Domain Switch: A Novel Data Augmentation Technique for Robust Sound Event Detection | `-` | `-` |
+| 68 | Joint Prediction of Audio Event and Annoyance Rating in an Urban Soundscape by Hierarchical Graph Representation Learning | [![GitHub](https://img.shields.io/github/stars/Yuanbo2020/HGRL)](https://github.com/Yuanbo2020/HGRL) | [![Pdf](https://img.shields.io/badge/pdf-version-00D510.svg)](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/Hou%20etal_INTERSPEECH_2023.pdf) |
 | 69 | Anomalous Sound Detection Using Self-Attention-Based Frequency Pattern Analysis of Machine Sounds |  |  |
 | 70 | Improving Audio-Text Retrieval via Hierarchical Cross-Modal Interaction and Auxiliary Captions |  |  |
 | 71 | Ontology-aware Learning and Evaluation for Audio Tagging |  |  |
