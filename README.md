@@ -180,7 +180,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 91 | Mitigating Catastrophic Forgetting for Few-Shot Spoken Word Classification Through Meta-Learning | [![GitHub](https://img.shields.io/github/stars/ByteFuse/MAMLCon)](https://github.com/ByteFuse/MAMLCon) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13080-b31b1b.svg)](https://arxiv.org/abs/2305.13080) |
 | 92 | Online Punctuation Restoration using ELECTRA Model for streaming ASR Systems | :heavy_minus_sign: | :heavy_minus_sign: |
 | 93 | Language Agnostic Data-Driven Inverse Text Normalization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.08506-b31b1b.svg)](https://arxiv.org/abs/2301.08506) |
-| 94 | Syllable Discovery and Cross-Lingual Generalization in a Visually Grounded, Self-Supervised Speech Model |  |  |
+| 94 | Syllable Discovery and Cross-Lingual Generalization in a Visually Grounded, Self-Supervised Speech Model | [![GitHub](https://img.shields.io/github/stars/jasonppy/syllable-discovery)](https://github.com/jasonppy/syllable-discovery) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11435-b31b1b.svg)](https://arxiv.org/abs/2305.11435) |
 | 95 | Transcribing Speech as Spoken and Written Dual Text Using an Autoregressive Model |  |  |
 
 ### Lexical and Language Modeling for ASR
