@@ -111,8 +111,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 47 | Task-Agnostic Structured Pruning of Speech Representation Models | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.01385-b31b1b.svg)](https://arxiv.org/abs/2306.01385) |
 | 48 | Factual Consistency Oriented Speech Recognition | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2302.12369-b31b1b.svg)](https://arxiv.org/abs/2302.12369) |
 | 49 | Multi-Head State Space Model for Speech Recognition | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2305.12498-b31b1b.svg)](https://arxiv.org/abs/2305.12498) |
-| 50 | Cascaded Multi-task Adaptive Learning Based on Neural Architecture Search | | |
-| 51 | Probing Self-supervised Speech Models for Phonetic and Phonemic Information: a Case Study in Aspiration | | |
+| 50 | Cascaded Multi-task Adaptive Learning Based on Neural Architecture Search | `-` | `-` |
+| 51 | Probing Self-supervised Speech Models for Phonetic and Phonemic Information: a Case Study in Aspiration | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.06232-b31b1b.svg)](https://arxiv.org/abs/2306.06232) |
 | 52 | Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers | | |
 
 ### Analysis of Speech and Audio Signals
