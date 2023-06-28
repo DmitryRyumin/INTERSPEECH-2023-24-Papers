@@ -7,6 +7,7 @@
 <!-- ![Papers Implemented](https://badgen.net/badge/Papers%20implemented/0) -->
 
 ---
+
 INTERSPEECH 2023 Papers: A complete collection of influential and exciting research papers from the [*INTERSPEECH 2023*](https://interspeech2023.org/) conference. Explore the latest advances in speech and language processing. Code included. Star the repository to support the advancement of speech technology!
 
 <p align="center">
@@ -147,6 +148,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **No** | **Title** | **Repo** | **Paper** |
 | ------ | --------- |:--------:|:---------:|
 | 75 | Diacritic Recognition Performance in Arabic ASR | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2302.14022) |
+| 76 | Personalization for BERT-based Discriminative Speech Recognition Rescoring | `-` | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/personalization-for-bert-based-discriminative-speech-recognition-rescoring) |
+| 77 | On the N-gram Approximation of Pre-trained Language Models | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.06892-b31b1b.svg)](https://arxiv.org/abs/2306.06892) |
+| 78 | Record Deduplication for Entity Distribution Modeling in ASR Transcripts | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.06246-b31b1b.svg)](https://arxiv.org/abs/2306.06246) |
+| 79 | Learning When to Trust Which Teacher for Weakly Supervised ASR | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2306.12012-b31b1b.svg)](https://arxiv.org/abs/2306.12012) |
+| 80 | Text-only Domain Adaptation using Unified Speech-Text Representation in Transducer |  | [![arXiv](https://img.shields.io/badge/arXiv-2306.04076-b31b1b.svg)](https://arxiv.org/abs/2306.04076) |
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
@@ -423,3 +429,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Speech Synthesis: Multilinguality; Evaluation
 
 > Will soon be added
+
+---
+
+## Contributors
+
+<a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DmitryRyumin/INTERSPEECH-2023-Papers" />
+</a>
