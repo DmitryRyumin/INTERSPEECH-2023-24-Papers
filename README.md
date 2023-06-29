@@ -210,11 +210,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 1436 | DeePMOS: Deep Posterior Mean-Opinion-Score of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1644 | The Role of Formant and Excitation Source Features in Perceived Naturalness of Low Resource Tribal Language TTS: An Empirical Study |  :heavy_minus_sign: |  :heavy_minus_sign: |
-| 811 | A No-reference Speech Quality Assessment Method based on Neural Network with Densely Connected Convolutional Architecture |  |  |
-| 2507 | Probing Speech Quality Information in ASR Systems |  |  |
-| 589 | Preference-based Training Framework for Automatic Speech Quality Assessment using Deep Neural Network |  |  |
-| 389 | Crowdsourced Data Validation for ASR Training |  |  |
+| 1644 | The Role of Formant and Excitation Source Features in Perceived Naturalness of Low Resource Tribal Language TTS: An Empirical Study | :heavy_minus_sign: | :heavy_minus_sign: |
+| 811 | A No-reference Speech Quality Assessment Method based on Neural Network with Densely Connected Convolutional Architecture | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2507 | Probing Speech Quality Information in ASR Systems | :heavy_minus_sign: | :heavy_minus_sign: |
+| 589 | Preference-based Training Framework for Automatic Speech Quality Assessment using Deep Neural Network | :heavy_minus_sign: | :heavy_minus_sign: |
+| 389 | Crowdsourced Data Validation for ASR Training | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Feature Modeling for ASR
 
