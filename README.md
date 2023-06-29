@@ -272,7 +272,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 644 | Contrastive Learning Based ASR Robust Knowledge Selection For Spoken Dialogue System | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1859 | Unsupervised Dialogue Topic Segmentation in Hyperdimensional Space | :heavy_minus_sign: | :heavy_minus_sign: |
 | 198 | An Investigation of the Combination of Rehearsal and Knowledge Distillation in Continual Learning for Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/umbertocappellazzo/CL_SLU)](https://github.com/umbertocappellazzo/CL_SLU) | [![arXiv](https://img.shields.io/badge/arXiv-2211.08161-b31b1b.svg)](https://arxiv.org/abs/2211.08161) |
-| 1740 | Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning |  |  |
+| 1740 | Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://chenmengdx.github.io/papers/IS23-NID.pdf) |
 | 211 | Personalized Predictive ASR for Latency Reduction in Voice Assistants |  |  |
 | 1419 | Compositional Generalization in Spoken Language Understanding |  |  |
 | 2314 | Sampling bias in NLU models: Impact and Mitigation |  |  |
