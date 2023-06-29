@@ -224,12 +224,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1556 | Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training | :heavy_minus_sign: | :heavy_minus_sign: |
 | 509 | InterFormer: Interactive Local and Global Features Fusion for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16342-b31b1b.svg)](https://arxiv.org/abs/2305.16342) |
 | 579 | Transductive Feature Space Regularization for Few-shot Bioacoustic Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 615 | Incorporating L2 Phonemes Using Articulatory Features for Robust Speech Recognition |  | [![arXiv](https://img.shields.io/badge/arXiv-2306.02534-b31b1b.svg)](https://arxiv.org/abs/2306.02534) |
-| 1510 | On the (In)Efficiency of Acoustic Feature Extractors for Self-Supervised Speech Representation Learning |  | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04116371) |
+| 615 | Incorporating L2 Phonemes Using Articulatory Features for Robust Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02534-b31b1b.svg)](https://arxiv.org/abs/2306.02534) |
+| 1510 | On the (In)Efficiency of Acoustic Feature Extractors for Self-Supervised Speech Representation Learning | :heavy_minus_sign: | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04116371) |
 
 ### Interfacing Speech Technology and Phonetics
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1846 | Phonemic Competition in End-to-end ASR models | :heavy_minus_sign: | :heavy_minus_sign: |
+| 443 | Automatic Speaker Recognition with Variation Across Vocal Conditions: a Controlled Experiment with Implications for Forensics | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1398 | Exploring Graph Theory Methods for the Analysis of Pronunciation Variation in Spontaneous Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 680 | Automatic Speaker Recognition Performance with Matched and Mismatched Female Bilingual Speech Data | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis: Multilinguality
 
