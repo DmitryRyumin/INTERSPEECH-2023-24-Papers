@@ -285,7 +285,27 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Coding and Enhancement
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 936 | Biophysically-inspired Single-channel Speech Enhancement in the Time Domain | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1902 | On-Device Speaker Anonymization of Acoustic Embeddings for ASR based on Flexible Location Gradient Reversal Layer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1901 | How to Construct Perfect and Worse-than-Coin-Flip Spoofing Countermeasures: A Word of Warning on Shortcut Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00044-b31b1b.svg)](https://arxiv.org/abs/2306.00044) |
+| 1287 | CleanUNet 2: A Hybrid Speech Denoising Model on Waveform and Spectrogram | :heavy_minus_sign: | :heavy_minus_sign: |
+| 521 | A Two-stage Progressive Neural Network for Acoustic Echo Cancellation |  |  |
+| 537 | An Intra-BRNN and GB-RVQ Based End-to-end Neural Audio Codec |  |  |
+| 1066 | Real-Time Personalised Speech Enhancement Transformers with Dynamic Cross-attended Speaker Representations |  |  |
+| 280 | CFTNet: Complex-valued Frequency Transformation Network for Speech Enhancement |  |  |
+| 623 | Feature Normalization for Fine-tuning Self-Supervised Models in Speech Enhancement |  |  |
+| 1490 | Multi-mode Neural Speech Coding Based on Deep Generative Networks |  |  |
+| 751 | Streaming Dual-Path Transformer for Speech Enhancement |  |  |
+| 1848 | Sequence-to-Sequence Multi-Modal Speech In-Painting |  |  |
+| 984 | Hybrid AHS: A Hybrid of Kalman Filter and Deep Learning for Acoustic Howling Suppression |  |  |
+| 551 | Differentially Private Adapters for Parameter Efficient Acoustic Modeling |  |  |
+| 780 | Incorporating Ultrasound Tongue Images for Audio-Visual Speech Enhancement through Knowledge Distillation |  |  |
+| 2568 | Consonant-emphasis Method Incorporating Robust Consonant-section Detection to Improve Intelligibility of Bone-conducted Speech |  |  |
+| 1578 | Downstream Task-Agnostic Speech Enhancement with Self-Supervised Representation Loss |  |  |
+| 2305 | Perceptual Improvement of Deep Neural Network (DNN) Speech Coder Using Parametric and Nonparametric Density Models |  |  |
+| 2437 | DeFT-AN RT: Real-time Multichannel Speech Enhancement using Dense Frequency-Time Attentive Network and Non-overlapping Synthesis Window |  |  |
 
 ### Paralinguistics
 
