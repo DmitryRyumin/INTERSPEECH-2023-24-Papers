@@ -190,7 +190,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 643 | NoRefER: a Referenceless Quality Metric for Automatic Speech Recognition via Semi-Supervised Language Model Fine-Tuning with Contrastive Learning | [![GitHub](https://img.shields.io/github/stars/aixplain/NoRefER)](https://github.com/aixplain/NoRefER) | [![arXiv](https://img.shields.io/badge/arXiv-2306.12577-b31b1b.svg)](https://arxiv.org/abs/2306.12577) |
 | 2128 | Scaling Laws for Discriminative Speech Recognition Rescoring Models | `-` | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/scaling-laws-for-discriminative-speech-recognition-rescoring-models) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.15815-b31b1b.svg)](https://arxiv.org/abs/2306.15815) |
 | 2429 | Exploring Energy-based Language Models with Different Architectures and Training Methods for Speech Recognition | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/thu-spmi/CAT/blob/master/docs/energy-based_LM_training.md) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12676-b31b1b.svg)](https://arxiv.org/abs/2305.12676) |
-| 1362 | Memory Augmented Lookup Dictionary based Language Modeling for Automatic Speech Recognition |  |  |
+| 1362 | Memory Augmented Lookup Dictionary based Language Modeling for Automatic Speech Recognition | `-` | [![arXiv](https://img.shields.io/badge/arXiv-2301.00066-b31b1b.svg)](https://arxiv.org/abs/2301.00066) |
 | 1251 | Memory Network-Based End-To-End Neural ES-KMeans for Improved Word Segmentation |  |  |
 | 1320 | Retraining-free Customized ASR for Enharmonic Words Based on a Named-Entity-Aware Model and Phoneme Similarity Estimation |  |  |
 
