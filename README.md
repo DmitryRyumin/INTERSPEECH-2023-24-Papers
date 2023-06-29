@@ -296,11 +296,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1066 | Real-Time Personalised Speech Enhancement Transformers with Dynamic Cross-attended Speaker Representations | :heavy_minus_sign: | :heavy_minus_sign: |
 | 280 | CFTNet: Complex-valued Frequency Transformation Network for Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
 | 623 | Feature Normalization for Fine-tuning Self-Supervised Models in Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08406-b31b1b.svg)](https://arxiv.org/abs/2306.08406) |
-| 1490 | Multi-mode Neural Speech Coding Based on Deep Generative Networks |  |  |
-| 751 | Streaming Dual-Path Transformer for Speech Enhancement |  |  |
-| 1848 | Sequence-to-Sequence Multi-Modal Speech In-Painting |  |  |
-| 984 | Hybrid AHS: A Hybrid of Kalman Filter and Deep Learning for Acoustic Howling Suppression |  |  |
-| 551 | Differentially Private Adapters for Parameter Efficient Acoustic Modeling |  |  |
+| 1490 | Multi-mode Neural Speech Coding Based on Deep Generative Networks | :heavy_minus_sign: | :heavy_minus_sign: |
+| 751 | Streaming Dual-Path Transformer for Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1848 | Sequence-to-Sequence Multi-Modal Speech In-Painting | :heavy_minus_sign: | :heavy_minus_sign: |
+| 984 | Hybrid AHS: A Hybrid of Kalman Filter and Deep Learning for Acoustic Howling Suppression | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.02583-b31b1b.svg)](https://arxiv.org/abs/2305.02583) |
+| 551 | Differentially Private Adapters for Parameter Efficient Acoustic Modeling | [![GitHub](https://img.shields.io/github/stars/Chun-wei-Ho/Private-Speech-Adapter)](https://github.com/Chun-wei-Ho/Private-Speech-Adapter) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11360-b31b1b.svg)](https://arxiv.org/abs/2305.11360) |
 | 780 | Incorporating Ultrasound Tongue Images for Audio-Visual Speech Enhancement through Knowledge Distillation |  |  |
 | 2568 | Consonant-emphasis Method Incorporating Robust Consonant-section Detection to Improve Intelligibility of Bone-conducted Speech |  |  |
 | 1578 | Downstream Task-Agnostic Speech Enhancement with Self-Supervised Representation Loss |  |  |
