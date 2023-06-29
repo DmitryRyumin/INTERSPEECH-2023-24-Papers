@@ -260,7 +260,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Spoken Dialog Systems and Conversational Analysis
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1236 | Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation |  |  |
+| 2300 | Tri-level Joint Natural Language Understanding for Multi-turn Conversational Datasets |  |  |
+| 2234 | Semantic Enrichment Towards Efficient Speech Representations |  |  |
+| 1299 | Tensor Decomposition for Minimization of E2E SLU Model Toward On-device Processing |  |  |
+| 46 | FC-MTLF: A Fine- and Coarse-grained Multi-Task Learning Framework for Cross-Lingual Spoken Language Understanding |  |  |
+| 699 | DiffSLU: Knowledge Distillation Based Diffusion Model for Cross-Lingual Spoken Language Understanding |  |  |
+| 1962 | Integrating Pretrained ASR and LM to perform Sequence Generation for Spoken Language Understanding |  |  |
+| 644 | Contrastive Learning Based ASR Robust Knowledge Selection For Spoken Dialogue System |  |  |
+| 1859 | Unsupervised Dialogue Topic Segmentation in Hyperdimensional Space |  |  |
+| 198 | An Investigation of the Combination of Rehearsal and Knowledge Distillation in Continual Learning for Spoken Language Understanding |  |  |
+| 1740 | Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning |  |  |
+| 211 | Personalized Predictive ASR for Latency Reduction in Voice Assistants |  |  |
+| 1419 | Compositional Generalization in Spoken Language Understanding |  |  |
+| 2314 | Sampling bias in NLU models: Impact and Mitigation |  |  |
+| 1038 | 5IDER: Unified Query Rewriting for Steering, Intent Carryover, Disfluencies, Entity Carryover and Repair |  |  |
+| 93 | Cˆ2A-SLU: Cross and Contrastive Attention for Improving ASR Robustness in Spoken Language Understanding |  |  |
+| 1505 | WhiSLU: End-to-End Spoken Language Understanding with Whisper |  |  |
 
 ### Speech Coding and Enhancement
 
