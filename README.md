@@ -262,8 +262,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1236 | Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation |  |  |
-| 2300 | Tri-level Joint Natural Language Understanding for Multi-turn Conversational Datasets |  |  |
+| 1236 | Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2300 | Tri-level Joint Natural Language Understanding for Multi-turn Conversational Datasets | [![GitHub](https://img.shields.io/github/stars/adlnlp/Tri-NLU)](https://github.com/adlnlp/Tri-NLU) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17729-b31b1b.svg)](https://arxiv.org/abs/2305.17729) |
 | 2234 | Semantic Enrichment Towards Efficient Speech Representations |  |  |
 | 1299 | Tensor Decomposition for Minimization of E2E SLU Model Toward On-device Processing |  |  |
 | 46 | FC-MTLF: A Fine- and Coarse-grained Multi-Task Learning Framework for Cross-Lingual Spoken Language Understanding |  |  |
