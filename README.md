@@ -273,12 +273,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1859 | Unsupervised Dialogue Topic Segmentation in Hyperdimensional Space | :heavy_minus_sign: | :heavy_minus_sign: |
 | 198 | An Investigation of the Combination of Rehearsal and Knowledge Distillation in Continual Learning for Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/umbertocappellazzo/CL_SLU)](https://github.com/umbertocappellazzo/CL_SLU) | [![arXiv](https://img.shields.io/badge/arXiv-2211.08161-b31b1b.svg)](https://arxiv.org/abs/2211.08161) |
 | 1740 | Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://chenmengdx.github.io/papers/IS23-NID.pdf) |
-| 211 | Personalized Predictive ASR for Latency Reduction in Voice Assistants |  |  |
-| 1419 | Compositional Generalization in Spoken Language Understanding |  |  |
-| 2314 | Sampling bias in NLU models: Impact and Mitigation |  |  |
-| 1038 | 5IDER: Unified Query Rewriting for Steering, Intent Carryover, Disfluencies, Entity Carryover and Repair |  |  |
-| 93 | Cˆ2A-SLU: Cross and Contrastive Attention for Improving ASR Robustness in Spoken Language Understanding |  |  |
-| 1505 | WhiSLU: End-to-End Spoken Language Understanding with Whisper |  |  |
+| 211 | Personalized Predictive ASR for Latency Reduction in Voice Assistants | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13794-b31b1b.svg)](https://arxiv.org/abs/2305.13794) |
+| 1419 | Compositional Generalization in Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2314 | Sampling bias in NLU models: Impact and Mitigation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/sampling-bias-in-nlu-models-impact-and-mitigation) |
+| 1038 | 5IDER: Unified Query Rewriting for Steering, Intent Carryover, Disfluencies, Entity Carryover and Repair | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01855-b31b1b.svg)](https://arxiv.org/abs/2306.01855) |
+| 93 | Cˆ2A-SLU: Cross and Contrastive Attention for Improving ASR Robustness in Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1505 | WhiSLU: End-to-End Spoken Language Understanding with Whisper | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Coding and Enhancement
 
