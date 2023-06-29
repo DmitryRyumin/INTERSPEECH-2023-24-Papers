@@ -218,7 +218,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Feature Modeling for ASR
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2296 | Re-investigating the Efficient Transfer Learning of Speech Foundation Model using Feature Fusion Methods | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1556 | Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training | :heavy_minus_sign: | :heavy_minus_sign: |
+| 509 | InterFormer: Interactive Local and Global Features Fusion for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16342-b31b1b.svg)](https://arxiv.org/abs/2305.16342) |
+| 579 | Transductive Feature Space Regularization for Few-shot Bioacoustic Event Detection |  |  |
+| 615 | Incorporating L2 Phonemes Using Articulatory Features for Robust Speech Recognition |  |  |
+| 1510 | On the (In)Efficiency of Acoustic Feature Extrac- tors for Self-Supervised Speech Representation Learning |  |  |
 
 ### Interfacing Speech Technology and Phonetics
 
