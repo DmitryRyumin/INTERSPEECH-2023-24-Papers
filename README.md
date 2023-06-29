@@ -292,10 +292,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1901 | How to Construct Perfect and Worse-than-Coin-Flip Spoofing Countermeasures: A Word of Warning on Shortcut Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00044-b31b1b.svg)](https://arxiv.org/abs/2306.00044) |
 | 1287 | CleanUNet 2: A Hybrid Speech Denoising Model on Waveform and Spectrogram | :heavy_minus_sign: | :heavy_minus_sign: |
 | 521 | A Two-stage Progressive Neural Network for Acoustic Echo Cancellation | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371040399_A_Two-stage_Progressive_Neural_Network_for_Acoustic_Echo_Cancellation) |
-| 537 | An Intra-BRNN and GB-RVQ Based End-to-end Neural Audio Codec |  |  |
-| 1066 | Real-Time Personalised Speech Enhancement Transformers with Dynamic Cross-attended Speaker Representations |  |  |
-| 280 | CFTNet: Complex-valued Frequency Transformation Network for Speech Enhancement |  |  |
-| 623 | Feature Normalization for Fine-tuning Self-Supervised Models in Speech Enhancement |  |  |
+| 537 | An Intra-BRNN and GB-RVQ Based End-to-end Neural Audio Codec | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1066 | Real-Time Personalised Speech Enhancement Transformers with Dynamic Cross-attended Speaker Representations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 280 | CFTNet: Complex-valued Frequency Transformation Network for Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 623 | Feature Normalization for Fine-tuning Self-Supervised Models in Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08406-b31b1b.svg)](https://arxiv.org/abs/2306.08406) |
 | 1490 | Multi-mode Neural Speech Coding Based on Deep Generative Networks |  |  |
 | 751 | Streaming Dual-Path Transformer for Speech Enhancement |  |  |
 | 1848 | Sequence-to-Sequence Multi-Modal Speech In-Painting |  |  |
