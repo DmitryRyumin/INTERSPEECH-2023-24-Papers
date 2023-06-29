@@ -244,8 +244,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 934 | Cross-Lingual Transfer Learning for Phrase Break Prediction with Multilingual Language Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02579-b31b1b.svg)](https://arxiv.org/abs/2306.02579) |
 | 363 | DSE-TTS: Dual Speaker Embedding for Cross-Lingual Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://goarsenal.github.io/DSE-TTS/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.14145-b31b1b.svg)](https://arxiv.org/abs/2306.14145) |
 | 1467 | Generating Multilingual Gender-Ambiguous Text-to-Speech Voices | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://innoetics.github.io/publications/gender-ambiguous/index.html) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00375-b31b1b.svg)](https://arxiv.org/abs/2211.00375) |
-| 2330 | RADMMM: Multilingual Multiaccented Multispeaker Text to Speech |  |  |
-| 861 | Multilingual Context-based Pronunciation Learning for Text-to-Speech |  |  |
+| 2330 | RADMMM: Multilingual Multiaccented Multispeaker Text to Speech | :heavy_minus_sign: | [![HAL Science](https://img.shields.io/badge/NVidia-AI-78B900.svg)](https://research.nvidia.com/labs/adlr/projects/radmmm/) |
+| 861 | Multilingual Context-based Pronunciation Learning for Text-to-Speech | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/multilingual-context-based-pronunciation-learning-for-text-to-speech) |
 
 ### Speech Emotion Recognition
 
