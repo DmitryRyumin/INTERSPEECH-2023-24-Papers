@@ -253,7 +253,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ----- | --------- |:--------:|:---------:|
 | 2170 | Personalized Adaptation with Pre-trained Speech Encoders for Continuous Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1113 | The Importance of Calibration: Rethinking Confidence and Performance of Speech Multi-label Emotion Classifiers | :heavy_minus_sign: | [![BIIC](https://img.shields.io/badge/biic-research-F7C552.svg)](https://biic.ee.nthu.edu.tw/research.php?id=166) |
-| 1080 | A Preliminary Study on Augmenting Speech Emotion Recognition using a Diffusion Model |  |  |
+| 1080 | A Preliminary Study on Augmenting Speech Emotion Recognition using a Diffusion Model | [![Emulation AI](https://img.shields.io/badge/Emulation-AI-161B1F.svg)](https://emulationai.com/research/diffusion-ser/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11413-b31b1b.svg)](https://arxiv.org/abs/2305.11413) |
 | 454 | Privacy Risks in Speech Emotion Recognition: A Systematic Study on Gender Inference Attack |  |  |
 | 2111 | Episodic Memory For Domain-Adaptable, Robust Speech Emotion Recognition |  |  |
 | 80 | Stable Speech Emotion Recognition with Head-k-Pooling Loss |  |  |
