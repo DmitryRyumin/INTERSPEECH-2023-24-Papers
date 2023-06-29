@@ -302,10 +302,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 984 | Hybrid AHS: A Hybrid of Kalman Filter and Deep Learning for Acoustic Howling Suppression | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.02583-b31b1b.svg)](https://arxiv.org/abs/2305.02583) |
 | 551 | Differentially Private Adapters for Parameter Efficient Acoustic Modeling | [![GitHub](https://img.shields.io/github/stars/Chun-wei-Ho/Private-Speech-Adapter)](https://github.com/Chun-wei-Ho/Private-Speech-Adapter) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11360-b31b1b.svg)](https://arxiv.org/abs/2305.11360) |
 | 780 | Incorporating Ultrasound Tongue Images for Audio-Visual Speech Enhancement through Knowledge Distillation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zhengrachel.github.io/UTIforAVSE-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/ZhengRachel/UTIforAVSE-demo)](https://github.com/ZhengRachel/UTIforAVSE-demo) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14933-b31b1b.svg)](https://arxiv.org/abs/2305.14933) |
-| 2568 | Consonant-emphasis Method Incorporating Robust Consonant-section Detection to Improve Intelligibility of Bone-conducted Speech |  |  |
-| 1578 | Downstream Task-Agnostic Speech Enhancement with Self-Supervised Representation Loss |  |  |
-| 2305 | Perceptual Improvement of Deep Neural Network (DNN) Speech Coder Using Parametric and Nonparametric Density Models |  |  |
-| 2437 | DeFT-AN RT: Real-time Multichannel Speech Enhancement using Dense Frequency-Time Attentive Network and Non-overlapping Synthesis Window |  |  |
+| 2568 | Consonant-emphasis Method Incorporating Robust Consonant-section Detection to Improve Intelligibility of Bone-conducted Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1578 | Downstream Task-Agnostic Speech Enhancement with Self-Supervised Representation Loss | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.14723-b31b1b.svg)](https://arxiv.org/abs/2305.14723) |
+| 2305 | Perceptual Improvement of Deep Neural Network (DNN) Speech Coder Using Parametric and Nonparametric Density Models | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2437 | DeFT-AN RT: Real-time Multichannel Speech Enhancement using Dense Frequency-Time Attentive Network and Non-overlapping Synthesis Window | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Paralinguistics
 
