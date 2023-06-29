@@ -196,7 +196,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Language Identification and Diarization
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 304 | Lightweight and Efficient Spoken Language Identification of Long-form Audio | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1109 | End-to-End Spoken Language Diarization with Wav2vec Embeddings | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1986 | Efficient Spoken Language Recognition via Multilabel Classification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01945-b31b1b.svg)](https://arxiv.org/abs/2306.01945) |
+| 1529 | Description and Analysis of ABC Submission to NIST LRE 2022 | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1790 | Exploring the Impact of Pretrained Models and Web-Scraped Data for the 2022 NIST Language Recognition Evaluation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1094 | Advances in Language Recognition in Low Resource African Languages: The JHU-MIT Submission for NIST LRE22 | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Quality Assessment
 
