@@ -370,9 +370,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2013 | Can Better Perception Become a Disadvantage? Synthetic Speech Perception in Congenitally Blind Users | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1076 | Investigating Range-Equalizing Bias in Mean Opinion Score Ratings of Synthesized Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10608-b31b1b.svg)](https://arxiv.org/abs/2305.10608) |
 
-### End-to-end Spoken Dialog Systems
+### End-to-End Spoken Dialog Systems
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1799 | Can ChatGPT Detect Intent? Evaluating Large Language Models for Spoken Language Understanding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mutiann.github.io/papers/ChatGPT_SLU/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13512-b31b1b.svg)](https://arxiv.org/abs/2305.13512) |
+| 1760 | Improving End-to-End SLU performance with Prosodic Attention and Distillation |  |  |
+| 2575 | Modality Confidence Aware Training for Robust End-to-End Spoken Language Understanding |  |  |
+|758 | Cross-Modal Semantic Alignment before Fusion for Two-Pass End-to-End Spoken Language |  |  |
+| 2018 | ConvKT: Conversation-Level Knowledge Transfer for Context Aware End-to-End Spoken Language Understanding |  |  |
+| 41 | GhostT5: Generate More Features with Cheap Operations to Improve Textless Spoken Question Answering |  |  |
 
 ### Biosignal-enabled Spoken Communication
 
