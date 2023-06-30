@@ -211,8 +211,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 380 | Disentangling the Contribution of Non-native Speech in Automated Pronunciation Assessment | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1899 | Adapting an Unadaptable ASR System | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01208-b31b1b.svg)](https://arxiv.org/abs/2306.01208) |
 | 533 | Addressing Cold Start Problem for End-to-end Automatic Speech Scoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14310-b31b1b.svg)](https://arxiv.org/abs/2306.14310) |
-| 816 | Improving Grapheme-to-phoneme Conversion by Learning Pronunciations from Speech Recordings |  |  |
-| 2577 | Orthography-based Pronunciation Scoring for Better CAPT Feedback |  |  |
+| 816 | Improving Grapheme-to-phoneme Conversion by Learning Pronunciations from Speech Recordings | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/improving-grapheme-to-phoneme-conversion-by-learning-pronunciations-from-speech-recordings) |
+| 2577 | Orthography-based Pronunciation Scoring for Better CAPT Feedback | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://catir.github.io/art/capt_phone_ctc_2023.pdf) |
 | 587 | Phonetic and Prosody-aware Self-supervised Learning Approach for Non-native Fluency Scoring |  |  |
 | 364 | Mispronunciation Detection and Diagnosis Model for Tonal Language, Applied to Vietnamese |  |  |
 
