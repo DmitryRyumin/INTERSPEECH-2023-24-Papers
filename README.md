@@ -127,6 +127,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 341 | Cascaded Multi-task Adaptive Learning Based on Neural Architecture Search | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2359 | Probing Self-supervised Speech Models for Phonetic and Phonemic Information: a Case Study in Aspiration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06232-b31b1b.svg)](https://arxiv.org/abs/2306.06232) |
 | 739 | Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/selective-biasing-with-trie-based-contextual-adapters-for-personalised-speech-recognition-using-neural-transducers) |
+| 213 | A More Accurate Internal Language Model Score Estimation for the Hybrid Autoregressive Transducer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2280 | Knowledge Distillation for Neural Transducer-based Target-Speaker ASR: Exploiting Parallel Mixture/Single-Talker Speech Data | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15971-b31b1b.svg)](https://arxiv.org/abs/2305.15971) |
+|2585 | OOD-Speech: A Large Bengali Speech Recognition Dataset for Out-of-Distribution Benchmarking | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.09688-b31b1b.svg)](https://arxiv.org/abs/2305.09688) |
+| 1316 | ML-SUPERB: Multilingual Speech Universal PERformance Benchmark | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/espnet/espnet/tree/master/egs2/ml_superb/asr1) | [![arXiv](https://img.shields.io/badge/arXiv-2305.10615-b31b1b.svg)](https://arxiv.org/abs/2305.10615) |
+| 2389 | General-purpose Adversarial Training for Enhanced Automatic Speech Recognition Model Generalization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 275 | Joint Instance Reconstruction and Feature Sub-space Alignment for Cross-Domain Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 106 | Attention Gate between Capsules in Fully Capsule-network Speech Recognition |  |  |
+| 1272 | Random Utterance Concatenation Based Data Augmentation for Improving Short-video Speech Recognition |  |  |
+| 1189 | Adapter Incremental Continual Learning of Efficient Audio Spectrogram Transformers |  |  |
+| 223 | Rethinking Speech Recognition with A Multi-modal Perspective via Acoustic and Semantic Cooperative Decoding |  |  |
+| 923 | Improving Code-Switching and Name Entity Recognition in ASR with Speech Editing based Data Augmentation |  |  |
+| 2258 | Bypass Temporal Classification: Weakly Supervised Automatic Speech Recognition with Imperfect Transcripts |  |  |
+| 1184 | DCCRN-KWS: An Audio Bias based Model for Noise Robust Small-footprint Keyword Spotting |  |  |
+| 1609 | OTF: Optimal Transport based Fusion of Supervised and Self-Supervised Learning Models for Automatic Speech Recognition |  |  |
+| 2136 | Approximate Nearest Neighbour Phrase Mining for Contextual Speech Recognition |  |  |
+| 788 | Rehearsal-Free Online Continual Learning for Automatic Speech Recognition |  |  |
 
 ### Analysis of Speech and Audio Signals
 
