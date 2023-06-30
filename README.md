@@ -361,7 +361,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Evaluation
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1843 | Listener Sensitivity to Deviating Obstruents in WaveNet | :heavy_minus_sign: | :heavy_minus_sign: |
+| 981 | How Generative Spoken Language Modeling Encodes Noisy Speech: Investigation from Phonetics to Syntactics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00697-b31b1b.svg)](https://arxiv.org/abs/2306.00697) |
+| 2014 | MOS vs. AB: Evaluating Text-to-Speech Systems Reliably Using Clustered Standard Errors | :heavy_minus_sign: | :heavy_minus_sign: |
+| 851 | RAMP: Retrieval-Augmented MOS Prediction via Confidence-based Dynamic Weighting | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2013 | Can Better Perception Become a Disadvantage? Synthetic Speech Perception in Congenitally Blind Users | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1076 | Investigating Range-Equalizing Bias in Mean Opinion Score Ratings of Synthesized Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10608-b31b1b.svg)](https://arxiv.org/abs/2305.10608) |
 
 ### End-to-end Spoken Dialog Systems
 
