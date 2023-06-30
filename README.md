@@ -383,7 +383,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Biosignal-enabled Spoken Communication
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 278 | Obstructive Sleep Apnea Detection using Pretrained Speech Representations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 620 | EEG-based Auditory Attention Detection with Spatiotemporal Graph and Graph Convolutional Network | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1966 | Silent Speech Recognition with Articulator Positions Estimated from Tongue Ultrasound and Lip Video | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1377 | Auditory Attention Detection in Real-Life Scenarios Using Common Spatial Patterns from EEG | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1381 | Diff-E: Diffusion-based Learning for Decoding Imagined Speech EEG | [![GitHub](https://img.shields.io/github/stars/yorgoon/DiffE)](https://github.com/yorgoon/DiffE) | :heavy_minus_sign: |
+| 40 | Towards Ultrasound Tongue Image prediction from EEG during speech production |  |  |
+| 1607 | Adaptation of Tongue Ultrasound-Based Silent Speech Interfaces Using Spatial Transformer Networks |  |  |
+| 174 | STE-GAN: Speech-to-Electromyography Signal Conversion using Generative Adversarial Networks |  |  |
+| 1881 | Spanish Phone Confusion Analysis for EMG-Based Silent Speech Interfaces |  |  |
+| 805 | Hybrid Silent Speech Interface Through Fusion of Electroencephalography and Electromyography |  |  |
 
 ### Neural-based Speech and Acoustic Analysis
 
