@@ -209,8 +209,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 550 | A Hierarchical Context-aware Modeling Approach for Multi-aspect and Multi-granular Pronunciation Assessment | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18146-b31b1b.svg)](https://arxiv.org/abs/2305.18146) |
 | 2541 | Automatic Prediction of Language Learners' Listenability Using Speech and Text Features Extracted from Listening Drills | :heavy_minus_sign: | :heavy_minus_sign: |
 | 380 | Disentangling the Contribution of Non-native Speech in Automated Pronunciation Assessment | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1899 | Adapting an Unadaptable ASR System |  |  |
-| 533 | Addressing Cold Start Problem for End-to-end Automatic Speech Scoring |  |  |
+| 1899 | Adapting an Unadaptable ASR System | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01208-b31b1b.svg)](https://arxiv.org/abs/2306.01208) |
+| 533 | Addressing Cold Start Problem for End-to-end Automatic Speech Scoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14310-b31b1b.svg)](https://arxiv.org/abs/2306.14310) |
 | 816 | Improving Grapheme-to-phoneme Conversion by Learning Pronunciations from Speech Recordings |  |  |
 | 2577 | Orthography-based Pronunciation Scoring for Better CAPT Feedback |  |  |
 | 587 | Phonetic and Prosody-aware Self-supervised Learning Approach for Non-native Fluency Scoring |  |  |
