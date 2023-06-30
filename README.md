@@ -354,10 +354,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ----- | --------- |:--------:|:---------:|
 | 1088 | Real-Time Joint Personalized Speech Enhancement and Acoustic Echo Cancellation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02773-b31b1b.svg)](https://arxiv.org/abs/2211.02773) |
 | 514 | TaylorBeamixer: Learning Taylor-Inspired All-Neural Multi-Channel Speech Enhancement from Beam-Space Dictionary Perspective | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://andong-li-speech.github.io/TaylorBM-Demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12024-b31b1b.svg)](https://arxiv.org/abs/2211.12024) |
-| 865 | MFT-CRN:Multi-scale Fourier Transform for Monaural Speech Enhancement |  |  |
-| 1265 | Variance-Preserving-Based Interpolation Diffusion Models for Speech Enhancement |  |  |
-| 318 | Multi-input Multi-output Complex Spectral Mapping for Speaker Separation |  |  |
-| 992 | Short-term Extrapolation of Speech Signals Using Recursive Neural Networks in the STFT Domain |  |  |
+| 865 | MFT-CRN:Multi-scale Fourier Transform for Monaural Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1265 | Variance-Preserving-Based Interpolation Diffusion Models for Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08527-b31b1b.svg)](https://arxiv.org/abs/2306.08527) |
+| 318 | Multi-input Multi-output Complex Spectral Mapping for Speaker Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 992 | Short-term Extrapolation of Speech Signals Using Recursive Neural Networks in the STFT Domain | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis: Evaluation
 
