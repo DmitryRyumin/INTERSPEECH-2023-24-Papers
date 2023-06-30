@@ -139,10 +139,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 223 | Rethinking Speech Recognition with A Multimodal Perspective via Acoustic and Semantic Cooperative Decoding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.14049-b31b1b.svg)](https://arxiv.org/abs/2305.14049) |
 | 923 | Improving Code-Switching and Name Entity Recognition in ASR with Speech Editing based Data Augmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://liangzheng-zl.github.io/bedit-web/) <br /> [![GitHub](https://img.shields.io/github/stars/Liangzheng-ZL/BEdit-TTS)](https://github.com/Liangzheng-ZL/BEdit-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2306.08588-b31b1b.svg)](https://arxiv.org/abs/2306.08588) |
 | 2258 | Bypass Temporal Classification: Weakly Supervised Automatic Speech Recognition with Imperfect Transcripts | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01031-b31b1b.svg)](https://arxiv.org/abs/2306.01031) |
-| 1184 | DCCRN-KWS: An Audio Bias based Model for Noise Robust Small-footprint Keyword Spotting |  |  |
-| 1609 | OTF: Optimal Transport based Fusion of Supervised and Self-Supervised Learning Models for Automatic Speech Recognition |  |  |
-| 2136 | Approximate Nearest Neighbour Phrase Mining for Contextual Speech Recognition |  |  |
-| 788 | Rehearsal-Free Online Continual Learning for Automatic Speech Recognition |  |  |
+| 1184 | DCCRN-KWS: An Audio Bias based Model for Noise Robust Small-footprint Keyword Spotting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12331-b31b1b.svg)](https://arxiv.org/abs/2305.12331) |
+| 1609 | OTF: Optimal Transport based Fusion of Supervised and Self-Supervised Learning Models for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02541-b31b1b.svg)](https://arxiv.org/abs/2306.02541) |
+| 2136 | Approximate Nearest Neighbour Phrase Mining for Contextual Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.08862-b31b1b.svg)](https://arxiv.org/abs/2304.08862) |
+| 788 | Rehearsal-Free Online Continual Learning for Automatic Speech Recognition | [![GitHub](https://img.shields.io/github/stars/StevenVdEeckt/online-cl-for-asr)](https://github.com/StevenVdEeckt/online-cl-for-asr) | [![arXiv](https://img.shields.io/badge/arXiv-2306.10860-b31b1b.svg)](https://arxiv.org/abs/2306.10860) |
 
 ### Analysis of Speech and Audio Signals
 
