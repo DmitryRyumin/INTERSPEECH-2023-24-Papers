@@ -345,8 +345,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1412 | Detection of Laughter and Screaming using the Attention and CTC Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1852 | Capturing Formality in Speech Across Domains and Languages | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://www.cs.columbia.edu/speech/PaperFiles/2023/interspeech23_formality.pdf) |
 | 460 | Towards Robust Family-Infant Audio Analysis Based on Unsupervised Pretraining of Wav2vec 2.0 on Large-Scale Unlabeled Family Audio | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/jialuli3/speechbrain/tree/infant-voc-classification/recipes/wav2vec_LittleBeats) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12530-b31b1b.svg)](https://arxiv.org/abs/2305.12530) |
-| 778 | Cues to Next-speaker Projection in Conversational Swedish: Evidence from Reaction Times |  |  |
-| 1200 | Multiple Instance Learning for Inference of Child Attachment From Paralinguistic Aspects of Speech |  |  |
+| 778 | Cues to Next-speaker Projection in Conversational Swedish: Evidence from Reaction Times | :heavy_minus_sign: | [![psyArXiv](https://img.shields.io/badge/psyArXiv-Preprints-226B79.svg)](https://psyarxiv.com/qasge/) |
+| 1200 | Multiple Instance Learning for Inference of Child Attachment From Paralinguistic Aspects of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Enhancement and Denoising
 
