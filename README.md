@@ -133,8 +133,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1316 | ML-SUPERB: Multilingual Speech Universal PERformance Benchmark | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/espnet/espnet/tree/master/egs2/ml_superb/asr1) | [![arXiv](https://img.shields.io/badge/arXiv-2305.10615-b31b1b.svg)](https://arxiv.org/abs/2305.10615) |
 | 2389 | General-purpose Adversarial Training for Enhanced Automatic Speech Recognition Model Generalization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 275 | Joint Instance Reconstruction and Feature Sub-space Alignment for Cross-Domain Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 106 | Attention Gate between Capsules in Fully Capsule-network Speech Recognition |  |  |
-| 1272 | Random Utterance Concatenation Based Data Augmentation for Improving Short-video Speech Recognition |  |  |
+| 106 | Attention Gate between Capsules in Fully Capsule-network Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1272 | Random Utterance Concatenation Based Data Augmentation for Improving Short-video Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.15876-b31b1b.svg)](https://arxiv.org/abs/2210.15876) |
 | 1189 | Adapter Incremental Continual Learning of Efficient Audio Spectrogram Transformers |  |  |
 | 223 | Rethinking Speech Recognition with A Multi-modal Perspective via Acoustic and Semantic Cooperative Decoding |  |  |
 | 923 | Improving Code-Switching and Name Entity Recognition in ASR with Speech Editing based Data Augmentation |  |  |
