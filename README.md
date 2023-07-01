@@ -214,8 +214,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1437 | Embedding Articulatory Constraints for Low-resource Speech Recognition Based on Large Pre-trained Model | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2051 | Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18108-b31b1b.svg)](https://arxiv.org/abs/2305.18108) |
 | 768 | SpellMapper: A Non-autoregressive Neural Spellchecker for ASR Customization with Candidate Retrieval based on N-gram Mappings | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02317-b31b1b.svg)](https://arxiv.org/abs/2306.02317) |
-| 2037 | Text Injection for Capitalization and Turn-Taking Prediction in Speech Models |  |  |
-| 1281 | Confidence-based Ensembles of End-to-End Speech Recognition Models |  |  |
+| 2037 | Text Injection for Capitalization and Turn-Taking Prediction in Speech Models | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1281 | Confidence-based Ensembles of End-to-End Speech Recognition Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15824-b31b1b.svg)](https://arxiv.org/abs/2306.15824) |
 | 1050 | Unsupervised Code-switched Text Generation from Parallel Text |  |  |
 | 258 | A Binary Keyword Spotting System With Error-Diffusion Speech Feature Binarization |  |  |
 | 621 | Language-universal Phonetic Encoder for Low-resource Speech Recognition |  |  |
