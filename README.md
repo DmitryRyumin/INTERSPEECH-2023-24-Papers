@@ -477,7 +477,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech, Voice, and Hearing Disorders
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2421 | Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13108-b31b1b.svg)](https://arxiv.org/abs/2305.13108) |
+| 2198 | Multimodal Locally Enhanced Transformer for Continuous Sign Language Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1759 | Towards Supporting an Early Diagnosis of Multiple Sclerosis using Vocal Features | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1891 | Whisper Features for Dysarthric Severity-Level Classification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2191 | A New Benchmark of Aphasia Speech Recognition and Detection Based on E-Branchformer and Multi-task Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13331-b31b1b.svg)](https://arxiv.org/abs/2305.13331) |
+| 222 | Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra |  |  |
+| 2026 | A Stutter Seldom Comes Alone - Cross-Corpus Stuttering Detection as a Multi-label Problem |  |  |
+| 1542 | Transfer Learning to Aid Dysarthria Severity Classification for Patients with Amyotrophic Lateral Sclerosis |  |  |
+| 2203 | DuTa-VC: A Duration-aware Typical-to-atypical Voice Conversion Approach with Diffusion Probabilistic Model |  |  |
+| 201 | CNVVE: Dataset and Benchmark for Classifying Non-verbal Voice |  |  |
+| 1541 | Arabic Dysarthric Speech Recognition Using Adversarial and Signal-Based Augmentation |  |  |
+| 1887 | Weakly-supervised forced alignment of disfluent speech using phoneme-level modeling |  |  |
+| 1998 | Glottal Source Analysis of Voice Deficits in Basal Ganglia Dysfunction: Evidence from de novo Parkinson's Disease and Huntington's Disease |  |  |
+| 2478 | An Analysis of Glottal Features of Chronic Kidney Disease Speech and its Application to CKD Detection |  |  |
+| 983 | Weakly Supervised Glottis Segmentation in High-speed Videoendoscopy using Bounding Box Labels |  |  |
 
 ### Spoken Term Detection and Voice Search
 
