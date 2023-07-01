@@ -484,8 +484,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1759 | Towards Supporting an Early Diagnosis of Multiple Sclerosis using Vocal Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1891 | Whisper Features for Dysarthric Severity-Level Classification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2191 | A New Benchmark of Aphasia Speech Recognition and Detection Based on E-Branchformer and Multi-task Learning | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet/tree/master/egs2/aphasiabank/asr1) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13331-b31b1b.svg)](https://arxiv.org/abs/2305.13331) |
-| 222 | Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra |  |  |
-| 2026 | A Stutter Seldom Comes Alone - Cross-Corpus Stuttering Detection as a Multi-label Problem |  |  |
+| 222 | Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2026 | A Stutter Seldom Comes Alone - Cross-Corpus Stuttering Detection as a Multi-label Problem | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19255-b31b1b.svg)](https://arxiv.org/abs/2305.19255) |
 | 1542 | Transfer Learning to Aid Dysarthria Severity Classification for Patients with Amyotrophic Lateral Sclerosis |  |  |
 | 2203 | DuTa-VC: A Duration-aware Typical-to-atypical Voice Conversion Approach with Diffusion Probabilistic Model |  |  |
 | 201 | CNVVE: Dataset and Benchmark for Classifying Non-verbal Voice |  |  |
