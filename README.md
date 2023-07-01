@@ -206,10 +206,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 403 | Improving Joint Speech-Text Representations Without Alignment | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1941 | Leveraging Cross-Utterance Context for ASR Decoding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16903-b31b1b.svg)](https://arxiv.org/abs/2306.16903) |
 | 423 | Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation | [![GitHub](https://img.shields.io/github/stars/MingLunHan/CIF-HieraDist)](https://github.com/MingLunHan/CIF-HieraDist) | [![arXiv](https://img.shields.io/badge/arXiv-2301.13003-b31b1b.svg)](https://arxiv.org/abs/2301.13003) |
-| 1517 | Integration of Frame- and Label-synchronous Beam Search for Streaming Encoder-decoder Speech Recognition |  |  |
-| 1071 | A Neural Time Alignment Module for End-to-End Automatic Speech Recognition |  |  |
-| 599 | Accelerating Transducers through Adjacent Token Merging |  |  |
-| 617 | Language-Universal Phonetic Representation in Multilingual Speech Pretraining for Low-Resource Speech Recognition |  |  |
+| 1517 | Integration of Frame- and Label-synchronous Beam Search for Streaming Encoder-decoder Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1071 | A Neural Time Alignment Module for End-to-End Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 599 | Accelerating Transducers through Adjacent Token Merging | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16009-b31b1b.svg)](https://arxiv.org/abs/2306.16009) |
+| 617 | Language-Universal Phonetic Representation in Multilingual Speech Pretraining for Low-Resource Speech Recognition | :heavy_minus_sign: |[![arXiv](https://img.shields.io/badge/arXiv-2305.11569-b31b1b.svg)](https://arxiv.org/abs/2305.11569) |
 | 2292 | Language-Routing Mixture of Experts for Multi-lingual and Code-Switching Speech Recognition |  |  |
 | 1437 | Embedding Articulatory Constraints for Low-resource Speech Recognition Based on Large Pre-trained Model |  |  |
 | 2051 | Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning |  |  |
