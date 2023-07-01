@@ -492,8 +492,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1541 | Arabic Dysarthric Speech Recognition Using Adversarial and Signal-Based Augmentation | [![GitHub](https://img.shields.io/github/stars/massabaali7/AR_Dysarthric)](https://github.com/massabaali7/AR_Dysarthric) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04368-b31b1b.svg)](https://arxiv.org/abs/2306.04368) |
 | 1887 | Weakly-supervised Forced Alignment of Disfluent Speech using Phoneme-level Modeling | [![GitHub](https://img.shields.io/github/stars/zelaki/WSFA/)](https://github.com/zelaki/WSFA/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00996-b31b1b.svg)](https://arxiv.org/abs/2306.00996) |
 | 1998 | Glottal Source Analysis of Voice Deficits in Basal Ganglia Dysfunction: Evidence from de novo Parkinson's Disease and Huntington's Disease | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2478 | An Analysis of Glottal Features of Chronic Kidney Disease Speech and its Application to CKD Detection |  |  |
-| 983 | Weakly Supervised Glottis Segmentation in High-speed Videoendoscopy using Bounding Box Labels |  |  |
+| 2478 | An Analysis of Glottal Features of Chronic Kidney Disease Speech and its Application to CKD Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 983 | Weakly Supervised Glottis Segmentation in High-speed Video Endoscopy using Bounding Box Labels | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Spoken Term Detection and Voice Search
 
