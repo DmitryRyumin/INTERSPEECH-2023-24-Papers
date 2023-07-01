@@ -150,9 +150,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 720 | Effective Training of Attention-based Contextual Biasing Adapters with Synthetic Audio for Personalised ASR | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/effective-training-of-attention-based-contextual-biasing-adapters-with-synthetic-audio-for-personalised-asr) |
 | 630 | Pushing the Limits of Unsupervised Unit Discovery for SSL Speech Representation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08920-b31b1b.svg)](https://arxiv.org/abs/2306.08920) |
 | 1118 | SlothSpeech: Denial-of-service Attack Against Speech Recognition Models | [![GitHub](https://img.shields.io/github/stars/0xrutvij/SlothSpeech)](https://github.com/0xrutvij/SlothSpeech) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00794-b31b1b.svg)](https://arxiv.org/abs/2306.00794) |
-| 503 | CLRL-Tuning: A Novel Continual Learning Approach for Automatic Speech Recognition |  |  |
-| 159 | Exploring Sources of Racial Bias in Automatic Speech Recognition through the Lens of Rhythmic Variation |  |  |
-| 1440 | Can Contextual Biasing Remain Effective with Whisper and GPT-2? |  |  |
+| 503 | CLRL-Tuning: A Novel Continual Learning Approach for Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 159 | Exploring Sources of Racial Bias in Automatic Speech Recognition through the Lens of Rhythmic Variation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1440 | Can Contextual Biasing Remain Effective with Whisper and GPT-2? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01942-b31b1b.svg)](https://arxiv.org/abs/2306.01942) |
 | 221 | Masked Modeling Duo for Speech: Specializing General-Purpose Audio Representation to Speech using Denoising Distillation |  |  |
 | 2207 | Improving RNN Transducer Acoustic Models for English Conversational Speech Recognition |  |  |
 | 1216 | MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition |  |  |
