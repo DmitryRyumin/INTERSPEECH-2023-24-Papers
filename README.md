@@ -459,7 +459,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources, and Evaluation
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 180 | Pragmatic Pertinence: A Learnable Confidence Metric to Assess the Subjective Quality of LM-Generated Text | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2078 | ASR and Emotional Speech: A Word-Level Investigation of the Mutual Impact of Speech and Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16065-b31b1b.svg)](https://arxiv.org/abs/2305.16065) |
+| 916 | BASS: Block-wise Adaptation for Speech Summarization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1258 | Speaker Tracking using Graph Attention Networks with Varying Duration Utterances in Multi-Channel Naturalistic Data: Fearless Steps Apollo 11 Audio Corpus | :heavy_minus_sign: | :heavy_minus_sign: |
+| 36 | Combining Language Corpora in a Japanese Electromagnetic Articulography Database for Acoustic-to-articulatory Inversion | :heavy_minus_sign: | :heavy_minus_sign: |
+| 523 | A Dual Attention-based Modality-Collaborative Fusion Network for Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2174 | Large Dataset Generation of Synchronized Music Audio and Lyrics at Scale using Teacher-Student Paradigm | :heavy_minus_sign: | :heavy_minus_sign: |
+| 483 | Enc-Dec RNN Acoustic Word Embeddings Learned via Pairwise Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
+| 864 | Query Based Acoustic Summarization for Podcasts | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1242 | Spot Keywords from Very Noisy and Mixed Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17706-b31b1b.svg)](https://arxiv.org/abs/2305.17706) |
+| 891 | Knowledge Distillation on Joint Task End-to-End Speech Translation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/knowledge-distillation-on-joint-task-end-to-end-speech-translation) |
+| 343 | Investigating Pre-trained Audio Encoders in the Low-Resource Condition | [![GitHub](https://img.shields.io/github/stars/YangHao97/investigateAudioEncoders)](https://github.com/YangHao97/investigateAudioEncoders) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17733-b31b1b.svg)](https://arxiv.org/abs/2305.17733) |
+| 1718 | Improving Textless Spoken Language Understanding with Discrete Units as Intermediate Target |  |  |
 
 ### Speech, Voice, and Hearing Disorders
 
