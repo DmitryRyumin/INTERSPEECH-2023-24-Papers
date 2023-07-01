@@ -412,7 +412,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 2194 | A Multimodal Investigation of Speech, Text, Cognitive and Facial Video Features for Characterizing Depression with and without Medication | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1n6ymnLKt21RDfawu9WHsd8tgmBPuz9SC/view) |
-| 307 | Understanding Disrupted Sentences using Underspecified Abstract Meaning Representation |  |  |
+| 307 | Understanding Disrupted Sentences using Underspecified Abstract Meaning Representation | [![GitHub](https://img.shields.io/github/stars/amazon-science/disrupt-amr)](https://github.com/amazon-science/disrupt-amr) | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/understanding-disrupted-sentences-using-underspecified-abstract-meaning-representation) |
 | 2109 | Developing Speech Processing Pipelines for Police Accountability |  |  |
 | 2086 | Prosody-controllable Gender-ambiguous Speech Synthesis: a Tool for Investigating Implicit Bias in Speech Perception |  |  |
 | 848 | Affective attributes of French caregivers' professional speech |  |  |
