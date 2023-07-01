@@ -473,7 +473,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1242 | Spot Keywords from Very Noisy and Mixed Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17706-b31b1b.svg)](https://arxiv.org/abs/2305.17706) |
 | 891 | Knowledge Distillation on Joint Task End-to-End Speech Translation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/knowledge-distillation-on-joint-task-end-to-end-speech-translation) |
 | 343 | Investigating Pre-trained Audio Encoders in the Low-Resource Condition | [![GitHub](https://img.shields.io/github/stars/YangHao97/investigateAudioEncoders)](https://github.com/YangHao97/investigateAudioEncoders) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17733-b31b1b.svg)](https://arxiv.org/abs/2305.17733) |
-| 1718 | Improving Textless Spoken Language Understanding with Discrete Units as Intermediate Target |  |  |
+| 1718 | Improving Textless Spoken Language Understanding with Discrete Units as Intermediate Target | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18096-b31b1b.svg)](https://arxiv.org/abs/2305.18096) |
 
 ### Speech, Voice, and Hearing Disorders
 
