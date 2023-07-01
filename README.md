@@ -153,7 +153,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 503 | CLRL-Tuning: A Novel Continual Learning Approach for Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 159 | Exploring Sources of Racial Bias in Automatic Speech Recognition through the Lens of Rhythmic Variation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1440 | Can Contextual Biasing Remain Effective with Whisper and GPT-2? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01942-b31b1b.svg)](https://arxiv.org/abs/2306.01942) |
-| 221 | Masked Modeling Duo for Speech: Specializing General-Purpose Audio Representation to Speech using Denoising Distillation |  |  |
+| 221 | Masked Modeling Duo for Speech: Specializing General-Purpose Audio Representation to Speech using Denoising Distillation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/nttcslab/m2d/tree/master/speech) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14079-b31b1b.svg)](https://arxiv.org/abs/2305.14079) |
 | 2207 | Improving RNN Transducer Acoustic Models for English Conversational Speech Recognition |  |  |
 | 1216 | MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition |  |  |
 | 1192 | Improving Chinese Mandarin Speech Recognition using Graph Embedding Regularization |  |  |
