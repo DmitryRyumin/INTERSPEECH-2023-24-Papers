@@ -154,13 +154,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 159 | Exploring Sources of Racial Bias in Automatic Speech Recognition through the Lens of Rhythmic Variation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1440 | Can Contextual Biasing Remain Effective with Whisper and GPT-2? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01942-b31b1b.svg)](https://arxiv.org/abs/2306.01942) |
 | 221 | Masked Modeling Duo for Speech: Specializing General-Purpose Audio Representation to Speech using Denoising Distillation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/nttcslab/m2d/tree/master/speech) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14079-b31b1b.svg)](https://arxiv.org/abs/2305.14079) |
-| 2207 | Improving RNN Transducer Acoustic Models for English Conversational Speech Recognition |  |  |
-| 1216 | MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition |  |  |
-| 1192 | Improving Chinese Mandarin Speech Recognition using Graph Embedding Regularization |  |  |
-| 1276 | Adapting Multi-Lingual ASR Models for Handling Multiple Talkers |  |  |
-| 1221 | Adapter-tuning with Effective Token-dependent Representation Shift for Automatic Speech Recognition |  |  |
-| 1010 | Model-Internal Slot-triggered Biasing for Domain Expansion in Neural Transducer ASR Models |  |  |
-| 2508 | Delay-penalized CTC implemented based on Finite State Transducer |  |  |
+| 2207 | Improving RNN Transducer Acoustic Models for English Conversational Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1216 | MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1192 | Improving Chinese Mandarin Speech Recognition using Graph Embedding Regularization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1276 | Adapting Multi-Lingual ASR Models for Handling Multiple Talkers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18747-b31b1b.svg)](https://arxiv.org/abs/2305.18747) |
+| 1221 | Adapter-tuning with Effective Token-dependent Representation Shift for Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1010 | Model-Internal Slot-triggered Biasing for Domain Expansion in Neural Transducer ASR Models | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/model-internal-slot-triggered-biasing-for-domain-expansion-in-neural-transducer-asr-models) |
+| 2508 | Delay-penalized CTC implemented based on Finite State Transducer | [![GitHub](https://img.shields.io/github/stars/k2-fsa/k2)](https://github.com/k2-fsa/k2) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11539-b31b1b.svg)](https://arxiv.org/abs/2305.11539) |
 
 ### Analysis of Speech and Audio Signals
 
