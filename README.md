@@ -199,9 +199,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2147 | Record Deduplication for Entity Distribution Modeling in ASR Transcripts | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06246-b31b1b.svg)](https://arxiv.org/abs/2306.06246) |
 | 2205 | Learning When to Trust Which Teacher for Weakly Supervised ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.12012-b31b1b.svg)](https://arxiv.org/abs/2306.12012) |
 | 1313 | Text-only Domain Adaptation using Unified Speech-Text Representation in Transducer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04076-b31b1b.svg)](https://arxiv.org/abs/2306.04076) |
-| 1378 | Text-Only Domain Adaptation for End-to-End Speech Recognition through Down-Sampling Acoustic Representation |  |  |
-| 2479 | Knowledge Distillation Approach for Efficient Internal Language Model Estimation |  |  |
-| 276 | Language Model Personalization for Improved Touchscreen Typing |  |  |
+| 1378 | Text-Only Domain Adaptation for End-to-End Speech Recognition through Down-Sampling Acoustic Representation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2479 | Knowledge Distillation Approach for Efficient Internal Language Model Estimation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 276 | Language Model Personalization for Improved Touchscreen Typing | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1223 | Blank Collapse: Compressing CTC Emission for the Faster Decoding |  |  |
 | 403 | Improving Joint Speech-Text Representations Without Alignment |  |  |
 | 1941 | Leveraging Cross-Utterance Context For ASR Decoding |  |  |
