@@ -489,7 +489,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1542 | Transfer Learning to Aid Dysarthria Severity Classification for Patients with Amyotrophic Lateral Sclerosis | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2203 | DuTa-VC: A Duration-aware Typical-to-atypical Voice Conversion Approach with Diffusion Probabilistic Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.10588-b31b1b.svg)](https://arxiv.org/abs/2306.10588) |
 | 201 | CNVVE: Dataset and Benchmark for Classifying Non-verbal Voice | [![GitHub](https://img.shields.io/github/stars/hedeshy/CNVVE)](https://github.com/hedeshy/CNVVE) | [![University of Southampton](https://img.shields.io/badge/soton-ac-015C84.svg)](https://eprints.soton.ac.uk/478344/) |
-| 1541 | Arabic Dysarthric Speech Recognition Using Adversarial and Signal-Based Augmentation |  |  |
+| 1541 | Arabic Dysarthric Speech Recognition Using Adversarial and Signal-Based Augmentation | [![GitHub](https://img.shields.io/github/stars/massabaali7/AR_Dysarthric)](https://github.com/massabaali7/AR_Dysarthric) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04368-b31b1b.svg)](https://arxiv.org/abs/2306.04368) |
 | 1887 | Weakly-supervised forced alignment of disfluent speech using phoneme-level modeling |  |  |
 | 1998 | Glottal Source Analysis of Voice Deficits in Basal Ganglia Dysfunction: Evidence from de novo Parkinson's Disease and Huntington's Disease |  |  |
 | 2478 | An Analysis of Glottal Features of Chronic Kidney Disease Speech and its Application to CKD Detection |  |  |
