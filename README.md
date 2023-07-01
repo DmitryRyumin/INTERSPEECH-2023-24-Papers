@@ -143,6 +143,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1609 | OTF: Optimal Transport based Fusion of Supervised and Self-Supervised Learning Models for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02541-b31b1b.svg)](https://arxiv.org/abs/2306.02541) |
 | 2136 | Approximate Nearest Neighbour Phrase Mining for Contextual Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.08862-b31b1b.svg)](https://arxiv.org/abs/2304.08862) |
 | 788 | Rehearsal-Free Online Continual Learning for Automatic Speech Recognition | [![GitHub](https://img.shields.io/github/stars/StevenVdEeckt/online-cl-for-asr)](https://github.com/StevenVdEeckt/online-cl-for-asr) | [![arXiv](https://img.shields.io/badge/arXiv-2306.10860-b31b1b.svg)](https://arxiv.org/abs/2306.10860) |
+|  | ASR Data Augmentation in Low-resource Settings using Cross-lingual Multi-speaker TTS and Cross-lingual Voice Conversion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/Edresson/Wav2Vec-Wrapper/tree/main/Papers/TTS-Augmentation) | [![arXiv](https://img.shields.io/badge/arXiv-2204.00618-b31b1b.svg)](https://arxiv.org/abs/2204.00618) |
+|  | Personality-aware Training based Speaker Adaptation for End-to-end Speech Recognition |  |  |
+|  | Target Vocabulary Recognition Based on Multi-Task Learning with Decomposed Teacher Sequences |  |  |
+|  | Wave to Syntax: Probing Spoken Language Models for Syntax |  |  |
+|  | Effective Training of Attention-based Contextual Biasing Adapters with Synthetic Audio for Personalised ASR |  |  |
+|  | Pushing the Limits of Unsupervised Unit Discovery for SSL Speech Representation |  |  |
+|  | SlothSpeech: Denial-of-service Attack Against Speech Recognition Models |  |  |
+|  | CLRL-Tuning: A Novel Continual Learning Approach for Automatic Speech Recognition |  |  |
+|  | Exploring Sources of Racial Bias in Automatic Speech Recognition through the Lens of Rhythmic Variation |  |  |
+|  | Can Contextual Biasing Remain Effective with Whisper and GPT-2? |  |  |
+|  | Masked Modeling Duo for Speech: Specializing General-Purpose Audio Representation to Speech using Denoising Distillation |  |  |
+|  | Improving RNN Transducer Acoustic Models for English Conversational Speech Recognition |  |  |
+|  | MixRep: Hidden Representation Mixup for Low-Resource Speech Recognition |  |  |
+|  | Improving Chinese Mandarin Speech Recognition using Graph Embedding Regularization |  |  |
+|  | Adapting Multi-Lingual ASR Models for Handling Multiple Talkers |  |  |
+|  | Adapter-tuning with Effective Token-dependent Representation Shift for Automatic Speech Recognition |  |  |
+|  | Model-Internal Slot-triggered Biasing for Domain Expansion in Neural Transducer ASR Models |  |  |
+|  | Delay-penalized CTC implemented based on Finite State Transducer |  |  |
 
 ### Analysis of Speech and Audio Signals
 
