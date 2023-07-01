@@ -209,11 +209,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1517 | Integration of Frame- and Label-synchronous Beam Search for Streaming Encoder-decoder Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1071 | A Neural Time Alignment Module for End-to-End Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 599 | Accelerating Transducers through Adjacent Token Merging | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16009-b31b1b.svg)](https://arxiv.org/abs/2306.16009) |
-| 617 | Language-Universal Phonetic Representation in Multilingual Speech Pretraining for Low-Resource Speech Recognition | :heavy_minus_sign: |[![arXiv](https://img.shields.io/badge/arXiv-2305.11569-b31b1b.svg)](https://arxiv.org/abs/2305.11569) |
-| 2292 | Language-Routing Mixture of Experts for Multi-lingual and Code-Switching Speech Recognition |  |  |
-| 1437 | Embedding Articulatory Constraints for Low-resource Speech Recognition Based on Large Pre-trained Model |  |  |
-| 2051 | Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning |  |  |
-| 768 | SpellMapper: A Non-autoregressive Neural Spellchecker for ASR Customization with Candidate Retrieval based on N-gram Mappings |  |  |
+| 617 | Language-Universal Phonetic Representation in Multilingual Speech Pretraining for Low-Resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11569-b31b1b.svg)](https://arxiv.org/abs/2305.11569) |
+| 2292 | Language-Routing Mixture of Experts for Multi-lingual and Code-Switching Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1437 | Embedding Articulatory Constraints for Low-resource Speech Recognition Based on Large Pre-trained Model | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2051 | Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18108-b31b1b.svg)](https://arxiv.org/abs/2305.18108) |
+| 768 | SpellMapper: A Non-autoregressive Neural Spellchecker for ASR Customization with Candidate Retrieval based on N-gram Mappings | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02317-b31b1b.svg)](https://arxiv.org/abs/2306.02317) |
 | 2037 | Text Injection for Capitalization and Turn-Taking Prediction in Speech Models |  |  |
 | 1281 | Confidence-based Ensembles of End-to-End Speech Recognition Models |  |  |
 | 1050 | Unsupervised Code-switched Text Generation from Parallel Text |  |  |
