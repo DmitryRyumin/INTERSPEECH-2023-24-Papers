@@ -216,11 +216,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 768 | SpellMapper: A Non-autoregressive Neural Spellchecker for ASR Customization with Candidate Retrieval based on N-gram Mappings | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02317-b31b1b.svg)](https://arxiv.org/abs/2306.02317) |
 | 2037 | Text Injection for Capitalization and Turn-Taking Prediction in Speech Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1281 | Confidence-based Ensembles of End-to-End Speech Recognition Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15824-b31b1b.svg)](https://arxiv.org/abs/2306.15824) |
-| 1050 | Unsupervised Code-switched Text Generation from Parallel Text |  |  |
-| 258 | A Binary Keyword Spotting System With Error-Diffusion Speech Feature Binarization |  |  |
-| 621 | Language-universal Phonetic Encoder for Low-resource Speech Recognition |  |  |
-| 863 | A Lexical-aware Non-autoregressive Transformer-based ASR Model |  |  |
-| 1841 | Improving Under-Resourced Code-Switched Speech Recognition: Large Pre-trained Models or Archi- tectural Interventions |  |  |
+| 1050 | Unsupervised Code-switched Text Generation from Parallel Text | :heavy_minus_sign: | :heavy_minus_sign: |
+| 258 | A Binary Keyword Spotting System With Error-Diffusion Speech Feature Binarization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 621 | Language-universal Phonetic Encoder for Low-resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11576-b31b1b.svg)](https://arxiv.org/abs/2305.11576) |
+| 863 | A Lexical-aware Non-autoregressive Transformer-based ASR Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10839-b31b1b.svg)](https://arxiv.org/abs/2305.10839) |
+| 1841 | Improving Under-Resourced Code-Switched Speech Recognition: Large Pre-trained Models or Architectural Interventions | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
