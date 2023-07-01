@@ -398,7 +398,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Neural-based Speech and Acoustic Analysis
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1968 | Can Self-Supervised Neural Representations Pre-Trained on Human Speech distinguish Animal Callers? | [![GitHub](https://img.shields.io/github/stars/idiap/ssl-caller-detection)](https://github.com/idiap/ssl-caller-detection) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14035-b31b1b.svg)](https://arxiv.org/abs/2305.14035) |
+| 2342 | Discovering COVID-19 Coughing and Breathing Patterns from Unlabeled Data Using Contrastive Learning with Varying Pre-Training Domains |  |  |
+| 330 | Background-aware Modeling for Weakly Supervised Sound Event Detection |  |  |
+| 1065 | How to (Virtually) Train Your Speaker Localizer |  |  |
+| 2271 | MMER: Multimodal Multi-task Learning for Speech Emotion Recognition |  |  |
+| 909 | A Multi-Task Learning Framework for Sound Event Detection using High-level Acoustic Characteristics of Sounds |  |  |
 
 ### DiGo - Dialog for Good: Speech and Language Technology for Social Good
 
