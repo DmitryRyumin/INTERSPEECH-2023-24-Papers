@@ -202,7 +202,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1378 | Text-Only Domain Adaptation for End-to-End Speech Recognition through Down-Sampling Acoustic Representation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2479 | Knowledge Distillation Approach for Efficient Internal Language Model Estimation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 276 | Language Model Personalization for Improved Touchscreen Typing | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1223 | Blank Collapse: Compressing CTC Emission for the Faster Decoding |  |  |
+| 1223 | Blank Collapse: Compressing CTC Emission for the Faster Decoding | [![GitHub](https://img.shields.io/github/stars/minkjung/blankcollapse)](https://github.com/minkjung/blankcollapse) | [![arXiv](https://img.shields.io/badge/arXiv-2210.17017-b31b1b.svg)](https://arxiv.org/abs/2210.17017) |
 | 403 | Improving Joint Speech-Text Representations Without Alignment |  |  |
 | 1941 | Leveraging Cross-Utterance Context For ASR Decoding |  |  |
 | 423 | Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation |  |  |
