@@ -404,7 +404,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2342 | Discovering COVID-19 Coughing and Breathing Patterns from Unlabeled Data Using Contrastive Learning with Varying Pre-Training Domains | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01864-b31b1b.svg)](https://arxiv.org/abs/2306.01864) |
 | 330 | Background-aware Modeling for Weakly Supervised Sound Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1065 | How to (Virtually) Train Your Speaker Localizer | [![GitHub](https://img.shields.io/github/stars/prerak23/Dir_SrcMic_DOA)](https://github.com/prerak23/Dir_SrcMic_DOA) | [![arXiv](https://img.shields.io/badge/arXiv-2211.16958-b31b1b.svg)](https://arxiv.org/abs/2211.16958) |
-| 2271 | MMER: Multimodal Multi-task Learning for Speech Emotion Recognition |  |  |
+| 2271 | MMER: Multimodal Multi-task Learning for Speech Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/Sreyan88/MMER)](https://github.com/Sreyan88/MMER) | [![arXiv](https://img.shields.io/badge/arXiv-2203.16794-b31b1b.svg)](https://arxiv.org/abs/2203.16794) |
 | 909 | A Multi-Task Learning Framework for Sound Event Detection using High-level Acoustic Characteristics of Sounds |  |  |
 
 ### DiGo - Dialog for Good: Speech and Language Technology for Social Good
