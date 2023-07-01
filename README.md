@@ -147,9 +147,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 642 | Personality-aware Training based Speaker Adaptation for End-to-End Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2257 | Target Vocabulary Recognition Based on Multi-Task Learning with Decomposed Teacher Sequences | :heavy_minus_sign: | :heavy_minus_sign: |
 | 679 | Wave to Syntax: Probing Spoken Language Models for Syntax | [![GitHub](https://img.shields.io/github/stars/techsword/wave-to-syntax)](https://github.com/techsword/wave-to-syntax) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18957-b31b1b.svg)](https://arxiv.org/abs/2305.18957) |
-| 720 | Effective Training of Attention-based Contextual Biasing Adapters with Synthetic Audio for Personalised ASR |  |  |
-| 630 | Pushing the Limits of Unsupervised Unit Discovery for SSL Speech Representation |  |  |
-| 1118 | SlothSpeech: Denial-of-service Attack Against Speech Recognition Models |  |  |
+| 720 | Effective Training of Attention-based Contextual Biasing Adapters with Synthetic Audio for Personalised ASR | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/effective-training-of-attention-based-contextual-biasing-adapters-with-synthetic-audio-for-personalised-asr) |
+| 630 | Pushing the Limits of Unsupervised Unit Discovery for SSL Speech Representation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08920-b31b1b.svg)](https://arxiv.org/abs/2306.08920) |
+| 1118 | SlothSpeech: Denial-of-service Attack Against Speech Recognition Models | [![GitHub](https://img.shields.io/github/stars/0xrutvij/SlothSpeech)](https://github.com/0xrutvij/SlothSpeech) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00794-b31b1b.svg)](https://arxiv.org/abs/2306.00794) |
 | 503 | CLRL-Tuning: A Novel Continual Learning Approach for Automatic Speech Recognition |  |  |
 | 159 | Exploring Sources of Racial Bias in Automatic Speech Recognition through the Lens of Rhythmic Variation |  |  |
 | 1440 | Can Contextual Biasing Remain Effective with Whisper and GPT-2? |  |  |
