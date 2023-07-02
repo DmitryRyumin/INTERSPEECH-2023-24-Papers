@@ -500,11 +500,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-|  478 | Matching Latent Encoding for Audio-Text based Keyword Spotting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05245-b31b1b.svg)](https://arxiv.org/abs/2306.05245) |
+| 478 | Matching Latent Encoding for Audio-Text based Keyword Spotting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05245-b31b1b.svg)](https://arxiv.org/abs/2306.05245) |
 | 1215 | Self-Paced Pattern Augmentation for Spoken Term Detection in Zero-Resource | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2362 | On-Device Constrained Self-Supervised Speech Representation Learning for Keyword Spotting via Knowledge Distillation by Gene | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/on-device-constrained-self-supervised-speech-representation-learning-for-keyword-spotting-via-knowledge-distillation) |
-|   90 | Online Continual Learning in Keyword Spotting for Low-Resource Devices via Pooling High-Order Temporal Statistics | :heavy_minus_sign: | :heavy_minus_sign: |
-|  689 | Improving Small Footprint Few-shot Keyword Spotting with Supervision on Auxiliary Data | :heavy_minus_sign: | :heavy_minus_sign: |
+| 90 | Online Continual Learning in Keyword Spotting for Low-Resource Devices via Pooling High-Order Temporal Statistics | :heavy_minus_sign: | :heavy_minus_sign: |
+| 689 | Improving Small Footprint Few-shot Keyword Spotting with Supervision on Auxiliary Data | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2222 | Robust Keyword Spotting for Noisy Environments by Leveraging Speech Enhancement and Speech Presence Probability | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Models for Streaming ASR
@@ -533,13 +533,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1922 | A neural architecture for selective attention to speech features | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1922 | A Neural Architecture for Selective Attention to Speech Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1122 | Quantifying Informational Masking due to Masker Intelligibility in Same-talker Speech-in-speech Perception | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1476 | On the benefits of self-supervised learned speech representations for predicting human phonetic misperceptions | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2154 | Predicting Perceptual Centers Located at Vowel Onset in German Speech Using Long Short-Term Memory Networks | :heavy_minus_sign: | :heavy_minus_sign: |
-| 63 | Exploring the mutual intelligibility breakdown caused by sculpting speech from a competing speech signal | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2103 | Perception of incomplete voicing neutralization of obstruents in Tohoku Japanese | :heavy_minus_sign: | :heavy_minus_sign: |
-
+| 1476 | On the Benefits of Self-supervised Learned Speech Representations for Predicting Human Phonetic Misperceptions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2154 | Predicting Perceptual Centers Located at Vowel Onset in German Speech using Long Short-Term Memory Networks | :heavy_minus_sign: | :heavy_minus_sign: |
+| 63 | Exploring the Mutual Intelligibility Breakdown Caused by Sculpting Speech from a Competing Speech Signal | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2103 | Perception of Incomplete Voicing Neutralization of Obstruents in Tohoku Japanese | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Phonetics and Phonology: Languages and Varieties
 
