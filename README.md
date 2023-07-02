@@ -24,7 +24,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 ## Contributors
 
 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DmitryRyumin/INTERSPEECH-2023-Papers" />
+  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/INTERSPEECH-2023-Papers" />
 </a>
 
 <br />
