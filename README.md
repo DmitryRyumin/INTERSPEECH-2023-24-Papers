@@ -390,6 +390,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 460 | Towards Robust Family-Infant Audio Analysis Based on Unsupervised Pretraining of Wav2vec 2.0 on Large-Scale Unlabeled Family Audio | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/jialuli3/speechbrain/tree/infant-voc-classification/recipes/wav2vec_LittleBeats) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12530-b31b1b.svg)](https://arxiv.org/abs/2305.12530) |
 | 778 | Cues to Next-speaker Projection in Conversational Swedish: Evidence from Reaction Times | :heavy_minus_sign: | [![psyArXiv](https://img.shields.io/badge/psyArXiv-Preprints-226B79.svg)](https://psyarxiv.com/qasge/) |
 | 1200 | Multiple Instance Learning for Inference of Child Attachment From Paralinguistic Aspects of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2070 | Speaker Embeddings as Individuality Proxy for Voice Stress Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05915-b31b1b.svg)](https://arxiv.org/abs/2306.05915) |
+| 2213 | From Interval to Ordinal: A HMM based Approach for Emotion Label Conversion |  |  |
+| 661 | Turbo your Multi-modal Classification with Contrastive Learning |  |  |
+| 497 | Towards Paralinguistic-Only Speech Representations for End-to-End Speech Emotion Recognition |  |  |
+| 1360 | SOT: Self-supervised Learning-Assisted Optimal Transport for Unsupervised Adaptive Speech Emotion Recognition |  |  |
+| 2464 | On the Efficacy and Noise-robustness of Jointly Learned Speech Emotion and Automatic Speech Recognition |  |  |
+| 830 | Speaking State Decoder with Transition Detection for Next Speaker Prediction |  |  |
+| 1507 | What are Differences? Comparing DNN and Human by their Performance and Characteristics in Speaker Age Estimation |  |  |
+| 846 | Effects of Perceived Gender on the Perceived Social Function of Laughter |  |  |
+| 1999 | Implicit Phonetic Information Modeling for Speech Emotion Recognition |  |  |
+| 1034 | Computation and Memory Efficient Noise Adaptation of Wav2Vec2.0 for Noisy Speech Emotion Recognition with Skip Connection Adapters |  |  |
+| 300 | Multi-Level Knowledge Distillation for Speech Emotion Recognition in Noisy Conditions |  |  |
+| 1108 | Preference Learning Labels by Anchoring on Consecutive Annotations |  |  |
+| 2561 | Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks |  |  |
+| 543 | Learning Local to Global Feature Aggregation for Speech Emotion Recognition |  |  |
+| 842 | Supervised Contrastive Learning with Nearest Neighbor Search for Speech Emotion Recognition |  |  |
 
 ### Speech Enhancement and Denoising
 
