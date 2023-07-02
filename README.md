@@ -520,7 +520,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Source Separation
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1753 | Audio-Visual Speech Separation in Noisy Environments with a Lightweight Iterative Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00755-b31b1b.svg)](https://arxiv.org/abs/2306.00160) |
+| 1389 | Remixing-based Unsupervised Source Separation from Scratch | :heavy_minus_sign: | :heavy_minus_sign: |
+| 577 | CAPTDURE: Captioned Sound Dataset of Single Sources | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00755-b31b1b.svg)](https://arxiv.org/abs/2305.17758) |
+| 488 | Recursive Sound Source Separation with Deep Learning-based Beamforming for Unknown Number of Sources | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2537 | Multi-Channel Speech Separation with CrossAttention and Beamforming | :heavy_minus_sign: | :heavy_minus_sign: |
+| 185 | Background-Sound Controllable Voice Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Perception
 
