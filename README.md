@@ -509,7 +509,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Models for Streaming ASR
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+|  831 | Enhancing the Unified Streaming and Non-streaming Model with Contrastive Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04368-b31b1b.svg)](https://arxiv.org/abs/2306.05245) |
+| 1497 | ZeroPrompt: Streaming Acoustic Encoders are Zero-Shot Masked LMs | :heavy_minus_sign: | :heavy_minus_sign: |
+| 361 | Improved Training for End-to-End Streaming Automatic Speech Recognition Model with Punctuation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/on-device-constrained-self-supervised-speech-representation-learning-for-keyword-spotting-via-knowledge-distillation) |
+| 1129 | DCTX-Conformer: Dynamic context carry-over for low latency unified streaming and non-streaming Conformer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1121 | Knowledge Distillation from Non-streaming toStreaming ASR Encoder using Auxiliary Non-streaming Layer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 884 | Adaptive Contextual Biasing for Transducer Based Streaming Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Source Separation
 
