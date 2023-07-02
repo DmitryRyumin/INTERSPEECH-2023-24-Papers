@@ -391,8 +391,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 778 | Cues to Next-speaker Projection in Conversational Swedish: Evidence from Reaction Times | :heavy_minus_sign: | [![psyArXiv](https://img.shields.io/badge/psyArXiv-Preprints-226B79.svg)](https://psyarxiv.com/qasge/) |
 | 1200 | Multiple Instance Learning for Inference of Child Attachment From Paralinguistic Aspects of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2070 | Speaker Embeddings as Individuality Proxy for Voice Stress Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05915-b31b1b.svg)](https://arxiv.org/abs/2306.05915) |
-| 2213 | From Interval to Ordinal: A HMM based Approach for Emotion Label Conversion |  |  |
-| 661 | Turbo your Multi-modal Classification with Contrastive Learning |  |  |
+| 2213 | From Interval to Ordinal: A HMM based Approach for Emotion Label Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
+| 661 | Turbo your Multi-modal Classification with Contrastive Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 497 | Towards Paralinguistic-Only Speech Representations for End-to-End Speech Emotion Recognition |  |  |
 | 1360 | SOT: Self-supervised Learning-Assisted Optimal Transport for Unsupervised Adaptive Speech Emotion Recognition |  |  |
 | 2464 | On the Efficacy and Noise-robustness of Jointly Learned Speech Emotion and Automatic Speech Recognition |  |  |
