@@ -542,7 +542,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Phonetics and Phonology: Languages and Varieties
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1879 | The Emergence of Obstruent-intrinsic f0 and VOT as Cues to the Fortis/Lenis Contrast in West Central Bavarian | :heavy_minus_sign: | :heavy_minus_sign: |
+| 431 | 〈'〉 in Tsimane': a Preliminary Investigation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2200 | Segmental Features of Brazilian (Santa Catarina) Hunsrik | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2337 | Opening or closing? An Electroglottographic Analysis of Voiceless Coda Consonants in Australian English | :heavy_minus_sign: | :heavy_minus_sign: |
+| 295 | Increasing Aspiration of Word-medial Fortis Plosives in Swiss Standard German | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1456 | Lexical Stress and Velar Palatalization in Italian: A Spatio-temporal Interaction | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speaker and Language Identification
 
