@@ -221,6 +221,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 621 | Language-universal Phonetic Encoder for Low-resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11576-b31b1b.svg)](https://arxiv.org/abs/2305.11576) |
 | 863 | A Lexical-aware Non-autoregressive Transformer-based ASR Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10839-b31b1b.svg)](https://arxiv.org/abs/2305.10839) |
 | 1841 | Improving Under-Resourced Code-Switched Speech Recognition: Large Pre-trained Models or Architectural Interventions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1194 | A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11073-b31b1b.svg)](https://arxiv.org/abs/2305.11073) |
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
