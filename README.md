@@ -393,13 +393,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2070 | Speaker Embeddings as Individuality Proxy for Voice Stress Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05915-b31b1b.svg)](https://arxiv.org/abs/2306.05915) |
 | 2213 | From Interval to Ordinal: A HMM based Approach for Emotion Label Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 661 | Turbo your Multi-modal Classification with Contrastive Learning | :heavy_minus_sign: | :heavy_minus_sign: |
-| 497 | Towards Paralinguistic-Only Speech Representations for End-to-End Speech Emotion Recognition |  |  |
-| 1360 | SOT: Self-supervised Learning-Assisted Optimal Transport for Unsupervised Adaptive Speech Emotion Recognition |  |  |
-| 2464 | On the Efficacy and Noise-robustness of Jointly Learned Speech Emotion and Automatic Speech Recognition |  |  |
-| 830 | Speaking State Decoder with Transition Detection for Next Speaker Prediction |  |  |
-| 1507 | What are Differences? Comparing DNN and Human by their Performance and Characteristics in Speaker Age Estimation |  |  |
-| 846 | Effects of Perceived Gender on the Perceived Social Function of Laughter |  |  |
-| 1999 | Implicit Phonetic Information Modeling for Speech Emotion Recognition |  |  |
+| 497 | Towards Paralinguistic-Only Speech Representations for End-to-End Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1360 | SOT: Self-supervised Learning-Assisted Optimal Transport for Unsupervised Adaptive Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2464 | On the Efficacy and Noise-robustness of Jointly Learned Speech Emotion and Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12540-b31b1b.svg)](https://arxiv.org/abs/2305.12540) |
+| 830 | Speaking State Decoder with Transition Detection for Next Speaker Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1507 | What are Differences? Comparing DNN and Human by their Performance and Characteristics in Speaker Age Estimation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 846 | Effects of Perceived Gender on the Perceived Social Function of Laughter | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1999 | Implicit Phonetic Information Modeling for Speech Emotion Recognition | :heavy_minus_sign: | [![idiap](https://img.shields.io/badge/idiap.ch.5062-FF6A00.svg)](https://publications.idiap.ch/publications/show/5062) |
 | 1034 | Computation and Memory Efficient Noise Adaptation of Wav2Vec2.0 for Noisy Speech Emotion Recognition with Skip Connection Adapters |  |  |
 | 300 | Multi-Level Knowledge Distillation for Speech Emotion Recognition in Noisy Conditions |  |  |
 | 1108 | Preference Learning Labels by Anchoring on Consecutive Annotations |  |  |
