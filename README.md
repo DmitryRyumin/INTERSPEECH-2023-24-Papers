@@ -400,12 +400,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1507 | What are Differences? Comparing DNN and Human by their Performance and Characteristics in Speaker Age Estimation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 846 | Effects of Perceived Gender on the Perceived Social Function of Laughter | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1999 | Implicit Phonetic Information Modeling for Speech Emotion Recognition | :heavy_minus_sign: | [![idiap](https://img.shields.io/badge/idiap.ch.5062-FF6A00.svg)](https://publications.idiap.ch/publications/show/5062) |
-| 1034 | Computation and Memory Efficient Noise Adaptation of Wav2Vec2.0 for Noisy Speech Emotion Recognition with Skip Connection Adapters |  |  |
-| 300 | Multi-Level Knowledge Distillation for Speech Emotion Recognition in Noisy Conditions |  |  |
-| 1108 | Preference Learning Labels by Anchoring on Consecutive Annotations |  |  |
-| 2561 | Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks |  |  |
-| 543 | Learning Local to Global Feature Aggregation for Speech Emotion Recognition |  |  |
-| 842 | Supervised Contrastive Learning with Nearest Neighbor Search for Speech Emotion Recognition |  |  |
+| 1034 | Computation and Memory Efficient Noise Adaptation of Wav2Vec2.0 for Noisy Speech Emotion Recognition with Skip Connection Adapters | :heavy_minus_sign: | :heavy_minus_sign: |
+| 300 | Multi-Level Knowledge Distillation for Speech Emotion Recognition in Noisy Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1108 | Preference Learning Labels by Anchoring on Consecutive Annotations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2561 | Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18640-b31b1b.svg)](https://arxiv.org/abs/2305.18640) |
+| 543 | Learning Local to Global Feature Aggregation for Speech Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01491-b31b1b.svg)](https://arxiv.org/abs/2306.01491) |
+| 842 | Supervised Contrastive Learning with Nearest Neighbor Search for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Enhancement and Denoising
 
