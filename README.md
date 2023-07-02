@@ -533,7 +533,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1922 | A neural architecture for selective attention to speech features | :heavy_minus_sign: | https://arxiv.org/abs/2206.05113 |
+| 1922 | A neural architecture for selective attention to speech features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1122 | Quantifying Informational Masking due to Masker Intelligibility in Same-talker Speech-in-speech Perception | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1476 | On the benefits of self-supervised learned speech representations for predicting human phonetic misperceptions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2154 | Predicting Perceptual Centers Located at Vowel Onset in German Speech Using Long Short-Term Memory Networks | :heavy_minus_sign: | :heavy_minus_sign: |
