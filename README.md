@@ -515,7 +515,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1497 | ZeroPrompt: Streaming Acoustic Encoders are Zero-Shot Masked LMs | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10649-b31b1b.svg)](https://arxiv.org/abs/2305.10649) |
 | 361 | Improved Training for End-to-End Streaming Automatic Speech Recognition Model with Punctuation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01296-b31b1b.svg)](https://arxiv.org/abs/2306.01296) |
 | 1129 | DCTX-Conformer: Dynamic Context Carry-over for Low Latency Unified Streaming and Non-streaming Conformer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08175-b31b1b.svg)](https://arxiv.org/abs/2306.08175) |
-| 1121 | Knowledge Distillation from Non-streaming toStreaming ASR Encoder using Auxiliary Non-streaming Layer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1121 | Knowledge Distillation from Non-streaming to Streaming ASR Encoder using Auxiliary Non-streaming Layer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 884 | Adaptive Contextual Biasing for Transducer Based Streaming Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00804-b31b1b.svg)](https://arxiv.org/abs/2306.00804) |
 
 ### Source Separation
