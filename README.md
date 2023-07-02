@@ -36,6 +36,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## Papers
 
+> **_NOTE:_** Final paper links will be added post-conference.
+
 ### Speech Synthesis: Prosody and Emotion
 
 | **#** | **Title** | **Repo** | **Paper** |
