@@ -611,8 +611,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2383 | VC-T: Streaming Voice Conversion based on Neural Transducer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 191 | Emo-StarGAN: A Semi-Supervised Any-to-Many Non-Parallel Emotion Preserving Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1788 | ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Speed | [![GitHub](https://img.shields.io/github/stars/MelissaChen15/control-vc)](https://github.com/MelissaChen15/control-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2209.11866-b31b1b.svg)](https://arxiv.org/abs/2209.11866) |
-| 1356 | Reverberation-Controllable Voice Conversion Using Reverberation Time Estimator |  |  |
-| 2558 | Cross-utterance Conditioned Coherent Speech Editing |  |  |
+| 1356 | Reverberation-Controllable Voice Conversion Using Reverberation Time Estimator | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2558 | Cross-utterance Conditioned Coherent Speech Editing | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech and Language in Health: From Remote Monitoring to Medical Conversations
 
