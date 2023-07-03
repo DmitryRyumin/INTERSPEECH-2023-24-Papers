@@ -600,7 +600,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 160 | Streaming Parrotron for On-device Speech-to-Speech Conversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.13761-b31b1b.svg)](https://arxiv.org/abs/2210.13761) |
 | 2407 | Exploiting Emotion Information in Speaker Embeddings for Expressive Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2518 | E2E-S2S-VC: End-to-End Sequence-to-Sequence Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2403 | DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer |  |  |
+| 2403 | DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19567-b31b1b.svg)](https://arxiv.org/abs/2305.19567) |
 | 419 | Voice Conversion With Just Nearest Neighbors |  |  |
 | 1193 | CFVC: Conditional Filtering for Controllable Voice Conversion |  |  |
 | 1157 | DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding |  |  |
