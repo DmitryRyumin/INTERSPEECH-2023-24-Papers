@@ -616,7 +616,37 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech and Language in Health: From Remote Monitoring to Medical Conversations
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+|963| Respiratory distress estimation in human-robot interaction scenario | :heavy_minus_sign: | :heavy_minus_sign: |
+|947| Towards robust paralinguistic assessment for real-world mobile health (mHealth) monitoring: an initial study of reverberation effects on speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2305.12514) |
+|301| On-the-Fly Feature Based Rapid Speaker Adaptation for Dysarthric and Elderly Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2203.14593) |
+|2079| Automatic Assessment of Alzheimer’s across Three Languages Using Speech and Language Features | :heavy_minus_sign: | :heavy_minus_sign: |
+|1722| Relationship between LTAS-based spectral moments and acoustic parameters of hypokinetic dysarthria in Parkinson’s disease | :heavy_minus_sign: | :heavy_minus_sign: |
+|1946| Active Learning for Abnormal Lung Sound Data Curation and Detection in Asthma | :heavy_minus_sign: | :heavy_minus_sign: |
+|913| Investigating the Utility of Synthetic Data for Doctor-Patient Conversation Summarization | :heavy_minus_sign: | :heavy_minus_sign: |
+|1263| Hyper-parameter Adaptation of Conformer ASR Systems for Elderly and Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2306.15265) |
+|322| Use of Speech Impairment Severity for Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2305.10659) |
+|1709| Bayesian Networks for the robust and unbiased prediction of depression and its symptoms utilizing speech and multimodal data | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://readpaper.com/paper/4770892998779076609) |
+|1332| Personalization for Robust Voice Pathology Detection in Sound Waves | :heavy_minus_sign: | :heavy_minus_sign: |
+|2287| An Automatic Multimodal Approach to Analyze Linguistic and Acoustic Cues on Parkinson’s Disease Patients | :heavy_minus_sign: | :heavy_minus_sign: |
+|1997| Classifying Dementia in the Presence of Depression: A Cross-Corpus Study | :heavy_minus_sign: | :heavy_minus_sign: |
+|2101| Non-uniform Speaker Disentanglement for Depression Detection from Raw Speech Signals | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2306.01861) |
+|296| FTA-net: A Frequency and Time Attention Network for Speech Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+|2249| Integrated and Enhanced Pipeline System to Support Spoken Language Analytics for Screening Neurocognitive Disorders | :heavy_minus_sign: | :heavy_minus_sign: |
+|1990| Capturing Mismatch between Textual and Acoustic Emotion Expressions for Mood Identification in Bipolar Disorder | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://emp.engin.umich.edu/wp-content/uploads/sites/67/2023/06/Capturing_Mismatch_between_Textual_and_Acoustic_Emotion_Expressions_for_Mood_Identification_in_Bipolar_Disorder-3.pdf) |
+|297| Exploiting Cross-Domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2206.07327) |
+|2100| Combining Multiple Multimodal Speech Features into an Interpretable Index Score for Capturing Disease Progression in Amyotrophic Lateral Sclerosis | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1FfcQifvTL9bTD7SBU7y_A3APgX8N_Vd0/view) |
+|2002| Responsiveness, Sensitivity and Clinical Utility of Timing-Related Speech Biomarkers for Remote Monitoring of ALS Disease Progression | :heavy_minus_sign: | :heavy_minus_sign: |
+|753| PoCaPNet: A Novel Approach for Surgical Phase Recognition Using Speech and X-Ray Images | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2305.15993) |
+|1721| Classifying depression symptom severity: Assessment of speech representations in personalized and generalized machine learning models. | :heavy_minus_sign: | :heavy_minus_sign: |
+|1435| Towards reference speech characterization for health applications | :heavy_minus_sign: | :heavy_minus_sign: |
+|1438| The MASCFLICHT Corpus: Face Mask Type and Coverage Area Recognition from Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+|721| MMLung: Moving Closer to Practical Lung Health Estimation using Smartphones | :heavy_minus_sign: | :heavy_minus_sign: |
+|1916| Whisper Encoder features for Infant Cry Classification | :heavy_minus_sign: | :heavy_minus_sign: |
+|464| Multi-class Detection of Pathological Speech with Latent Features: How does it perform on unseen data? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2210.15336) |
+|2146| Automatic Classification of Hypokinetic and Hyperkinetic Dysarthria based on GMM-Supervectors | :heavy_minus_sign: | :heavy_minus_sign: |
+|1771| Prediction of the Gender-based Violence Victim Condition using Speech: What do Machine Learning Models rely on? | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Novel Transformer Models for ASR
 
