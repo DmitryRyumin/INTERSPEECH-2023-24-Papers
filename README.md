@@ -589,7 +589,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 105 | Pyannote.Audio 2.1 Speaker Diarization Pipeline: Principle, Benchmark and Recipe | [![GitHub](https://img.shields.io/github/stars/pyannote/pyannote-audio)](https://github.com/pyannote/pyannote-audio) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://huggingface.co/bhuvanesh25/pyannote-diar-copy/resolve/main/technical_report_2.1.pdf) |
 | 1524 | Model Compression for DNN-based Speaker Verification using Weight Quantization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.17326-b31b1b.svg)](https://arxiv.org/abs/2210.17326) |
 | 1354 | Multi-resolution Approach to Identification of Spoken Languages and to Improve Overall Language Diarization System using Whisper Model | :heavy_minus_sign: | :heavy_minus_sign: |
-| 125 | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10940-b31b1b.svg)](https://arxiv.org/abs/2305.10940)|
+| 125 | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10940-b31b1b.svg)](https://arxiv.org/abs/2305.10940) |
 | 849 | Dynamic Fully-Connected Layer for Large-Scale Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis and Voice Conversion
@@ -597,9 +597,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 2336 | Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction | :heavy_minus_sign: | :heavy_minus_sign: |
-| 160 | Streaming Parrotron for On-device Speech-to-Speech Conversion |  |  |
-| 2407 | Exploiting Emotion Information in Speaker Embeddings for Expressive Text-to-Speech |  |  |
-| 2518 | E2E-S2S-VC: End-to-End Sequence-to-Sequence Voice Conversion |  |  |
+| 160 | Streaming Parrotron for On-device Speech-to-Speech Conversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.13761-b31b1b.svg)](https://arxiv.org/abs/2210.13761) |
+| 2407 | Exploiting Emotion Information in Speaker Embeddings for Expressive Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2518 | E2E-S2S-VC: End-to-End Sequence-to-Sequence Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2403 | DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer |  |  |
 | 419 | Voice Conversion With Just Nearest Neighbors |  |  |
 | 1193 | CFVC: Conditional Filtering for Controllable Voice Conversion |  |  |
