@@ -607,10 +607,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 39 | Attention-based Interactive Disentangling Network for Instance-level Emotional Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 836 | ALO-VC: Any-to-any Low-latency One-shot Voice Conversion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://bohan7.github.io/ALO-VC-demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01100-b31b1b.svg)](https://arxiv.org/abs/2306.01100) |
 | 1978 | Evaluating and Reducing the Distance between Synthetic and Real Speech Distributions | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2211.16049) |
-| 2202 | Decoupling Segmental and Prosodic cues of Non-native Speech through Vector Quantization |  |  |
-| 2383 | VC-T: Streaming Voice Conversion based on Neural Transducer |  |  |
-| 191 | Emo-StarGAN: A Semi-Supervised Any-to-Many Non-Parallel Emotion Preserving Voice Conversion |  |  |
-| 1788 | ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Speed |  |  |
+| 2202 | Decoupling Segmental and Prosodic cues of Non-native Speech through Vector Quantization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2383 | VC-T: Streaming Voice Conversion based on Neural Transducer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 191 | Emo-StarGAN: A Semi-Supervised Any-to-Many Non-Parallel Emotion Preserving Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1788 | ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Speed | [![GitHub](https://img.shields.io/github/stars/MelissaChen15/control-vc)](https://github.com/MelissaChen15/control-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2209.11866-b31b1b.svg)](https://arxiv.org/abs/2209.11866) |
 | 1356 | Reverberation-Controllable Voice Conversion Using Reverberation Time Estimator |  |  |
 | 2558 | Cross-utterance Conditioned Coherent Speech Editing |  |  |
 
