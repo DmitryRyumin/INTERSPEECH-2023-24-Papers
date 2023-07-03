@@ -594,7 +594,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis and Voice Conversion
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2336 | Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction |  |  |
+| 160 | Streaming Parrotron for On-device Speech-to-Speech Conversion |  |  |
+| 2407 | Exploiting Emotion Information in Speaker Embeddings for Expressive Text-to-Speech |  |  |
+| 2518 | E2E-S2S-VC: End-to-End Sequence-to-Sequence Voice Conversion |  |  |
+| 2403 | DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer |  |  |
+| 419 | Voice Conversion With Just Nearest Neighbors |  |  |
+| 1193 | CFVC: Conditional Filtering for Controllable Voice Conversion |  |  |
+| 1157 | DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding |  |  |
+| 39 | Attention-based Interactive Disentangling Network for Instance-level Emotional Voice Conversion |  |  |
+| 836 | ALO-VC: Any-to-any Low-latency One-shot Voice Conversion |  |  |
+| 1978 | Evaluating and Reducing the Distance between Synthetic and Real Speech Distributions |  |  |
+| 2202 | Decoupling Segmental and Prosodic cues of Non-native Speech through Vector Quantization |  |  |
+| 2383 | VC-T: Streaming Voice Conversion based on Neural Transducer |  |  |
+| 191 | Emo-StarGAN: A Semi-Supervised Any-to-Many Non-Parallel Emotion Preserving Voice Conversion |  |  |
+| 1788 | ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Speed |  |  |
+| 1356 | Reverberation-Controllable Voice Conversion Using Reverberation Time Estimator |  |  |
+| 2558 | Cross-utterance Conditioned Coherent Speech Editing |  |  |
 
 ### Speech and Language in Health: From Remote Monitoring to Medical Conversations
 
