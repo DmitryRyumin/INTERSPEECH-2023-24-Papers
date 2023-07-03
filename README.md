@@ -587,7 +587,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ----- | --------- |:--------:|:---------:|
 | 2228 | Conmer: Streaming Conformer without Self-attention for Interactive Voice Assistants | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/conmer-streaming-conformer-without-self-attention-for-interactive-voice-assistants) |
 | 1255 | Intra-ensemble: A New Method for Combining Intermediate Outputs in Transformer-based Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1194 | A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11073-b31b1b.svg)](https://arxiv.org/abs/2305.11073) |
+| 1194 | A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11073-b31b1b.svg)](https://arxiv.org/abs/2305.11073) |
 | 1611 | HyperConformer: Multi-head HyperMixer for Efficient Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18281-b31b1b.svg)](https://arxiv.org/abs/2305.18281) |
 | 893 | Memory-augmented Conformer for Improved End-To-end Long-form ASR | :heavy_minus_sign: | :heavy_minus_sign: |
 | 552 | Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.13307-b31b1b.svg)](https://arxiv.org/abs/2306.13307) |
