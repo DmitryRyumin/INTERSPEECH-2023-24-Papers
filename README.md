@@ -573,10 +573,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1989  | Vietnam-Celeb: a large-scale dataset for Vietnamese speaker recognition | :heavy_minus_sign:            | :heavy_minus_sign: |
-| 2254  | What Can an Accent Identifier Learn? Probing Phonetic and Prosodic Information in a Wav2vec2-based Accent Identification Model | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2306.06524) |
-| 241   | The 2022 NIST Language Recognition Evaluation                     | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2302.14624) |
-| 1446  | MERLIon CCS Challenge: A EnglishMandarin code-switching child-directed speech corpus for language identification and diarization | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.18881)  |
+| 1989 | Vietnam-Celeb: a Large-scale Dataset for Vietnamese Speaker Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2254 | What Can an Accent Identifier Learn? Probing Phonetic and Prosodic Information in a Wav2vec2-based Accent Identification Model | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://is23-2254.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.06524-b31b1b.svg)](https://arxiv.org/abs/2306.06524) |
+| 241 | The 2022 NIST Language Recognition Evaluation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.14624-b31b1b.svg)](https://arxiv.org/abs/2302.14624) |
+| 1446 | MERLIon CCS Challenge: A English-Mandarin Code-switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
 | 1725  | ACA-Net: Towards Lightweight Speaker Verification using Asymmetric Cross Attention | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.12121)   |
 | 402   | Branch-ECAPA-TDNN: A Parallel Branch Architecture to Capture Local and Global Features for Speaker Verification | :heavy_minus_sign:            | :heavy_minus_sign:   |
 | 2052  | Speaker Verification Across Ages: Investigating Deep Speaker  Embedding Sensitivity to Age Mismatch in Enrollment and Test Speech  | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2306.07501)|
@@ -591,7 +591,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1354  | Multi-resolution approach to Identification of spoken languages and to improve overall Language Diarization System using Whisper Model | :heavy_minus_sign:            | :heavy_minus_sign:   |
 | 125   | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.10940)|
 | 849   | Dynamic Fully-Connected Layer for Large-Scale Speaker Verification | :heavy_minus_sign:            | :heavy_minus_sign:   |
-
 
 ### Speech Synthesis and Voice Conversion
 
@@ -609,7 +608,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1255 | Intra-ensemble: A New Method for Combining Intermediate Outputs in Transformer-based Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1194 | A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11073-b31b1b.svg)](https://arxiv.org/abs/2305.11073) |
 | 1611 | HyperConformer: Multi-head HyperMixer for Efficient Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18281-b31b1b.svg)](https://arxiv.org/abs/2305.18281) |
-| 893 | Memory-augmented Conformer for Improved End-To-end Long-form ASR | :heavy_minus_sign: | :heavy_minus_sign: |
+| 893 | Memory-augmented Conformer for Improved End-To-End Long-form ASR | :heavy_minus_sign: | :heavy_minus_sign: |
 | 552 | Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.13307-b31b1b.svg)](https://arxiv.org/abs/2306.13307) |
 
 ### Speaker Recognition
