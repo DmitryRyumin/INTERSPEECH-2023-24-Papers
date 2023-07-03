@@ -799,6 +799,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 <p align="center">
     <a href="https://star-history.com/#Dmitryryumin/Interspeech-2023-papers&Date" target="_blank">
-        <img width="400" src="https://api.star-history.com/svg?repos=Dmitryryumin/Interspeech-2023-papers&type=Date" alt="Star History Chart">
+        <img width="500" src="https://api.star-history.com/svg?repos=Dmitryryumin/Interspeech-2023-papers&type=Date" alt="Star History Chart">
     </a>
 <p>
