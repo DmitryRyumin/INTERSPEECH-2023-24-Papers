@@ -582,10 +582,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2052 | Speaker Verification Across Ages: Investigating Deep Speaker Embedding Sensitivity to Age Mismatch in Enrollment and Test Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07501-b31b1b.svg)](https://arxiv.org/abs/2306.07501)|
 | 2569 | Wavelet Scattering Transform for Improving Generalization in Low-Resourced Spoken Language Identification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1407 | A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-Trained General Purpose Speech Model | [![GitHub](https://img.shields.io/github/stars/Srijith-rkr/KAUST-Whisper-Adapter)](https://github.com/Srijith-rkr/KAUST-Whisper-Adapter) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11244-b31b1b.svg)](https://arxiv.org/abs/2305.11244)|
-| 2272  | HABLA: A dataset of Latin American Spanish accents for voice anti-spoofing | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 1702  | Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory | :heavy_minus_sign:            | :heavy_minus_sign:    |
-| 800   | Extremely Low Bit Quantization for Mobile Speaker Verification Systems Under 1MB Memory | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 1974  | Unsupervised Out-of-Distribution Dialect Detection with Mahalanobis Distance | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2302.10326)|
+| 2272 | HABLA: A Dataset of Latin American Spanish Accents for Voice Anti-spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1702 | Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory | :heavy_minus_sign: | :heavy_minus_sign: |
+| 800 | Extremely Low Bit Quantization for Mobile Speaker Verification Systems Under 1MB Memory | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1974 | Unsupervised Out-of-Distribution Dialect Detection with Mahalanobis Distance | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.10326-b31b1b.svg)](https://arxiv.org/abs/2302.10326) |
 | 105   | pyannote.audio 2.1 speaker diarization pipeline: principle, benchmark and recipe | :heavy_minus_sign:            | [🤗 huggingface](https://huggingface.co/bhuvanesh25/pyannote-diar-copy/resolve/main/technical_report_2.1.pdf)|
 | 1524  | Model Compression for DNN-based Speaker Verification Using Weight Quantization | :heavy_minus_sign:            | :heavy_minus_sign:   |
 | 1354  | Multi-resolution approach to Identification of spoken languages and to improve overall Language Diarization System using Whisper Model | :heavy_minus_sign:            | :heavy_minus_sign:   |
