@@ -573,24 +573,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1989  | Vietnam-Celeb: a large-scale dataset for Vietnamese speaker rec... | :heavy_minus_sign:            | :heavy_minus_sign: |
-| 2254  | What Can an Accent Identifier Learn? Probing Phonetic and Pros... | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2306.06524) |
+| 1989  | Vietnam-Celeb: a large-scale dataset for Vietnamese speaker recognition | :heavy_minus_sign:            | :heavy_minus_sign: |
+| 2254  | What Can an Accent Identifier Learn? Probing Phonetic and Prosodic Information in a Wav2vec2-based Accent Identification Model | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2306.06524) |
 | 241   | The 2022 NIST Language Recognition Evaluation                     | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2302.14624) |
-| 1446  | MERLIon CCS Challenge: A EnglishMandarin code-switching child... | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.18881)  |
-| 1725  | ACA-Net: Towards Lightweight Speaker Verification using Asym... | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.12121)   |
-| 402   | Branch-ECAPA-TDNN: A Parallel Branch Architecture to Capture... | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 2052  | Speaker Verification Across Ages: Investigating Deep Speaker... | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2306.07501)|
-| 2569  | Wavelet Scattering Transform for Improving Generalization in... | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 1407  | A Parameter-Efficient Learning Approach to Arabic Dialect Id... | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.11244)|
-| 2272  | HABLA: A dataset of Latin American Spanish accents for voice... | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 1702  | Self-supervised Learning Representation based Accent Recogn... | :heavy_minus_sign:            | :heavy_minus_sign:    |
-| 800   | Extremely Low Bit Quantization for Mobile Speaker Verificati... | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 1974  | Unsupervised Out-of-Distribution Dialect Detection with Maha... | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2302.10326)|
-| 105   | pyannote.audio 2.1 speaker diarization pipeline: principle, b... | :heavy_minus_sign:            | [🤗 huggingface](https://huggingface.co/bhuvanesh25/pyannote-diar-copy/resolve/main/technical_report_2.1.pdf)|
-| 1524  | Model Compression for DNN-based Speaker Verification Using W... | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 1354  | Multi-resolution approach to Identification of spoken langua... | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 125   | Improving Generalization Ability of Countermeasures for New ... | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.10940)|
-| 849   | Dynamic Fully-Connected Layer for Large-Scale Speaker Verifi... | :heavy_minus_sign:            | :heavy_minus_sign:   |
+| 1446  | MERLIon CCS Challenge: A EnglishMandarin code-switching child-directed speech corpus for language identification and diarization | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.18881)  |
+| 1725  | ACA-Net: Towards Lightweight Speaker Verification using Asymmetric Cross Attention | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.12121)   |
+| 402   | Branch-ECAPA-TDNN: A Parallel Branch Architecture to Capture Local and Global Features for Speaker Verification | :heavy_minus_sign:            | :heavy_minus_sign:   |
+| 2052  | Speaker Verification Across Ages: Investigating Deep Speaker  Embedding Sensitivity to Age Mismatch in Enrollment and Test Speech  | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2306.07501)|
+| 2569  | Wavelet Scattering Transform for Improving Generalization in Low-Resourced Spoken Language Identification | :heavy_minus_sign:            | :heavy_minus_sign:   |
+| 1407  | A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-Trained General Purpose Speech Model | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.11244)|
+| 2272  | HABLA: A dataset of Latin American Spanish accents for voice anti-spoofing | :heavy_minus_sign:            | :heavy_minus_sign:   |
+| 1702  | Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory | :heavy_minus_sign:            | :heavy_minus_sign:    |
+| 800   | Extremely Low Bit Quantization for Mobile Speaker Verification Systems Under 1MB Memory | :heavy_minus_sign:            | :heavy_minus_sign:   |
+| 1974  | Unsupervised Out-of-Distribution Dialect Detection with Mahalanobis Distance | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2302.10326)|
+| 105   | pyannote.audio 2.1 speaker diarization pipeline: principle, benchmark and recipe | :heavy_minus_sign:            | [🤗 huggingface](https://huggingface.co/bhuvanesh25/pyannote-diar-copy/resolve/main/technical_report_2.1.pdf)|
+| 1524  | Model Compression for DNN-based Speaker Verification Using Weight Quantization | :heavy_minus_sign:            | :heavy_minus_sign:   |
+| 1354  | Multi-resolution approach to Identification of spoken languages and to improve overall Language Diarization System using Whisper Model | :heavy_minus_sign:            | :heavy_minus_sign:   |
+| 125   | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.10940)|
+| 849   | Dynamic Fully-Connected Layer for Large-Scale Speaker Verification | :heavy_minus_sign:            | :heavy_minus_sign:   |
 
 
 ### Speech Synthesis and Voice Conversion
