@@ -587,10 +587,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 800 | Extremely Low Bit Quantization for Mobile Speaker Verification Systems Under 1MB Memory | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1974 | Unsupervised Out-of-Distribution Dialect Detection with Mahalanobis Distance | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.10326-b31b1b.svg)](https://arxiv.org/abs/2302.10326) |
 | 105 | Pyannote.Audio 2.1 Speaker Diarization Pipeline: Principle, Benchmark and Recipe | [![GitHub](https://img.shields.io/github/stars/pyannote/pyannote-audio)](https://github.com/pyannote/pyannote-audio) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://huggingface.co/bhuvanesh25/pyannote-diar-copy/resolve/main/technical_report_2.1.pdf) |
-| 1524  | Model Compression for DNN-based Speaker Verification Using Weight Quantization | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 1354  | Multi-resolution approach to Identification of spoken languages and to improve overall Language Diarization System using Whisper Model | :heavy_minus_sign:            | :heavy_minus_sign:   |
-| 125   | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign:            | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2305.10940)|
-| 849   | Dynamic Fully-Connected Layer for Large-Scale Speaker Verification | :heavy_minus_sign:            | :heavy_minus_sign:   |
+| 1524 | Model Compression for DNN-based Speaker Verification using Weight Quantization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.17326-b31b1b.svg)](https://arxiv.org/abs/2210.17326) |
+| 1354 | Multi-resolution Approach to Identification of Spoken Languages and to Improve Overall Language Diarization System using Whisper Model | :heavy_minus_sign: | :heavy_minus_sign: |
+| 125 | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10940-b31b1b.svg)](https://arxiv.org/abs/2305.10940)|
+| 849 | Dynamic Fully-Connected Layer for Large-Scale Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis and Voice Conversion
 
