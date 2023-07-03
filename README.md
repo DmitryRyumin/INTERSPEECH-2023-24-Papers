@@ -596,7 +596,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 2336 | Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction |  |  |
+| 2336 | Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction | :heavy_minus_sign: | :heavy_minus_sign: |
 | 160 | Streaming Parrotron for On-device Speech-to-Speech Conversion |  |  |
 | 2407 | Exploiting Emotion Information in Speaker Embeddings for Expressive Text-to-Speech |  |  |
 | 2518 | E2E-S2S-VC: End-to-End Sequence-to-Sequence Voice Conversion |  |  |
