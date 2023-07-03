@@ -601,7 +601,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2407 | Exploiting Emotion Information in Speaker Embeddings for Expressive Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2518 | E2E-S2S-VC: End-to-End Sequence-to-Sequence Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2403 | DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19567-b31b1b.svg)](https://arxiv.org/abs/2305.19567) |
-| 419 | Voice Conversion With Just Nearest Neighbors |  |  |
+| 419 | Voice Conversion With Just Nearest Neighbors | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://bshall.github.io/knn-vc/) <br /> [![GitHub](https://img.shields.io/github/stars/bshall/knn-vc)](https://github.com/bshall/knn-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18975-b31b1b.svg)](https://arxiv.org/abs/2305.18975) |
 | 1193 | CFVC: Conditional Filtering for Controllable Voice Conversion |  |  |
 | 1157 | DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding |  |  |
 | 39 | Attention-based Interactive Disentangling Network for Instance-level Emotional Voice Conversion |  |  |
