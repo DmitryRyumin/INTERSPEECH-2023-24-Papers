@@ -792,3 +792,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Speech Synthesis: Multilinguality; Evaluation
 
 > Will soon be added
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dmitryryumin/Interspeech-2023-papers&type=Date)](https://star-history.com/#Dmitryryumin/Interspeech-2023-papers&Date)
