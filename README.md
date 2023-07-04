@@ -509,7 +509,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2473 | Crowdsource-based Validation of the Audio Cocktail as a Sound Browsing Tool | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1675 | PunCantonese: A Benchmark Corpus for Low-Resource Cantonese Punctuation Restoration from Speech Transcripts | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1358 | Speech-to-Face Conversion using Denoising Diffusion Probabilistic Models | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2255 | Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation |  |  |
+| 2255 | Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16897-b31b1b.svg)](https://arxiv.org/abs/2305.16897) |
 
 ### Speech, Voice, and Hearing Disorders
 
