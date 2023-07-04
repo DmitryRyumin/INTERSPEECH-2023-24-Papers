@@ -497,7 +497,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1674 | CN-Celeb-AV: A Multi-Genre Audio-Visual Dataset for Person Recognition | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](http://cnceleb.org/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16049-b31b1b.svg)](https://arxiv.org/abs/2305.16049) |
 | 1762 | Improving Zero-shot Cross-domain Slot Filling via Transformer-based Slot Semantics Fusion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 619 | Rethinking Transfer and Auxiliary Learning for Improving Audio Captioning Transformer | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1468 | Boosting Punctuation Restoration with Data Generation and Reinforcement Learning |  |  |
+| 1468 | Boosting Punctuation Restoration with Data Generation and Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 695 | J-ToneNet: A Transformer-based Encoding Network for Improving Tone Classification in Continuous Speech via F0 Sequences |  |  |
 | 1152 | Towards Cross-language ProsodyTransfer for Dialog |  |  |
 | 2506 | Strategies for Improving Low Resource Speech to Text Translation Relying on Pre-trained ASR Models |  |  |
