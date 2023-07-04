@@ -710,7 +710,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Pathological Speech Analysis
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2093 | Multimodal assessment of bulbar amyotrophic lateral sclerosis (ALS) using a novel remote speech assessment app | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 2181 | On the Use of High Frequency Information for Voice Pathology Classification | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 1784 | Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora? | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 2531 | Severity Classification of Parkinson’s Disease from Speech using Single Frequency Filtering-based Features | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 1915 | Comparison of acoustic measures of dysphonia in Parkinson’s disease and Huntington’s disease: Effect of sex and speaking task | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctua-tion and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.03443) | 
+
 
 ### Multimodal Speech Emotion Recognition
 
