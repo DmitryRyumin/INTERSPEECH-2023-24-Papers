@@ -689,9 +689,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 97 | Phonetic-assisted Multi-Target Units Modeling for Improving Conformer-Transducer ASR System |  |  |
-| 1338 | UniSplice: Universal Cross-Lingual Data Splicing for Low-Resource ASR |  |  |
-| 772 | Allophant: Cross-lingual Phoneme Recognition with Articulatory Attributes |  |  |
+| 97 | Phonetic-assisted Multi-Target Units Modeling for Improving Conformer-Transducer ASR System | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.01571-b31b1b.svg)](https://arxiv.org/abs/2211.01571) |
+| 1338 | UniSplice: Universal Cross-Lingual Data Splicing for Low-Resource ASR | :heavy_minus_sign: | :heavy_minus_sign: |
+| 772 | Allophant: Cross-lingual Phoneme Recognition with Articulatory Attributes | [![GitHub](https://img.shields.io/github/stars/Aariciah/allophoible)](https://github.com/Aariciah/allophoible) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04306-b31b1b.svg)](https://arxiv.org/abs/2306.04306) |
 | 1630 | Fast and Efficient Multilingual Self-Supervised Pre-training for Low-Resource Speech Recognition |  |  |
 | 1061 | Comparison of Multilingual Self-Supervised and Weakly-Supervised Speech Pre-Training for Adaptation to Unseen Languages |  |  |
 | 1444 | DistilXLSR: A Light Weight Cross-Lingual Speech Representation Model |  |  |
