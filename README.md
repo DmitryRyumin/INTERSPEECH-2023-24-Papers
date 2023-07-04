@@ -710,7 +710,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Phonetics, Phonology, and Prosody
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1443 | Effects of meter, genre and experience on pausing, lengthening and prosodic phrasing in German poetry reading | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1142 | Comparing first spectral moment of Australian English /s/ between straight and gay voices using three analysis window sizes | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2584 | Universal Automatic Phonetic Transcription into the International Phonetic Alphabet | [![GitHub](https://img.shields.io/github/stars/ctaguchi/multipa)](https://github.com/ctaguchi/multipa) | :heavy_minus_sign: |
 
 ### Speech Coding: Privacy
 
