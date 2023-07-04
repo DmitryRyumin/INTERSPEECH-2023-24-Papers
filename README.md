@@ -493,6 +493,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 891 | Knowledge Distillation on Joint Task End-to-End Speech Translation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/knowledge-distillation-on-joint-task-end-to-end-speech-translation) |
 | 343 | Investigating Pre-trained Audio Encoders in the Low-Resource Condition | [![GitHub](https://img.shields.io/github/stars/YangHao97/investigateAudioEncoders)](https://github.com/YangHao97/investigateAudioEncoders) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17733-b31b1b.svg)](https://arxiv.org/abs/2305.17733) |
 | 1718 | Improving Textless Spoken Language Understanding with Discrete Units as Intermediate Target | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18096-b31b1b.svg)](https://arxiv.org/abs/2305.18096) |
+| 823 | MAVD: The First Open Large-Scale Mandarin Audio-Visual Dataset with Depth Information | [![GitHub](https://img.shields.io/github/stars/SpringHuo/MAVD)](https://github.com/YangHao97/investigateAudioEncoders) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02263-b31b1b.svg)](https://arxiv.org/abs/2306.02263) |
+| 1674 | CN-Celeb-AV: A Multi-Genre Audio-Visual Dataset for Person Recognition |  |  |
+| 1762 | Improving Zero-shot Cross-domain Slot Filling via Transformer-based Slot Semantics Fusion |  |  |
+| 619 | Rethinking Transfer and Auxiliary Learning for Improving Audio Captioning Transformer |  |  |
+| 1468 | Boosting Punctuation Restoration with Data Generation and Reinforcement Learning |  |  |
+| 695 | J-ToneNet: A Transformer-based Encoding Network for Improving Tone Classification in Continuous Speech via F0 Sequences |  |  |
+| 1152 | Towards Cross-language ProsodyTransfer for Dialog |  |  |
+| 2506 | Strategies for Improving Low Resource Speech to Text Translation Relying on Pre-trained ASR Models |  |  |
+| 1980 | ITALIC: An Italian Intent Classification Dataset |  |  |
+| 1778 | Perceptual and Task-Oriented Assessment of a Semantic Metric for ASR Evaluation |  |  |
+| 1466 | How ChatGPT is Robust for Spoken Language Understanding? |  |  |
+| 1233 | GigaST: A 10,000-hour Pseudo Speech Translation Corpus |  |  |
+| 1570 | Boosting Chinese ASR Error Correction with Dynamic Error Scaling Mechanism |  |  |
+| 2473 | Crowdsource-based Validation of the Audio Cocktail as a Sound Browsing Tool |  |  |
+| 1675 | PunCantonese: A Benchmark Corpus for Low-Resource Cantonese Punctuation Restoration from Speech Transcripts |  |  |
+| 1358 | Speech-to-Face Conversion using Denoising Diffusion Probabilistic Models |  |  |
+| 2255 | Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation |  |  |
 
 ### Speech, Voice, and Hearing Disorders
 
