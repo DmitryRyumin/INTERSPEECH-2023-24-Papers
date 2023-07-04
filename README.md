@@ -678,7 +678,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speaker Recognition
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1294 | An Enhanced Res2Net with Local and Global Feature Fusion for Speaker Verification |  |  |
+| 1286 | A Study on Visualization of Voiceprint Feature |  |  |
+| 1083 | VoxTube: a Multilingual Speaker Recognition Dataset |  |  |
+| 1298 | Visualizing Data Augmentation in Deep Speaker Recognition |  |  |
 
 ### Cross-lingual and Multilingual ASR
 
