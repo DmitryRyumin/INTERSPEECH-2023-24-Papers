@@ -694,7 +694,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 772 | Allophant: Cross-lingual Phoneme Recognition with Articulatory Attributes | [![GitHub](https://img.shields.io/github/stars/Aariciah/allophoible)](https://github.com/Aariciah/allophoible) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04306-b31b1b.svg)](https://arxiv.org/abs/2306.04306) |
 | 1630 | Fast and Efficient Multilingual Self-Supervised Pre-training for Low-Resource Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1061 | Comparison of Multilingual Self-Supervised and Weakly-Supervised Speech Pre-Training for Adaptation to Unseen Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2305.12606) |
-| 1444 | DistilXLSR: A Light Weight Cross-Lingual Speech Representation Model |  |  |
+| 1444 | DistilXLSR: A Light Weight Cross-Lingual Speech Representation Model | [![GitHub](https://img.shields.io/github/stars/backspacetg/distilXLSR)](https://github.com/backspacetg/distilXLSR) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01303-b31b1b.svg)](https://arxiv.org/abs/2306.01303) |
 
 ### Voice Conversion
 
