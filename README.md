@@ -698,7 +698,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Voice Conversion
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 251 | Emotional Voice Conversion with Semi-Supervised Generative Modeling |:heavy_minus_sign:| :heavy_minus_sign: | 
+| 817 | Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation |:heavy_minus_sign: | :heavy_minus_sign: | 
+| 215 | S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 1508 | Flow-VAE VC: End-to-End Flow Framework with Contrastive Loss for Zero-shot Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1602 | Automatic Speech Disentanglement for Voice Conversion using Rank Module and Speech Augmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hhhuazi.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.12259) | 
+| 2298 | End-to-End Zero-Shot Voice Conversion with Location-Variable Convolutions | [![GitHub](https://img.shields.io/github/stars/wonjune-kang/lvc-vc)](https://github.com/wonjune-kang/lvc-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2205.09784) | 
+
 
 ### Pathological Speech Analysis
 
@@ -804,7 +812,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1212 | Parameter-Efficient Learning for Text-to-Speech Accent Adaptation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tts-research.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/TTS-Research/PEL-TTS)](https://github.com/TTS-Research/PEL-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11320-b31b1b.svg)](https://arxiv.org/abs/2305.11320) |
+| 1212 | Parameter-Efficient Learning for Text-to-Speech Accent Adaptation | 
+(https://tts-research.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/TTS-Research/PEL-TTS)](https://github.com/TTS-Research/PEL-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11320-b31b1b.svg)](https://arxiv.org/abs/2305.11320) |
 
 ### Speech Synthesis: Controllability and Adaptation
 
