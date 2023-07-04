@@ -501,7 +501,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 695 | J-ToneNet: A Transformer-based Encoding Network for Improving Tone Classification in Continuous Speech via F0 Sequences | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1152 | Towards Cross-language Prosody Transfer for Dialog | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2506 | Strategies for Improving Low Resource Speech to Text Translation Relying on Pre-trained ASR Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00208-b31b1b.svg)](https://arxiv.org/abs/2306.00208) |
-| 1980 | ITALIC: An Italian Intent Classification Dataset |  |  |
+| 1980 | ITALIC: An Italian Intent Classification Dataset | [![GitHub](https://img.shields.io/github/stars/RiTA-nlp/ITALIC)](https://github.com/RiTA-nlp/ITALIC) | [![arXiv](https://img.shields.io/badge/arXiv-2306.08502-b31b1b.svg)](https://arxiv.org/abs/2306.08502) |
 | 1778 | Perceptual and Task-Oriented Assessment of a Semantic Metric for ASR Evaluation |  |  |
 | 1466 | How ChatGPT is Robust for Spoken Language Understanding? |  |  |
 | 1233 | GigaST: A 10,000-hour Pseudo Speech Translation Corpus |  |  |
