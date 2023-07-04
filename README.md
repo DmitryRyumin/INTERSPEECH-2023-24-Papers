@@ -687,7 +687,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Cross-lingual and Multilingual ASR
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 97 | Phonetic-assisted Multi-Target Units Modeling for Improving Conformer-Transducer ASR System |  |  |
+| 1338 | UniSplice: Universal Cross-Lingual Data Splicing for Low-Resource ASR |  |  |
+| 772 | Allophant: Cross-lingual Phoneme Recognition with Articulatory Attributes |  |  |
+| 1630 | Fast and Efficient Multilingual Self-Supervised Pre-training for Low-Resource Speech Recognition |  |  |
+| 1061 | Comparison of Multilingual Self-Supervised and Weakly-Supervised Speech Pre-Training for Adaptation to Unseen Languages |  |  |
+| 1444 | DistilXLSR: A Light Weight Cross-Lingual Speech Representation Model |  |  |
 
 ### Voice Conversion
 
