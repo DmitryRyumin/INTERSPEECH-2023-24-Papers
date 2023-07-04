@@ -505,10 +505,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1778 | Perceptual and Task-Oriented Assessment of a Semantic Metric for ASR Evaluation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1466 | How ChatGPT is Robust for Spoken Language Understanding? | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1233 | GigaST: A 10,000-hour Pseudo Speech Translation Corpus | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://st-benchmark.github.io/resources/GigaST.html) | [![arXiv](https://img.shields.io/badge/arXiv-2204.03939-b31b1b.svg)](https://arxiv.org/abs/2204.03939) |
-| 1570 | Boosting Chinese ASR Error Correction with Dynamic Error Scaling Mechanism |  |  |
-| 2473 | Crowdsource-based Validation of the Audio Cocktail as a Sound Browsing Tool |  |  |
-| 1675 | PunCantonese: A Benchmark Corpus for Low-Resource Cantonese Punctuation Restoration from Speech Transcripts |  |  |
-| 1358 | Speech-to-Face Conversion using Denoising Diffusion Probabilistic Models |  |  |
+| 1570 | Boosting Chinese ASR Error Correction with Dynamic Error Scaling Mechanism | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2473 | Crowdsource-based Validation of the Audio Cocktail as a Sound Browsing Tool | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1675 | PunCantonese: A Benchmark Corpus for Low-Resource Cantonese Punctuation Restoration from Speech Transcripts | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1358 | Speech-to-Face Conversion using Denoising Diffusion Probabilistic Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2255 | Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation |  |  |
 
 ### Speech, Voice, and Hearing Disorders
