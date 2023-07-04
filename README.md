@@ -717,12 +717,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1784 | Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora? | :heavy_minus_sign: | :heavy_minus_sign: | 
 | 2531 | Severity Classification of Parkinson’s Disease from Speech using Single Frequency Filtering-based Features | :heavy_minus_sign: | :heavy_minus_sign: | 
 | 1915 | Comparison of acoustic measures of dysphonia in Parkinson’s disease and Huntington’s disease: Effect of sex and speaking task | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctua-tion and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.03443) | 
+| 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.03443) | 
 
 
 ### Multimodal Speech Emotion Recognition
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1832 | LanSER: Language-Model Supported Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 463 | Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 1591 | Emotion Label Encoding using Word Embeddings for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 2444 | Discrimination of the Different Intents Carried by the Same Text Through Integrating Multimodal Information | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 510 | Meta-domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-sentiment Predictions | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 413 | SWRR: Feature Map Classifier Based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: | 
+
 
 ### Phonetics, Phonology, and Prosody
 
