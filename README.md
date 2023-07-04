@@ -681,9 +681,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 1294 | An Enhanced Res2Net with Local and Global Feature Fusion for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/3D-Speaker)](https://github.com/alibaba-damo-academy/3D-Speaker) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12838-b31b1b.svg)](https://arxiv.org/abs/2305.12838) |
-| 1286 | A Study on Visualization of Voiceprint Feature |  |  |
-| 1083 | VoxTube: a Multilingual Speaker Recognition Dataset |  |  |
-| 1298 | Visualizing Data Augmentation in Deep Speaker Recognition |  |  |
+| 1286 | A Study on Visualization of Voiceprint Feature | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1083 | VoxTube: a Multilingual Speaker Recognition Dataset | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1298 | Visualizing Data Augmentation in Deep Speaker Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16070-b31b1b.svg)](https://arxiv.org/abs/2305.16070) |
 
 ### Cross-lingual and Multilingual ASR
 
