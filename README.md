@@ -812,8 +812,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1212 | Parameter-Efficient Learning for Text-to-Speech Accent Adaptation | 
-(https://tts-research.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/TTS-Research/PEL-TTS)](https://github.com/TTS-Research/PEL-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11320-b31b1b.svg)](https://arxiv.org/abs/2305.11320) |
+| 1212 | Parameter-Efficient Learning for Text-to-Speech Accent Adaptation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tts-research.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/TTS-Research/PEL-TTS)](https://github.com/TTS-Research/PEL-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11320-b31b1b.svg)](https://arxiv.org/abs/2305.11320) |
 
 ### Speech Synthesis: Controllability and Adaptation
 
