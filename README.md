@@ -494,7 +494,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 343 | Investigating Pre-trained Audio Encoders in the Low-Resource Condition | [![GitHub](https://img.shields.io/github/stars/YangHao97/investigateAudioEncoders)](https://github.com/YangHao97/investigateAudioEncoders) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17733-b31b1b.svg)](https://arxiv.org/abs/2305.17733) |
 | 1718 | Improving Textless Spoken Language Understanding with Discrete Units as Intermediate Target | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18096-b31b1b.svg)](https://arxiv.org/abs/2305.18096) |
 | 823 | MAVD: The First Open Large-Scale Mandarin Audio-Visual Dataset with Depth Information | [![GitHub](https://img.shields.io/github/stars/SpringHuo/MAVD)](https://github.com/YangHao97/investigateAudioEncoders) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02263-b31b1b.svg)](https://arxiv.org/abs/2306.02263) |
-| 1674 | CN-Celeb-AV: A Multi-Genre Audio-Visual Dataset for Person Recognition |  |  |
+| 1674 | CN-Celeb-AV: A Multi-Genre Audio-Visual Dataset for Person Recognition | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](http://cnceleb.org/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16049-b31b1b.svg)](https://arxiv.org/abs/2305.16049) |
 | 1762 | Improving Zero-shot Cross-domain Slot Filling via Transformer-based Slot Semantics Fusion |  |  |
 | 619 | Rethinking Transfer and Auxiliary Learning for Improving Audio Captioning Transformer |  |  |
 | 1468 | Boosting Punctuation Restoration with Data Generation and Reinforcement Learning |  |  |
