@@ -639,12 +639,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2100 | Combining Multiple Multimodal Speech Features into an Interpretable Index Score for Capturing Disease Progression in Amyotrophic Lateral Sclerosis | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1FfcQifvTL9bTD7SBU7y_A3APgX8N_Vd0/view) |
 | 2002 | Responsiveness, Sensitivity and Clinical Utility of Timing-Related Speech Biomarkers for Remote Monitoring of ALS Disease Progression | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1-W1buG48sqQnd9uld2c-z-Ls0NSS-bNn/view) |
 | 753 | PoCaPNet: A Novel Approach for Surgical Phase Recognition using Speech and X-Ray Images | [![GitHub](https://img.shields.io/github/stars/kubicndmr/PoCaPNet)](https://github.com/kubicndmr/PoCaPNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15993-b31b1b.svg)](https://arxiv.org/abs/2305.15993) |
-| 1721 | Classifying depression symptom severity: Assessment of speech representations in personalized and generalized machine learning models. | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1435 | Towards reference speech characterization for health applications | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1721 | Classifying Depression Symptom Severity: Assessment of Speech Representations in Personalized and Generalized Machine Learning Models | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1435 | Towards Reference Speech Characterization for Health Applications | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1438 | The MASCFLICHT Corpus: Face Mask Type and Coverage Area Recognition from Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 721 | MMLung: Moving Closer to Practical Lung Health Estimation using Smartphones | :heavy_minus_sign: | :heavy_minus_sign: |
+| 721 | MMLung: Moving Closer to Practical Lung Health Estimation using Smartphones | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://mobiuk.org/2023/abstract/S5_P1_Mosuily_MMLung.pdf) |
 | 1916 | Whisper Encoder features for Infant Cry Classification | :heavy_minus_sign: | :heavy_minus_sign: |
-| 464 | Multi-class Detection of Pathological Speech with Latent Features: How does it perform on unseen data? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2210.15336) |
+| 464 | Multi-class Detection of Pathological Speech with Latent Features: How does It Perform on Unseen Data? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.15336-b31b1b.svg)](https://arxiv.org/abs/2210.15336) |
 | 2146 | Automatic Classification of Hypokinetic and Hyperkinetic Dysarthria based on GMM-Supervectors | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1771 | Prediction of the Gender-based Violence Victim Condition using Speech: What do Machine Learning Models rely on? | :heavy_minus_sign: | :heavy_minus_sign: |
 
