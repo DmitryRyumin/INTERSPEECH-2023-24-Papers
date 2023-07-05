@@ -402,8 +402,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2418 | A Simple RNN Model for Lightweight, Low-compute and Low-latency Multichannel Speech Enhancement in the Time Domain | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1433 | High Fidelity Speech Enhancement with Band-split RNN | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.00406-b31b1b.svg)](https://arxiv.org/abs/2212.00406) |
 | 218 | Focus on the Sound around You: Monaural Target Speaker Extraction via Distance and Speaker Information | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://thuhcsi.github.io/interspeech2023-NS-Extractor/) <br /> [![GitHub](https://img.shields.io/github/stars/thuhcsi/interspeech2023-NS-Extractor)](https://github.com/thuhcsi/interspeech2023-NS-Extractor) | [![arXiv](https://img.shields.io/badge/arXiv-2306.16241-b31b1b.svg)](https://arxiv.org/abs/2306.16241) |
-| 882 | DFSNet: A Steerable Neural Beamformer Invariant to Microphone Array Configuration for Real-Time, Low-Latency Speech Enhancement |  |  |
-| 1323 | Speaker-Aware Anti-spoofing |  |  |
+| 882 | DFSNet: A Steerable Neural Beamformer Invariant to Microphone Array Configuration for Real-Time, Low-Latency Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.13407-b31b1b.svg)](https://arxiv.org/abs/2302.13407) |
+| 1323 | Speaker-Aware Anti-spoofing | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.01126-b31b1b.svg)](https://arxiv.org/abs/2303.01126) |
 | 1376 | PCNN: A Lightweight Parallel Conformer Neural Network for Efficient Monaural Speech Enhancement |  |  |
 | 799 | EffCRN: An Efficient Convolutional Recurrent Network for High-Performance Speech Enhancement |  |  |
 | 1795 | HAD-ANC: A Hybrid System Comprising an Adaptive Filter and Deep Neural Networks for Active Noise Control |  |  |
