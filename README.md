@@ -36,7 +36,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## Papers
 
-> **_NOTE:_** Final paper links will be added post-conference.
+> **_NOTE:** Final paper links will be added post-conference.
+
+### Resources for Spoken Language Processing
+
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1686 | Multimodal Personality Traits Assessment (MuPTA) Corpus: The Impact of Spontaneous and Read Speech | [![GitHub](https://img.shields.io/github/stars/DmitryRyumin/OCEANAI)](https://github.com/DmitryRyumin/OCEANAI) | :heavy_minus_sign: |
+| 1049 | MOCKS 1.0: Multilingual Open Custom Keyword Spotting Testset | :heavy_minus_sign: |  :heavy_minus_sign: |
+| 2150 | MD3: The Multi-Dialect Dataset of Dialogues | [![Kaggle](https://img.shields.io/badge/kaggle-dataset-20BEFF.svg)](https://www.kaggle.com/datasets/jacobeis99/md3en) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11355-b31b1b.svg)](https://arxiv.org/abs/2305.11355) |
+| 2279 | MuAViC: A Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speechto-Text Translation | [![GitHub](https://img.shields.io/github/stars/facebookresearch/muavic)](https://github.com/facebookresearch/muavic) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00628-b31b1b.svg)](https://arxiv.org/abs/2303.00628) |
+| 1828 | Thai Dialect Corpus and Transfer-based Curriculum Learning Investigation for Dialect Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2351 | HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11252-b31b1b.svg)](https://arxiv.org/abs/2306.11252) |
 
 ### Speech Synthesis: Prosody and Emotion
 
@@ -799,7 +810,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 668 | Visually grounded few-shot word acquisition with fewer shots | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
 | 183 | JAMFN: Joint Attention Multi-Scale Fusion Network for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 
-
 ### Question Answering from Speech
 
 > Will soon be added
@@ -824,17 +834,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 > Will soon be added
 
-### Resources for Spoken Language Processing
-
-| **#** | **Title** | **Repo** | **Paper** |
-| ----- | --------- |:--------:|:---------:|
-| 1686 | Multimodal Personality Traits Assessment (MuPTA) Corpus: The Impact of Spontaneous and Read Speech | [![GitHub](https://img.shields.io/github/stars/DmitryRyumin/OCEANAI)](https://github.com/DmitryRyumin/OCEANAI) | :heavy_minus_sign: |
-| 1049 | MOCKS 1.0: Multilingual Open Custom Keyword Spotting Testset | :heavy_minus_sign: |  :heavy_minus_sign: |
-| 2150 | MD3: The Multi-Dialect Dataset of Dialogues | [![Kaggle](https://img.shields.io/badge/kaggle-dataset-20BEFF.svg)](https://www.kaggle.com/datasets/jacobeis99/md3en) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11355-b31b1b.svg)](https://arxiv.org/abs/2305.11355) |
-| 2279 | MuAViC: A Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speechto-Text Translation | [![GitHub](https://img.shields.io/github/stars/facebookresearch/muavic)](https://github.com/facebookresearch/muavic) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00628-b31b1b.svg)](https://arxiv.org/abs/2303.00628) |
-| 1828 | Thai Dialect Corpus and Transfer-based Curriculum Learning Investigation for Dialect Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2351 | HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11252-b31b1b.svg)](https://arxiv.org/abs/2306.11252) |
-
 ### New Computational Strategies for ASR Training and Inference
 
 > Will soon be added
@@ -847,13 +846,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 2038 | Classification of Vocal Intensity Category from Speech using the Wav2vec2 and Whisper Embeddings | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 1668 | The effect of clinical intervention on the speech of individuals with PTSD: features and recognition performances | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 470 | Analysis and automatic prediction of exertion from speech: Contrasting objective and subjective measures collected while running | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 894 | The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 658 | Comparing hand-crafted features to spectrograms for autism severity estimation | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 839 | Acoustic characteristics of depression in older adults’ speech: the role of covariates | :heavy_minus_sign: | :heavy_minus_sign: | 
-
+| 2038 | Classification of Vocal Intensity Category from Speech using the Wav2vec2 and Whisper Embeddings | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1668 | The effect of clinical intervention on the speech of individuals with PTSD: features and recognition performances | :heavy_minus_sign: | :heavy_minus_sign: |
+| 470 | Analysis and automatic prediction of exertion from speech: Contrasting objective and subjective measures collected while running | :heavy_minus_sign: | :heavy_minus_sign: |
+| 894 | The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 658 | Comparing hand-crafted features to spectrograms for autism severity estimation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 839 | Acoustic characteristics of depression in older adults’ speech: the role of covariates | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Automatic Audio Classification and Audio Captioning
 
