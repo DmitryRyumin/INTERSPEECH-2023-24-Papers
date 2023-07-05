@@ -718,7 +718,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1784 | Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora? | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2531 | Severity Classification of Parkinson's Disease from Speech using Single Frequency Filtering-based Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1915 | Comparison of Acoustic Measures of Dysphonia in Parkinson's Disease and Huntington's Disease: Effect of Sex and Speaking Task | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.03443) |
+| 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03443-b31b1b.svg)](https://arxiv.org/abs/2306.03443) |
 
 ### Multimodal Speech Emotion Recognition
 
