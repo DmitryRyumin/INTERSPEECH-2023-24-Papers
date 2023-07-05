@@ -564,6 +564,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 488 | Recursive Sound Source Separation with Deep Learning-based Beamforming for Unknown Number of Sources | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2537 | Multi-Channel Speech Separation with Cross-Attention and Beamforming | :heavy_minus_sign: | :heavy_minus_sign: |
 | 185 | Background-Sound Controllable Voice Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 696 | A Neural State-Space Modeling Approach to Efficient Speech Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16932-b31b1b.svg)](https://arxiv.org/abs/2305.16932) |
 
 ### Speech Perception
 
