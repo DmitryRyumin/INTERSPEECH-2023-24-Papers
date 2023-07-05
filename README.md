@@ -391,6 +391,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1578 | Downstream Task-Agnostic Speech Enhancement with Self-Supervised Representation Loss | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.14723-b31b1b.svg)](https://arxiv.org/abs/2305.14723) |
 | 2305 | Perceptual Improvement of Deep Neural Network (DNN) Speech Coder Using Parametric and Nonparametric Density Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2437 | DeFT-AN RT: Real-time Multichannel Speech Enhancement using Dense Frequency-Time Attentive Network and Non-overlapping Synthesis Window | :heavy_minus_sign: | :heavy_minus_sign: |
+| 365 | Iterative Autoregression: a Novel Trick to Improve your Low-latency Speech Enhancement Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.01751-b31b1b.svg)](https://arxiv.org/abs/2211.01751) |
+| 1116 | Impact of Residual Noise and Artifacts in Speech Enhancement Errors on Intelligibility of Human and Machine |  |  |
+| 1364 | Exploring the Interactions between Target Positive and Negative Information for Acoustic Echo Cancellation |  |  |
+| 1084 | A Multi-dimensional Deep Structured State Space Approach to Speech Enhancement using Small-footprint Models |  |  |
+| 705 | Domain Adaptation for Speech Enhancement in a Large Domain Gap |  |  |
+| 456 | SCP-GAN: Self-Correcting Discriminator Optimization for Training Consistency Preserving Metric GAN on Speech Enhancement Tasks |  |  |
+| 339 | A Mask Free Neural Network for Monaural Speech Enhancement |  |  |
+| 1548 | A Training and Inference Strategy Using Noisy and Enhanced Speech as Target for Speech Enhancement |  |  |
+| 2418 | A Simple RNN Model for Lightweight, Low-compute and Low-latency Multichannel Speech Enhancement in the Time Domain |  |  |
+| 1433 | High Fidelity Speech Enhancement with Band-split RNN |  |  |
+| 218 | Focus on the Sound around You: Monaural Target Speaker Extraction via Distance and Speaker Information |  |  |
+| 882 | DFSNet: A Steerable Neural Beamformer Invariant to Microphone Array Configuration for Real-Time, Low-Latency Speech Enhancement |  |  |
+| 1323 | Speaker-Aware Anti-spoofing |  |  |
+| 1376 | PCNN: A Lightweight Parallel Conformer Neural Network for Efficient Monaural Speech Enhancement |  |  |
+| 799 | EffCRN: An Efficient Convolutional Recurrent Network for High-Performance Speech Enhancement |  |  |
+| 1795 | HAD-ANC: A Hybrid System Comprising an Adaptive Filter and Deep Neural Networks for Active Noise Control |  |  |
+| 886 | MSAF: A Multiple Self-Attention Field Method for Speech Enhancement |  |  |
+| 2302 | Ultra Dual-Path Compression For Joint Echo Cancellation And Noise Suppression |  |  |
+| 971 | ABC-KD: Attention-Based-Compression Knowledge Distillation for Deep Learning-Based Noise Suppression |  |  |
+| 1532 | PLCMOS – a Data-driven Non-intrusive Metric for the Evaluation of Packet Loss Concealment Algorithms |  |  |
 
 ### Paralinguistics
 
@@ -725,7 +745,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 2093 | Multimodal Assessment of Bulbar Amyotrophic Lateral Sclerosis (ALS) using a Novel Remote Speech Assessment App | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2181 | On the use of High Frequency Information for Voice Pathology Classification | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 2181 | On the use of High Frequency Information for Voice Pathology Classification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1784 | Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora? | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2531 | Severity Classification of Parkinson's Disease from Speech using Single Frequency Filtering-based Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1915 | Comparison of Acoustic Measures of Dysphonia in Parkinson's Disease and Huntington's Disease: Effect of Sex and Speaking Task | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -737,7 +757,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ----- | --------- |:--------:|:---------:|
 | 1832 | LanSER: Language-Model Supported Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 463 | Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1591 | Emotion Label Encoding using Word Embeddings for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 1591 | Emotion Label Encoding using Word Embeddings for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2444 | Discrimination of the Different Intents Carried by the Same Text Through Integrating Multimodal Information | :heavy_minus_sign: | :heavy_minus_sign: |
 | 510 | Meta-domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-sentiment Predictions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 413 | SWRR: Feature Map Classifier Based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
