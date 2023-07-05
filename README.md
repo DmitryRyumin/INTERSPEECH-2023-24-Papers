@@ -845,7 +845,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Health-Related Speech Analysis
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2038 | Classification of Vocal Intensity Category from Speech using the Wav2vec2 and Whisper Embeddings | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 1668 | The effect of clinical intervention on the speech of individuals with PTSD: features and recognition performances | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 470 | Analysis and automatic prediction of exertion from speech: Contrasting objective and subjective measures collected while running | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 894 | The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 658 | Comparing hand-crafted features to spectrograms for autism severity estimation | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 839 | Acoustic characteristics of depression in older adults’ speech: the role of covariates | :heavy_minus_sign: | :heavy_minus_sign: | 
+
 
 ### Automatic Audio Classification and Audio Captioning
 
