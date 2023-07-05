@@ -398,7 +398,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 705 | Domain Adaptation for Speech Enhancement in a Large Domain Gap | :heavy_minus_sign: | :heavy_minus_sign: |
 | 456 | SCP-GAN: Self-Correcting Discriminator Optimization for Training Consistency Preserving Metric GAN on Speech Enhancement Tasks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.14474-b31b1b.svg)](https://arxiv.org/abs/2210.14474) |
 | 339 | A Mask Free Neural Network for Monaural Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/ioyy900205/MFNet)](https://github.com/ioyy900205/MFNet) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04286-b31b1b.svg)](https://arxiv.org/abs/2306.04286) |
-| 1548 | A Training and Inference Strategy Using Noisy and Enhanced Speech as Target for Speech Enhancement |  |  |
+| 1548 | A Training and Inference Strategy using Noisy and Enhanced Speech as Target for Speech Enhancement without Clean Speech | [![GitHub](https://img.shields.io/github/stars/Sinica-SLAM/Ny-EnhTT)](https://github.com/Sinica-SLAM/Ny-EnhTT) | [![arXiv](https://img.shields.io/badge/arXiv-2210.15368-b31b1b.svg)](https://arxiv.org/abs/2210.15368) |
 | 2418 | A Simple RNN Model for Lightweight, Low-compute and Low-latency Multichannel Speech Enhancement in the Time Domain |  |  |
 | 1433 | High Fidelity Speech Enhancement with Band-split RNN |  |  |
 | 218 | Focus on the Sound around You: Monaural Target Speaker Extraction via Distance and Speaker Information |  |  |
