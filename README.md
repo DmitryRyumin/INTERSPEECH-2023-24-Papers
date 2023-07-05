@@ -793,7 +793,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### End-to-end ASR
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 101 | Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/DPSL-ASR)](https://github.com/YUCHEN005/DPSL-ASR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.14838-b31b1b.svg)](https://arxiv.org/abs/2203.14838) |
 
 ### Spoken Language Understanding, Summarization, and Information Retrieval
 
@@ -832,7 +834,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Question Answering from Speech
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1485 | Prompt Guided Copy Mechanism for Conversational Question Answering | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1240 | Composing Spoken Hints for Follow-on Question Suggestion in Voice Assistants | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1391 | On Monotonic Aggregation for Open-domain QA | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2240 | Question-Context Alignment and Answer-Context Dependencies for Effective Answer Sentence Selection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02196-b31b1b.svg)](https://arxiv.org/abs/2306.02196) |
+| 1606 | Multi-Scale Attention for Audio Question Answering | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17993-b31b1b.svg)](https://arxiv.org/abs/2305.17993) |
+| 539 | Enhancing Visual Question Answering via Deconstructing Questions and Explicating Answers | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Multi-talker Methods in Speech Processing
 
