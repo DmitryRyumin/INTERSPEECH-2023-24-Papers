@@ -744,13 +744,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2214 | Evaluation of a Forensic Automatic Speaker Recognition System with Emotional Speech Recordings | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1052 | An Outlier Analysis of Vowel Formants from a Corpus Phonetics Pipeline | [![GitHub](https://img.shields.io/github/stars/emilyahn/outliers)](https://github.com/emilyahn/outliers) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.eleanorchodroff.com/articles/AhnLevowWrightChodroff_Outliers_Interspeech_2023.pdf) |
 | 340 | The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1880 | Beatboxing Kick Drum Kinematics |  |  |
-| 536 | Effects of Hearing Loss and Amplification on Mandarin Consonant Perception |  |  |
-| 2020 | An Acoustic Analysis of Fricative Variation in Three Accents of English |  |  |
-| 109 | Acoustic Cues to Stress Perception in Spanish – a Mismatch Negativity Study |  |  |
-| 976 | Bulgarian Unstressed Vowel Reduction: Received Views vs Corpus Findings |  |  |
-| 1764 | An Investigation of Indian Native Language Phonemic Influences on L2 English Pronunciations |  |  |
-| 498 | Identifying Stable Sections for Formant Frequency Extraction of French Nasal Vowels based on Difference Thresholds |  |  |
+| 1880 | Beatboxing Kick Drum Kinematics | :heavy_minus_sign: | :heavy_minus_sign: |
+| 536 | Effects of Hearing Loss and Amplification on Mandarin Consonant Perception | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2020 | An Acoustic Analysis of Fricative Variation in Three Accents of English | :heavy_minus_sign: | :heavy_minus_sign: |
+| 109 | Acoustic Cues to Stress Perception in Spanish – a Mismatch Negativity Study | :heavy_minus_sign: | :heavy_minus_sign: |
+| 976 | Bulgarian Unstressed Vowel Reduction: Received Views vs Corpus Findings | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1764 | An Investigation of Indian Native Language Phonemic Influences on L2 English Pronunciations | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.09284-b31b1b.svg)](https://arxiv.org/abs/2212.09284) |
+| 498 | Identifying Stable Sections for Formant Frequency Extraction of French Nasal Vowels based on Difference Thresholds | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Coding: Privacy
 
