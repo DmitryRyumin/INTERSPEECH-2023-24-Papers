@@ -828,7 +828,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Coding: Privacy
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1026 | Masking Kernel for Learning Energy-Efficient Representations for Speaker Recognition and Mobile Health |  |  |
+| 727 | eSTImate: A Real-time Speech Transmission Index Estimator with Speech Enhancement Auxiliary Task Using Self-Attention Feature Pyramid Network |  |  |
+| 815 | Efficient Encoder-Decoder and Dual-Path Conformer for Comprehensive Feature Learning in Speech Enhancement |  |  |
+| 2138 | Privacy-preserving Representation Learning for Speech Understanding |  |  |
+| 448 | Vocoder Drift in X-vector–based Speaker Anonymization |  |  |
+| 703 | Malafide: a Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems |  |  |
 
 ### Analysis of Neural Speech Representations
 
