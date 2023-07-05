@@ -392,9 +392,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2305 | Perceptual Improvement of Deep Neural Network (DNN) Speech Coder Using Parametric and Nonparametric Density Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2437 | DeFT-AN RT: Real-time Multichannel Speech Enhancement using Dense Frequency-Time Attentive Network and Non-overlapping Synthesis Window | :heavy_minus_sign: | :heavy_minus_sign: |
 | 365 | Iterative Autoregression: a Novel Trick to Improve your Low-latency Speech Enhancement Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.01751-b31b1b.svg)](https://arxiv.org/abs/2211.01751) |
-| 1116 | Impact of Residual Noise and Artifacts in Speech Enhancement Errors on Intelligibility of Human and Machine |  |  |
-| 1364 | Exploring the Interactions between Target Positive and Negative Information for Acoustic Echo Cancellation |  |  |
-| 1084 | A Multi-dimensional Deep Structured State Space Approach to Speech Enhancement using Small-footprint Models |  |  |
+| 1116 | Impact of Residual Noise and Artifacts in Speech Enhancement Errors on Intelligibility of Human and Machine | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1364 | Exploring the Interactions between Target Positive and Negative Information for Acoustic Echo Cancellation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1084 | A Multi-dimensional Deep Structured State Space Approach to Speech Enhancement using Small-footprint Models | [![GitHub](https://img.shields.io/github/stars/Kuray107/S4ND-U-Net_speech_enhancement)](https://github.com/Kuray107/S4ND-U-Net_speech_enhancement) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00331-b31b1b.svg)](https://arxiv.org/abs/2306.00331) |
 | 705 | Domain Adaptation for Speech Enhancement in a Large Domain Gap |  |  |
 | 456 | SCP-GAN: Self-Correcting Discriminator Optimization for Training Consistency Preserving Metric GAN on Speech Enhancement Tasks |  |  |
 | 339 | A Mask Free Neural Network for Monaural Speech Enhancement |  |  |
