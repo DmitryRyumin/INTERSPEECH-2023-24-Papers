@@ -36,7 +36,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## Papers
 
-> **_NOTE:** Final paper links will be added post-conference.
+> ***NOTE*:** Final paper links will be added post-conference.
 
 ### Resources for Spoken Language Processing
 
