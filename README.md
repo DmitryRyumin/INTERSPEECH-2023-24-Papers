@@ -367,6 +367,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1038 | 5IDER: Unified Query Rewriting for Steering, Intent Carryover, Disfluencies, Entity Carryover and Repair | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01855-b31b1b.svg)](https://arxiv.org/abs/2306.01855) |
 | 93 | Cˆ2A-SLU: Cross and Contrastive Attention for Improving ASR Robustness in Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1505 | WhiSLU: End-to-End Spoken Language Understanding with Whisper | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2475 | I Learned Error, I Can Fix It!: A Detector-Corrector Structure for ASR Error Calibration |  |  |
+| 1951 | Quantifying the Perceptual Value of Lexical and Non-lexical Channels in Speech |  |  |
+| 952 | Parsing Dialog Turns with Prosodic Features in English |  |  |
+| 320 | Estimation of Listening Response Timing by Generative Model and Parameter Control of Response Substantialness using Dynamic-Prompt-Tune |  |  |
+| 1885 | Parameter Selection for Analyzing Conversations with Autism Spectrum Disorder |  |  |
+| 2341 | Efficient Multimodal Neural Networks for Trigger-less Voice Assistants |  |  |
+| 2332 | Rapid Lexical Alignment to a Conversational Agent |  |  |
+| 578 | Multimodal Turn-Taking Model Using Visual Cues for End-of-Utterance Prediction in Spoken Dialogue Systems |  |  |
+| 1464 | Audio-Visual Praise Estimation for Conversational Video based on Synchronization-Guided Multimodal Transformer |  |  |
+| 1618 | Improving the Response Timing Estimation for Spoken Dialogue Systems by Reducing the Effect of Speech Recognition Delay |  |  |
+| 555 | Focus-attention-enhanced Crossmodal Transformer with Metric Learning for Multimodal Speech Emotion Recognition |  |  |
+| 1717 | A Multiple-Teacher Pruning Based Self-Distillation (MT-PSD) Approach to Model Compression for Audio-Visual Wake Word Spotting |  |  |
+| 789 | Abusive Speech Detection in Indic Languages using Acoustic Features |  |  |
+| 1791 | Listening To Silences In Contact Center Conversations using Textual Cues |  |  |
+| 1947 | Relationship between auditory and semantic entrainment using Deep Neural Networks (DNN) |  |  |
+| 1074 | Verbal and Nonverbal Feedback Signals in Response to Increasing Levels of Miscommunication |  |  |
+| 76 | Speech-Based Classification of Defensive Communication: A Novel Dataset and Results |  |  |
+| 1929 | Unsupervised Auditory and Semantic Entrainment Models with Deep Neural Networks |  |  |
+| 1267 | Relationships between Gender, Personality Traits and Features of Multi-Modal Data to Responses to Spoken Dialog Systems Breakdown |  |  |
+| 1650 | Speaker-aware Cross-modal Fusion Architecture for Conversational Emotion Recognition |  |  |
 
 ### Speech Coding and Enhancement
 
