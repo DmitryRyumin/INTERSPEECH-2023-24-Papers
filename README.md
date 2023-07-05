@@ -773,7 +773,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### End-to-end ASR
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 101 | Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/DPSL-ASR)](https://github.com/YUCHEN005/DPSL-ASR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.14838-b31b1b.svg)](https://arxiv.org/abs/2203.14838) |
 
 ### Spoken Language Understanding, Summarization, and Information Retrieval
 
