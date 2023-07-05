@@ -790,7 +790,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multi-modal Systems
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1146 | BeAts: Bengali Speech Acts Recognition using Multimodal Attention Fusion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://soumitri2001.github.io/BeAts) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.02680) |
+| 370 | Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2305.14203) |
+| 989 | Whistle-to-text: Automatic recognition of the Silbo Gomero whistled language | :heavy_minus_sign: | :heavy_minus_sign: |
+| 663 | A Novel Interpretable and Generalizable Re-synchronization Model for Cued Speech based on a Multi-Cuer Corpus | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.02596) |
+| 668 | Visually grounded few-shot word acquisition with fewer shots | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
+| 183 | JAMFN: Joint Attention Multi-Scale Fusion Network for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+
 
 ### Question Answering from Speech
 
@@ -837,7 +845,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Health-Related Speech Analysis
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2038 | Classification of Vocal Intensity Category from Speech using the Wav2vec2 and Whisper Embeddings | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 1668 | The effect of clinical intervention on the speech of individuals with PTSD: features and recognition performances | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 470 | Analysis and automatic prediction of exertion from speech: Contrasting objective and subjective measures collected while running | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 894 | The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 658 | Comparing hand-crafted features to spectrograms for autism severity estimation | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 839 | Acoustic characteristics of depression in older adults’ speech: the role of covariates | :heavy_minus_sign: | :heavy_minus_sign: | 
+
 
 ### Automatic Audio Classification and Audio Captioning
 
