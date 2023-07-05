@@ -369,11 +369,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1505 | WhiSLU: End-to-End Spoken Language Understanding with Whisper | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2475 | I Learned Error, I Can Fix It!: A Detector-Corrector Structure for ASR Error Calibration | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1951 | Quantifying the Perceptual Value of Lexical and Non-lexical Channels in Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarenne.github.io/is-2023/) | :heavy_minus_sign: |
-| 952 | Parsing Dialog Turns with Prosodic Features in English |  |  |
-| 320 | Estimation of Listening Response Timing by Generative Model and Parameter Control of Response Substantialness using Dynamic-Prompt-Tune |  |  |
-| 1885 | Parameter Selection for Analyzing Conversations with Autism Spectrum Disorder |  |  |
-| 2341 | Efficient Multimodal Neural Networks for Trigger-less Voice Assistants |  |  |
-| 2332 | Rapid Lexical Alignment to a Conversational Agent |  |  |
+| 952 | Parsing Dialog Turns with Prosodic Features in English | :heavy_minus_sign: | :heavy_minus_sign: |
+| 320 | Estimation of Listening Response Timing by Generative Model and Parameter Control of Response Substantialness using Dynamic-Prompt-Tune | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1885 | Parameter Selection for Analyzing Conversations with Autism Spectrum Disorder | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2341 | Efficient Multimodal Neural Networks for Trigger-less Voice Assistants | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12063-b31b1b.svg)](https://arxiv.org/abs/2305.12063) |
+| 2332 | Rapid Lexical Alignment to a Conversational Agent | :heavy_minus_sign: | :heavy_minus_sign: |
 | 578 | Multimodal Turn-Taking Model Using Visual Cues for End-of-Utterance Prediction in Spoken Dialogue Systems |  |  |
 | 1464 | Audio-Visual Praise Estimation for Conversational Video based on Synchronization-Guided Multimodal Transformer |  |  |
 | 1618 | Improving the Response Timing Estimation for Spoken Dialogue Systems by Reducing the Effect of Speech Recognition Delay |  |  |
