@@ -835,7 +835,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 815 | Efficient Encoder-Decoder and Dual-Path Conformer for Comprehensive Feature Learning in Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05861-b31b1b.svg)](https://arxiv.org/abs/2306.05861) |
 | 2138 | Privacy-preserving Representation Learning for Speech Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 448 | Vocoder Drift in X-vector–based Speaker Anonymization | [![GitHub](https://img.shields.io/github/stars/eurecom-asp/vocoder-drift)](https://github.com/eurecom-asp/vocoder-drift) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02892-b31b1b.svg)](https://arxiv.org/abs/2306.02892) |
-| 703 | Malafide: a Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems |  |  |
+| 703 | Malafide: a Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07655-b31b1b.svg)](https://arxiv.org/abs/2306.07655) |
 
 ### Analysis of Neural Speech Representations
 
