@@ -702,45 +702,55 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 251 | Emotional Voice Conversion with Semi-Supervised Generative Modeling |:heavy_minus_sign:| :heavy_minus_sign: | 
-| 817 | Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation |:heavy_minus_sign: | :heavy_minus_sign: | 
-| 215 | S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 251 | Emotional Voice Conversion with Semi-Supervised Generative Modeling |:heavy_minus_sign:| :heavy_minus_sign: |
+| 817 | Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation |:heavy_minus_sign: | :heavy_minus_sign: |
+| 215 | S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1508 | Flow-VAE VC: End-to-End Flow Framework with Contrastive Loss for Zero-shot Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1602 | Automatic Speech Disentanglement for Voice Conversion using Rank Module and Speech Augmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hhhuazi.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.12259) | 
-| 2298 | End-to-End Zero-Shot Voice Conversion with Location-Variable Convolutions | [![GitHub](https://img.shields.io/github/stars/wonjune-kang/lvc-vc)](https://github.com/wonjune-kang/lvc-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2205.09784) | 
-
+| 1602 | Automatic Speech Disentanglement for Voice Conversion using Rank Module and Speech Augmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hhhuazi.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.12259) |
+| 2298 | End-to-End Zero-Shot Voice Conversion with Location-Variable Convolutions | [![GitHub](https://img.shields.io/github/stars/wonjune-kang/lvc-vc)](https://github.com/wonjune-kang/lvc-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2205.09784) |
 
 ### Pathological Speech Analysis
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 2093 | Multimodal assessment of bulbar amyotrophic lateral sclerosis (ALS) using a novel remote speech assessment app | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 2093 | Multimodal assessment of bulbar amyotrophic lateral sclerosis (ALS) using a novel remote speech assessment app | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2181 | On the Use of High Frequency Information for Voice Pathology Classification | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 1784 | Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora? | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 2531 | Severity Classification of Parkinson’s Disease from Speech using Single Frequency Filtering-based Features | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 1915 | Comparison of acoustic measures of dysphonia in Parkinson’s disease and Huntington’s disease: Effect of sex and speaking task | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.03443) | 
-
+| 1784 | Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora? | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2531 | Severity Classification of Parkinson’s Disease from Speech using Single Frequency Filtering-based Features | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1915 | Comparison of acoustic measures of dysphonia in Parkinson’s disease and Huntington’s disease: Effect of sex and speaking task | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2306.03443) |
 
 ### Multimodal Speech Emotion Recognition
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1832 | LanSER: Language-Model Supported Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 463 | Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: | 
+| 1832 | LanSER: Language-Model Supported Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 463 | Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1591 | Emotion Label Encoding using Word Embeddings for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 2444 | Discrimination of the Different Intents Carried by the Same Text Through Integrating Multimodal Information | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 510 | Meta-domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-sentiment Predictions | :heavy_minus_sign: | :heavy_minus_sign: | 
-| 413 | SWRR: Feature Map Classifier Based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: | 
-
+| 2444 | Discrimination of the Different Intents Carried by the Same Text Through Integrating Multimodal Information | :heavy_minus_sign: | :heavy_minus_sign: |
+| 510 | Meta-domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-sentiment Predictions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 413 | SWRR: Feature Map Classifier Based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Phonetics, Phonology, and Prosody
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1443 | Effects of meter, genre and experience on pausing, lengthening and prosodic phrasing in German poetry reading | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1142 | Comparing first spectral moment of Australian English /s/ between straight and gay voices using three analysis window sizes | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1443 | Effects of Meter, Genre and Experience on Pausing, Lengthening and Prosodic Phrasing in German Poetry Reading | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1142 | Comparing First Spectral Moment of Australian English /s/ between Straight and Gay Voices using Three Analysis Window Sizes | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2584 | Universal Automatic Phonetic Transcription into the International Phonetic Alphabet | [![GitHub](https://img.shields.io/github/stars/ctaguchi/multipa)](https://github.com/ctaguchi/multipa) | :heavy_minus_sign: |
+| 2134 | Voice Twins: Discovering Extremely Similar-sounding, Unrelated Speakers |  |  |
+| 1042 | Filling the Population Statistics Gap: Swiss German Reference Data on F0 and Speech Tempo for Forensic Contexts |  |  |
+| 1619 | Investigating the Syntax-Discourse Interface in the Phonetic Implementation of Discourse Markers |  |  |
+| 2214 | Evaluation of a Forensic Automatic Speaker Recognition System with Emotional Speech Recordings |  |  |
+| 1052 | An Outlier Analysis of Vowel Formants from a Corpus Phonetics Pipeline |  |  |
+| 340 | The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features |  |  |
+| 1880 | Beatboxing Kick Drum Kinematics |  |  |
+| 536 | Effects of Hearing Loss and Amplification on Mandarin Consonant Perception |  |  |
+| 2020 | An Acoustic Analysis of Fricative Variation in Three Accents of English |  |  |
+| 109 | Acoustic Cues to Stress Perception in Spanish – a Mismatch Negativity Study |  |  |
+| 976 | Bulgarian Unstressed Vowel Reduction: Received Views vs Corpus Findings |  |  |
+| 1764 | An Investigation of Indian Native Language Phonemic Influences on L2 English Pronunciations |  |  |
+| 498 | Identifying Stable Sections for Formant Frequency Extraction of French Nasal Vowels based on Difference Thresholds |  |  |
 
 ### Speech Coding: Privacy
 
