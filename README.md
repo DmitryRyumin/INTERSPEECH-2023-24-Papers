@@ -738,11 +738,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1443 | Effects of Meter, Genre and Experience on Pausing, Lengthening and Prosodic Phrasing in German Poetry Reading | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1142 | Comparing First Spectral Moment of Australian English /s/ between Straight and Gay Voices using Three Analysis Window Sizes | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2584 | Universal Automatic Phonetic Transcription into the International Phonetic Alphabet | [![GitHub](https://img.shields.io/github/stars/ctaguchi/multipa)](https://github.com/ctaguchi/multipa) | :heavy_minus_sign: |
-| 2134 | Voice Twins: Discovering Extremely Similar-sounding, Unrelated Speakers |  |  |
-| 1042 | Filling the Population Statistics Gap: Swiss German Reference Data on F0 and Speech Tempo for Forensic Contexts |  |  |
-| 1619 | Investigating the Syntax-Discourse Interface in the Phonetic Implementation of Discourse Markers |  |  |
-| 2214 | Evaluation of a Forensic Automatic Speaker Recognition System with Emotional Speech Recordings |  |  |
-| 1052 | An Outlier Analysis of Vowel Formants from a Corpus Phonetics Pipeline |  |  |
+| 2134 | Voice Twins: Discovering Extremely Similar-sounding, Unrelated Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1042 | Filling the Population Statistics Gap: Swiss German Reference Data on F0 and Speech Tempo for Forensic Contexts | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1619 | Investigating the Syntax-Discourse Interface in the Phonetic Implementation of Discourse Markers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2214 | Evaluation of a Forensic Automatic Speaker Recognition System with Emotional Speech Recordings | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1052 | An Outlier Analysis of Vowel Formants from a Corpus Phonetics Pipeline | [![GitHub](https://img.shields.io/github/stars/emilyahn/outliers)](https://github.com/emilyahn/outliers) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.eleanorchodroff.com/articles/AhnLevowWrightChodroff_Outliers_Interspeech_2023.pdf) |
 | 340 | The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features |  |  |
 | 1880 | Beatboxing Kick Drum Kinematics |  |  |
 | 536 | Effects of Hearing Loss and Amplification on Mandarin Consonant Perception |  |  |
