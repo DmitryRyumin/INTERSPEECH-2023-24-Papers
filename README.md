@@ -395,9 +395,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1116 | Impact of Residual Noise and Artifacts in Speech Enhancement Errors on Intelligibility of Human and Machine | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1364 | Exploring the Interactions between Target Positive and Negative Information for Acoustic Echo Cancellation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1084 | A Multi-dimensional Deep Structured State Space Approach to Speech Enhancement using Small-footprint Models | [![GitHub](https://img.shields.io/github/stars/Kuray107/S4ND-U-Net_speech_enhancement)](https://github.com/Kuray107/S4ND-U-Net_speech_enhancement) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00331-b31b1b.svg)](https://arxiv.org/abs/2306.00331) |
-| 705 | Domain Adaptation for Speech Enhancement in a Large Domain Gap |  |  |
-| 456 | SCP-GAN: Self-Correcting Discriminator Optimization for Training Consistency Preserving Metric GAN on Speech Enhancement Tasks |  |  |
-| 339 | A Mask Free Neural Network for Monaural Speech Enhancement |  |  |
+| 705 | Domain Adaptation for Speech Enhancement in a Large Domain Gap | :heavy_minus_sign: | :heavy_minus_sign: |
+| 456 | SCP-GAN: Self-Correcting Discriminator Optimization for Training Consistency Preserving Metric GAN on Speech Enhancement Tasks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.14474-b31b1b.svg)](https://arxiv.org/abs/2210.14474) |
+| 339 | A Mask Free Neural Network for Monaural Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/ioyy900205/MFNet)](https://github.com/ioyy900205/MFNet) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04286-b31b1b.svg)](https://arxiv.org/abs/2306.04286) |
 | 1548 | A Training and Inference Strategy Using Noisy and Enhanced Speech as Target for Speech Enhancement |  |  |
 | 2418 | A Simple RNN Model for Lightweight, Low-compute and Low-latency Multichannel Speech Enhancement in the Time Domain |  |  |
 | 1433 | High Fidelity Speech Enhancement with Band-split RNN |  |  |
