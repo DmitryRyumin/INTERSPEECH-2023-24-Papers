@@ -202,11 +202,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 575 | Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Trade-off in Speech Signal Data | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1595 | Learning Emotional Representations from Imbalanced Speech Data for Speech Emotion Recognition and Emotional Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://anonymous.4open.science/w/INTERSPEECH2023-F8C4/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.05709-b31b1b.svg)](https://arxiv.org/abs/2306.05709) |
 | 1816 | Towards Multi-Lingual Audio Question Answering | :heavy_minus_sign: | :heavy_minus_sign: |
-| 477 | Wav2ToBI: a New Approach to Automatic ToBI Transcription |  |  |
-| 1579 | MCR-Data2vec 2.0: Improving Self-supervised Speech Pre-training via Model-level Consistency Regularization |  |  |
-| 591 | Anomalous Sound Detection Based on Sound Separation |  |  |
-| 2089 | Random Forest Classification of Breathing Phases from Audio Signals Recorded using Mobile Devices |  |  |
-| 1581 | GRAVO: Learning to Generate Relevant Audio from Visual Features with Noisy Online Videos |  |  |
+| 477 | Wav2ToBI: a New Approach to Automatic ToBI Transcription | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1579 | MCR-Data2vec 2.0: Improving Self-supervised Speech Pre-training via Model-level Consistency Regularization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08463-b31b1b.svg)](https://arxiv.org/abs/2306.08463) |
+| 591 | Anomalous Sound Detection Based on Sound Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15859-b31b1b.svg)](https://arxiv.org/abs/2305.15859) |
+| 2089 | Random Forest Classification of Breathing Phases from Audio Signals Recorded using Mobile Devices | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1581 | GRAVO: Learning to Generate Relevant Audio from Visual Features with Noisy Online Videos | :heavy_minus_sign: | :heavy_minus_sign: |
 | 358 | Emotion-Aware Audio-Driven Face Animation via Contrastive Feature Disentanglement |  |  |
 | 344 | Joint-Former: Jointly Regularized and Locally Down-sampled Conformer for Semi-supervised Sound Event Detection |  |  |
 | 245 | Towards Attention-based Contrastive Learning for Audio Spoof Detection |  |  |
