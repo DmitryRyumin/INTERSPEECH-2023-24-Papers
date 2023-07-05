@@ -212,19 +212,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 245 | Towards Attention-based Contrastive Learning for Audio Spoof Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2488 | Masked Audio Modeling with CLAP and Multi-Objective Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1904 | Few-Shot Open-Set Learning for On-Device Customization of KeyWord Spotting Systems | [![GitHub](https://img.shields.io/github/stars/mrusci/ondevice-fewshot-kws)](https://github.com/mrusci/ondevice-fewshot-kws) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02161-b31b1b.svg)](https://arxiv.org/abs/2306.02161) |
-| 481 | Self-Supervised Dataset Pruning for Efficient Training in Audio Anti-spoofing |  |  |
-| 491 | Semantic Segmentation with Bidirectional Language Models Improves Long-form ASR |  |  |
-| 684 | Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features |  |  |
-| 542 | Advanced RawNet2 with Attention-based Channel Masking for Synthetic Speech Detection |  |  |
-| 88 | Insights Into End-to-End Audio-to-Score Transcription with Real Recordings: A Case Study with Saxophone Works |  |  |
-| 2193 | Whisper-AT: Noise-Robust Automatic Speech Recognizers are Also Strong Audio Event Taggers |  |  |
-| 1621 | Synthetic Voice Spoofing Detection based on Feature Pyramid Conformer |  |  |
-| 1383 | Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection |  |  |
-| 2011 | Application of Knowledge Distillation to Multi-task Speech Representation Learning |  |  |
-| 2297 | DeCoR: Defy Knowledge Forgetting by Predicting Earlier Audio Codes |  |  |
-| 1965 | Variational Classifier for Unsupervised Anomalous Sound Detection under Domain Generalization |  |  |
-| 745 | FlexiAST: Flexibility is What AST Needs |  |  |
-| 1344 | Blind Estimation of Room Impulse Response from Monaural Reverberant Speech with Segmental Generative Neural Network |  |  |
+| 481 | Self-Supervised Dataset Pruning for Efficient Training in Audio Anti-spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
+| 491 | Semantic Segmentation with Bidirectional Language Models Improves Long-form ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18419-b31b1b.svg)](https://arxiv.org/abs/2305.18419) |
+| 684 | Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04268-b31b1b.svg)](https://arxiv.org/abs/2306.04268) |
+| 542 | Advanced RawNet2 with Attention-based Channel Masking for Synthetic Speech Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 88 | Insights Into End-to-End Audio-to-Score Transcription with Real Recordings: A Case Study with Saxophone Works | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2193 | Whisper-AT: Noise-Robust Automatic Speech Recognizers are Also Strong Audio Event Taggers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1621 | Synthetic Voice Spoofing Detection based on Feature Pyramid Conformer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1383 | Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2011 | Application of Knowledge Distillation to Multi-task Speech Representation Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.16611-b31b1b.svg)](https://arxiv.org/abs/2210.16611) |
+| 2297 | DeCoR: Defy Knowledge Forgetting by Predicting Earlier Audio Codes | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18441-b31b1b.svg)](https://arxiv.org/abs/2305.18441) |
+| 1965 | Variational Classifier for Unsupervised Anomalous Sound Detection under Domain Generalization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 745 | FlexiAST: Flexibility is What AST Needs | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1344 | Blind Estimation of Room Impulse Response from Monaural Reverberant Speech with Segmental Generative Neural Network | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/370843606_Blind_Estimation_of_Room_Impulse_Response_from_Monaural_Reverberant_Speech_with_Segmental_Generative_Neural_Network) |
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
