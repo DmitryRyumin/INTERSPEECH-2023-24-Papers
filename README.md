@@ -207,11 +207,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 591 | Anomalous Sound Detection Based on Sound Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15859-b31b1b.svg)](https://arxiv.org/abs/2305.15859) |
 | 2089 | Random Forest Classification of Breathing Phases from Audio Signals Recorded using Mobile Devices | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1581 | GRAVO: Learning to Generate Relevant Audio from Visual Features with Noisy Online Videos | :heavy_minus_sign: | :heavy_minus_sign: |
-| 358 | Emotion-Aware Audio-Driven Face Animation via Contrastive Feature Disentanglement |  |  |
-| 344 | Joint-Former: Jointly Regularized and Locally Down-sampled Conformer for Semi-supervised Sound Event Detection |  |  |
-| 245 | Towards Attention-based Contrastive Learning for Audio Spoof Detection |  |  |
-| 2488 | Masked Audio Modeling with CLAP and Multi-Objective Learning |  |  |
-| 1904 | Few-Shot Open-Set Learning for On-Device Customization of KeyWord Spotting Systems |  |  |
+| 358 | Emotion-Aware Audio-Driven Face Animation via Contrastive Feature Disentanglement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 344 | Joint-Former: Jointly Regularized and Locally Down-sampled Conformer for Semi-supervised Sound Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 245 | Towards Attention-based Contrastive Learning for Audio Spoof Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2488 | Masked Audio Modeling with CLAP and Multi-Objective Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1904 | Few-Shot Open-Set Learning for On-Device Customization of KeyWord Spotting Systems | [![GitHub](https://img.shields.io/github/stars/mrusci/ondevice-fewshot-kws)](https://github.com/mrusci/ondevice-fewshot-kws) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02161-b31b1b.svg)](https://arxiv.org/abs/2306.02161) |
 | 481 | Self-Supervised Dataset Pruning for Efficient Training in Audio Anti-spoofing |  |  |
 | 491 | Semantic Segmentation with Bidirectional Language Models Improves Long-form ASR |  |  |
 | 684 | Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features |  |  |
