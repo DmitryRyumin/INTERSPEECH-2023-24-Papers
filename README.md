@@ -367,8 +367,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1038 | 5IDER: Unified Query Rewriting for Steering, Intent Carryover, Disfluencies, Entity Carryover and Repair | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01855-b31b1b.svg)](https://arxiv.org/abs/2306.01855) |
 | 93 | Cˆ2A-SLU: Cross and Contrastive Attention for Improving ASR Robustness in Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1505 | WhiSLU: End-to-End Spoken Language Understanding with Whisper | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2475 | I Learned Error, I Can Fix It!: A Detector-Corrector Structure for ASR Error Calibration |  |  |
-| 1951 | Quantifying the Perceptual Value of Lexical and Non-lexical Channels in Speech |  |  |
+| 2475 | I Learned Error, I Can Fix It!: A Detector-Corrector Structure for ASR Error Calibration | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1951 | Quantifying the Perceptual Value of Lexical and Non-lexical Channels in Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarenne.github.io/is-2023/) | :heavy_minus_sign: |
 | 952 | Parsing Dialog Turns with Prosodic Features in English |  |  |
 | 320 | Estimation of Listening Response Timing by Generative Model and Parameter Control of Response Substantialness using Dynamic-Prompt-Tune |  |  |
 | 1885 | Parameter Selection for Analyzing Conversations with Autism Spectrum Disorder |  |  |
