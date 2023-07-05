@@ -743,7 +743,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1619 | Investigating the Syntax-Discourse Interface in the Phonetic Implementation of Discourse Markers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2214 | Evaluation of a Forensic Automatic Speaker Recognition System with Emotional Speech Recordings | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1052 | An Outlier Analysis of Vowel Formants from a Corpus Phonetics Pipeline | [![GitHub](https://img.shields.io/github/stars/emilyahn/outliers)](https://github.com/emilyahn/outliers) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.eleanorchodroff.com/articles/AhnLevowWrightChodroff_Outliers_Interspeech_2023.pdf) |
-| 340 | The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features |  |  |
+| 340 | The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1880 | Beatboxing Kick Drum Kinematics |  |  |
 | 536 | Effects of Hearing Loss and Amplification on Mandarin Consonant Perception |  |  |
 | 2020 | An Acoustic Analysis of Fricative Variation in Three Accents of English |  |  |
