@@ -872,8 +872,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2313 | Adapter-Based Extension of Multi-Speaker Text-To-Speech Model for New Speakers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.00585) |
 | 2574 | SALTTS: Leveraging Self-Supervised Speech Representations for improved Text-to-Speech Synthesis | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2326 | UnitSpeech: Speaker-adaptive Speech Synthesis with Untranscribed Data | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://unitspeech.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/gmltmd789/UnitSpeech)](https://github.com/gmltmd789/UnitSpeech) | [![arXiv](https://img.shields.io/badge/arXiv-2306.16083-b31b1b.svg)](https://arxiv.org/abs/2306.16083) |
-| 677 | LightVoc: An Upsampling-Free GAN Vocoder Based On Conformer And Inverse Short-time Fourier Transform| :heavy_minus_sign: | :heavy_minus_sign: |
-| 1095 | ChatGPT-EDSS: Empathetic Dialogue Speech Synthesis Trained from ChatGPT-derived Context Word Embeddings | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarulab-speech.github.io/demo_ChatGPT_EDSS/) | [![arXiv](https://img.shields.io/badge/arXiv-2203.14838-b31b1b.svg)](https://arxiv.org/abs/2305.13724) |
+| 677 | LightVoc: An Upsampling-Free GAN Vocoder Based On Conformer And Inverse Short-time Fourier Transform | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1095 | ChatGPT-EDSS: Empathetic Dialogue Speech Synthesis Trained from ChatGPT-derived Context Word Embeddings | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarulab-speech.github.io/demo_ChatGPT_EDSS/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13724-b31b1b.svg)](https://arxiv.org/abs/2305.13724) |
 
 ### Speech Perception, Production, and Acquisition
 
