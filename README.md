@@ -840,7 +840,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Analysis of Neural Speech Representations
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1087 | Speech Self-Supervised Representation Bench-marking: Are We Doing it Right? | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/salah-zaiem/speechbrain-2/tree/develop/recipes/SSL_benchmark) | [![arXiv](https://img.shields.io/badge/arXiv-2306.07655-b31b1b.svg)](https://arxiv.org/abs/2306.00452) |
+| 383 | An extension of disentanglement metrics and its application to voice| :heavy_minus_sign: | :heavy_minus_sign: |
+| 2131 | An Information-Theoretic Analysis of Self-supervised Discrete Representations of Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07655-b31b1b.svg)](https://arxiv.org/abs/2306.02405) |
+| 1823 | SpeechGLUE: How Well Can Self-Supervised Speech Models Capture Linguistic Knowledge? | [![GitHub](https://img.shields.io/github/stars/ashi-ta/speechGLUE)](https://github.com/ashi-ta/speechGLUE) | [![arXiv](https://img.shields.io/badge/arXiv-2306.07655-b31b1b.svg)](https://arxiv.org/abs/2306.08374) |
+| 1418 | Comparison of GIF- and SSL-based features in pathological voice detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1617 | What is Learnt by the LEArnable Front-end (LEAF)? Adapting Per-Channel Energy Normalisation (PCEN) to Noisy Conditions| :heavy_minus_sign:| :heavy_minus_sign: |
 
 ### End-to-end ASR
 
