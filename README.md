@@ -862,8 +862,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 142 | Multi-pass Training and Cross-information Fusion for Low-resource End-to-end Accented Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2306.11309) |
 
 ### Spoken Language Understanding, Summarization, and Information Retrieval
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 461 | Leveraging Pretrained ASR Encoders for Effective and Efficient End-to-End Speech Intent Classification and Slot Filling | :heavy_minus_sign: |:heavy_minus_sign: |
+| 277 | Relation-based Counterfactual Data Augmentation and Contrastive Learning for Robustifying Natural Language Inference Models | :heavy_minus_sign: |:heavy_minus_sign: |
+| 1307 | Transfer Learning from Pre-trained Language Models Improves End-to-End Speech Summarization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2306.04233) |
+| 1136 | Audio Retrieval with WavText5K and CLAP Training | [![GitHub](https://img.shields.io/github/stars/microsoft/WavText5K)](https://github.com/microsoft/WavText5K) | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2209.14275) |
+| 242 | Sequence-Level Knowledge Distillation for Class-Incremental End-to-End Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/umbertocappellazzo/slurp-seqkd)](https://github.com/umbertocappellazzo/slurp-seqkd) | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2305.13899) |
+| 1652 | Contrastive Disentangled Learning for Memory-Augmented Transformer | :heavy_minus_sign: | :heavy_minus_sign: |
 
-> Will soon be added
 
 ### Invariant and Robust Pre-trained Acoustic Models
 
