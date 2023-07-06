@@ -985,7 +985,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 574 | Target Active Speaker Detection with Audio-visual Cues |  [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet)  | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/pdf/2305.12831.pdf) |
+| 574 | Target Active Speaker Detection with Audio-visual Cues | [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/pdf/2305.12831.pdf) |
 
 ### Multilingual Models for ASR
 
