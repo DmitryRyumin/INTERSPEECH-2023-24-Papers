@@ -175,6 +175,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1010 | Model-Internal Slot-triggered Biasing for Domain Expansion in Neural Transducer ASR Models | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/model-internal-slot-triggered-biasing-for-domain-expansion-in-neural-transducer-asr-models) |
 | 2508 | Delay-penalized CTC implemented based on Finite State Transducer | [![GitHub](https://img.shields.io/github/stars/k2-fsa/k2)](https://github.com/k2-fsa/k2) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11539-b31b1b.svg)](https://arxiv.org/abs/2305.11539) |
 | 101 | Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/DPSL-ASR)](https://github.com/YUCHEN005/DPSL-ASR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.14838-b31b1b.svg)](https://arxiv.org/abs/2203.14838) |
+| 1064 | MT-SLVR: Multi-Task Self-Supervised Learning for Transformation In(Variant) Representations | [![GitHub](https://img.shields.io/github/stars/CHeggan/MT-SLVR)](https://github.com/CHeggan/MT-SLVR) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17191-b31b1b.svg)](https://arxiv.org/abs/2305.17191) |
 
 ### Analysis of Speech and Audio Signals
 
