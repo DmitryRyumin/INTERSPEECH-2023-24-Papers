@@ -847,8 +847,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 383 | An Extension of Disentanglement Metrics and Its Application to Voice | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2131 | An Information-Theoretic Analysis of Self-supervised Discrete Representations of Speech | [![GitHub](https://img.shields.io/github/stars/uds-lsv/phone2unit)](https://github.com/uds-lsv/phone2unit) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02405-b31b1b.svg)](https://arxiv.org/abs/2306.02405) |
 | 1823 | SpeechGLUE: How Well Can Self-Supervised Speech Models Capture Linguistic Knowledge? | [![GitHub](https://img.shields.io/github/stars/ashi-ta/speechGLUE)](https://github.com/ashi-ta/speechGLUE) | [![arXiv](https://img.shields.io/badge/arXiv-2306.08374-b31b1b.svg)](https://arxiv.org/abs/2306.08374) |
-| 1418 | Comparison of GIF- and SSL-based features in pathological voice detection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1617 | What is Learnt by the LEArnable Front-end (LEAF)? Adapting Per-Channel Energy Normalisation (PCEN) to Noisy Conditions| :heavy_minus_sign:| :heavy_minus_sign: |
+| 1418 | Comparison of GIF- and SSL-based Features in Pathological Voice Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1617 | What is Learnt by the LEArnable Front-end (LEAF)? Adapting Per-Channel Energy Normalisation (PCEN) to Noisy Conditions | :heavy_minus_sign:| :heavy_minus_sign: |
 
 ### End-to-end ASR
 
