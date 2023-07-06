@@ -854,9 +854,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1640 | End-to-End Joint Target and Non-Target Speakers ASR |  |  |
-| 144 | Improving Frame-level Classifier for Word Timings with Non-peaky CTC in End-to-End Automatic Speech Recognition |  |  |
-| 564 | Joint Autoregressive Modeling of End-to-End Multi-Talker Overlapped Speech Recognition and Utterance-level Timestamp Prediction |  |  |
+| 1640 | End-to-End Joint Target and Non-Target Speakers ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02273-b31b1b.svg)](https://arxiv.org/abs/2306.02273) |
+| 144 | Improving Frame-level Classifier for Word Timings with Non-peaky CTC in End-to-End Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07949-b31b1b.svg)](https://arxiv.org/abs/2306.07949) |
+| 564 | Joint Autoregressive Modeling of End-to-End Multi-Talker Overlapped Speech Recognition and Utterance-level Timestamp Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
 | 101 | Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/DPSL-ASR)](https://github.com/YUCHEN005/DPSL-ASR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.14838-b31b1b.svg)](https://arxiv.org/abs/2203.14838) |
 | 906 | Text-only Domain Adaptation for End-to-End ASR using Integrated Text-to-mel-Spectrogram Generator |  |  |
 | 142 | Multi-pass Training and Cross-information Fusion for Low-resource End-to-end Accented Speech Recognition |  |  |
