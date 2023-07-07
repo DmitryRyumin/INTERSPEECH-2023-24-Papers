@@ -992,7 +992,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Signal Analysis
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2487 | MF-PAM: Accurate Pitch Estimation through Periodicity Analysis and Multi-level Feature Fusion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.09640) |
+| 2211 | Enhancing Speech Articulation Analysis Using A Geometric Transformation of the X-ray Microbeam Dataset | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.10775) |
+| 1729 | Matching Acoustic and Perceptual Measures of Phonation Assessment in Disordered Speech - A Case Study | :heavy_minus_sign:|:heavy_minus_sign: |
+| 283 | Improved Contextualized Speech Representations for Tonal Analysis | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1738 | A Study on the Importance of Formant Transitions for Stop-Consonant Classification in VCV Sequence | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://publications.idiap.ch/attachments/papers/2023/Chandrasekar_INTERSPEECH_2023.pdf) |
+| 2229 | FusedF0: Improving DNN-based F0 Estimation by Fusion of Summary-Correlograms and Raw Waveform Representations of Speech Signals | :heavy_minus_sign:| [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://www.seas.ucla.edu/spapl/paper/Eray_IS_2023.pdf) |
+
 
 ### Connecting Speech-science and Speech-technology for Children's Speech
 
