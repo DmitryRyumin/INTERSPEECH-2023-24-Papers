@@ -1033,8 +1033,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 ### Speech Synthesis: Multilinguality; Evaluation
-
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2064 | Automatic Evaluation of Turn-taking Cues in Conversational Speech Synthesis | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17971-b31b1b.svg)](https://arxiv.org/pdf/2305.17971.pdf) |
+| 441 | Expressive Machine Dubbing Through Phrase-level Cross-lingual Prosody Transfer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11662-b31b1b.svg)](https://arxiv.org/pdf/2306.11662.pdf) |
+| 1691 | Robust Feature Decoupling in Voice Conversion by Using Locality-Based Instance Normalization | [![GitHub](https://img.shields.io/github/stars/BrightGu/LoINVC)](https://github.com/BrightGu/LoINVC) | :heavy_minus_sign: |
+| 612 | Zero-Shot Accent Conversion using Pseudo Siamese Disentanglement Network | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2148 | The Effects of Input Type and Pronunciation Dictionary Usage in Transfer Learning for Low-Resource Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://phat-do.github.io/nodict-IS23/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00535-b31b1b.svg)](https://arxiv.org/pdf/2306.00535.pdf) |
+| 1727 | GenerTTS: Pronunciation Disentanglement for Timbre and Style Generalization in Cross-Lingual Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://bytecong.github.io/GenerTTS/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.15304-b31b1b.svg)](https://arxiv.org/pdf/2306.15304.pdf) |
+| 1285 | Analysis of mean opinion scores in subjective evaluation of synthetic speech based on tail probabilities | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1584 | LibriTTS-R: A Restored Multi-Speaker Text-to-Speech Corpus | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://google.github.io/df-conformer/)  </br> [![Openslr](https://img.shields.io/badge/OpenSLR-dataset-FFD1BF.svg)](http://www.openslr.org/141/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18802-b31b1b.svg)](https://arxiv.org/pdf/2305.18802.pdf) |
+| 1067 | UniFLG: Unified Facial Landmark Generator from Text or Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rinnakk.github.io/research/publications/UniFLG/) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14337-b31b1b.svg)](https://arxiv.org/pdf/2302.14337.pdf) |
+| 444 | XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech | [![GitHub](https://img.shields.io/github/stars/VinAIResearch/XPhoneBERT)](https://github.com/VinAIResearch/XPhoneBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19709-b31b1b.svg)](https://arxiv.org/pdf/2305.19709.pdf) |
+| 2224 | ClArTTS: An Open-Source Classical Arabic Text-to-Speech Corpus | [![ClArTTS](https://img.shields.io/badge/ClArTTS-dataset-CBB2FF.svg)](https://www.clartts.com) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18802-b31b1b.svg)](https://arxiv.org/pdf/2305.18802.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00069-b31b1b.svg)](https://arxiv.org/pdf/2303.00069.pdf) |
 
 ---
 
