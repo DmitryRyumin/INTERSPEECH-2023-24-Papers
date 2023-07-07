@@ -1012,7 +1012,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 574 | Target Active Speaker Detection with Audio-visual Cues | [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/pdf/2305.12831.pdf) |
+| 574 | Target Active Speaker Detection with Audio-visual Cues | [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/abs/2305.12831) |
 
 ### Multilingual Models for ASR
 
@@ -1042,19 +1042,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 2064 | Automatic Evaluation of Turn-taking Cues in Conversational Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://erikekstedt.github.io/vap_tts/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17971-b31b1b.svg)](https://arxiv.org/pdf/2305.17971.pdf) |
-| 441 | Expressive Machine Dubbing Through Phrase-level Cross-lingual Prosody Transfer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11662-b31b1b.svg)](https://arxiv.org/pdf/2306.11662.pdf) |
+| 2064 | Automatic Evaluation of Turn-taking Cues in Conversational Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://erikekstedt.github.io/vap_tts/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17971-b31b1b.svg)](https://arxiv.org/abs/2305.17971) |
+| 441 | Expressive Machine Dubbing Through Phrase-level Cross-lingual Prosody Transfer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11662-b31b1b.svg)](https://arxiv.org/abs/2306.11662) |
 | 1691 | Robust Feature Decoupling in Voice Conversion by using Locality-Based Instance Normalization | [![GitHub](https://img.shields.io/github/stars/BrightGu/LoINVC)](https://github.com/BrightGu/LoINVC) | :heavy_minus_sign: |
 | 612 | Zero-Shot Accent Conversion using Pseudo Siamese Disentanglement Network | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2148 | The Effects of Input Type and Pronunciation Dictionary Usage in Transfer Learning for Low-Resource Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://phat-do.github.io/nodict-IS23/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00535-b31b1b.svg)](https://arxiv.org/pdf/2306.00535.pdf) |
-| 1727 | GenerTTS: Pronunciation Disentanglement for Timbre and Style Generalization in Cross-Lingual Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://bytecong.github.io/GenerTTS/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.15304-b31b1b.svg)](https://arxiv.org/pdf/2306.15304.pdf) |
+| 2148 | The Effects of Input Type and Pronunciation Dictionary Usage in Transfer Learning for Low-Resource Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://phat-do.github.io/nodict-IS23/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00535-b31b1b.svg)](https://arxiv.org/abs/2306.00535) |
+| 1727 | GenerTTS: Pronunciation Disentanglement for Timbre and Style Generalization in Cross-Lingual Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://bytecong.github.io/GenerTTS/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.15304-b31b1b.svg)](https://arxiv.org/abs/2306.15304) |
 | 1285 | Analysis of Mean Opinion Scores in Subjective Evaluation of Synthetic Speech based on Tail Probabilities | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1584 | LibriTTS-R: A Restored Multi-Speaker Text-to-Speech Corpus | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://google.github.io/df-conformer/) <br /> [![Openslr](https://img.shields.io/badge/OpenSLR-dataset-FFD1BF.svg)](http://www.openslr.org/141/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18802-b31b1b.svg)](https://arxiv.org/pdf/2305.18802.pdf) |
-| 1067 | UniFLG: Unified Facial Landmark Generator from Text or Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rinnakk.github.io/research/publications/UniFLG/) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14337-b31b1b.svg)](https://arxiv.org/pdf/2302.14337.pdf) |
-| 444 | XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech | [![GitHub](https://img.shields.io/github/stars/VinAIResearch/XPhoneBERT)](https://github.com/VinAIResearch/XPhoneBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19709-b31b1b.svg)](https://arxiv.org/pdf/2305.19709.pdf) |
-| 2224 | ClArTTS: An Open-Source Classical Arabic Text-to-Speech Corpus | [![ClArTTS](https://img.shields.io/badge/ClArTTS-dataset-CBB2FF.svg)](https://www.clartts.com) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00069-b31b1b.svg)](https://arxiv.org/pdf/2303.00069.pdf) |
-| 154 | Diffusion-based Accent Modelling in Speech Synthesis |  |  |
-| 249 | Multilingual Text-to-Speech Synthesis for Turkic Languages using Transliteration |  |  |
+| 1584 | LibriTTS-R: A Restored Multi-Speaker Text-to-Speech Corpus | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://google.github.io/df-conformer/) <br /> [![Openslr](https://img.shields.io/badge/OpenSLR-dataset-FFD1BF.svg)](http://www.openslr.org/141/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18802-b31b1b.svg)](https://arxiv.org/abs/2305.18802) |
+| 1067 | UniFLG: Unified Facial Landmark Generator from Text or Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rinnakk.github.io/research/publications/UniFLG/) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14337-b31b1b.svg)](https://arxiv.org/abs/2302.14337) |
+| 444 | XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech | [![GitHub](https://img.shields.io/github/stars/VinAIResearch/XPhoneBERT)](https://github.com/VinAIResearch/XPhoneBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19709-b31b1b.svg)](https://arxiv.org/abs/2305.19709) |
+| 2224 | ClArTTS: An Open-Source Classical Arabic Text-to-Speech Corpus | [![ClArTTS](https://img.shields.io/badge/ClArTTS-dataset-CBB2FF.svg)](https://www.clartts.com) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00069-b31b1b.svg)](https://arxiv.org/abs/2303.00069) |
+| 154 | Diffusion-based Accent Modelling in Speech Synthesis | :heavy_minus_sign: | :heavy_minus_sign: |
+| 249 | Multilingual Text-to-Speech Synthesis for Turkic Languages using Transliteration | [![GitHub](https://img.shields.io/github/stars/IS2AI/TurkicTTS)](https://github.com/IS2AI/TurkicTTS) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15749-b31b1b.svg)](https://arxiv.org/abs/2305.15749) |
 | 553 | CVTE-Poly: A New Benchmark for Chinese Polyphone Disambiguation |  |  |
 | 709 | Improve Bilingual TTS using Language and Phonology Embedding with Embedding Strength Modulator |  |  |
 | 2179 | High-Quality Automatic Voice Over with Accurate Alignment: Supervision through Self-Supervised Discrete Speech Units |  |  |
