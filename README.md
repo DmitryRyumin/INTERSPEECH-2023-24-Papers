@@ -1057,7 +1057,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 249 | Multilingual Text-to-Speech Synthesis for Turkic Languages using Transliteration | [![GitHub](https://img.shields.io/github/stars/IS2AI/TurkicTTS)](https://github.com/IS2AI/TurkicTTS) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15749-b31b1b.svg)](https://arxiv.org/abs/2305.15749) |
 | 553 | CVTE-Poly: A New Benchmark for Chinese Polyphone Disambiguation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 709 | Improve Bilingual TTS using Language and Phonology Embedding with Embedding Strength Modulator | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://fyyang1996.github.io/esm/) | [![arXiv](https://img.shields.io/badge/arXiv-2212.03435-b31b1b.svg)](https://arxiv.org/abs/2212.03435) |
-| 2179 | High-Quality Automatic Voice Over with Accurate Alignment: Supervision through Self-Supervised Discrete Speech Units |  |  |
+| 2179 | High-Quality Automatic Voice Over with Accurate Alignment: Supervision through Self-Supervised Discrete Speech Units | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ranacm.github.io/DSU-AVO/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17005-b31b1b.svg)](https://arxiv.org/abs/2306.17005) |
 | 1097 | PronScribe: Highly Accurate Multimodal Phonemic Transcription From Speech and Text |  |  |
 | 2158 | Resource-Efficient Fine-Tuning Strategies for Automatic MOS Prediction in Text-to-Speech for Low-Resource Languages |  |  |
 | 416 | Why We Should Report the Details in Subjective Evaluation of TTS More Rigorously |  |  |
