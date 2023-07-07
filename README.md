@@ -1062,8 +1062,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2158 | Resource-Efficient Fine-Tuning Strategies for Automatic MOS Prediction in Text-to-Speech for Low-Resource Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19396-b31b1b.svg)](https://arxiv.org/abs/2305.19396) |
 | 416 | Why We Should Report the Details in Subjective Evaluation of TTS More Rigorously | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02044-b31b1b.svg)](https://arxiv.org/abs/2306.02044) |
 | 1622 | Speaker-Independent Neural Formant Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://perezpoz.github.io/neuralformants) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01957-b31b1b.svg)](https://arxiv.org/abs/2306.01957) |
-| 1098 | CALLS: Japanese Empathetic Dialogue Speech Corpus of Complaint Handling and Attentive Listening in Customer Center |  |  |
-| 430 | SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion |  |  |
+| 1098 | CALLS: Japanese Empathetic Dialogue Speech Corpus of Complaint Handling and Attentive Listening in Customer Center | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sython.org/Corpus/STUDIES-2/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13713-b31b1b.svg)](https://arxiv.org/abs/2305.13713) |
+| 430 | SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://anonymous19283746.github.io/saspeech/) | :heavy_minus_sign: |
 
 ---
 
