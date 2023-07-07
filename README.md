@@ -1059,9 +1059,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 709 | Improve Bilingual TTS using Language and Phonology Embedding with Embedding Strength Modulator | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://fyyang1996.github.io/esm/) | [![arXiv](https://img.shields.io/badge/arXiv-2212.03435-b31b1b.svg)](https://arxiv.org/abs/2212.03435) |
 | 2179 | High-Quality Automatic Voice Over with Accurate Alignment: Supervision through Self-Supervised Discrete Speech Units | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ranacm.github.io/DSU-AVO/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17005-b31b1b.svg)](https://arxiv.org/abs/2306.17005) |
 | 1097 | PronScribe: Highly Accurate Multimodal Phonemic Transcription From Speech and Text | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2158 | Resource-Efficient Fine-Tuning Strategies for Automatic MOS Prediction in Text-to-Speech for Low-Resource Languages |  |  |
-| 416 | Why We Should Report the Details in Subjective Evaluation of TTS More Rigorously |  |  |
-| 1622 | Speaker-Independent Neural Formant Synthesis |  |  |
+| 2158 | Resource-Efficient Fine-Tuning Strategies for Automatic MOS Prediction in Text-to-Speech for Low-Resource Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19396-b31b1b.svg)](https://arxiv.org/abs/2305.19396) |
+| 416 | Why We Should Report the Details in Subjective Evaluation of TTS More Rigorously | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02044-b31b1b.svg)](https://arxiv.org/abs/2306.02044) |
+| 1622 | Speaker-Independent Neural Formant Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://perezpoz.github.io/neuralformants) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01957-b31b1b.svg)](https://arxiv.org/abs/2306.01957) |
 | 1098 | CALLS: Japanese Empathetic Dialogue Speech Corpus of Complaint Handling and Attentive Listening in Customer Center |  |  |
 | 430 | SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion |  |  |
 
