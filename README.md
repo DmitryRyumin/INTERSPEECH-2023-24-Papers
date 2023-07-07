@@ -862,15 +862,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 142 | Multi-pass Training and Cross-information Fusion for Low-resource End-to-end Accented Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2306.11309) |
 
 ### Spoken Language Understanding, Summarization, and Information Retrieval
+
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 461 | Leveraging Pretrained ASR Encoders for Effective and Efficient End-to-End Speech Intent Classification and Slot Filling | :heavy_minus_sign: |:heavy_minus_sign: |
 | 277 | Relation-based Counterfactual Data Augmentation and Contrastive Learning for Robustifying Natural Language Inference Models | :heavy_minus_sign: |:heavy_minus_sign: |
-| 1307 | Transfer Learning from Pre-trained Language Models Improves End-to-End Speech Summarization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2306.04233) |
-| 1136 | Audio Retrieval with WavText5K and CLAP Training | [![GitHub](https://img.shields.io/github/stars/microsoft/WavText5K)](https://github.com/microsoft/WavText5K) | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2209.14275) |
-| 242 | Sequence-Level Knowledge Distillation for Class-Incremental End-to-End Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/umbertocappellazzo/slurp-seqkd)](https://github.com/umbertocappellazzo/slurp-seqkd) | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2305.13899) |
+| 1307 | Transfer Learning from Pre-trained Language Models Improves End-to-End Speech Summarization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04233-b31b1b.svg)](https://arxiv.org/abs/2306.04233) |
+| 1136 | Audio Retrieval with WavText5K and CLAP Training | [![GitHub](https://img.shields.io/github/stars/microsoft/WavText5K)](https://github.com/microsoft/WavText5K) | [![arXiv](https://img.shields.io/badge/arXiv-2209.14275-b31b1b.svg)](https://arxiv.org/abs/2209.14275) |
+| 242 | Sequence-Level Knowledge Distillation for Class-Incremental End-to-End Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/umbertocappellazzo/slurp-seqkd)](https://github.com/umbertocappellazzo/slurp-seqkd) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13899-b31b1b.svg)](https://arxiv.org/abs/2305.13899) |
 | 1652 | Contrastive Disentangled Learning for Memory-Augmented Transformer | :heavy_minus_sign: | :heavy_minus_sign: |
-
 
 ### Invariant and Robust Pre-trained Acoustic Models
 
@@ -882,7 +882,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 871 | Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.12464) |
 | 1862 | Evaluating context-invariance in unsupervised speech representations | [![GitHub](https://img.shields.io/github/stars/perceptimatic/irpam2023)](https://github.com/perceptimatic/irpam2023) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.15775) |
 | 359 | Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder| :heavy_minus_sign: | :heavy_minus_sign: |
-
 
 ### Speech Synthesis: Representation Learning
 
@@ -1001,7 +1000,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1738 | A Study on the Importance of Formant Transitions for Stop-Consonant Classification in VCV Sequence | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://publications.idiap.ch/attachments/papers/2023/Chandrasekar_INTERSPEECH_2023.pdf) |
 | 2229 | FusedF0: Improving DNN-based F0 Estimation by Fusion of Summary-Correlograms and Raw Waveform Representations of Speech Signals | :heavy_minus_sign:| [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://www.seas.ucla.edu/spapl/paper/Eray_IS_2023.pdf) |
 
-
 ### Connecting Speech-science and Speech-technology for Children's Speech
 
 > Will soon be added
@@ -1041,6 +1039,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 ### Speech Synthesis: Multilinguality; Evaluation
+
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 2064 | Automatic Evaluation of Turn-taking Cues in Conversational Speech Synthesis | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17971-b31b1b.svg)](https://arxiv.org/pdf/2305.17971.pdf) |
