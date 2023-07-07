@@ -876,12 +876,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 438 | ProsAudit, a prosodic benchmark for self-supervised speech models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2302.12057) |
-| 1390 | CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning | [![GitHub](https://img.shields.io/github/stars/mct10/CoBERT)](https://github.com/mct10/CoBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.04062) |
-| 847 | Self-supervised Fine-tuning for Improved Content Representations by Speaker-invariant Clustering | [![GitHub](https://img.shields.io/github/stars/vectominist/spin)](https://github.com/vectominist/spin) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.11072) |
-| 871 | Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.12464) |
-| 1862 | Evaluating context-invariance in unsupervised speech representations | [![GitHub](https://img.shields.io/github/stars/perceptimatic/irpam2023)](https://github.com/perceptimatic/irpam2023) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.15775) |
-| 359 | Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder| :heavy_minus_sign: | :heavy_minus_sign: |
+| 438 | ProsAudit, a Prosodic Benchmark for Self-Supervised Speech Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.12057-b31b1b.svg)](https://arxiv.org/abs/2302.12057) |
+| 1390 | CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning | [![GitHub](https://img.shields.io/github/stars/mct10/CoBERT)](https://github.com/mct10/CoBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2210.04062-b31b1b.svg)](https://arxiv.org/abs/2210.04062) |
+| 847 | Self-supervised Fine-tuning for Improved Content Representations by Speaker-invariant Clustering | [![GitHub](https://img.shields.io/github/stars/vectominist/spin)](https://github.com/vectominist/spin) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11072-b31b1b.svg)](https://arxiv.org/abs/2305.11072) |
+| 871 | Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12464-b31b1b.svg)](https://arxiv.org/abs/2305.12464) |
+| 1862 | Evaluating Context-invariance in Unsupervised Speech Representations | [![GitHub](https://img.shields.io/github/stars/perceptimatic/irpam2023)](https://github.com/perceptimatic/irpam2023) | [![arXiv](https://img.shields.io/badge/arXiv-2210.15775-b31b1b.svg)](https://arxiv.org/abs/2210.15775) |
+| 359 | Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis: Representation Learning
 
