@@ -1053,6 +1053,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1067 | UniFLG: Unified Facial Landmark Generator from Text or Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rinnakk.github.io/research/publications/UniFLG/) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14337-b31b1b.svg)](https://arxiv.org/pdf/2302.14337.pdf) |
 | 444 | XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech | [![GitHub](https://img.shields.io/github/stars/VinAIResearch/XPhoneBERT)](https://github.com/VinAIResearch/XPhoneBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19709-b31b1b.svg)](https://arxiv.org/pdf/2305.19709.pdf) |
 | 2224 | ClArTTS: An Open-Source Classical Arabic Text-to-Speech Corpus | [![ClArTTS](https://img.shields.io/badge/ClArTTS-dataset-CBB2FF.svg)](https://www.clartts.com) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00069-b31b1b.svg)](https://arxiv.org/pdf/2303.00069.pdf) |
+| 154 | Diffusion-based Accent Modelling in Speech Synthesis |  |  |
+| 249 | Multilingual Text-to-Speech Synthesis for Turkic Languages using Transliteration |  |  |
+| 553 | CVTE-Poly: A New Benchmark for Chinese Polyphone Disambiguation |  |  |
+| 709 | Improve Bilingual TTS using Language and Phonology Embedding with Embedding Strength Modulator |  |  |
+| 2179 | High-Quality Automatic Voice Over with Accurate Alignment: Supervision through Self-Supervised Discrete Speech Units |  |  |
+| 1097 | PronScribe: Highly Accurate Multimodal Phonemic Transcription From Speech and Text |  |  |
+| 2158 | Resource-Efficient Fine-Tuning Strategies for Automatic MOS Prediction in Text-to-Speech for Low-Resource Languages |  |  |
+| 416 | Why We Should Report the Details in Subjective Evaluation of TTS More Rigorously |  |  |
+| 1622 | Speaker-Independent Neural Formant Synthesis |  |  |
+| 1098 | CALLS: Japanese Empathetic Dialogue Speech Corpus of Complaint Handling and Attentive Listening in Customer Center |  |  |
+| 430 | SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion |  |  |
 
 ---
 
