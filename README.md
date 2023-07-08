@@ -1063,7 +1063,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Enhancement and Bandwidth Expansion
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 232 | Unsupervised speech enhancement with deep dynamical generative speech and noise models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.07820) |
+| 857 | Noise-Robust Bandwidth Expansion for 8K Speech Recordings | :heavy_minus_sign: |:heavy_minus_sign: |
+| 113 | mdctGAN: Taming transformer-based GAN for speech super-resolution with Modified DCT spectra | [![GitHub](https://img.shields.io/github/stars/neoncloud/mdctgan)](https://github.com/neoncloud/mdctgan) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.11104) |
+| 625 | Zoneformer: On-device Neural Beamformer For In-car Multi-zone Speech Separation, Enhancement and Echo Cancellation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 634 | Low-complexity Broadband Beampattern Synthesis using Array Response Control | :heavy_minus_sign: | :heavy_minus_sign: |
+| 904 | A GAN Speech Inpainting Model for Audio Editing Software | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Articulation
 
