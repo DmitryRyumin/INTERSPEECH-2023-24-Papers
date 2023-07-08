@@ -1034,7 +1034,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Dialog Management
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2238 | Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2301.10915) |
+| 2525 | An autoregressive conversational dynamics model for dialogue systems | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1983 | Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.15644) |
+| 1037 | Speech Aware Dialog System Technology Challenge (DSTC11) | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://dstc11.dstc.community/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2212.08704) |
+| 1397 | Knowledge-Retrieval Task-Oriented Dialog Systems with Semi-Supervision | [![GitHub](https://img.shields.io/github/stars/thu-spmi/JSA-KRTOD)](https://github.com/thu-spmi/JSA-KRTOD) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.13199) |
+| 2513 | Tracking Must Go On : Dialogue State Tracking with Verified Self-Training | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Activity Detection and Modeling
 
