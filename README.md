@@ -1023,11 +1023,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1257 | An Equitable Framework for Automatically Assessing Children’s Oral Narrative Language Abilities | :heavy_minus_sign: | :heavy_minus_sign: |
 | 743 | An Analysis of Goodness of Pronunciation for Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1569 | Measuring language development from child-centered recordings | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2057 | Speaking Clearly, Understanding Better: Predicting the L2 Narrative Comprehension of Chinese Bilingual Kindergarten Children Based on Speech Intelligibility Using a Machine Learning Approach |:heavy_minus_sign:| :heavy_minus_sign: |
+| 2057 | Speaking Clearly, Understanding Better: Predicting the L2 Narrative Comprehension of Chinese Bilingual Kindergarten Children Based on Speech Intelligibility Using a Machine Learning Approach | :heavy_minus_sign: | :heavy_minus_sign: |
 | 312 | Classifying Rhoticity of /r/ in Speech Sound Disorder using Age-and-Sex Normalized Formants | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.16111) |
-| 1273 | Understanding Spoken Language Development of Children with ASD Using Pre-trained Speech Embeddings |:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.14117) |
+| 1273 | Understanding Spoken Language Development of Children with ASD Using Pre-trained Speech Embeddings | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.14117) |
 | 2099 | Measuring Phonological Precision in Children with Cleft Lip and Palate | :heavy_minus_sign: | :heavy_minus_sign: |
-| 937 | A Study on Using Duration and Formant Features in Automatic Detection of Speech Sound Disorder in Children | :heavy_minus_sign:| :heavy_minus_sign: |
+| 937 | A Study on Using Duration and Formant Features in Automatic Detection of Speech Sound Disorder in Children | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1873 | Influence of Utterance and Speaker Characteristics on the Classification of Children with Cleft Lip and Palate | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1882 | Prospective Validation of Motor-Based Intervention with Automated Mispronunciation Detection of Rhotics in Residual Speech Sound Disorders | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.19090) |
 
