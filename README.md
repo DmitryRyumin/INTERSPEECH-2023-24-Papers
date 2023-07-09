@@ -698,16 +698,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1498 | Instance-based Temporal Normalization for Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 881 | On the Robustness of Wav2Vec 2.0 based Speaker Recognition Systems | :heavy_minus_sign: | :heavy_minus_sign: |
 | 697 | P-vectors: A Parallel-coupled TDNN/Transformer Network for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/xyw7/pvector)](https://github.com/xyw7/pvector) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14778-b31b1b.svg)](https://arxiv.org/abs/2305.14778) |
-| 844 | Reversible Neural Networks for Memory-Efficient Speaker Verification |  |  |
-| 452 | Robust Training for Speaker Verification against Noisy Labels |  |  |
-| 1404 | Self-Distillation into Self-Attention Heads for Improving Transformer-based End-to-End Neural Speaker Diarization |  |  |
+| 844 | Reversible Neural Networks for Memory-Efficient Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 452 | Robust Training for Speaker Verification against Noisy Labels | [![GitHub](https://img.shields.io/github/stars/PunkMale/OR-Gate)](https://github.com/PunkMale/OR-Gate) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12080-b31b1b.svg)](https://arxiv.org/abs/2211.12080) |
+<!-- | 1404 | Self-Distillation into Self-Attention Heads for Improving Transformer-based End-to-End Neural Speaker Diarization |  |  |
 | 1217 | Build a SRE Challenge System: Lessons from VoxSRC 2022 and CNSRC 2022 |  |  |
 | 1648 | Describing the Phonetics in the Underlying Speech Attributes for Deep and Interpretable Speaker Recognition |  |  |
 | 1214 | Range-Based Equal Error Rate for Spoof Localization |  |  |
 | 1888 | Exploring the English Accent-independent Features for Speech Emotion Recognition using Filter and Wrapper-based Methods for Feature Selection |  |  |
 | 205 | Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization |  |  |
 | 394 | A Method of Audio-Visual Person Verification by Mining Connections between Time Series |  |  |
-| 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks |  |  |
+| 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks |  |  | -->
 
 ### Speech Synthesis and Voice Conversion
 
