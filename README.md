@@ -687,12 +687,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1354 | Multi-resolution Approach to Identification of Spoken Languages and to Improve Overall Language Diarization System using Whisper Model | :heavy_minus_sign: | :heavy_minus_sign: |
 | 125 | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10940-b31b1b.svg)](https://arxiv.org/abs/2305.10940) |
 | 849 | Dynamic Fully-Connected Layer for Large-Scale Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1314 | Mutual Information-based Embedding Decoupling for Generalizable Speaker Verification |  |  |
-| 1206 | TO-Rawnet: Improving RawNet with TCN and Orthogonal Regularization for Fake Audio Detection |  |  |
-| 777 | ECAPA++: Fine-grained Deep Embedding Learning for TDNN Based Speaker Verification |  |  |
-| 100 | Fooling Speaker Identification Systems with Adversarial Background Music |  |  |
+| 1314 | Mutual Information-based Embedding Decoupling for Generalizable Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1206 | TO-Rawnet: Improving RawNet with TCN and Orthogonal Regularization for Fake Audio Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13701-b31b1b.svg)](https://arxiv.org/abs/2305.13701) |
+| 777 | ECAPA++: Fine-grained Deep Embedding Learning for TDNN Based Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 100 | Fooling Speaker Identification Systems with Adversarial Background Music | :heavy_minus_sign: | :heavy_minus_sign: |
 | 574 | Target Active Speaker Detection with Audio-visual Cues | [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/abs/2305.12831) |
-| 2401 | Improving End-to-End Neural Diarization using Conversational Summary Representations |  |  |
+| 2401 | Improving End-to-End Neural Diarization using Conversational Summary Representations | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.13863-b31b1b.svg)](https://arxiv.org/abs/2306.13863) |
 | 2039 | Phase Perturbation Improves Channel Robustness for Speech Spoofing Countermeasures | [![GitHub](https://img.shields.io/github/stars/yongyizang/PhaseAntispoofing_INTERSPEECH)](https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03389-b31b1b.svg)](https://arxiv.org/abs/2306.03389) |
 | 210 | Improving Training Datasets for Resource-constrained Speaker Recognition Neural Networks |  |  |
 | 1498 | Instance-based Temporal Normalization for Speaker Verification |  |  |
