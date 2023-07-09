@@ -906,21 +906,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1330 | Human Transcription Quality Improvement |  |  |
-| 1604 | The Effect of Masking Noise on Listeners' Spectral Tilt Preferences |  |  |
-| 1967 | The Effect of Whistled Vowels on Whistled Word Categorization for Naive Listeners |  |  |
-| 1481 | Automatic Deep Neural Network-Based Segmental Pronunciation Error Detection of L2 English Speech (L1 Bengali) |  |  |
-| 1662 | The Effect of Stress on Mandarin Tonal Perception in Continuous Speech for Spanish-speaking Learners |  |  |
-| 1918 | Combining Acoustic and Aerodynamic Data Collection: A Perceptual Evaluation of Acoustic Distortions |  |  |
-| 953 | Estimating Virtual Targets for Lingual Stop Consonants using General Tau Theory |  |  |
-| 1931 | Using Random Forests to Classify Language as a Function of Syllable Timing in Two Groups: Children with Cochlear Implants and with Normal Hearing |  |  |
-| 2256 | An Improved End-to-End Audio-Visual Speech Recognition Model |  |  |
-| 1954 | What Influences the Foreign Accent Strength? Phonological and Grammatical Errors in the Perception of Accentedness |  |  |
-| 2077 | Investigating the Perception Production Link through Perceptual Adaptation and Phonetic Convergence |  |  |
-| 1385 | Emotion Prompting for Speech Emotion Recognition |  |  |
-| 1196 | Speech-in-Speech Recognition is Modulated by Familiarity to Dialect |  |  |
-| 673 | BASEN: Time-Domain Brain-Assisted Speech Enhancement Network with Convolutional Cross Attention in Multi-talker Conditions |  |  |
-| 2046 | Are Retroflex-to-dental Sibilant Substitutions in Polish Children's Speech an Example of a Covert Contrast? A Preliminary Acoustic Study |  |  |
+| 1330 | Human Transcription Quality Improvement | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/human-transcription-quality-improvement) |
+| 1604 | The Effect of Masking Noise on Listeners' Spectral Tilt Preferences | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1967 | The Effect of Whistled Vowels on Whistled Word Categorization for Naive Listeners | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1481 | Automatic Deep Neural Network-Based Segmental Pronunciation Error Detection of L2 English Speech (L1 Bengali) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1662 | The Effect of Stress on Mandarin Tonal Perception in Continuous Speech for Spanish-speaking Learners | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1918 | Combining Acoustic and Aerodynamic Data Collection: A Perceptual Evaluation of Acoustic Distortions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 953 | Estimating Virtual Targets for Lingual Stop Consonants using General Tau Theory | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1931 | Using Random Forests to Classify Language as a Function of Syllable Timing in Two Groups: Children with Cochlear Implants and with Normal Hearing | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2256 | An Improved End-to-End Audio-Visual Speech Recognition Model | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1954 | What Influences the Foreign Accent Strength? Phonological and Grammatical Errors in the Perception of Accentedness | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2077 | Investigating the Perception Production Link through Perceptual Adaptation and Phonetic Convergence | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1385 | Emotion Prompting for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1196 | Speech-in-Speech Recognition is Modulated by Familiarity to Dialect | :heavy_minus_sign: | :heavy_minus_sign: |
+| 673 | BASEN: Time-Domain Brain-Assisted Speech Enhancement Network with Convolutional Cross Attention in Multi-talker Conditions | [![GitHub](https://img.shields.io/github/stars/jzhangU/Basen)](https://github.com/jzhangU/Basen) | [![arXiv](https://img.shields.io/badge/arXiv-2305.09994-b31b1b.svg)](https://arxiv.org/abs/2305.09994) |
+| 2046 | Are Retroflex-to-dental Sibilant Substitutions in Polish Children's Speech an Example of a Covert Contrast? A Preliminary Acoustic Study | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Acoustic Model Adaptation for ASR
 
