@@ -928,7 +928,31 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Expressivity
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 858 | Controllable Generation of Artificial Speaker Embeddings through Discovery of Principal Directions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2242 | Dual Audio Encoders Based Mandarin Prosodic Boundary Prediction by Using Multi-Granularity Prosodic Representations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 645 | NoreSpeech: Knowledge Distillation based Conditional Diffusion Model for Noise-robust Expressive TTS | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](http://anonymousdemo.fun/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.02448) |
+| 782 | MaskedSpeech: Context-aware Speech Synthesis with Masking Strategy | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://speech11.github.io/MaskedSpeech/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.06170) |
+| 2469 | Narrator or Character: Voice Modulation in an Expressive Multi-speaker TTS | :heavy_minus_sign: | :heavy_minus_sign: |
+| 843 | CASEIN: Cascading Explicit and Implicit Control for Fine-grained Emotion Intensity Regulation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2307.00020) |
+| 1405 | Semi-supervised learning for continuous emotional intensity controllable speech synthesis with disentangled representations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1905 | Expresso: A Benchmark and Analysis of Discrete Expressive Speech Resynthesis | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1460 | ComedicSpeech: Adaptive Text To Speech For Stand-up Comedy in Low-Resource Scenario | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://xh621.github.io/stand-up-comedy-demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.12200) |
+| 1552 | Neural Speech Synthesis with Enriched Phrase Boundaries | :heavy_minus_sign: | :heavy_minus_sign: |
+| 437 | Cross-lingual Prosody Transfer for Expressive Machine Dubbing | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.11658) |
+| 2178 | Synthesis after a couple PINTs: Investigating the Role of Pause-Internal Phonetic Particles in Speech Synthesis and Perception | :heavy_minus_sign: | :heavy_minus_sign: |
+| 433 | Accentor: An Explicit Lexical Stress Model for TTS Systems | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://lml.bas.bg/~stoyan/interspeech2023.pdf) |
+| 1032 | A Neural TTS System with Parallel Prosody Transfer from Unseen Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 715 | Diverse and Expressive Speech Prosody Prediction with Denoising Diffusion Probabilistic Model | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://diffvar.github.io/DDPM-prosody-predictor/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.16749) |
+| 289 | Prosody Modeling with 3D Visual Information for Expressive Video Dubbing | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1528 | LIGHTCLONE: SPEAKER-GUIDED PARALLEL SUBNET SELECTION FOR FEW-SHOT VOICE CLONING | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1671 | EE-TTS: Emphatic Expressive TTS with Linguistic Information | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://expressive-emphatic-ttsdemo.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.12107) |
+| 1673 | Stochastic Pitch Prediction Improves the Diversity and Naturalness of Speech in Glow-TTS | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.17724) |
+| 122 | ContextSpeech: Expressive and Efficient Text-to-Speech for Paragraph Reading | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://contextspeech.github.io/demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2307.00782) |
+| 1779 | PromptStyle: Controllable Style Transfer for Text-to-Speech with Natural Language Descriptions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://promptstyle.github.io/PromptStyle) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.19522)
+| 1639 | Creating Personalized Synthetic Voices from Post-Glossectomy Speech with Guided Diffusion Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://diffcorrect.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.17436) |
+
 
 ### Multi-modal Systems
 
