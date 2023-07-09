@@ -694,10 +694,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 574 | Target Active Speaker Detection with Audio-visual Cues | [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/abs/2305.12831) |
 | 2401 | Improving End-to-End Neural Diarization using Conversational Summary Representations | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.13863-b31b1b.svg)](https://arxiv.org/abs/2306.13863) |
 | 2039 | Phase Perturbation Improves Channel Robustness for Speech Spoofing Countermeasures | [![GitHub](https://img.shields.io/github/stars/yongyizang/PhaseAntispoofing_INTERSPEECH)](https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03389-b31b1b.svg)](https://arxiv.org/abs/2306.03389) |
-| 210 | Improving Training Datasets for Resource-constrained Speaker Recognition Neural Networks |  |  |
-| 1498 | Instance-based Temporal Normalization for Speaker Verification |  |  |
-| 881 | On the Robustness of Wav2Vec 2.0 based Speaker Recognition Systems |  |  |
-| 697 | P-vectors: A Parallel-coupled TDNN/Transformer Network for Speaker Verification |  |  |
+| 210 | Improving Training Datasets for Resource-constrained Speaker Recognition Neural Networks | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1498 | Instance-based Temporal Normalization for Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 881 | On the Robustness of Wav2Vec 2.0 based Speaker Recognition Systems | :heavy_minus_sign: | :heavy_minus_sign: |
+| 697 | P-vectors: A Parallel-coupled TDNN/Transformer Network for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/xyw7/pvector)](https://github.com/xyw7/pvector) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14778-b31b1b.svg)](https://arxiv.org/abs/2305.14778) |
 | 844 | Reversible Neural Networks for Memory-Efficient Speaker Verification |  |  |
 | 452 | Robust Training for Speaker Verification against Noisy Labels |  |  |
 | 1404 | Self-Distillation into Self-Attention Heads for Improving Transformer-based End-to-End Neural Speaker Diarization |  |  |
