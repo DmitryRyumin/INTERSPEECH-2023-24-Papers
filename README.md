@@ -200,7 +200,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 176 | Background Domain Switch: A Novel Data Augmentation Technique for Robust Sound Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1021 | Joint Prediction of Audio Event and Annoyance Rating in an Urban Soundscape by Hierarchical Graph Representation Learning | [![GitHub](https://img.shields.io/github/stars/Yuanbo2020/HGRL)](https://github.com/Yuanbo2020/HGRL) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/Hou%20etal_INTERSPEECH_2023.pdf) |
 | 2416 | Anomalous Sound Detection Using Self-Attention-Based Frequency Pattern Analysis of Machine Sounds | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2039 | Phase Perturbation Improves Channel Robustness for Speech Spoofing Countermeasures | [![GitHub](https://img.shields.io/github/stars/yongyizang/PhaseAntispoofing_INTERSPEECH)](https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03389-b31b1b.svg)](https://arxiv.org/abs/2306.03389) |
 | 1478 | Improving Audio-Text Retrieval via Hierarchical Cross-Modal Interaction and Auxiliary Captions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 979 | Ontology-aware Learning and Evaluation for Audio Tagging | [![GitHub](https://img.shields.io/github/stars/haoheliu/ontology-aware-audio-tagging)](https://github.com/haoheliu/ontology-aware-audio-tagging) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12195-b31b1b.svg)](https://arxiv.org/abs/2211.12195) |
 | 575 | Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Trade-off in Speech Signal Data | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -688,6 +687,27 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1354 | Multi-resolution Approach to Identification of Spoken Languages and to Improve Overall Language Diarization System using Whisper Model | :heavy_minus_sign: | :heavy_minus_sign: |
 | 125 | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10940-b31b1b.svg)](https://arxiv.org/abs/2305.10940) |
 | 849 | Dynamic Fully-Connected Layer for Large-Scale Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1314 | Mutual Information-based Embedding Decoupling for Generalizable Speaker Verification |  |  |
+| 1206 | TO-Rawnet: Improving RawNet with TCN and Orthogonal Regularization for Fake Audio Detection |  |  |
+| 777 | ECAPA++: Fine-grained Deep Embedding Learning for TDNN Based Speaker Verification |  |  |
+| 100 | Fooling Speaker Identification Systems with Adversarial Background Music |  |  |
+| 574 | Target Active Speaker Detection with Audio-visual Cues | [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/abs/2305.12831) |
+| 2401 | Improving End-to-End Neural Diarization using Conversational Summary Representations |  |  |
+| 2039 | Phase Perturbation Improves Channel Robustness for Speech Spoofing Countermeasures | [![GitHub](https://img.shields.io/github/stars/yongyizang/PhaseAntispoofing_INTERSPEECH)](https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03389-b31b1b.svg)](https://arxiv.org/abs/2306.03389) |
+| 210 | Improving Training Datasets for Resource-constrained Speaker Recognition Neural Networks |  |  |
+| 1498 | Instance-based Temporal Normalization for Speaker Verification |  |  |
+| 881 | On the Robustness of Wav2Vec 2.0 based Speaker Recognition Systems |  |  |
+| 697 | P-vectors: A Parallel-coupled TDNN/Transformer Network for Speaker Verification |  |  |
+| 844 | Reversible Neural Networks for Memory-Efficient Speaker Verification |  |  |
+| 452 | Robust Training for Speaker Verification against Noisy Labels |  |  |
+| 1404 | Self-Distillation into Self-Attention Heads for Improving Transformer-based End-to-End Neural Speaker Diarization |  |  |
+| 1217 | Build a SRE Challenge System: Lessons from VoxSRC 2022 and CNSRC 2022 |  |  |
+| 1648 | Describing the Phonetics in the Underlying Speech Attributes for Deep and Interpretable Speaker Recognition |  |  |
+| 1214 | Range-Based Equal Error Rate for Spoof Localization |  |  |
+| 1888 | Exploring the English Accent-independent Features for Speech Emotion Recognition using Filter and Wrapper-based Methods for Feature Selection |  |  |
+| 205 | Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization |  |  |
+| 394 | A Method of Audio-Visual Person Verification by Mining Connections between Time Series |  |  |
+| 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks |  |  |
 
 ### Speech Synthesis and Voice Conversion
 
@@ -1085,9 +1105,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Activity Detection and Modeling
 
-| **#** | **Title** | **Repo** | **Paper** |
-| ----- | --------- |:--------:|:---------:|
-| 574 | Target Active Speaker Detection with Audio-visual Cues | [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/abs/2305.12831) |
+> Will soon be added
 
 ### Multilingual Models for ASR
 
