@@ -1143,7 +1143,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Articulation
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2316 | Deep Speech Synthesis from MRI-Based Articulatory Representations | [![GitHub](https://img.shields.io/github/stars/articulatory/articulatory)](https://github.com/articulatory/articulatory) | [![arXiv](https://img.shields.io/badge/arXiv-2307.02471-b31b1b.svg)](https://arxiv.org/pdf/2307.02471.pdf) |
+| 562 | Learning to Compute the Articulatory Representations of Speech with the MIRRORNET | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yashish92.github.io/MirrorNet-for-speech/) </br> [![GitHub](https://img.shields.io/github/stars/Yashish92/MirrorNet-for-speech)](https://github.com/Yashish92/MirrorNet-for-speech)| [![arXiv](https://img.shields.io/badge/arXiv-2210.16454-b31b1b.svg)](https://arxiv.org/pdf/2210.16454.pdf) |
+| 804 | Generating high-resolution 3D real-time MRI of the vocal tract | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1593 | Exploring a classification approach using quantised articulatory movements for acoustic to articulatory inversion | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain
 
