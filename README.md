@@ -1041,7 +1041,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Automatic Audio Classification and Audio Captioning
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 943 | Dual Transformer Decoder based Features Fusion Network for Automated Audio Captioning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.18753) |
+| 1564 | Adapting a ConvNeXt model to audio classification on AudioSet | [![GitHub](https://img.shields.io/github/stars/topel/audioset-convnext-inf)](https://github.com/topel/audioset-convnext-inf) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.00830) |
+| 1610 | Few-shot Class-incremental Audio Classification Using Stochastic Classifier | [![GitHub](https://img.shields.io/github/stars/vinceasvp/meta-sc)](https://github.com/vinceasvp/meta-sc) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.02053) |
+| 1614 | Enhance Temporal Relations in Audio Captioning with Sound Event Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.01533) |
 
 ### Speech Synthesis
 
