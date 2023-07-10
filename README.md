@@ -1151,7 +1151,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Perception of Paralinguistics
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 2061 | Transfer Learning for Personality Perception via Speech Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16076-b31b1b.svg)](https://arxiv.org/pdf/2305.16076.pdf) |
+| 1131 | A stimulus-organism-response model of willingness to buy from advertising speech using voice quality | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1835 | Voice Passing : a Non-Binary Voice Gender Prediction System for evaluating Transgender | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1139 |  Influence of Personal Traits on Impressions of One’s Own Voice | :heavy_minus_sign: | :heavy_minus_sign: |
+| 887 |  Pardon my disfluency: The impact of disfluency effects on the perception of speaker competence and confidence | :heavy_minus_sign: | :heavy_minus_sign: |
+| 711 |  Cross-linguistic Emotion Perception in Human and TTS Voices | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://michelledcohn.com/2023/05/19/interspeech-2023-paper-on-cross-cultural-emotion-perception/)  | :heavy_minus_sign: |
 
 ### Technologies for Child Speech Processing
 
@@ -1161,7 +1168,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1681 | Automatic Assessment of Oral Reading Accuracy for Reading Diagnostics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03444-b31b1b.svg)](https://arxiv.org/ftp/arxiv/papers/2306/2306.03444.pdf) |
 | 2084 | An ASR-enabled Reading Tutor: investigating feedback to optimize interaction for learning to read | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://aichildinteraction.github.io/preprint/AIAIC23_paper_7671.pdf) |
 | 935 | Adaptation of Whisper models to child speech recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-
 
 ### Speech Synthesis: Multilinguality; Evaluation
 
