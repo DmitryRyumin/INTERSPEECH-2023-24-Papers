@@ -704,11 +704,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1404 | Self-Distillation into Self-Attention Heads for Improving Transformer-based End-to-End Neural Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1217 | Build a SRE Challenge System: Lessons from VoxSRC 2022 and CNSRC 2022 | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00815-b31b1b.svg)](https://arxiv.org/abs/2211.00815) |
 | 1648 | Describing the Phonetics in the Underlying Speech Attributes for Deep and Interpretable Speaker Recognition | [![GitHub](https://img.shields.io/github/stars/LIAvignon/BA-LR)](https://github.com/LIAvignon/BA-LR) | :heavy_minus_sign: |
-| 1214 | Range-Based Equal Error Rate for Spoof Localization |  |  |
-| 1888 | Exploring the English Accent-independent Features for Speech Emotion Recognition using Filter and Wrapper-based Methods for Feature Selection |  |  |
-| 205 | Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization |  |  |
-| 394 | A Method of Audio-Visual Person Verification by Mining Connections between Time Series |  |  |
-| 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks |  |  |
+| 1214 | Range-Based Equal Error Rate for Spoof Localization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17739-b31b1b.svg)](https://arxiv.org/abs/2305.17739) |
+| 1888 | Exploring the English Accent-independent Features for Speech Emotion Recognition using Filter and Wrapper-based Methods for Feature Selection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 205 | Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 394 | A Method of Audio-Visual Person Verification by Mining Connections between Time Series | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis and Voice Conversion
 
