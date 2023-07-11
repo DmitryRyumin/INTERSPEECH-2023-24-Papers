@@ -995,6 +995,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 663 | A Novel Interpretable and Generalizable Re-synchronization Model for Cued Speech based on a Multi-Cuer Corpus | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02596-b31b1b.svg)](https://arxiv.org/abs/2306.02596) |
 | 668 | Visually Grounded Few-shot Word Acquisition with Fewer Shots | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15937-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
 | 183 | JAMFN: Joint Attention Multi-Scale Fusion Network for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 852 | AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13050-b31b1b.svg)](https://arxiv.org/abs/2305.13050) |
+
 
 ### Question Answering from Speech
 
