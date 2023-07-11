@@ -1078,7 +1078,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1608 | HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1608 | HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hiervst.github.io) | :heavy_minus_sign: |
 | 391 | VISinger2: High-Fidelity End-to-End Singing Voice Synthesis Enhanced by Digital Signal Processing Synthesizer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zhangyongmao.github.io/VISinger2/) <br /> [![GitHub](https://img.shields.io/github/stars/zhangyongmao/VISinger2)](https://github.com/zhangyongmao/VISinger2) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.02903) |
 | 700 | EdenTTS: A Simple and Efficient Parallel Text-to-speech Architecture with Collaborative Duration-alignment Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 368 | Generalizable Zero-Shot Speaker Adaptive Speech Synthesis with Disentangled Representations | :heavy_minus_sign: | :heavy_minus_sign: |
