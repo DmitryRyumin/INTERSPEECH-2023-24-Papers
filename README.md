@@ -1215,9 +1215,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 1302 | Joint Learning Feature and Model Adaptation for Unsupervised Acoustic Modelling of Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1681 | Automatic Assessment of Oral Reading Accuracy for Reading Diagnostics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03444-b31b1b.svg)](https://arxiv.org/ftp/arxiv/papers/2306/2306.03444.pdf) |
-| 2084 | An ASR-enabled Reading Tutor: investigating feedback to optimize interaction for learning to read | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://aichildinteraction.github.io/preprint/AIAIC23_paper_7671.pdf) |
-| 935 | Adaptation of Whisper models to child speech recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1681 | Automatic Assessment of Oral Reading Accuracy for Reading Diagnostics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03444-b31b1b.svg)](https://arxiv.org/abs/2306.03444) |
+| 2084 | An ASR-enabled Reading Tutor: Investigating Feedback to Optimize Interaction for Learning to Read | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://aichildinteraction.github.io/preprint/AIAIC23_paper_7671.pdf) |
+| 935 | Adaptation of Whisper Models to Child Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis: Multilinguality; Evaluation
 
