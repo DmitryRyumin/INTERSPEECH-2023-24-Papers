@@ -1082,7 +1082,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 391 | VISinger2: High-Fidelity End-to-End Singing Voice Synthesis Enhanced by Digital Signal Processing Synthesizer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zhangyongmao.github.io/VISinger2/) <br /> [![GitHub](https://img.shields.io/github/stars/zhangyongmao/VISinger2)](https://github.com/zhangyongmao/VISinger2) | [![arXiv](https://img.shields.io/badge/arXiv-2211.02903-b31b1b.svg)](https://arxiv.org/abs/2211.02903) |
 | 700 | EdenTTS: A Simple and Efficient Parallel Text-to-speech Architecture with Collaborative Duration-alignment Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 368 | Generalizable Zero-Shot Speaker Adaptive Speech Synthesis with Disentangled Representations | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1020 | Speech inpainting: Context-based speech synthesis guided by video | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ipcv.github.io/avsi/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00489-b31b1b.svg)](https://arxiv.org/abs/2306.00489) |
+| 1020 | Speech inpainting: Context-based Speech Synthesis Guided by Video | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ipcv.github.io/avsi/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00489-b31b1b.svg)](https://arxiv.org/abs/2306.00489) |
 | 2243 | STEN-TTS: Improving Zero-shot Cross-Lingual Transfer for Multi-Lingual TTS with Style-Enhanced Normalization Diffusion Framework | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Search Methods and Decoding Algorithms for ASR
