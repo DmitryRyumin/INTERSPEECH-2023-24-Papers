@@ -1014,11 +1014,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1422 | Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16263-b31b1b.svg)](https://arxiv.org/abs/2305.16263) |
 | 1952 | Cascaded Encoders for Fine-Tuning ASR Models on Overlapped Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16398-b31b1b.svg)](https://arxiv.org/abs/2306.16398) |
 | 564 | Joint Autoregressive Modeling of End-to-End Multi-Talker Overlapped Speech Recognition and Utterance-level Timestamp Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
-| 42 | GPU-accelerated Guided Source Separation for Meeting Transcription | [![GitHub Page](https://img.shields.io/github/stars/desh2608/gss)](https://github.com/desh2608/gss) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05271-b31b1b.svg)](https://arxiv.org/abs/2212.05271)
+| 42 | GPU-accelerated Guided Source Separation for Meeting Transcription | [![GitHub Page](https://img.shields.io/github/stars/desh2608/gss)](https://github.com/desh2608/gss) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05271-b31b1b.svg)](https://arxiv.org/abs/2212.05271)|
 
 ### Sociophonetics
 
-> Will soon be added
+
+| **#** | **Title**                                                                                     | **Repo** | **Paper** |
+|-------|-----------------------------------------------------------------------------------------------|:--------:|:---------:|
+ | 206   | Aberystwyth English Pre-aspiration in Apparent Time                                           |:heavy_minus_sign:|:heavy_minus_sign:|
+ | 1154  | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role |:heavy_minus_sign:|:heavy_minus_sign:|
+| 1414  |Sociodemographic and Attitudinal Effects on Dialect Speakers’ Articulation of the Standard Language: Evidence from German-Speaking Switzerland|:heavy_minus_sign:|:heavy_minus_sign:|
+| 1704  |Vowel Normalisation in Latent Space for Soci- olinguistics|:heavy_minus_sign:|:heavy_minus_sign:|
 
 ### Speaker and Language Diarization
 
