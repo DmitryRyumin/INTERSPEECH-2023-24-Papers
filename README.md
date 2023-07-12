@@ -1046,7 +1046,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child- Directed Speech
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 1335 | Spoken Language Identification System for English-Mandarin Code-Switching Child-Directed Speech | [![GitHub](https://img.shields.io/github/stars/shashikg/LID-Code-Switching)](https://github.com/shashikg/LID-Code-Switching) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.00736) |
+| 1707 | Investigating model performance in language identification: beyond simple error statistics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.18925) |
+| 2533 | Improving wav2vec2-based Spoken Language Identification by Learning Phonological Features | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2047 | Language Identification Networks for Multilingual Everyday Recordings | :heavy_minus_sign: |:heavy_minus_sign: |
+
 
 ### Health-Related Speech Analysis
 
