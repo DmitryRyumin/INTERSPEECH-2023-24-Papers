@@ -1220,7 +1220,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2378 | Enhancing the EEG Speech Match Mismatch Tasks With Word Boundaries | [![GitHub](https://img.shields.io/github/stars/iiscleap/EEGspeech-MatchMismatch)](https://github.com/iiscleap/EEGspeech-MatchMismatch) | [![arXiv](https://img.shields.io/badge/arXiv-2307.00366-b31b1b.svg)](https://arxiv.org/abs/2307.00366) |
 | 1347 | Similar Hierarchical Representation of Speech and Other Complex Sounds in the Brain and Deep Residual Networks: an MEG Study | :heavy_minus_sign: | :heavy_minus_sign: |
 | 121 | Speech Taskonomy: Which Speech Tasks are the most Predictive of fMRI Brain Activity? | :heavy_minus_sign: | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04131475) |
-| 282 | MEG Encoding using Word Context Semantics in Listening Stories | :heavy_minus_sign: | :heavy_minus_sign: |
+| 282 | MEG Encoding using Word Context Semantics in Listening Stories | :heavy_minus_sign: | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04148324) |
 | 1949 | Investigating the cortical tracking of speech and music with sung speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 414 | Exploring Auditory Attention Decoding using Speaker Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1776 | Effects of spectral degradation on the cortical tracking of the speech envelope | :heavy_minus_sign: | :heavy_minus_sign: |
