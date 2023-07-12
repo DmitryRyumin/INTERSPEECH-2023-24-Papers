@@ -1020,13 +1020,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Sociophonetics
 
-
-| **#** | **Title**                                                                                     | **Repo** | **Paper** |
-|-------|-----------------------------------------------------------------------------------------------|:--------:|:---------:|
- | 206   | Aberystwyth English Pre-aspiration in Apparent Time                                           |:heavy_minus_sign:|:heavy_minus_sign:|
- | 1154  | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role |:heavy_minus_sign:|:heavy_minus_sign:|
-| 1414  |Sociodemographic and Attitudinal Effects on Dialect Speakers’ Articulation of the Standard Language: Evidence from German-Speaking Switzerland|:heavy_minus_sign:|:heavy_minus_sign:|
-| 1704  |Vowel Normalisation in Latent Space for Soci- olinguistics|:heavy_minus_sign:|:heavy_minus_sign:|
+| **#** | **Title** | **Repo** | **Paper** |
+|-------| --------- |:--------:|:---------:|
+| 206 | Aberystwyth English Pre-aspiration in Apparent Time |:heavy_minus_sign: | :heavy_minus_sign: |
+| 1154 | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1414 |Sociodemographic and Attitudinal Effects on Dialect Speakers’ Articulation of the Standard Language: Evidence from German-Speaking Switzerland | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1704 |Vowel Normalisation in Latent Space for Soci- olinguistics |:heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speaker and Language Diarization
 
@@ -1034,7 +1033,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Anti-Spoofing for Speaker Verification
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------| --------- |:--------:|:---------:|
+| 1402 | Towards single integrated spoofing-aware speaker verification embeddings | [![GitHub](https://img.shields.io/github/stars/sasv-challenge/ASVSpoof5-SASVBaseline)](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19051-b31b1b.svg)](https://arxiv.org/abs/2305.19051) |
+| 1352 | Pseudo-Siamese Network based Timbre-reserved Black-box Adversarial Attack in Speaker Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19020-b31b1b.svg)](https://arxiv.org/abs/2305.19020) |
+| 2335 | Betray Oneself: A Novel Audio DeepFake Detection Model via Mono-to-Stereo Conversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16353-b31b1b.svg)](https://arxiv.org/abs/2305.16353) |
+| 2335 | Betray Oneself: A Novel Audio DeepFake Detection Model via Mono-to-Stereo Conversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16353-b31b1b.svg)](https://arxiv.org/abs/2305.16353) |
+
 
 ### Speech Coding: Intelligibility
 
