@@ -945,18 +945,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Acoustic Model Adaptation for ASR
 
-
-| **#** | **Title**                                                                                       |                                                 **Repo**                                                 | **Paper** |
-|-------|-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------:|:---------:|
-| 583   | Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems        |                                            :heavy_minus_sign:                                            | [![arXiv](https://img.shields.io/badge/arXiv-2306.14608-b31b1b.svg)](https://arxiv.org/abs/2306.14608) |
-| 1349  | Text Only Domain Adaptation with Phoneme Guided Data Splicing for End-to-End Speech Recognition |      [![GitHub](https://img.shields.io/github/stars/NVIDIA/NeMo)](https://github.com/NVIDIA/NeMo/)       |[![arXiv](https://img.shields.io/badge/arXiv-2302.14036-b31b1b.svg)](https://arxiv.org/abs/2302.14036) |
- | 327   | Towards Cross-Lingual Cross-Age Adaptation for Low-Resource Elderly Speech Emotion Recognition  |                                            :heavy_minus_sign:                                            |:heavy_minus_sign: |
- | 2215  | Modular Domain Adaptation for Conformer Based Streaming ASR                                     |                                            :heavy_minus_sign:                                            |[![arXiv](https://img.shields.io/badge/arXiv-2305.13408-b31b1b.svg)](https://arxiv.org/abs/2305.13408)|
- | 2192  | Don’t Stop Self-Supervision: Accent Adaptation of Speech Representations via Residual Adapters  |                                            :heavy_minus_sign:                                            |[![arXiv](https://img.shields.io/badge/arXiv-2307.00453-b31b1b.svg)](https://arxiv.org/abs/2307.00453)|
-| 1282  |SGEM: Test-Time Adaptation for Automatic Speech Recognition via Sequential-Level Generalized Entropy Minimization|      [![GitHub](https://img.shields.io/github/stars/drumpt/SGEM)](https://github.com/drumpt/SGEM/)       |[![arXiv](https://img.shields.io/badge/arXiv-2306.01981-b31b1b.svg)](https://arxiv.org/abs/2306.01981)|
-
-
-
+| **#** | **Title** | **Repo** | **Paper** |
+| ----- | --------- |:--------:|:---------:|
+| 583 | Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14608-b31b1b.svg)](https://arxiv.org/abs/2306.14608) |
+| 1349 | Text Only Domain Adaptation with Phoneme Guided Data Splicing for End-to-End Speech Recognition | [![GitHub](https://img.shields.io/github/stars/NVIDIA/NeMo)](https://github.com/NVIDIA/NeMo/) |[![arXiv](https://img.shields.io/badge/arXiv-2302.14036-b31b1b.svg)](https://arxiv.org/abs/2302.14036) |
+ | 327 | Towards Cross-Lingual Cross-Age Adaptation for Low-Resource Elderly Speech Emotion Recognition | :heavy_minus_sign: |:heavy_minus_sign: |
+ | 2215 | Modular Domain Adaptation for Conformer Based Streaming ASR | :heavy_minus_sign: |[![arXiv](https://img.shields.io/badge/arXiv-2305.13408-b31b1b.svg)](https://arxiv.org/abs/2305.13408) |
+ | 2192 | Don’t Stop Self-Supervision: Accent Adaptation of Speech Representations via Residual Adapters | :heavy_minus_sign: |[![arXiv](https://img.shields.io/badge/arXiv-2307.00453-b31b1b.svg)](https://arxiv.org/abs/2307.00453)|
+| 1282 | SGEM: Test-Time Adaptation for Automatic Speech Recognition via Sequential-Level Generalized Entropy Minimization | [![GitHub](https://img.shields.io/github/stars/drumpt/SGEM)](https://github.com/drumpt/SGEM/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01981-b31b1b.svg)](https://arxiv.org/abs/2306.01981) |
 
 ### Speech Synthesis: Expressivity
 
@@ -996,7 +992,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 668 | Visually Grounded Few-shot Word Acquisition with Fewer Shots | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15937-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
 | 183 | JAMFN: Joint Attention Multi-Scale Fusion Network for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 852 | AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13050-b31b1b.svg)](https://arxiv.org/abs/2305.13050) |
-
 
 ### Question Answering from Speech
 
@@ -1042,9 +1037,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1537 | Improved DeepFake Detection Using Whisper Features | [![GitHub](https://img.shields.io/github/stars/piotrkawa/deepfake-whisper-features)](https://github.com/piotrkawa/deepfake-whisper-features) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01428-b31b1b.svg)](https://arxiv.org/abs/2306.01428) |
 | 371 | DoubleDeceiver: Deceiving the Speaker Verification System Protected by Spoofing Countermeasures | :heavy_minus_sign: | :heavy_minus_sign: |
 
-
-
-
 ### Speech Coding: Intelligibility
 
 | **#** | **Title** | **Repo** | **Paper** |
@@ -1055,7 +1047,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1130  |MC-SpEx: Towards Effective Speaker Extraction with Multi-Scale Interfusion and Conditional Speaker Modulation|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.16250-b31b1b.svg)](https://arxiv.org/abs/2306.16250)|
 | 2177  |Causal Signal-Based DCCRN with Overlapped- Frame Prediction for Online Speech Enhancement|:heavy_minus_sign:|:heavy_minus_sign:|
 | 1511  |Gesper: A Restoration-Enhancement Framework for General Speech Reconstruction|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.08454-b31b1b.svg)](https://arxiv.org/abs/2306.08454)|
-
 
 ### New Computational Strategies for ASR Training and Inference
 
@@ -1076,7 +1067,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1707 | Investigating model performance in language identification: beyond simple error statistics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.18925) |
 | 2533 | Improving wav2vec2-based Spoken Language Identification by Learning Phonological Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2047 | Language Identification Networks for Multilingual Everyday Recordings | :heavy_minus_sign: |:heavy_minus_sign: |
-
 
 ### Health-Related Speech Analysis
 
@@ -1125,7 +1115,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2065 | Prefix Search Decoding for RNN Transducers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 78 | WhisperX: Time-Accurate Speech Transcription of Long-Form Audio  | [![GitHub](https://img.shields.io/github/stars/m-bain/whisperX)](https://github.com/m-bain/whisperX) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2303.00747) |
 | 2449 | Implementing contextual biasing in GPU decoder for online ASR | [![GitHub](https://img.shields.io/github/stars/idiap/contextual-biasing-on-gpus)](https://github.com/idiap/contextual-biasing-on-gpus) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.15685) |
-
 
 ### Speech Signal Analysis
 
