@@ -178,7 +178,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 101 | Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/DPSL-ASR)](https://github.com/YUCHEN005/DPSL-ASR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.14838-b31b1b.svg)](https://arxiv.org/abs/2203.14838) |
 | 1064 | MT-SLVR: Multi-Task Self-Supervised Learning for Transformation In(Variant) Representations | [![GitHub](https://img.shields.io/github/stars/CHeggan/MT-SLVR)](https://github.com/CHeggan/MT-SLVR) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17191-b31b1b.svg)](https://arxiv.org/abs/2305.17191) |
 | 1422 | Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16263-b31b1b.svg)](https://arxiv.org/abs/2305.16263) |
-| 1413 | Patch-Mix Contrastive Learning with Audio Spectrogram Transformer on Respiratory Sound Classification| [![GitHub](https://img.shields.io/github/stars/raymin0223/patch-mix_contrastive_learning)](https://github.com/raymin0223/patch-mix_contrastive_learning) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14032-b31b1b.svg)](https://arxiv.org/abs/2305.14032) |
+| 1413 | Patch-Mix Contrastive Learning with Audio Spectrogram Transformer on Respiratory Sound Classification | [![GitHub](https://img.shields.io/github/stars/raymin0223/patch-mix_contrastive_learning)](https://github.com/raymin0223/patch-mix_contrastive_learning) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14032-b31b1b.svg)](https://arxiv.org/abs/2305.14032) |
 
 ### Analysis of Speech and Audio Signals
 
@@ -1117,12 +1117,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 33 | Average Token Delay: A Latency Metric for Simultaneous Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.13173) |
+| 33 | Average Token Delay: A Latency Metric for Simultaneous Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.13173-b31b1b.svg)](https://arxiv.org/abs/2211.13173) |
 | 1450 | Automatic Speech Recognition Transformer with Global Contextual Information Decoder | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1333 | Time-synchronous one-pass Beam Search for Parallel Online and Offline Transducers with Dynamic Block Training | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2065 | Prefix Search Decoding for RNN Transducers | :heavy_minus_sign: | :heavy_minus_sign: |
-| 78 | WhisperX: Time-Accurate Speech Transcription of Long-Form Audio  | [![GitHub](https://img.shields.io/github/stars/m-bain/whisperX)](https://github.com/m-bain/whisperX) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2303.00747) |
-| 2449 | Implementing contextual biasing in GPU decoder for online ASR | [![GitHub](https://img.shields.io/github/stars/idiap/contextual-biasing-on-gpus)](https://github.com/idiap/contextual-biasing-on-gpus) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.15685) |
+| 78 | WhisperX: Time-Accurate Speech Transcription of Long-Form Audio  | [![GitHub](https://img.shields.io/github/stars/m-bain/whisperX)](https://github.com/m-bain/whisperX) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00747-b31b1b.svg)](https://arxiv.org/abs/2303.00747) |
+| 2449 | Implementing contextual biasing in GPU decoder for online ASR | [![GitHub](https://img.shields.io/github/stars/idiap/contextual-biasing-on-gpus)](https://github.com/idiap/contextual-biasing-on-gpus) | [![arXiv](https://img.shields.io/badge/arXiv-2306.15685-b31b1b.svg)](https://arxiv.org/abs/2306.15685) |
 
 ### Speech Signal Analysis
 
