@@ -457,7 +457,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 886 | MSAF: A Multiple Self-Attention Field Method for Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2302 | Ultra Dual-Path Compression For Joint Echo Cancellation And Noise Suppression | :heavy_minus_sign: | :heavy_minus_sign: |
 | 971 | ABC-KD: Attention-Based-Compression Knowledge Distillation for Deep Learning-Based Noise Suppression | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16665-b31b1b.svg)](https://arxiv.org/abs/2305.16665) |
-| 1532 | PLCMOS – a Data-driven Non-intrusive Metric for the Evaluation of Packet Loss Concealment Algorithms | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/PLC-Challenge/tree/main/PLCMOS) [![PyPI](https://img.shields.io/pypi/v/speechmos)](https://pypi.org/project/speechmos/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15127-b31b1b.svg)](https://arxiv.org/abs/2305.15127) |
+| 1532 | PLCMOS – a Data-driven Non-intrusive Metric for the Evaluation of Packet Loss Concealment Algorithms | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/PLC-Challenge/tree/main/PLCMOS) <br /> [![PyPI](https://img.shields.io/pypi/v/speechmos)](https://pypi.org/project/speechmos/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15127-b31b1b.svg)](https://arxiv.org/abs/2305.15127) |
 
 ### Paralinguistics
 
