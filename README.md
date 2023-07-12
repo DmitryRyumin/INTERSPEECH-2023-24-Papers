@@ -1202,7 +1202,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 2316 | Deep Speech Synthesis from MRI-Based Articulatory Representations | [![GitHub](https://img.shields.io/github/stars/articulatory/articulatory)](https://github.com/articulatory/articulatory) | [![arXiv](https://img.shields.io/badge/arXiv-2307.02471-b31b1b.svg)](https://arxiv.org/pdf/2307.02471.pdf) |
-| 562 | Learning to Compute the Articulatory Representations of Speech with the MIRRORNET | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yashish92.github.io/MirrorNet-for-speech/) </br> [![GitHub](https://img.shields.io/github/stars/Yashish92/MirrorNet-for-speech)](https://github.com/Yashish92/MirrorNet-for-speech)| [![arXiv](https://img.shields.io/badge/arXiv-2210.16454-b31b1b.svg)](https://arxiv.org/pdf/2210.16454.pdf) |
+| 562 | Learning to Compute the Articulatory Representations of Speech with the MIRRORNET | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yashish92.github.io/MirrorNet-for-speech/) </br> [![GitHub](https://img.shields.io/github/stars/Yashish92/MirrorNet-for-speech)](https://github.com/Yashish92/MirrorNet-for-speech)| [![arXiv](https://img.shields.io/badge/arXiv-2210.16454-b31b1b.svg)](https://arxiv.org/abs/2210.16454.pdf) |
 | 804 | Generating high-resolution 3D real-time MRI of the vocal tract | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1593 | Exploring a classification approach using quantised articulatory movements for acoustic to articulatory inversion | :heavy_minus_sign: | :heavy_minus_sign: |
 
@@ -1211,7 +1211,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
 | 633 | Coherence Estimation Tracks Auditory Attention in Listeners with Hearing Impairment | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2378 | Enhancing the EEG Speech Match Mismatch Tasks With Word Boundaries | [![GitHub](https://img.shields.io/github/stars/iiscleap/EEGspeech-MatchMismatch)](https://github.com/iiscleap/EEGspeech-MatchMismatch) | [![arXiv](https://img.shields.io/badge/arXiv-2307.00366-b31b1b.svg)](https://arxiv.org/pdf/2307.00366.pdf) |
+| 2378 | Enhancing the EEG Speech Match Mismatch Tasks With Word Boundaries | [![GitHub](https://img.shields.io/github/stars/iiscleap/EEGspeech-MatchMismatch)](https://github.com/iiscleap/EEGspeech-MatchMismatch) | [![arXiv](https://img.shields.io/badge/arXiv-2307.00366-b31b1b.svg)](https://arxiv.org/abs/2307.00366.pdf) |
 | 1347 | Similar hierarchical representation of speech and other complex sounds in the brain and deep residual networks: An MEG study | :heavy_minus_sign: | :heavy_minus_sign: |
 | 121 | Speech Taskonomy: Which Speech Tasks are the most Predictive of fMRI Brain Activity? | :heavy_minus_sign: | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04131475) |
 | 282 | MEG Encoding using Word Context Semantics in Listening Stories | :heavy_minus_sign: | :heavy_minus_sign: |
