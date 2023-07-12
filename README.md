@@ -1119,10 +1119,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ----- | --------- |:--------:|:---------:|
 | 33 | Average Token Delay: A Latency Metric for Simultaneous Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.13173-b31b1b.svg)](https://arxiv.org/abs/2211.13173) |
 | 1450 | Automatic Speech Recognition Transformer with Global Contextual Information Decoder | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1333 | Time-synchronous one-pass Beam Search for Parallel Online and Offline Transducers with Dynamic Block Training | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1333 | Time-synchronous One-pass Beam Search for Parallel Online and Offline Transducers with Dynamic Block Training | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2065 | Prefix Search Decoding for RNN Transducers | :heavy_minus_sign: | :heavy_minus_sign: |
-| 78 | WhisperX: Time-Accurate Speech Transcription of Long-Form Audio  | [![GitHub](https://img.shields.io/github/stars/m-bain/whisperX)](https://github.com/m-bain/whisperX) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00747-b31b1b.svg)](https://arxiv.org/abs/2303.00747) |
-| 2449 | Implementing contextual biasing in GPU decoder for online ASR | [![GitHub](https://img.shields.io/github/stars/idiap/contextual-biasing-on-gpus)](https://github.com/idiap/contextual-biasing-on-gpus) | [![arXiv](https://img.shields.io/badge/arXiv-2306.15685-b31b1b.svg)](https://arxiv.org/abs/2306.15685) |
+| 78 | WhisperX: Time-Accurate Speech Transcription of Long-Form Audio | [![GitHub](https://img.shields.io/github/stars/m-bain/whisperX)](https://github.com/m-bain/whisperX) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00747-b31b1b.svg)](https://arxiv.org/abs/2303.00747) |
+| 2449 | Implementing Contextual Biasing in GPU Decoder for Online ASR | [![GitHub](https://img.shields.io/github/stars/idiap/contextual-biasing-on-gpus)](https://github.com/idiap/contextual-biasing-on-gpus) | [![arXiv](https://img.shields.io/badge/arXiv-2306.15685-b31b1b.svg)](https://arxiv.org/abs/2306.15685) |
 
 ### Speech Signal Analysis
 
