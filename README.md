@@ -1019,8 +1019,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-------| --------- |:--------:|:---------:|
 | 206 | Aberystwyth English Pre-aspiration in Apparent Time |:heavy_minus_sign: | :heavy_minus_sign: |
 | 1154 | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1414 |Sociodemographic and Attitudinal Effects on Dialect Speakers’ Articulation of the Standard Language: Evidence from German-Speaking Switzerland | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1704 |Vowel Normalisation in Latent Space for Soci- olinguistics |:heavy_minus_sign: | :heavy_minus_sign: |
+| 1414 | Sociodemographic and Attitudinal Effects on Dialect Speakers' Articulation of the Standard Language: Evidence from German-Speaking Switzerland | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1704 | Vowel Normalisation in Latent Space for Sociolinguistics |:heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speaker and Language Diarization
 
