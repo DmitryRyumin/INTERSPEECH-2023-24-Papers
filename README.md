@@ -1042,7 +1042,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### New Computational Strategies for ASR Training and Inference
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------| --------- |:--------:|:---------:|
+| 2183  |A Metric-Driven Approach to Conformer Layer Pruning for Efficient ASR Inference|:heavy_minus_sign:|:heavy_minus_sign:|
+| 1981  |Distillation Strategies for Discriminative Speech Recognition Rescoring|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.09452-b31b1b.svg)](https://arxiv.org/abs/2306.09452)|
+| 969   |Another Point of View on Visual Speech Recognition|:heavy_minus_sign:|:heavy_minus_sign:|
+| 1062  |RASR2: The RWTH ASR Toolkit for Generic Sequence-to-sequence Speech Recognition|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2305.17782-b31b1b.svg)](https://arxiv.org/abs/2305.17782)|
+| 486   |Streaming Speech-to-Confusion Network Speech Recognition|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.03778-b31b1b.svg)](https://arxiv.org/abs/2306.03778)|
+| 809   |Accurate and Structured Pruning for Efficient Automatic Speech Recognition|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2305.19549-b31b1b.svg)](https://arxiv.org/abs/2305.19549)|
 
 ### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child- Directed Speech
 
