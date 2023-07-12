@@ -1038,7 +1038,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Coding: Intelligibility
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------| --------- |:--------:|:---------:|
+| 2209  |On Training a Neural Residual Acoustic Echo Suppressor for Improved ASR|:heavy_minus_sign:|:heavy_minus_sign:|
+| 1429  |Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2303.00529-b31b1b.svg)](https://arxiv.org/abs/2303.00529) |
+| 378   |UnSE: Unsupervised Speech Enhancement Using Optimal Transport |:heavy_minus_sign:|:heavy_minus_sign:|
+| 1130  |MC-SpEx: Towards Effective Speaker Extraction with Multi-Scale Interfusion and Conditional Speaker Modulation|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.16250-b31b1b.svg)](https://arxiv.org/abs/2306.16250)|
+| 2177  |Causal Signal-Based DCCRN with Overlapped- Frame Prediction for Online Speech Enhancement|:heavy_minus_sign:|:heavy_minus_sign:|
+| 1511  |Gesper: A Restoration-Enhancement Framework for General Speech Reconstruction|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.08454-b31b1b.svg)](https://arxiv.org/abs/2306.08454)|
+
 
 ### New Computational Strategies for ASR Training and Inference
 
