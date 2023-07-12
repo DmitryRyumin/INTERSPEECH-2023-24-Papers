@@ -1008,10 +1008,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 | ----- | --------- |:--------:|:---------:|
-| 1422 | Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16263-b31b1b.svg)](https://arxiv.org/abs/2305.16263) |
+| 1749 | SEF-Net: Speaker Embedding Free Target Spekaer Extraction Network | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1530 | Overlap Aware Continuous Speech Separation without Permutation Invariant Training Linfeng | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1952 | Cascaded Encoders for Fine-Tuning ASR Models on Overlapped Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16398-b31b1b.svg)](https://arxiv.org/abs/2306.16398) |
-| 564 | Joint Autoregressive Modeling of End-to-End Multi-Talker Overlapped Speech Recognition and Utterance-level Timestamp Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2069 | TokenSplit: Using Discrete Speech Representations for Direct, Refined, and Transcript-Conditioned Speech Separation and Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1422 | Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16263-b31b1b.svg)](https://arxiv.org/abs/2305.16263) |
+| 2098 | Time-domain Transformer-based Audiovisual Speaker Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 628  | Multi-Stream Extension of Variational Bayesian HMM Clustering (MS-VBx) for Combined End-to-End and Vector Clustering-based Diarization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13580-b31b1b.svg)](https://arxiv.org/abs/2305.13580) |
+| 1502 | Unsupervised Adaptation with Quality-Aware Masking to Improve Target-Speaker Voice Activity Detection for Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1521 | BA-SOT: Boundary-Aware Serialized Output
+Training for Multi-Talker ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13716-b31b1b.svg)](https://arxiv.org/abs/2305.13716) |
+| 1172 | Improving Label Assignments learning by dynamic sample dropout combined with layer-wise optimization in speech separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 42 | GPU-accelerated Guided Source Separation for Meeting Transcription | [![GitHub Page](https://img.shields.io/github/stars/desh2608/gss)](https://github.com/desh2608/gss) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05271-b31b1b.svg)](https://arxiv.org/abs/2212.05271)|
+|  |  |  | |
 
 ### Sociophonetics
 
