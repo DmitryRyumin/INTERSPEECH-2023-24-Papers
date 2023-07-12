@@ -1016,11 +1016,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2098 | Time-domain Transformer-based Audiovisual Speaker Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 628  | Multi-Stream Extension of Variational Bayesian HMM Clustering (MS-VBx) for Combined End-to-End and Vector Clustering-based Diarization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13580-b31b1b.svg)](https://arxiv.org/abs/2305.13580) |
 | 1502 | Unsupervised Adaptation with Quality-Aware Masking to Improve Target-Speaker Voice Activity Detection for Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1521 | BA-SOT: Boundary-Aware Serialized Output
-Training for Multi-Talker ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13716-b31b1b.svg)](https://arxiv.org/abs/2305.13716) |
-| 1172 | Improving Label Assignments learning by dynamic sample dropout combined with layer-wise optimization in speech separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1521 | BA-SOT: Boundary-Aware Serialized Output Training for Multi-Talker ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13716-b31b1b.svg)](https://arxiv.org/abs/2305.13716) |
+| 1172 | Improving Label Assignments Learning by Dynamic Sample Dropout Combined with Layer-wise Optimization in Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 975 | Joint compensation of multi-talker noise and reverberation for speech enhancement with cochlear implants using one or more microphones | :heavy_minus_sign: | :heavy_minus_sign: |
 | 42 | GPU-accelerated Guided Source Separation for Meeting Transcription | [![GitHub Page](https://img.shields.io/github/stars/desh2608/gss)](https://github.com/desh2608/gss) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05271-b31b1b.svg)](https://arxiv.org/abs/2212.05271)|
-|  |  |  | |
+| 1280 | Weakly-Supervised Speech Pre-training: A Case Study on Target Speech Recognition |[![GitHub](https://img.shields.io/github/stars/Emrys365/fairseq/tree/wavlm/examples/tshubert)](https://github.com/Emrys365/fairseq/tree/wavlm/examples/tshubert)| [![arXiv](https://img.shields.io/badge/arXiv-2305.16286-b31b1b.svg)](https://arxiv.org/abs/2305.16286)|
+| 2076 | Directional Speech Recognition for Speaker Disambiguation and Cross-talk Suppression | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1815  |  Mixture Encoder for Joint Speech Separation and Recognition | :heavy_minus_sign: |  [![arXiv](https://img.shields.io/badge/arXiv-2306.12173-b31b1b.svg)](https://arxiv.org/abs/2306.12173)|
 
 ### Sociophonetics
 
@@ -1291,3 +1293,4 @@ Training for Multi-Talker ASR | :heavy_minus_sign: | [![arXiv](https://img.shiel
         <img width="500" src="https://api.star-history.com/svg?repos=Dmitryryumin/Interspeech-2023-papers&type=Date" alt="Star History Chart">
     </a>
 <p>
+
