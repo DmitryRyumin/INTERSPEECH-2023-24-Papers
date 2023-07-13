@@ -229,6 +229,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1965 | Variational Classifier for Unsupervised Anomalous Sound Detection under Domain Generalization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 745 | FlexiAST: Flexibility is What AST Needs | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1344 | Blind Estimation of Room Impulse Response from Monaural Reverberant Speech with Segmental Generative Neural Network | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/370843606_Blind_Estimation_of_Room_Impulse_Response_from_Monaural_Reverberant_Speech_with_Segmental_Generative_Neural_Network) |
+| 852 | AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) <br /> [![GitHub](https://img.shields.io/github/stars/guyyariv/AudioToken)](https://github.com/guyyariv/AudioToken) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13050-b31b1b.svg)](https://arxiv.org/abs/2305.13050) |
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
@@ -991,7 +992,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 663 | A Novel Interpretable and Generalizable Re-synchronization Model for Cued Speech based on a Multi-Cuer Corpus | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02596-b31b1b.svg)](https://arxiv.org/abs/2306.02596) |
 | 668 | Visually Grounded Few-shot Word Acquisition with Fewer Shots | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15937-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
 | 183 | JAMFN: Joint Attention Multi-Scale Fusion Network for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 852 | AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13050-b31b1b.svg)](https://arxiv.org/abs/2305.13050) |
 
 ### Question Answering from Speech
 
