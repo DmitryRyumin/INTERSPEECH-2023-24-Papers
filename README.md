@@ -278,10 +278,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1162 | miniStreamer: Enhancing Small Conformer with Chunked-Context Masking for Streaming ASR Applications on the Edge | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1469 | CoMFLP: Correlation Measure based Fast Search on ASR Layer Pruning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1337 | Exploration on HuBERT with Multiple Resolution | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01084-b31b1b.svg)](https://arxiv.org/abs/2306.01084) |
-| 2045 | Quantization-aware and Tensor-compressed Training of Transformers for Natural Language Understanding |  |  |
-| 2355 | Word-level Confidence Estimation for CTC Models |  |  |
-| 2235 | Multilingual Contextual Adapters to Improve Custom Word Recognition in Low-resource Languages |  |  |
-| 614 | Unsupervised Active Learning: Optimizing Labeling Cost-Effectiveness for Automatic Speech Recognition |  |  |
+| 2045 | Quantization-aware and Tensor-compressed Training of Transformers for Natural Language Understanding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01076-b31b1b.svg)](https://arxiv.org/abs/2306.01076) |
+| 2355 | Word-level Confidence Estimation for CTC Models | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2235 | Multilingual Contextual Adapters to Improve Custom Word Recognition in Low-resource Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.00759-b31b1b.svg)](https://arxiv.org/abs/2307.00759) |
+| 614 | Unsupervised Active Learning: Optimizing Labeling Cost-Effectiveness for Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1303 | 4D ASR: Joint modeling of CTC, Attention, Transducer, and Mask-Predict Decoders |  |  |
 | 1086 | Neural Model Reprogramming with Similarity Based Mapping for Low-Resource Spoken Command Recognition |  |  |
 | 262 | Language-specific Boundary Learning for Improving Mandarin-English Code-switching Speech Recognition |  |  |
