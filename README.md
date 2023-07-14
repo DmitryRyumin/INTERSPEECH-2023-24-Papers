@@ -266,6 +266,28 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 863 | A Lexical-aware Non-autoregressive Transformer-based ASR Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10839-b31b1b.svg)](https://arxiv.org/abs/2305.10839) |
 | 1841 | Improving Under-Resourced Code-Switched Speech Recognition: Large Pre-trained Models or Architectural Interventions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1194 | A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11073-b31b1b.svg)](https://arxiv.org/abs/2305.11073) |
+| 61 | A Model for Every User and Budget: Label-Free and Personalized Mixed-Precision Quantization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 137 | Modeling Dependent Structure for Utterances in ASR Evaluation |  |  |
+| 757 | ASR for Low Resource and Multilingual Noisy Code-Mixed Speech |  |  |
+| 390 | Accurate and Reliable Confidence Estimation Based on Non-Autoregressive End-to-End Speech Recognition System |  |  |
+| 737 | Combining Multilingual Resources and Models to Develop State-of-the-Art E2E ASR for Swedish |  |  |
+| 1171 | Two Stage Contextual Word Filtering for Context bias in Unified Streaming and Non-streaming Transducer |  |  |
+| 1867 | Towards Continually Learning New Languages |  |  |
+| 1616 | N-best T5: Robust ASR Error Correction using Multiple Input Hypotheses and Constrained Decoding Space |  |  |
+| 1432 | SememeASR: Boosting Performance of End-to-End Speech Recognition against Domain and Long-Tailed Data Shift with Sememe Semantic Knowledge |  |  |
+| 1162 | miniStreamer: Enhancing Small Conformer with Chunked-Context Masking for Streaming ASR Applications on the Edge |  |  |
+| 1469 | CoMFLP: Correlation Measure based Fast Search on ASR Layer Pruning |  |  |
+| 1337 | Exploration on HuBERT with Multiple Resolution |  |  |
+| 2045 | Quantization-aware and Tensor-compressed Training of Transformers for Natural Language Understanding |  |  |
+| 2355 | Word-level Confidence Estimation for CTC Models |  |  |
+| 2235 | Multilingual Contextual Adapters to Improve Custom Word Recognition in Low-resource Languages |  |  |
+| 614 | Unsupervised Active Learning: Optimizing Labeling Cost-Effectiveness for Automatic Speech Recognition |  |  |
+| 1303 | 4D ASR: Joint modeling of CTC, Attention, Transducer, and Mask-Predict Decoders |  |  |
+| 1086 | Neural Model Reprogramming with Similarity Based Mapping for Low-Resource Spoken Command Recognition |  |  |
+| 262 | Language-specific Boundary Learning for Improving Mandarin-English Code-switching Speech Recognition |  |  |
+| 480 | Mixture-of-Expert Conformer for Streaming Multilingual ASR |  |  |
+| 1665 | Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switch-board Corpus |  |  |
+| 2544 | Compressed MoE ASR Model Based on Knowledge Distillation and Quantization |  |  |
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
