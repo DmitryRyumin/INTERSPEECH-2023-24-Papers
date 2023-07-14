@@ -267,7 +267,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1841 | Improving Under-Resourced Code-Switched Speech Recognition: Large Pre-trained Models or Architectural Interventions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1194 | A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11073-b31b1b.svg)](https://arxiv.org/abs/2305.11073) |
 | 61 | A Model for Every User and Budget: Label-Free and Personalized Mixed-Precision Quantization | :heavy_minus_sign: | :heavy_minus_sign: |
-| 137 | Modeling Dependent Structure for Utterances in ASR Evaluation |  |  |
+| 137 | Modeling Dependent Structure for Utterances in ASR Evaluation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2209.05281-b31b1b.svg)](https://arxiv.org/abs/2209.05281) |
 | 757 | ASR for Low Resource and Multilingual Noisy Code-Mixed Speech |  |  |
 | 390 | Accurate and Reliable Confidence Estimation Based on Non-Autoregressive End-to-End Speech Recognition System |  |  |
 | 737 | Combining Multilingual Resources and Models to Develop State-of-the-Art E2E ASR for Swedish |  |  |
