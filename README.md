@@ -1026,8 +1026,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2076 | Directional Speech Recognition for Speaker Disambiguation and Cross-talk Suppression | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1815  |  Mixture Encoder for Joint Speech Separation and Recognition | :heavy_minus_sign: |  [![arXiv](https://img.shields.io/badge/arXiv-2306.12173-b31b1b.svg)](https://arxiv.org/abs/2306.12173)|
 
-
-
 ### Sociophonetics
 
 | **#** | **Title** | **Repo** | **Paper** |
@@ -1045,9 +1043,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1447 | Robust Self Supervised Speech Embeddings for Child-Adult Classification in Interactions involving Children with Autism | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2367 | The DISPLACE Challenge 2023 - DIarization of SPeaker and LAnguage in Conversational Environments | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://displace2023.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2303.00830) |
 | 1982 | Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2306.09313) |
-| 1839 | The SpeeD--ZevoTech submission at DISPLACE 2023 | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1839 | The SpeeD-ZevoTech submission at DISPLACE 2023 | :heavy_minus_sign: | :heavy_minus_sign: |
 | 656 | End-to-End Neural Speaker Diarization with Absolute Speaker Loss | :heavy_minus_sign: | :heavy_minus_sign: |
-
 
 ### Anti-Spoofing for Speaker Verification
 
@@ -1064,8 +1061,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 2209 | On Training a Neural Residual Acoustic Echo Suppressor for Improved ASR | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1429 | Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.00529-b31b1b.svg)](https://arxiv.org/abs/2303.00529) |
+| 2209 | On Training a Neural Residual Acoustic echo Suppressor for Improved ASR | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1429 | Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jmlemercier.github.io/2023/05/30/interspeech2023.html) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00529-b31b1b.svg)](https://arxiv.org/abs/2303.00529) |
 | 378 | UnSE: Unsupervised Speech Enhancement Using Optimal Transport | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1130 | MC-SpEx: Towards Effective Speaker Extraction with Multi-Scale Interfusion and Conditional Speaker Modulation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16250-b31b1b.svg)](https://arxiv.org/abs/2306.16250) |
 | 2177 | Causal Signal-Based DCCRN with Overlapped-Frame Prediction for Online Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
