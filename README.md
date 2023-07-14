@@ -1064,23 +1064,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------| --------- |:--------:|:---------:|
-| 2209  |On Training a Neural Residual Acoustic Echo Suppressor for Improved ASR|:heavy_minus_sign:|:heavy_minus_sign:|
-| 1429  |Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2303.00529-b31b1b.svg)](https://arxiv.org/abs/2303.00529) |
-| 378   |UnSE: Unsupervised Speech Enhancement Using Optimal Transport |:heavy_minus_sign:|:heavy_minus_sign:|
-| 1130  |MC-SpEx: Towards Effective Speaker Extraction with Multi-Scale Interfusion and Conditional Speaker Modulation|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.16250-b31b1b.svg)](https://arxiv.org/abs/2306.16250)|
-| 2177  |Causal Signal-Based DCCRN with Overlapped- Frame Prediction for Online Speech Enhancement|:heavy_minus_sign:|:heavy_minus_sign:|
-| 1511  |Gesper: A Restoration-Enhancement Framework for General Speech Reconstruction|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.08454-b31b1b.svg)](https://arxiv.org/abs/2306.08454)|
+| 2209 | On Training a Neural Residual Acoustic Echo Suppressor for Improved ASR | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1429 | Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.00529-b31b1b.svg)](https://arxiv.org/abs/2303.00529) |
+| 378 | UnSE: Unsupervised Speech Enhancement Using Optimal Transport | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1130 | MC-SpEx: Towards Effective Speaker Extraction with Multi-Scale Interfusion and Conditional Speaker Modulation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16250-b31b1b.svg)](https://arxiv.org/abs/2306.16250) |
+| 2177 | Causal Signal-Based DCCRN with Overlapped-Frame Prediction for Online Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1511 | Gesper: A Restoration-Enhancement Framework for General Speech Reconstruction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08454-b31b1b.svg)](https://arxiv.org/abs/2306.08454) |
 
 ### New Computational Strategies for ASR Training and Inference
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------| --------- |:--------:|:---------:|
-| 2183  |A Metric-Driven Approach to Conformer Layer Pruning for Efficient ASR Inference|:heavy_minus_sign:|:heavy_minus_sign:|
-| 1981  |Distillation Strategies for Discriminative Speech Recognition Rescoring|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.09452-b31b1b.svg)](https://arxiv.org/abs/2306.09452)|
-| 969   |Another Point of View on Visual Speech Recognition|:heavy_minus_sign:|:heavy_minus_sign:|
-| 1062  |RASR2: The RWTH ASR Toolkit for Generic Sequence-to-sequence Speech Recognition|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2305.17782-b31b1b.svg)](https://arxiv.org/abs/2305.17782)|
-| 486   |Streaming Speech-to-Confusion Network Speech Recognition|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2306.03778-b31b1b.svg)](https://arxiv.org/abs/2306.03778)|
-| 809   |Accurate and Structured Pruning for Efficient Automatic Speech Recognition|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2305.19549-b31b1b.svg)](https://arxiv.org/abs/2305.19549)|
+| 2183 | A Metric-Driven Approach to Conformer Layer Pruning for Efficient ASR Inference | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1981 | Distillation Strategies for Discriminative Speech Recognition Rescoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.09452-b31b1b.svg)](https://arxiv.org/abs/2306.09452) |
+| 969 | Another Point of View on Visual Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1062 | RASR2: The RWTH ASR Toolkit for Generic Sequence-to-sequence Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17782-b31b1b.svg)](https://arxiv.org/abs/2305.17782) |
+| 486 |  Streaming Speech-to-Confusion Network Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03778-b31b1b.svg)](https://arxiv.org/abs/2306.03778) |
+| 809 | Accurate and Structured Pruning for Efficient Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19549-b31b1b.svg)](https://arxiv.org/abs/2305.19549) |
 
 ### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech
 
