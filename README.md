@@ -284,10 +284,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 614 | Unsupervised Active Learning: Optimizing Labeling Cost-Effectiveness for Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1303 | 4D ASR: Joint modeling of CTC, Attention, Transducer, and Mask-Predict Decoders | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.10818-b31b1b.svg)](https://arxiv.org/abs/2212.10818) |
 | 1086 | Neural Model Reprogramming with Similarity Based Mapping for Low-Resource Spoken Command Recognition | [![GitHub](https://img.shields.io/github/stars/dodohow1011/SpeechAdvReprogram)](https://github.com/dodohow1011/SpeechAdvReprogram) | [![arXiv](https://img.shields.io/badge/arXiv-2110.03894-b31b1b.svg)](https://arxiv.org/abs/2110.03894) |
-| 262 | Language-specific Boundary Learning for Improving Mandarin-English Code-switching Speech Recognition |  |  |
-| 480 | Mixture-of-Expert Conformer for Streaming Multilingual ASR |  |  |
-| 1665 | Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switch-board Corpus |  |  |
-| 2544 | Compressed MoE ASR Model Based on Knowledge Distillation and Quantization |  |  |
+| 262 | Language-specific Boundary Learning for Improving Mandarin-English Code-switching Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 480 | Mixture-of-Expert Conformer for Streaming Multilingual ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15663-b31b1b.svg)](https://arxiv.org/abs/2305.15663) |
+| 1665 | Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switch-board Corpus | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2544 | Compressed MoE ASR Model Based on Knowledge Distillation and Quantization | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
