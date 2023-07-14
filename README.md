@@ -282,8 +282,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2355 | Word-level Confidence Estimation for CTC Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2235 | Multilingual Contextual Adapters to Improve Custom Word Recognition in Low-resource Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.00759-b31b1b.svg)](https://arxiv.org/abs/2307.00759) |
 | 614 | Unsupervised Active Learning: Optimizing Labeling Cost-Effectiveness for Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1303 | 4D ASR: Joint modeling of CTC, Attention, Transducer, and Mask-Predict Decoders |  |  |
-| 1086 | Neural Model Reprogramming with Similarity Based Mapping for Low-Resource Spoken Command Recognition |  |  |
+| 1303 | 4D ASR: Joint modeling of CTC, Attention, Transducer, and Mask-Predict Decoders | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.10818-b31b1b.svg)](https://arxiv.org/abs/2212.10818) |
+| 1086 | Neural Model Reprogramming with Similarity Based Mapping for Low-Resource Spoken Command Recognition | [![GitHub](https://img.shields.io/github/stars/dodohow1011/SpeechAdvReprogram)](https://github.com/dodohow1011/SpeechAdvReprogram) | [![arXiv](https://img.shields.io/badge/arXiv-2110.03894-b31b1b.svg)](https://arxiv.org/abs/2110.03894) |
 | 262 | Language-specific Boundary Learning for Improving Mandarin-English Code-switching Speech Recognition |  |  |
 | 480 | Mixture-of-Expert Conformer for Streaming Multilingual ASR |  |  |
 | 1665 | Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switch-board Corpus |  |  |
