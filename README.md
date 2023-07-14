@@ -272,12 +272,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 390 | Accurate and Reliable Confidence Estimation Based on Non-Autoregressive End-to-End Speech Recognition System | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10680-b31b1b.svg)](https://arxiv.org/abs/2305.10680) |
 | 737 | Combining Multilingual Resources and Models to Develop State-of-the-Art E2E ASR for Swedish | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1171 | Two Stage Contextual Word Filtering for Context bias in Unified Streaming and Non-streaming Transducer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.06735-b31b1b.svg)](https://arxiv.org/abs/2301.06735) |
-| 1867 | Towards Continually Learning New Languages |  |  |
-| 1616 | N-best T5: Robust ASR Error Correction using Multiple Input Hypotheses and Constrained Decoding Space |  |  |
-| 1432 | SememeASR: Boosting Performance of End-to-End Speech Recognition against Domain and Long-Tailed Data Shift with Sememe Semantic Knowledge |  |  |
-| 1162 | miniStreamer: Enhancing Small Conformer with Chunked-Context Masking for Streaming ASR Applications on the Edge |  |  |
-| 1469 | CoMFLP: Correlation Measure based Fast Search on ASR Layer Pruning |  |  |
-| 1337 | Exploration on HuBERT with Multiple Resolution |  |  |
+| 1867 | Towards Continually Learning New Languages | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1616 | N-best T5: Robust ASR Error Correction using Multiple Input Hypotheses and Constrained Decoding Space | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.00456-b31b1b.svg)](https://arxiv.org/abs/2303.00456) |
+| 1432 | SememeASR: Boosting Performance of End-to-End Speech Recognition against Domain and Long-Tailed Data Shift with Sememe Semantic Knowledge | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1162 | miniStreamer: Enhancing Small Conformer with Chunked-Context Masking for Streaming ASR Applications on the Edge | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1469 | CoMFLP: Correlation Measure based Fast Search on ASR Layer Pruning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1337 | Exploration on HuBERT with Multiple Resolution | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01084-b31b1b.svg)](https://arxiv.org/abs/2306.01084) |
 | 2045 | Quantization-aware and Tensor-compressed Training of Transformers for Natural Language Understanding |  |  |
 | 2355 | Word-level Confidence Estimation for CTC Models |  |  |
 | 2235 | Multilingual Contextual Adapters to Improve Custom Word Recognition in Low-resource Languages |  |  |
