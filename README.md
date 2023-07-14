@@ -1050,11 +1050,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1402 | Towards single integrated spoofing-aware speaker verification embeddings | [![GitHub](https://img.shields.io/github/stars/sasv-challenge/ASVSpoof5-SASVBaseline)](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19051-b31b1b.svg)](https://arxiv.org/abs/2305.19051) |
+| 1402 | Towards Single Integrated Spoofing-aware Speaker Verification Embeddings | [![GitHub](https://img.shields.io/github/stars/sasv-challenge/ASVSpoof5-SASVBaseline)](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19051-b31b1b.svg)](https://arxiv.org/abs/2305.19051) |
 | 1352 | Pseudo-Siamese Network based Timbre-reserved Black-box Adversarial Attack in Speaker Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19020-b31b1b.svg)](https://arxiv.org/abs/2305.19020) |
 | 2335 | Betray Oneself: A Novel Audio DeepFake Detection Model via Mono-to-Stereo Conversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16353-b31b1b.svg)](https://arxiv.org/abs/2305.16353) |
-| 1166 | Robust audio anti-spoofing countermeasure with joint training of front-end and back-end and models | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1537 | Improved DeepFake Detection Using Whisper Features | [![GitHub](https://img.shields.io/github/stars/piotrkawa/deepfake-whisper-features)](https://github.com/piotrkawa/deepfake-whisper-features) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01428-b31b1b.svg)](https://arxiv.org/abs/2306.01428) |
+| 1166 | Robust Audio Anti-Spoofing Countermeasure with Joint Training of Front-end and Back-end and Models | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1537 | Improved DeepFake Detection using Whisper Features | [![GitHub](https://img.shields.io/github/stars/piotrkawa/deepfake-whisper-features)](https://github.com/piotrkawa/deepfake-whisper-features) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01428-b31b1b.svg)](https://arxiv.org/abs/2306.01428) |
 | 371 | DoubleDeceiver: Deceiving the Speaker Verification System Protected by Spoofing Countermeasures | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Coding: Intelligibility
@@ -1254,7 +1254,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1302 | Joint Learning Feature and Model Adaptation for Unsupervised Acoustic Modelling of Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1681 | Automatic Assessment of Oral Reading Accuracy for Reading Diagnostics | [![GitHub](https://img.shields.io/github/stars/bomolenaar/jasmin_data_prep)](https://github.com/bomolenaar/jasmin_data_prep) </br> [![GitHub](https://img.shields.io/github/stars/cristiantg/kaldi_egs_CGN)](https://github.com/cristiantg/kaldi_egs_CGN/tree/onPonyLand) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03444-b31b1b.svg)](https://arxiv.org/abs/2306.03444) |
+| 1681 | Automatic Assessment of Oral Reading Accuracy for Reading Diagnostics | [![GitHub](https://img.shields.io/github/stars/bomolenaar/jasmin_data_prep)](https://github.com/bomolenaar/jasmin_data_prep) <br /> [![GitHub](https://img.shields.io/github/stars/cristiantg/kaldi_egs_CGN)](https://github.com/cristiantg/kaldi_egs_CGN/tree/onPonyLand) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03444-b31b1b.svg)](https://arxiv.org/abs/2306.03444) |
 | 2084 | An ASR-enabled Reading Tutor: Investigating Feedback to Optimize Interaction for Learning to Read | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://aichildinteraction.github.io/preprint/AIAIC23_paper_7671.pdf) |
 | 935 | Adaptation of Whisper Models to Child Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
