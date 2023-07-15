@@ -397,6 +397,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 454 | Privacy Risks in Speech Emotion Recognition: A Systematic Study on Gender Inference Attack | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2111 | Episodic Memory For Domain-Adaptable, Robust Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 80 | Stable Speech Emotion Recognition with Head-k-Pooling Loss | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1923 | Node-weighted Graph Convolutional Network for Depression Detection in Transcribed Clinical Interviews |  |  |
+| 756 | Two-stage Finetuning of Wav2vec 2.0 for Speech Emotion Recognition with ASR and Gender Pretraining |  |  |
+| 240 | The Co-use of Laughter and Head Gestures Across Speech Styles |  |  |
+| 1351 | EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition |  |  |
+| 136 | Pre-Finetuning for Few-Shot Emotional Speech Recognition |  |  |
+| 293 | Integrating Emotion Recognition with Speech Recognition and Speaker Diarisation for Conversations |  |  |
+| 1075 | Utility-Preserving Privacy-Enabled Speech Embeddings for Emotion Detection |  |  |
+| 890 | A Context-Constrained Sentence Modeling for Deception Detection in Real Interrogation |  |  |
+| 1914 | Laughter in Task-based Settings: Whom We Talk to Affects How, When, and How Often We Laugh |  |  |
+| 653 | Exploring Downstream Transfer of Self-Supervised Features for Speech Emotion Recognition |  |  |
+| 1758 | Leveraging Semantic Information for Efficient Self-Supervised Emotion Recognition with Audio-Textual Distilled Models |  |  |
+| 819 | MetricAug: A Distortion Metric-Lead Augmentation Strategy for Training Noise-Robust Speech Emotion Recognizer |  |  |
+| 1311 | Investigating Acoustic Cues for Multilingual Abuse Detection |  |  |
+| 1600 | A Novel Frequency Warping Scale for Speech Emotion Recognition |  |  |
+| 1170 | Multi-scale Temporal Transformer for Speech Emotion Recognition |  |  |
+| 1169 | Distant Speech Emotion Recognition in an Indoor Human-Robot Interaction Scenario |  |  |
+| 2498 | A Study on Prosodic Entrainment in Relation to Therapist Empathy in Counseling Conversation |  |  |
 
 ### Spoken Dialog Systems and Conversational Analysis
 
