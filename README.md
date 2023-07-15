@@ -398,10 +398,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2111 | Episodic Memory For Domain-Adaptable, Robust Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 80 | Stable Speech Emotion Recognition with Head-k-Pooling Loss | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1923 | Node-weighted Graph Convolutional Network for Depression Detection in Transcribed Clinical Interviews | [![GitHub](https://img.shields.io/github/stars/idiap/Node_weighted_GCN_for_depression_detection)](https://github.com/idiap/Node_weighted_GCN_for_depression_detection) | [![arXiv](https://img.shields.io/badge/arXiv-2307.00920-b31b1b.svg)](https://arxiv.org/abs/2307.00920) |
-| 756 | Two-stage Finetuning of Wav2vec 2.0 for Speech Emotion Recognition with ASR and Gender Pretraining |  |  |
-| 240 | The Co-use of Laughter and Head Gestures Across Speech Styles |  |  |
-| 1351 | EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition |  |  |
-| 136 | Pre-Finetuning for Few-Shot Emotional Speech Recognition |  |  |
+| 756 | Two-stage Finetuning of Wav2vec 2.0 for Speech Emotion Recognition with ASR and Gender Pretraining | :heavy_minus_sign: | :heavy_minus_sign: |
+| 240 | The Co-use of Laughter and Head Gestures Across Speech Styles | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1351 | EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2203.13617-b31b1b.svg)](https://arxiv.org/abs/2203.13617) |
+| 136 | Pre-Finetuning for Few-Shot Emotional Speech Recognition | [![GitHub](https://img.shields.io/github/stars/maxlchen/Speech-PreFinetuning)](https://github.com/maxlchen/Speech-PreFinetuning) | [![arXiv](https://img.shields.io/badge/arXiv-2302.12921-b31b1b.svg)](https://arxiv.org/abs/2302.12921) |
 | 293 | Integrating Emotion Recognition with Speech Recognition and Speaker Diarisation for Conversations |  |  |
 | 1075 | Utility-Preserving Privacy-Enabled Speech Embeddings for Emotion Detection |  |  |
 | 890 | A Context-Constrained Sentence Modeling for Deception Detection in Real Interrogation |  |  |
