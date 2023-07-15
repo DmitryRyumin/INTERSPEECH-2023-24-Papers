@@ -411,11 +411,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 653 | Exploring Downstream Transfer of Self-Supervised Features for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1758 | Leveraging Semantic Information for Efficient Self-Supervised Emotion Recognition with Audio-Textual Distilled Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19184-b31b1b.svg)](https://arxiv.org/abs/2305.19184) |
 | 819 | MetricAug: A Distortion Metric-Lead Augmentation Strategy for Training Noise-Robust Speech Emotion Recognizer | [![GitHub](https://img.shields.io/github/stars/crowpeter/MetricAug)](https://github.com/crowpeter/MetricAug) | :heavy_minus_sign: |
-| 1311 | Investigating Acoustic Cues for Multilingual Abuse Detection |  |  |
-| 1600 | A Novel Frequency Warping Scale for Speech Emotion Recognition |  |  |
-| 1170 | Multi-scale Temporal Transformer for Speech Emotion Recognition |  |  |
-| 1169 | Distant Speech Emotion Recognition in an Indoor Human-Robot Interaction Scenario |  |  |
-| 2498 | A Study on Prosodic Entrainment in Relation to Therapist Empathy in Counseling Conversation |  |  |
+| 1311 | Investigating Acoustic Cues for Multilingual Abuse Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1600 | A Novel Frequency Warping Scale for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1170 | Multi-scale Temporal Transformer for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1169 | Distant Speech Emotion Recognition in an Indoor Human-Robot Interaction Scenario | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2498 | A Study on Prosodic Entrainment in Relation to Therapist Empathy in Counseling Conversation | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Spoken Dialog Systems and Conversational Analysis
 
