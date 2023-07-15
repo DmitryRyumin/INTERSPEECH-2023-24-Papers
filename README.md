@@ -397,7 +397,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 454 | Privacy Risks in Speech Emotion Recognition: A Systematic Study on Gender Inference Attack | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2111 | Episodic Memory For Domain-Adaptable, Robust Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 80 | Stable Speech Emotion Recognition with Head-k-Pooling Loss | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1923 | Node-weighted Graph Convolutional Network for Depression Detection in Transcribed Clinical Interviews |  |  |
+| 1923 | Node-weighted Graph Convolutional Network for Depression Detection in Transcribed Clinical Interviews | [![GitHub](https://img.shields.io/github/stars/idiap/Node_weighted_GCN_for_depression_detection)](https://github.com/idiap/Node_weighted_GCN_for_depression_detection) | [![arXiv](https://img.shields.io/badge/arXiv-2307.00920-b31b1b.svg)](https://arxiv.org/abs/2307.00920) |
 | 756 | Two-stage Finetuning of Wav2vec 2.0 for Speech Emotion Recognition with ASR and Gender Pretraining |  |  |
 | 240 | The Co-use of Laughter and Head Gestures Across Speech Styles |  |  |
 | 1351 | EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition |  |  |
