@@ -6,6 +6,8 @@
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/README.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/INTERSPEECH-2023-Papers)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dmitryryumin/INTERSPEECH-2023-Papers)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dmitryryumin/INTERSPEECH-2023-Papers)
+![GitHub issues](https://img.shields.io/github/issues/DmitryRyumin/INTERSPEECH-2023-Papers)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/INTERSPEECH-2023-Papers)
 ![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/INTERSPEECH-2023-Papers)
 ![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/INTERSPEECH-2023-Papers)
