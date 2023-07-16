@@ -251,7 +251,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1766 | SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2451 | Deeply Supervised Curriculum Learning for Deep Neural Network-based Sound Source Localization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 164 | Multi-Channel Separation of Dynamic Speech and Sound Events | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2545 | Rethinking the Visual Cues in Audio-Visual Speaker Extraction |  |  |
+| 2545 | Rethinking the Visual Cues in Audio-Visual Speaker Extraction | [![GitHub](https://img.shields.io/github/stars/mrjunjieli/DAVSE)](https://github.com/mrjunjieli/DAVSE) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02625-b31b1b.svg)](https://arxiv.org/abs/2306.02625) |
 | 85 | Using Semi-supervised Learning for Monaural Time-domain Speech Separation with a Self-supervised Learning-based SI-SNR Estimator |  |  |
 | 1158 | Investigation of Training Mute-Expressive End-to-End Speech Separation Networks for an Unknown Number of Speakers |  |  |
 | 2369 | SR-SRP: Super-Resolution based SRP-PHAT for Sound Source Localization and Tracking |  |  |
