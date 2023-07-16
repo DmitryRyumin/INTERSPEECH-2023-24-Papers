@@ -536,8 +536,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1028 | DeepVQE: Real Time Deep Voice Quality Enhancement for Joint Acoustic echo Cancellation, Noise Suppression and Dereverberation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03177-b31b1b.svg)](https://arxiv.org/abs/2306.03177) |
 | 1547 | Diffiner: A Versatile Diffusion-based Generative Refiner for Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.17287-b31b1b.svg)](https://arxiv.org/abs/2210.17287) |
 | 1642 | HD-DEMUCS: General Speech Restoration with Heterogeneous Decoders | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01411-b31b1b.svg)](https://arxiv.org/abs/2306.01411) |
-| 1441 | MP-SENet: A Speech Enhancement Model with Parallel Denoising of Magnitude and Phase Spectra | [![GitHub](https://img.shields.io/github/stars/yxlu-0102/MP-SENet)](https://github.com/yxlu-0102/MP-SENet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13686-b31b1b.svg)](https://arxiv.org/abs/2305.13686) |
-| 565 | TRIDENTSE: Guiding Speech Enhancement with 32 Global Tokens |  |  |
+| 1441 | MP-SENet: A Speech Enhancement Model with Parallel Denoising of Magnitude and Phase Spectra | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yxlu-0102.github.io/mpsenet-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/yxlu-0102/MP-SENet)](https://github.com/yxlu-0102/MP-SENet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13686-b31b1b.svg)](https://arxiv.org/abs/2305.13686) |
+| 565 | TRIDENTSE: Guiding Speech Enhancement with 32 Global Tokens | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.12995-b31b1b.svg)](https://arxiv.org/abs/2210.12995) |
 | 1254 | Detection of Cross-Dataset Fake Audio Based on Prosodic and Pronunciation Features |  |  |
 | 1890 | Self-Supervised Learning with Diffusion based Multichannel Speech Enhancement for Speaker Verification under Noisy Conditions |  |  |
 | 1341 | Two-Stage Voice Anonymization for Enhanced Privacy |  |  |
