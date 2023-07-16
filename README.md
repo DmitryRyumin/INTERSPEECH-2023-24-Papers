@@ -26,6 +26,10 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 ---
 
+[*Draft PDF version of the INTERSPEECH 2023 Conference Programme*](https://interspeech2023.org/wp-content/uploads/2023/07/INTERSPEECH_2023_Booklet_v2_13.07.pdf), which lists all accepted full papers together with their provisional mode of presentation and the time at which they will be presented.
+
+---
+
 ## Contributors
 
 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/graphs/contributors">
