@@ -538,9 +538,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1642 | HD-DEMUCS: General Speech Restoration with Heterogeneous Decoders | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01411-b31b1b.svg)](https://arxiv.org/abs/2306.01411) |
 | 1441 | MP-SENet: A Speech Enhancement Model with Parallel Denoising of Magnitude and Phase Spectra | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yxlu-0102.github.io/mpsenet-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/yxlu-0102/MP-SENet)](https://github.com/yxlu-0102/MP-SENet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13686-b31b1b.svg)](https://arxiv.org/abs/2305.13686) |
 | 565 | TRIDENTSE: Guiding Speech Enhancement with 32 Global Tokens | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.12995-b31b1b.svg)](https://arxiv.org/abs/2210.12995) |
-| 1254 | Detection of Cross-Dataset Fake Audio Based on Prosodic and Pronunciation Features |  |  |
-| 1890 | Self-Supervised Learning with Diffusion based Multichannel Speech Enhancement for Speaker Verification under Noisy Conditions |  |  |
-| 1341 | Two-Stage Voice Anonymization for Enhanced Privacy |  |  |
+| 1254 | Detection of Cross-Dataset Fake Audio Based on Prosodic and Pronunciation Features | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13700-b31b1b.svg)](https://arxiv.org/abs/2305.13700) |
+| 1890 | Self-Supervised Learning with Diffusion based Multichannel Speech Enhancement for Speaker Verification under Noisy Conditions | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.02244-b31b1b.svg)](https://arxiv.org/abs/2307.02244) |
+| 1341 | Two-Stage Voice Anonymization for Enhanced Privacy | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16069-b31b1b.svg)](https://arxiv.org/abs/2306.16069) |
 | 2055 | Personalized Dereverberation of Speech |  |  |
 | 580 | Weighted Von Mises Distribution-based Loss Function for Real-time STFT Phase Reconstruction using DNN |  |  |
 | 272 | Deep Multi-Frame Filtering for Hearing Aids |  |  |
