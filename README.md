@@ -245,12 +245,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1723 | Contrastive Learning based Deep Latent Masking for Music Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 655 | Speaker Extraction with Detection of Presence and Absence of Target Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 889 | PIAVE: A Pose-Invariant Audio-Visual Speaker Extraction Network | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2117 | Spatial LibriSpeech: An Augmented Dataset for Spatial Audio Learning |  |  |
-| 1309 | Image-Driven Audio-Visual Universal Source Separation |  |  |
-| 2520 | Joint Blind Source Separation and Dereverberation for Automatic Speech Recognition using Delayed-Subsource |  |  |
-| 1766 | SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation |  |  |
-| 2451 | Deeply Supervised Curriculum Learning for Deep Neural Network-based Sound Source Localization |  |  |
-| 164 | Multi-Channel Separation of Dynamic Speech and Sound Events |  |  |
+| 2117 | Spatial LibriSpeech: An Augmented Dataset for Spatial Audio Learning | :heavy_minus_sign: | [![Apple](https://img.shields.io/badge/apple-ml-FE9901.svg)](https://machinelearning.apple.com/research/spatial-librispeech) |
+| 1309 | Image-Driven Audio-Visual Universal Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2520 | Joint Blind Source Separation and Dereverberation for Automatic Speech Recognition using Delayed-Subsource | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1766 | SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2451 | Deeply Supervised Curriculum Learning for Deep Neural Network-based Sound Source Localization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 164 | Multi-Channel Separation of Dynamic Speech and Sound Events | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2545 | Rethinking the Visual Cues in Audio-Visual Speaker Extraction |  |  |
 | 85 | Using Semi-supervised Learning for Monaural Time-domain Speech Separation with a Self-supervised Learning-based SI-SNR Estimator |  |  |
 | 1158 | Investigation of Training Mute-Expressive End-to-End Speech Separation Networks for an Unknown Number of Speakers |  |  |
