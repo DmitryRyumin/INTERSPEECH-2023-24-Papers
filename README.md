@@ -252,14 +252,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2451 | Deeply Supervised Curriculum Learning for Deep Neural Network-based Sound Source Localization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 164 | Multi-Channel Separation of Dynamic Speech and Sound Events | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2545 | Rethinking the Visual Cues in Audio-Visual Speaker Extraction | [![GitHub](https://img.shields.io/github/stars/mrjunjieli/DAVSE)](https://github.com/mrjunjieli/DAVSE) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02625-b31b1b.svg)](https://arxiv.org/abs/2306.02625) |
-| 85 | Using Semi-supervised Learning for Monaural Time-domain Speech Separation with a Self-supervised Learning-based SI-SNR Estimator |  |  |
-| 1158 | Investigation of Training Mute-Expressive End-to-End Speech Separation Networks for an Unknown Number of Speakers |  |  |
-| 2369 | SR-SRP: Super-Resolution based SRP-PHAT for Sound Source Localization and Tracking |  |  |
-| 165 | Time-frequency Domain Filter-and-sum Network for Multi-channel Speech Separation |  |  |
-| 714 | FN-SSL: Full-Band and Narrow-Band Fusion for Sound Source Localization |  |  |
+| 85 | Using Semi-supervised Learning for Monaural Time-domain Speech Separation with a Self-supervised Learning-based SI-SNR Estimator | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1158 | Investigation of Training Mute-Expressive End-to-End Speech Separation Networks for an Unknown Number of Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2369 | SR-SRP: Super-Resolution based SRP-PHAT for Sound Source Localization and Tracking | :heavy_minus_sign: | :heavy_minus_sign: |
+| 165 | Time-frequency Domain Filter-and-sum Network for Multi-channel Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 714 | FN-SSL: Full-Band and Narrow-Band Fusion for Sound Source Localization | [![GitHub](https://img.shields.io/github/stars/Audio-WestlakeU/FN-SSL)](https://github.com/Audio-WestlakeU/FN-SSL) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19610-b31b1b.svg)](https://arxiv.org/abs/2305.19610) |
 | 696 | A Neural State-Space Modeling Approach to Efficient Speech Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16932-b31b1b.svg)](https://arxiv.org/abs/2305.16932) |
-| 1777 | Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation |  |  |
-| 518 | Monaural Speech Separation Method Based on Recurrent Attention with Parallel Branches |  |  |
+| 1777 | Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10821-b31b1b.svg)](https://arxiv.org/abs/2305.10821) |
+| 518 | Monaural Speech Separation Method Based on Recurrent Attention with Parallel Branches | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
