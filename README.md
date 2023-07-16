@@ -691,13 +691,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1208 | An Efficient Approach for the Automated Segmentation and Transcription of the People's Speech Corpus | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1425 | Diverse Feature Mapping and Fusion via Multitask Learning for Multilingual Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 903 | Take the Hint: Improving Arabic Diacritization with Partially-Diacritized Text | [![GitHub](https://img.shields.io/github/stars/apptek/ArabicDiacritizationInterspeech2023)](https://github.com/apptek/ArabicDiacritizationInterspeech2023) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03557-b31b1b.svg)](https://arxiv.org/abs/2306.03557) |
-| 466 | Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin |  |  |
-| 1878 | Efficient Adaptation of Spoken Language Understanding based on End-to-End Automatic Speech Recognition |  |  |
-| 597 | PhonMatchNet: Phoneme-Guided Zero-Shot Keyword Spotting for User-Defined Keywords |  |  |
-| 69 | Mix before Align: Towards Zero-shot Cross-lingual Sentiment Analysis via Soft-Mix and Multi-View Learning |  |  |
-| 170 | AlignAtt: Using Attention-based Audio-Translation Alignments as a Guide for Simultaneous Speech Translation |  |  |
-| 2225 | Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff |  |  |
-| 1979 | Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages |  |  |
+| 466 | Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin | [![GitHub](https://img.shields.io/github/stars/muhammed-saeed/CLaT)](https://github.com/muhammed-saeed/CLaT) | [![arXiv](https://img.shields.io/badge/arXiv-2307.00382-b31b1b.svg)](https://arxiv.org/abs/2307.00382) |
+| 1878 | Efficient Adaptation of Spoken Language Understanding based on End-to-End Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 597 | PhonMatchNet: Phoneme-Guided Zero-Shot Keyword Spotting for User-Defined Keywords | [![GitHub](https://img.shields.io/github/stars/ncsoft/PhonMatchNet)](https://github.com/ncsoft/PhonMatchNet) | :heavy_minus_sign: |
+| 69 | Mix before Align: Towards Zero-shot Cross-lingual Sentiment Analysis via Soft-Mix and Multi-View Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 170 | AlignAtt: Using Attention-based Audio-Translation Alignments as a Guide for Simultaneous Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11408-b31b1b.svg)](https://arxiv.org/abs/2305.11408) |
+| 2225 | Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1979 | Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages | [![GitHub](https://img.shields.io/github/stars/unza-speech-lab/zambezi-voice)](https://github.com/unza-speech-lab/zambezi-voice) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04428-b31b1b.svg)](https://arxiv.org/abs/2306.04428) |
 
 ### Speech, Voice, and Hearing Disorders
 
