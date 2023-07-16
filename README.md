@@ -238,7 +238,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1431 | An Efficient Speech Separation Network Based on Recurrent Fusion Dilated Convolution and Channel Attention | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05887-b31b1b.svg)](https://arxiv.org/abs/2306.05887) |
 | 801 | Audio-Visual Fusion using Multiscale Temporal Convolutional Attention for Time-Domain Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2015 | Binaural Sound Localization in Noisy Environments Using Frequency-Based Audio Vision Transformer (FAViT) | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1723 | Contrastive Learning based Deep Latent Masking for Music Source Separation |  |  |
+| 1723 | Contrastive Learning based Deep Latent Masking for Music Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 655 | Speaker Extraction with Detection of Presence and Absence of Target Speakers |  |  |
 | 889 | PIAVE: A Pose-Invariant Audio-Visual Speaker Extraction Network |  |  |
 | 2117 | Spatial LibriSpeech: An Augmented Dataset for Spatial Audio Learning |  |  |
