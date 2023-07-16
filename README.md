@@ -234,6 +234,28 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 745 | FlexiAST: Flexibility is What AST Needs | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1344 | Blind Estimation of Room Impulse Response from Monaural Reverberant Speech with Segmental Generative Neural Network | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/370843606_Blind_Estimation_of_Room_Impulse_Response_from_Monaural_Reverberant_Speech_with_Segmental_Generative_Neural_Network) |
 | 852 | AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) <br /> [![GitHub](https://img.shields.io/github/stars/guyyariv/AudioToken)](https://github.com/guyyariv/AudioToken) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13050-b31b1b.svg)](https://arxiv.org/abs/2305.13050) |
+| 613 | Dual-Memory Multi-Modal Learning for Continual Spoken Keyword Spotting with Confidence Selection and Diversity Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1431 | An Efficient Speech Separation Network Based on Recurrent Fusion Dilated Convolution and Channel Attention | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05887-b31b1b.svg)](https://arxiv.org/abs/2306.05887) |
+| 801 | Audio-Visual Fusion using Multiscale Temporal Convolutional Attention for Time-Domain Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2015 | Binaural Sound Localization in Noisy Environments Using Frequency-Based Audio Vision Transformer (FAViT) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1723 | Contrastive Learning based Deep Latent Masking for Music Source Separation |  |  |
+| 655 | Speaker Extraction with Detection of Presence and Absence of Target Speakers |  |  |
+| 889 | PIAVE: A Pose-Invariant Audio-Visual Speaker Extraction Network |  |  |
+| 2117 | Spatial LibriSpeech: An Augmented Dataset for Spatial Audio Learning |  |  |
+| 1309 | Image-Driven Audio-Visual Universal Source Separation |  |  |
+| 2520 | Joint Blind Source Separation and Dereverberation for Automatic Speech Recognition using Delayed-Subsource |  |  |
+| 1766 | SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation |  |  |
+| 2451 | Deeply Supervised Curriculum Learning for Deep Neural Network-based Sound Source Localization |  |  |
+| 164 | Multi-Channel Separation of Dynamic Speech and Sound Events |  |  |
+| 2545 | Rethinking the Visual Cues in Audio-Visual Speaker Extraction |  |  |
+| 85 | Using Semi-supervised Learning for Monaural Time-domain Speech Separation with a Self-supervised Learning-based SI-SNR Estimator |  |  |
+| 1158 | Investigation of Training Mute-Expressive End-to-End Speech Separation Networks for an Unknown Number of Speakers |  |  |
+| 2369 | SR-SRP: Super-Resolution based SRP-PHAT for Sound Source Localization and Tracking |  |  |
+| 165 | Time-frequency Domain Filter-and-sum Network for Multi-channel Speech Separation |  |  |
+| 714 | FN-SSL: Full-Band and Narrow-Band Fusion for Sound Source Localization |  |  |
+| 696 | A Neural State-Space Modeling Approach to Efficient Speech Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16932-b31b1b.svg)](https://arxiv.org/abs/2305.16932) |
+| 1777 | Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation |  |  |
+| 518 | Monaural Speech Separation Method Based on Recurrent Attention with Parallel Branches |  |  |
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
@@ -686,7 +708,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 488 | Recursive Sound Source Separation with Deep Learning-based Beamforming for Unknown Number of Sources | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2537 | Multi-Channel Speech Separation with Cross-Attention and Beamforming | :heavy_minus_sign: | :heavy_minus_sign: |
 | 185 | Background-Sound Controllable Voice Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 696 | A Neural State-Space Modeling Approach to Efficient Speech Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16932-b31b1b.svg)](https://arxiv.org/abs/2305.16932) |
 
 ### Speech Perception
 
