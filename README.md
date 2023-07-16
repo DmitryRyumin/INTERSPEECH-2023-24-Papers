@@ -530,8 +530,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2302 | Ultra Dual-Path Compression For Joint Echo Cancellation And Noise Suppression | :heavy_minus_sign: | :heavy_minus_sign: |
 | 971 | ABC-KD: Attention-Based-Compression Knowledge Distillation for Deep Learning-Based Noise Suppression | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16665-b31b1b.svg)](https://arxiv.org/abs/2305.16665) |
 | 1532 | PLCMOS – a Data-driven Non-intrusive Metric for the Evaluation of Packet Loss Concealment Algorithms | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/PLC-Challenge/tree/main/PLCMOS) <br /> [![PyPI](https://img.shields.io/pypi/v/speechmos)](https://pypi.org/project/speechmos/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15127-b31b1b.svg)](https://arxiv.org/abs/2305.15127) |
-| 1910 | Multi-Dataset Co-Training with Sharpness-Aware Optimization for Audio Anti-spoofing |  |  |
-| 1445 | Reducing the Prior Mismatch of Stochastic Differential Equations for Diffusion-based Speech Enhancement |  |  |
+| 1910 | Multi-Dataset Co-Training with Sharpness-Aware Optimization for Audio Anti-spoofing | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19953-b31b1b.svg)](https://arxiv.org/abs/2305.19953) |
+| 1445 | Reducing the Prior Mismatch of Stochastic Differential Equations for Diffusion-based Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/sp-uhh/sgmse-bbed)](https://github.com/sp-uhh/sgmse-bbed) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14748-b31b1b.svg)](https://arxiv.org/abs/2302.14748) |
 | 901 | Complex-valued Neural Networks for Voice Anti-spoofing |  |  |
 | 1028 | DeepVQE: Real Time Deep Voice Quality Enhancement for Joint Acoustic echo Cancellation, Noise Suppression and Dereverberation |  |  |
 | 1547 | Diffiner: A Versatile Diffusion-based Generative Refiner for Speech Enhancement |  |  |
