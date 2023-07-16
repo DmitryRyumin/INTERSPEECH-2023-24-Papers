@@ -680,10 +680,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1675 | PunCantonese: A Benchmark Corpus for Low-Resource Cantonese Punctuation Restoration from Speech Transcripts | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1358 | Speech-to-Face Conversion using Denoising Diffusion Probabilistic Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2255 | Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16897-b31b1b.svg)](https://arxiv.org/abs/2305.16897) |
-| 1068 | How Does Pretraining Improve Discourse-Aware Translation? |  |  |
-| 1135 | PATCorrect: Non-autoregressive Phoneme-augmented Transformer for ASR Error Correction |  |  |
-| 161 | Model-assisted Lexical Tone Evaluation of three-year-old Chinese-speaking Children by also Considering Segment Production |  |  |
-| 1392 | Sentence Embedder Guided Utterance Encoder (SEGUE) for Spoken Language Understanding |  |  |
+| 1068 | How Does Pretraining Improve Discourse-Aware Translation? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19847-b31b1b.svg)](https://arxiv.org/abs/2305.19847) |
+| 1135 | PATCorrect: Non-autoregressive Phoneme-augmented Transformer for ASR Error Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.05040-b31b1b.svg)](https://arxiv.org/abs/2302.05040) |
+| 161 | Model-assisted Lexical Tone Evaluation of Three-year-old Chinese-speaking Children by also Considering Segment Production | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1392 | Sentence Embedder Guided Utterance Encoder (SEGUE) for Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/declare-lab/segue)](https://github.com/declare-lab/segue) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12301-b31b1b.svg)](https://arxiv.org/abs/2305.12301) |
 | 1582 | Joint Time and Frequency Transformer for Chinese Opera Classification |  |  |
 | 116 | AdaMS: Deep Metric Learning with Adaptive Margin and Adaptive Scale for Acoustic Word Discrimination |  |  |
 | 2252 | Investigating Reproducibility at Interspeech Conferences: A Longitudinal and Comparative Perspective |  |  |
