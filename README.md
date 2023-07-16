@@ -547,8 +547,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1232 | Aligning Speech Enhancement for Improving Downstream Classification Performance | :heavy_minus_sign: | :heavy_minus_sign: |
 | 420 | DNN-based Parameter Estimation for MVDR Beamforming and Post-filtering | :heavy_minus_sign: | :heavy_minus_sign: |
 | 675 | FRA-RIR: Fast Random Approximation of the Image-source | [![GitHub](https://img.shields.io/github/stars/tencent-ailab/FRA-RIR)](https://github.com/tencent-ailab/FRA-RIR) | [![arXiv](https://img.shields.io/badge/arXiv-2208.04101-b31b1b.svg)](https://arxiv.org/abs/2208.04101) |
-| 686 | Rethinking Complex-Valued Deep Neural Networks for Monaural Speech Enhancement |  |  |
-| 186 | Harmonic Enhancement using Learnable Comb Filter for Light-weight Full-band Speech Enhancement Model |  |  |
+| 686 | Rethinking Complex-Valued Deep Neural Networks for Monaural Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.04320-b31b1b.svg)](https://arxiv.org/abs/2301.04320) |
+| 186 | Harmonic Enhancement using Learnable Comb Filter for Light-weight Full-band Speech Enhancement Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00812-b31b1b.svg)](https://arxiv.org/abs/2306.00812) |
 
 ### Paralinguistics
 
