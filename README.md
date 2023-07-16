@@ -530,6 +530,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2302 | Ultra Dual-Path Compression For Joint Echo Cancellation And Noise Suppression | :heavy_minus_sign: | :heavy_minus_sign: |
 | 971 | ABC-KD: Attention-Based-Compression Knowledge Distillation for Deep Learning-Based Noise Suppression | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16665-b31b1b.svg)](https://arxiv.org/abs/2305.16665) |
 | 1532 | PLCMOS – a Data-driven Non-intrusive Metric for the Evaluation of Packet Loss Concealment Algorithms | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/PLC-Challenge/tree/main/PLCMOS) <br /> [![PyPI](https://img.shields.io/pypi/v/speechmos)](https://pypi.org/project/speechmos/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15127-b31b1b.svg)](https://arxiv.org/abs/2305.15127) |
+| 1910 | Multi-Dataset Co-Training with Sharpness-Aware Optimization for Audio Anti-spoofing |  |  |
+| 1445 | Reducing the Prior Mismatch of Stochastic Differential Equations for Diffusion-based Speech Enhancement |  |  |
+| 901 | Complex-valued Neural Networks for Voice Anti-spoofing |  |  |
+| 1028 | DeepVQE: Real Time Deep Voice Quality Enhancement for Joint Acoustic echo Cancellation, Noise Suppression and Dereverberation |  |  |
+| 1547 | Diffiner: A Versatile Diffusion-based Generative Refiner for Speech Enhancement |  |  |
+| 1642 | HD-DEMUCS: General Speech Restoration with Heterogeneous Decoders |  |  |
+| 1441 | MP-SENet: A Speech Enhancement Model with Parallel Denoising of Magnitude and Phase Spectra |  |  |
+| 565 | TRIDENTSE: Guiding Speech Enhancement with 32 Global Tokens |  |  |
+| 1254 | Detection of Cross-Dataset Fake Audio Based on Prosodic and Pronunciation Features |  |  |
+| 1890 | Self-Supervised Learning with Diffusion based Multichannel Speech Enhancement for Speaker Verification under Noisy Conditions |  |  |
+| 1341 | Two-Stage Voice Anonymization for Enhanced Privacy |  |  |
+| 2055 | Personalized Dereverberation of Speech |  |  |
+| 580 | Weighted Von Mises Distribution-based Loss Function for Real-time STFT Phase Reconstruction using DNN |  |  |
+| 272 | Deep Multi-Frame Filtering for Hearing Aids |  |  |
+| 1232 | Aligning Speech Enhancement for Improving Downstream Classification Performance |  |  |
+| 420 | DNN-based Parameter Estimation for MVDR Beamforming and Post-filtering |  |  |
+| 675 | FRA-RIR: Fast Random Approximation of the Image-source |  |  |
+| 686 | Rethinking Complex-Valued Deep Neural Networks for Monaural Speech Enhancement |  |  |
+| 186 | Harmonic Enhancement using Learnable Comb Filter for Light-weight Full-band Speech Enhancement Model |  |  |
 
 ### Paralinguistics
 
