@@ -541,9 +541,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1254 | Detection of Cross-Dataset Fake Audio Based on Prosodic and Pronunciation Features | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13700-b31b1b.svg)](https://arxiv.org/abs/2305.13700) |
 | 1890 | Self-Supervised Learning with Diffusion based Multichannel Speech Enhancement for Speaker Verification under Noisy Conditions | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.02244-b31b1b.svg)](https://arxiv.org/abs/2307.02244) |
 | 1341 | Two-Stage Voice Anonymization for Enhanced Privacy | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16069-b31b1b.svg)](https://arxiv.org/abs/2306.16069) |
-| 2055 | Personalized Dereverberation of Speech |  |  |
-| 580 | Weighted Von Mises Distribution-based Loss Function for Real-time STFT Phase Reconstruction using DNN |  |  |
-| 272 | Deep Multi-Frame Filtering for Hearing Aids |  |  |
+| 2055 | Personalized Dereverberation of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 580 | Weighted Von Mises Distribution-based Loss Function for Real-time STFT Phase Reconstruction using DNN | :heavy_minus_sign: | :heavy_minus_sign: |
+| 272 | Deep Multi-Frame Filtering for Hearing Aids | [![GitHub](https://img.shields.io/github/stars/rikorose/deepfilternet)](https://github.com/rikorose/deepfilternet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08225-b31b1b.svg)](https://arxiv.org/abs/2305.08225) |
 | 1232 | Aligning Speech Enhancement for Improving Downstream Classification Performance |  |  |
 | 420 | DNN-based Parameter Estimation for MVDR Beamforming and Post-filtering |  |  |
 | 675 | FRA-RIR: Fast Random Approximation of the Image-source |  |  |
