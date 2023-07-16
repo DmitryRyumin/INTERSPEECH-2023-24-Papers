@@ -684,13 +684,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1135 | PATCorrect: Non-autoregressive Phoneme-augmented Transformer for ASR Error Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.05040-b31b1b.svg)](https://arxiv.org/abs/2302.05040) |
 | 161 | Model-assisted Lexical Tone Evaluation of Three-year-old Chinese-speaking Children by also Considering Segment Production | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1392 | Sentence Embedder Guided Utterance Encoder (SEGUE) for Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/declare-lab/segue)](https://github.com/declare-lab/segue) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12301-b31b1b.svg)](https://arxiv.org/abs/2305.12301) |
-| 1582 | Joint Time and Frequency Transformer for Chinese Opera Classification |  |  |
-| 116 | AdaMS: Deep Metric Learning with Adaptive Margin and Adaptive Scale for Acoustic Word Discrimination |  |  |
-| 2252 | Investigating Reproducibility at Interspeech Conferences: A Longitudinal and Comparative Perspective |  |  |
-| 2250 | Combining Heterogeneous Structures for Event Causality Identification |  |  |
-| 1208 | An Efficient Approach for the Automated Segmentation and Transcription of the People's Speech Corpus |  |  |
-| 1425 | Diverse Feature Mapping and Fusion via Multitask Learning for Multilingual Speech Emotion Recognition |  |  |
-| 903 | Take the Hint: Improving Arabic Diacritization with Partially-Diacritized Text |  |  |
+| 1582 | Joint Time and Frequency Transformer for Chinese Opera Classification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 116 | AdaMS: Deep Metric Learning with Adaptive Margin and Adaptive Scale for Acoustic Word Discrimination | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.14564-b31b1b.svg)](https://arxiv.org/abs/2210.14564) |
+| 2252 | Investigating Reproducibility at Interspeech Conferences: A Longitudinal and Comparative Perspective | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.10033-b31b1b.svg)](https://arxiv.org/abs/2306.10033) |
+| 2250 | Combining Heterogeneous Structures for Event Causality Identification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1208 | An Efficient Approach for the Automated Segmentation and Transcription of the People's Speech Corpus | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1425 | Diverse Feature Mapping and Fusion via Multitask Learning for Multilingual Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 903 | Take the Hint: Improving Arabic Diacritization with Partially-Diacritized Text | [![GitHub](https://img.shields.io/github/stars/apptek/ArabicDiacritizationInterspeech2023)](https://github.com/apptek/ArabicDiacritizationInterspeech2023) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03557-b31b1b.svg)](https://arxiv.org/abs/2306.03557) |
 | 466 | Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin |  |  |
 | 1878 | Efficient Adaptation of Spoken Language Understanding based on End-to-End Automatic Speech Recognition |  |  |
 | 597 | PhonMatchNet: Phoneme-Guided Zero-Shot Keyword Spotting for User-Defined Keywords |  |  |
