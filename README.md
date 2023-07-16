@@ -680,6 +680,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1675 | PunCantonese: A Benchmark Corpus for Low-Resource Cantonese Punctuation Restoration from Speech Transcripts | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1358 | Speech-to-Face Conversion using Denoising Diffusion Probabilistic Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2255 | Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16897-b31b1b.svg)](https://arxiv.org/abs/2305.16897) |
+| 1068 | How Does Pretraining Improve Discourse-Aware Translation? |  |  |
+| 1135 | PATCorrect: Non-autoregressive Phoneme-augmented Transformer for ASR Error Correction |  |  |
+| 161 | Model-assisted Lexical Tone Evaluation of three-year-old Chinese-speaking Children by also Considering Segment Production |  |  |
+| 1392 | Sentence Embedder Guided Utterance Encoder (SEGUE) for Spoken Language Understanding |  |  |
+| 1582 | Joint Time and Frequency Transformer for Chinese Opera Classification |  |  |
+| 116 | AdaMS: Deep Metric Learning with Adaptive Margin and Adaptive Scale for Acoustic Word Discrimination |  |  |
+| 2252 | Investigating Reproducibility at Interspeech Conferences: A Longitudinal and Comparative Perspective |  |  |
+| 2250 | Combining Heterogeneous Structures for Event Causality Identification |  |  |
+| 1208 | An Efficient Approach for the Automated Segmentation and Transcription of the People's Speech Corpus |  |  |
+| 1425 | Diverse Feature Mapping and Fusion via Multitask Learning for Multilingual Speech Emotion Recognition |  |  |
+| 903 | Take the Hint: Improving Arabic Diacritization with Partially-Diacritized Text |  |  |
+| 466 | Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin |  |  |
+| 1878 | Efficient Adaptation of Spoken Language Understanding based on End-to-End Automatic Speech Recognition |  |  |
+| 597 | PhonMatchNet: Phoneme-Guided Zero-Shot Keyword Spotting for User-Defined Keywords |  |  |
+| 69 | Mix before Align: Towards Zero-shot Cross-lingual Sentiment Analysis via Soft-Mix and Multi-View Learning |  |  |
+| 170 | AlignAtt: Using Attention-based Audio-Translation Alignments as a Guide for Simultaneous Speech Translation |  |  |
+| 2225 | Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff |  |  |
+| 1979 | Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages |  |  |
 
 ### Speech, Voice, and Hearing Disorders
 
