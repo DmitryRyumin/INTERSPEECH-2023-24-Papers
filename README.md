@@ -208,13 +208,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2463 | Dialect Speech Recognition Modeling using Corpus of Japanese Dialects and Self-Supervised Learning-based Model XLSR | :heavy_minus_sign: | :heavy_minus_sign: |
 | 767 | Contextualized End-to-End Speech Recognition with Contextual Phrase Prediction Network | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12493-b31b1b.svg)](https://arxiv.org/abs/2305.12493) |
 | 970 | Competitive and Resource Efficient Factored Hybrid HMM Systems are Simpler Than You Think | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12493-b31b1b.svg)](https://arxiv.org/abs/2305.12493) |
-| 791 | MMSpeech: Multi-modal Multi-task Encoder-Decoder Pre-training for Speech Recognition |  |  |
-| 2499 | Biased Self-supervised Learning for ASR |  |  |
-| 1300 | A Unified Recognition and Correction Model under Noisy and Accent Speech Conditions |  |  |
-| 2470 | Wav2Vec 2.0 ASR for Cantonese-Speaking Older Adults in a Clinical Setting |  |  |
-| 770 | BAT: Boundary Aware Transducer for Memory-efficient and Low-latency ASR |  |  |
-| 1342 | Bayes Risk Transducer: Transducer with Controllable Alignment Prediction |  |  |
-| 783 | Multi-View Frequency-Attention Alternative to CNN Frontends for Automatic Speech Recognition |  |  |
+| 791 | MMSpeech: Multi-modal Multi-task Encoder-Decoder Pre-training for Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.00500-b31b1b.svg)](https://arxiv.org/abs/2212.00500) |
+| 2499 | Biased Self-supervised Learning for ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02536-b31b1b.svg)](https://arxiv.org/abs/2211.02536) |
+| 1300 | A Unified Recognition and Correction Model under Noisy and Accent Speech Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2470 | Wav2Vec 2.0 ASR for Cantonese-Speaking Older Adults in a Clinical Setting | :heavy_minus_sign: | :heavy_minus_sign: |
+| 770 | BAT: Boundary Aware Transducer for Memory-efficient and Low-latency ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11571-b31b1b.svg)](https://arxiv.org/abs/2305.11571) |
+| 1342 | Bayes Risk Transducer: Transducer with Controllable Alignment Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
+| 783 | Multi-View Frequency-Attention Alternative to CNN Frontends for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06954-b31b1b.svg)](https://arxiv.org/abs/2306.06954) |
 
 ### Analysis of Speech and Audio Signals
 
