@@ -200,14 +200,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2124 | Some Voices are too Common: Building Fair Speech Recognition Systems using the Common-Voice Dataset | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03773-b31b1b.svg)](https://arxiv.org/abs/2306.03773) |
 | 1168 | Information Magnitude Based Dynamic Sub-sampling for Speech-to-text | :heavy_minus_sign: | :heavy_minus_sign: |
 | 353 | Towards Multi-task Learning of Speech and Speaker Recognition | [![GitHub](https://img.shields.io/github/stars/nikvaessen/disjoint-mtl)](https://github.com/nikvaessen/disjoint-mtl) | [![arXiv](https://img.shields.io/badge/arXiv-2302.12773-b31b1b.svg)](https://arxiv.org/abs/2302.12773) |
-| 2186 | Regarding Topology and Variant Frame Rates for Differentiable WFST-based End-to-End ASR |  |  |
-| 1012 | 2-bit Conformer Quantization for Automatic Speech Recognition |  |  |
-| 167 | Time-Domain Speech Enhancement for Robust Automatic Speech Recognition |  |  |
-| 257 | Multi-channel Multi-speaker Transformer for Speech Recognition |  |  |
-| 733 | Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion |  |  |
-| 2463 | Dialect Speech Recognition Modeling using Corpus of Japanese Dialects and Self-Supervised Learning-based Model XLSR |  |  |
-| 767 | Contextualized End-to-End Speech Recognition with Contextual Phrase Prediction Network |  |  |
-| 970 | Competitive and Resource Efficient Factored Hybrid HMM Systems are Simpler Than You Think |  |  |
+| 2186 | Regarding Topology and Variant Frame Rates for Differentiable WFST-based End-to-End ASR | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1012 | 2-bit Conformer Quantization for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16619-b31b1b.svg)](https://arxiv.org/abs/2305.16619) |
+| 167 | Time-Domain Speech Enhancement for Robust Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.13318-b31b1b.svg)](https://arxiv.org/abs/2210.13318) |
+| 257 | Multi-channel Multi-speaker Transformer for Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 733 | Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15875-b31b1b.svg)](https://arxiv.org/abs/2306.15875) |
+| 2463 | Dialect Speech Recognition Modeling using Corpus of Japanese Dialects and Self-Supervised Learning-based Model XLSR | :heavy_minus_sign: | :heavy_minus_sign: |
+| 767 | Contextualized End-to-End Speech Recognition with Contextual Phrase Prediction Network | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12493-b31b1b.svg)](https://arxiv.org/abs/2305.12493) |
+| 970 | Competitive and Resource Efficient Factored Hybrid HMM Systems are Simpler Than You Think | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12493-b31b1b.svg)](https://arxiv.org/abs/2305.12493) |
 | 791 | MMSpeech: Multi-modal Multi-task Encoder-Decoder Pre-training for Speech Recognition |  |  |
 | 2499 | Biased Self-supervised Learning for ASR |  |  |
 | 1300 | A Unified Recognition and Correction Model under Noisy and Accent Speech Conditions |  |  |
