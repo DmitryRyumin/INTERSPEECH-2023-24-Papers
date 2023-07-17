@@ -1249,13 +1249,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1151 | Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gwh22.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04301-b31b1b.svg)](https://arxiv.org/abs/2306.04301) |
 | 879 | Towards Robust FastSpeech 2 by Modelling Residual Multimodality | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sony.github.io/ai-research-code/tvcgmm/project_page/index.html) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01442-b31b1b.svg)](https://arxiv.org/abs/2306.01442) |
 | 1137 | Real Time Spectrogram Inversion on Mobile Phone | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/google-research/google-research/tree/master/specinvert) | [![arXiv](https://img.shields.io/badge/arXiv-2203.00756-b31b1b.svg)](https://arxiv.org/abs/2203.00756) |
-| 58 | Automatic Tuning of Loss Trade-offs without Hyper-parameter Search in End-to-End Zero-Shot Speech Synthesis |  |  |
-| 2056 | A Low-Resource Pipeline for Text-to-Speech from Found Data With Application to Scottish Gaelic |  |  |
-| 2173 | Self-Supervised Solution to the Control Problem of Articulatory Synthesis |  |  |
-| 1128 | Hierarchical Timbre-Cadence Speaker Encoder for Zero-shot Speech Synthesis |  |  |
-| 754 | ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models |  |  |
-| 690 | Improving WaveRNN with Heuristic Dynamic Blending for Fast and High-Quality GPU Vocoding |  |  |
-| 194 | Intelligible Lip-to-speech Synthesis with Speech Units |  |  |
+| 58 | Automatic Tuning of Loss Trade-offs without Hyper-parameter Search in End-to-End Zero-Shot Speech Synthesis | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16699-b31b1b.svg)](https://arxiv.org/abs/2305.16699) |
+| 2056 | A Low-Resource Pipeline for Text-to-Speech from Found Data With Application to Scottish Gaelic | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2173 | Self-Supervised Solution to the Control Problem of Articulatory Synthesis | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1128 | Hierarchical Timbre-Cadence Speaker Encoder for Zero-shot Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://srtts.github.io/tc-zstts/) | :heavy_minus_sign: |
+| 754 | ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zet-speech.github.io/ZET-Speech-Demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13831-b31b1b.svg)](https://arxiv.org/abs/2305.13831) |
+| 690 | Improving WaveRNN with Heuristic Dynamic Blending for Fast and High-Quality GPU Vocoding | :heavy_minus_sign: | :heavy_minus_sign: |
+| 194 | Intelligible Lip-to-speech Synthesis with Speech Units | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19603-b31b1b.svg)](https://arxiv.org/abs/2305.19603) |
 | 1212 | Parameter-Efficient Learning for Text-to-Speech Accent Adaptation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tts-research.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/TTS-Research/PEL-TTS)](https://github.com/TTS-Research/PEL-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11320-b31b1b.svg)](https://arxiv.org/abs/2305.11320) |
 | 820 | Controlling Formant Frequencies with Neural Text-to-Speech for the Manipulation of Perceived Speaker Age |  |  |
 | 2379 | FastFit: Towards Real-Time Iterative Neural Vocoder by Replacing U-Net Encoder With Multiple STFTs |  |  |
