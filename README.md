@@ -986,6 +986,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 976 | Bulgarian Unstressed Vowel Reduction: Received Views vs Corpus Findings | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1764 | An Investigation of Indian Native Language Phonemic Influences on L2 English Pronunciations | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.09284-b31b1b.svg)](https://arxiv.org/abs/2212.09284) |
 | 498 | Identifying Stable Sections for Formant Frequency Extraction of French Nasal Vowels based on Difference Thresholds | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1772 | Nonbinary American English Speakers Encode Gender in Vowel Acoustics | :heavy_minus_sign: | :heavy_minus_sign: |
+| 44 | Coarticulation of Sibe Vowels and Dorsal Fricatives in Spontaneous Speech: An Acoustic Study | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1013 | Using Speech Synthesis to Explain Automatic Speaker Recognition: a New Application of Synthetic Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2534 | Same F0, Different Tones: A Multidimensional Investigation of Zhangzhou Tones | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1985 | Discovering Phonetic Feature Event Patterns in Transformer Embeddings | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2204 | A System for Generating Voice Source Signals that Implements the Transformed LF-model Parameter Control | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2352 | Speaker-independent Speech Inversion for Estimation of Nasalance | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00203-b31b1b.svg)](https://arxiv.org/abs/2306.00203) |
+| 1359 | Effects of Tonal Coarticulation and Prosodic Positions on Tonal Contours of Low Rising Tones: In the Case of Xiamen Dialect | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02251-b31b1b.svg)](https://arxiv.org/abs/2306.02251) |
+| 2187 | Durational and Non-durational Correlates of Lexical and Derived Geminates in Arabic | :heavy_minus_sign: | :heavy_minus_sign: |
+| 68 | Mapping Phonemes to Acoustic Symbols and Codes using Synchrony in Speech Modulation Vectors Estimated by the Travellingwave Filter Bank | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1480 | Rhythmic Characteristics of L2 German Speech by Advanced Chinese Learners | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1538 | (Dis)agreement and Preference Structure are Reflected in Matching Along Distinct Acoustic-prosodic Features | :heavy_minus_sign: | :heavy_minus_sign: |
+| 995 | Vowel Reduction by Greek-speaking Children: The Effect of Stress and Word Length | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1822 | Pitch Distributions in a Very Large Corpus of Spontaneous Finnish Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 828 | Speech Enhancement Patterns in Human-Robot Interaction: A Cross-Linguistic Perspective | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1903 | Evaluation of Delexicalization Methods for Research on Emotional Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Coding: Privacy
 
