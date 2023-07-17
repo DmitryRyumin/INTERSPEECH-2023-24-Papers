@@ -1050,6 +1050,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1196 | Speech-in-Speech Recognition is Modulated by Familiarity to Dialect | :heavy_minus_sign: | :heavy_minus_sign: |
 | 673 | BASEN: Time-Domain Brain-Assisted Speech Enhancement Network with Convolutional Cross Attention in Multi-talker Conditions | [![GitHub](https://img.shields.io/github/stars/jzhangU/Basen)](https://github.com/jzhangU/Basen) | [![arXiv](https://img.shields.io/badge/arXiv-2305.09994-b31b1b.svg)](https://arxiv.org/abs/2305.09994) |
 | 2046 | Are Retroflex-to-dental Sibilant Substitutions in Polish Children's Speech an Example of a Covert Contrast? A Preliminary Acoustic Study | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1123 | First Language Effects on Second Language Perception: Evidence from English Low-vowel Nasal Sequences Perceived by L1 Mandarin Chinese Listeners | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2247 | Motor Control Similarity between Speakers Saying "a Souk" using Inverse Atlas Tongue Modeling | :heavy_minus_sign: | :heavy_minus_sign: |
+| 910 | Assessing Phrase Break of ESL Speech with Pre-trained Language Models and Large Language Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04980-b31b1b.svg)](https://arxiv.org/abs/2306.04980) |
+| 317 | A Relationship Between Vocal Fold Vibration and Droplet Production | :heavy_minus_sign: | :heavy_minus_sign: |
+| 803 | Audio, Visual and Audiovisual Intelligibility of Vowels Produced in Noise | :heavy_minus_sign: | :heavy_minus_sign: |
+|593 | Computational Modeling of Auditory Brainstem Responses Derived from Modified Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1732 | Leveraging Label Information for Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1465 | Improving End-to-End Modeling for Mandarin-English Code-Switching using Lightweight Switch-Routing Mixture-of-Experts | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1803 | Frequency Patterns of Individual Speaker Characteristics at Higher and Lower Spectral Ranges | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1818 | Adaptation to Predictive Prosodic cues in Non-native Standard Dialect | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1007 | Head Movements in Two- and Four-person Inter-active Conversational Tasks in Noisy and Moderately Reverberant Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 334 | Second Language Identification of Vietnamese Tones by Native Mandarin Learners | :heavy_minus_sign: | :heavy_minus_sign: |
+| 203 | Nasal Vowel Production and Grammatical Processing in French-speaking Children with Cochlear Implants and Normal-hearing Peers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 412 | Emotion Classification with EEG Responses Evoked by Emotional Prosody of Speech | :heavy_minus_sign: |:heavy_minus_sign: |
+| 145 | L2-Mandarin Regional Accent Variability During Mandarin Tone-word Training Facilitates English listeners' Subsequent tone Categorizations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1680 | HumanDiffusion: Diffusion Model using Perceptual Gradients | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.12169-b31b1b.svg)](https://arxiv.org/abs/2306.12169) |
+| 2087 | Queer Events, Relationships, and Sports: Does Topic Influence Speakers' Acoustic Expression of Sexual Orientation? | :heavy_minus_sign: | :heavy_minus_sign: |
+| 172 | Optimal Control of Speech with Context-dependent Articulatory Targets | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Acoustic Model Adaptation for ASR
 
