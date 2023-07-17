@@ -1247,8 +1247,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 367 | UnDiff: Unsupervised Voice Restoration with Unconditional Diffusion Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00721-b31b1b.svg)](https://arxiv.org/abs/2306.00721) |
 | 1301 | Pruning Self-Attention for Zero-Shot Multi-Speaker Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1151 | Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gwh22.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04301-b31b1b.svg)](https://arxiv.org/abs/2306.04301) |
-| 879 | Towards Robust FastSpeech 2 by Modelling Residual Multimodality | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/sony/ai-research-code/tree/master/tvcgmm) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01442-b31b1b.svg)](https://arxiv.org/abs/2306.01442) |
-| 1137 | Real Time Spectrogram Inversion on Mobile Phone |  |  |
+| 879 | Towards Robust FastSpeech 2 by Modelling Residual Multimodality | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sony.github.io/ai-research-code/tvcgmm/project_page/index.html) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01442-b31b1b.svg)](https://arxiv.org/abs/2306.01442) |
+| 1137 | Real Time Spectrogram Inversion on Mobile Phone | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/google-research/google-research/tree/master/specinvert) | [![arXiv](https://img.shields.io/badge/arXiv-2203.00756-b31b1b.svg)](https://arxiv.org/abs/2203.00756) |
 | 58 | Automatic Tuning of Loss Trade-offs without Hyper-parameter Search in End-to-End Zero-Shot Speech Synthesis |  |  |
 | 2056 | A Low-Resource Pipeline for Text-to-Speech from Found Data With Application to Scottish Gaelic |  |  |
 | 2173 | Self-Supervised Solution to the Control Problem of Articulatory Synthesis |  |  |
