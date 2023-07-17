@@ -1257,8 +1257,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 690 | Improving WaveRNN with Heuristic Dynamic Blending for Fast and High-Quality GPU Vocoding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 194 | Intelligible Lip-to-speech Synthesis with Speech Units | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19603-b31b1b.svg)](https://arxiv.org/abs/2305.19603) |
 | 1212 | Parameter-Efficient Learning for Text-to-Speech Accent Adaptation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tts-research.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/TTS-Research/PEL-TTS)](https://github.com/TTS-Research/PEL-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11320-b31b1b.svg)](https://arxiv.org/abs/2305.11320) |
-| 820 | Controlling Formant Frequencies with Neural Text-to-Speech for the Manipulation of Perceived Speaker Age |  |  |
-| 2379 | FastFit: Towards Real-Time Iterative Neural Vocoder by Replacing U-Net Encoder With Multiple STFTs |  |  |
+| 820 | Controlling Formant Frequencies with Neural Text-to-Speech for the Manipulation of Perceived Speaker Age | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2379 | FastFit: Towards Real-Time Iterative Neural Vocoder by Replacing U-Net Encoder With Multiple STFTs | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://kallavinka8045.github.io/is2023/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.10823-b31b1b.svg)](https://arxiv.org/abs/2305.10823) |
 | 1726 | iSTFTNet2: Faster and More Lightweight iSTFT-Based Neural Vocoder using 1D-2D CNN |  |  |
 | 534 | VITS2: Improving Quality and Efficiency of Single Stage Text to Speech with Adversarial Learning and Architecture Design |  |  |
 | 1175 | Controlling Multi-Class Human Vocalization Generation via a Simple Segment-based Labeling Scheme |  |  |
