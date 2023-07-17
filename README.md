@@ -1245,9 +1245,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1568 | AdapterMix: Exploring the Efficacy of Mixture of Adapters for Low-Resource TTS Adaptation | [![GitHub](https://img.shields.io/github/stars/declare-lab/adapter-mix)](https://github.com/declare-lab/adapter-mix) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18028-b31b1b.svg)](https://arxiv.org/abs/2305.18028) |
 | 506 | Prior-free Guided TTS: An Improved and Efficient Diffusion-based Text-Guided Speech Synthesis | :heavy_minus_sign: | :heavy_minus_sign: |
 | 367 | UnDiff: Unsupervised Voice Restoration with Unconditional Diffusion Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00721-b31b1b.svg)](https://arxiv.org/abs/2306.00721) |
-| 1301 | Pruning Self-Attention for Zero-Shot Multi-Speaker Text-to-Speech |  |  |
-| 1151 | Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge |  |  |
-| 879 | Towards Robust FastSpeech 2 by Modelling Residual Multimodality |  |  |
+| 1301 | Pruning Self-Attention for Zero-Shot Multi-Speaker Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1151 | Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gwh22.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04301-b31b1b.svg)](https://arxiv.org/abs/2306.04301) |
+| 879 | Towards Robust FastSpeech 2 by Modelling Residual Multimodality | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/sony/ai-research-code/tree/master/tvcgmm) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01442-b31b1b.svg)](https://arxiv.org/abs/2306.01442) |
 | 1137 | Real Time Spectrogram Inversion on Mobile Phone |  |  |
 | 58 | Automatic Tuning of Loss Trade-offs without Hyper-parameter Search in End-to-End Zero-Shot Speech Synthesis |  |  |
 | 2056 | A Low-Resource Pipeline for Text-to-Speech from Found Data With Application to Scottish Gaelic |  |  |
