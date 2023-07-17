@@ -189,6 +189,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1064 | MT-SLVR: Multi-Task Self-Supervised Learning for Transformation In(Variant) Representations | [![GitHub](https://img.shields.io/github/stars/CHeggan/MT-SLVR)](https://github.com/CHeggan/MT-SLVR) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17191-b31b1b.svg)](https://arxiv.org/abs/2305.17191) |
 | 1422 | Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16263-b31b1b.svg)](https://arxiv.org/abs/2305.16263) |
 | 1413 | Patch-Mix Contrastive Learning with Audio Spectrogram Transformer on Respiratory Sound Classification | [![GitHub](https://img.shields.io/github/stars/raymin0223/patch-mix_contrastive_learning)](https://github.com/raymin0223/patch-mix_contrastive_learning) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14032-b31b1b.svg)](https://arxiv.org/abs/2305.14032) |
+| 2589 | Vistaar: Diverse Benchmarks and Training Sets for Indian Language ASR | [![GitHub](https://img.shields.io/github/stars/AI4Bharat/vistaar)](https://github.com/AI4Bharat/vistaar) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15386-b31b1b.svg)](https://arxiv.org/abs/2305.15386) |
+| 1091 | Domain Adaptive Self-supervised Training of Automatic Speech Recognition |  |  |
+| 1105 | There is more than One Kind of Robustness: Fooling Whisper with Adversarial Examples |  |  |
+| 1176 | Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute |  |  |
+| 759 | Blank-regularized CTC for Frame Skipping in Neural Transducer |  |  |
+| 2406 | The Tag-Team Approach: Leveraging CLS and Language Tagging for Enhancing Multilingual ASR |  |  |
+| 2354 | Improving RNN-Transducers with Acoustic LookAhead |  |  |
+| 1847 | Everyone has an Accent |  |  |
+| 2124 | Some Voices are too Common: Building Fair Speech Recognition Systems using the Common-Voice Dataset |  |  |
+| 1168 | Information Magnitude Based Dynamic Sub-sampling for Speech-to-text |  |  |
 
 ### Analysis of Speech and Audio Signals
 
