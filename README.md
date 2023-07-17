@@ -1243,8 +1243,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 407 | Epoch-Based Spectrum Estimation for Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1996 | OverFlow: Putting Flows on Top of Neural Transducers for Better TTS | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://shivammehta25.github.io/OverFlow/) <br /> [![GitHub](https://img.shields.io/github/stars/shivammehta25/OverFlow)](https://github.com/shivammehta25/OverFlow) | [![arXiv](https://img.shields.io/badge/arXiv-2211.06892-b31b1b.svg)](https://arxiv.org/abs/2211.06892) |
 | 1568 | AdapterMix: Exploring the Efficacy of Mixture of Adapters for Low-Resource TTS Adaptation | [![GitHub](https://img.shields.io/github/stars/declare-lab/adapter-mix)](https://github.com/declare-lab/adapter-mix) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18028-b31b1b.svg)](https://arxiv.org/abs/2305.18028) |
-| 506 | Prior-free Guided TTS: An Improved and Efficient Diffusion-based Text-Guided Speech Synthesis |  |  |
-| 367 | UnDiff: Unsupervised Voice Restoration with Unconditional Diffusion Model |  |  |
+| 506 | Prior-free Guided TTS: An Improved and Efficient Diffusion-based Text-Guided Speech Synthesis | :heavy_minus_sign: | :heavy_minus_sign: |
+| 367 | UnDiff: Unsupervised Voice Restoration with Unconditional Diffusion Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00721-b31b1b.svg)](https://arxiv.org/abs/2306.00721) |
 | 1301 | Pruning Self-Attention for Zero-Shot Multi-Speaker Text-to-Speech |  |  |
 | 1151 | Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge |  |  |
 | 879 | Towards Robust FastSpeech 2 by Modelling Residual Multimodality |  |  |
