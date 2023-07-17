@@ -454,6 +454,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1170 | Multi-scale Temporal Transformer for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1169 | Distant Speech Emotion Recognition in an Indoor Human-Robot Interaction Scenario | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2498 | A Study on Prosodic Entrainment in Relation to Therapist Empathy in Counseling Conversation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2375 | Improving Joint Speech and Emotion Recognition using Global Style Tokens | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1163 | Speech Emotion Recognition by Estimating Emotional Label Sequences with Phoneme Class Attribute | :heavy_minus_sign: | :heavy_minus_sign: |
+| 274 | Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1090 | Dual Memory Fusion for Multimodal Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 311 | Hybrid Dataset for Speech Emotion Recognition in Russian Language | :heavy_minus_sign: | :heavy_minus_sign: |
+| 396 | Speech Emotion Recognition using Decomposed Speech via Multi-task Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Spoken Dialog Systems and Conversational Analysis
 
@@ -1453,4 +1459,3 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <img width="500" src="https://api.star-history.com/svg?repos=Dmitryryumin/Interspeech-2023-papers&type=Date" alt="Star History Chart">
     </a>
 <p>
-
