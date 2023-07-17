@@ -1240,7 +1240,28 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
+| 407 | Epoch-Based Spectrum Estimation for Speech |  |  |
+| 1996 | OverFlow: Putting Flows on Top of Neural Transducers for Better TTS |  |  |
+| 1568 | AdapterMix: Exploring the Efficacy of Mixture of Adapters for Low-Resource TTS Adaptation |  |  |
+| 506 | Prior-free Guided TTS: An Improved and Efficient Diffusion-based Text-Guided Speech Synthesis |  |  |
+| 367 | UnDiff: Unsupervised Voice Restoration with Unconditional Diffusion Model |  |  |
+| 1301 | Pruning Self-Attention for Zero-Shot Multi-Speaker Text-to-Speech |  |  |
+| 1151 | Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge |  |  |
+| 879 | Towards Robust FastSpeech 2 by Modelling Residual Multimodality |  |  |
+| 1137 | Real Time Spectrogram Inversion on Mobile Phone |  |  |
+| 58 | Automatic Tuning of Loss Trade-offs without Hyper-parameter Search in End-to-End Zero-Shot Speech Synthesis |  |  |
+| 2056 | A Low-Resource Pipeline for Text-to-Speech from Found Data With Application to Scottish Gaelic |  |  |
+| 2173 | Self-Supervised Solution to the Control Problem of Articulatory Synthesis |  |  |
+| 1128 | Hierarchical Timbre-Cadence Speaker Encoder for Zero-shot Speech Synthesis |  |  |
+| 754 | ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models |  |  |
+| 690 | Improving WaveRNN with Heuristic Dynamic Blending for Fast and High-Quality GPU Vocoding |  |  |
+| 194 | Intelligible Lip-to-speech Synthesis with Speech Units |  |  |
 | 1212 | Parameter-Efficient Learning for Text-to-Speech Accent Adaptation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tts-research.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/TTS-Research/PEL-TTS)](https://github.com/TTS-Research/PEL-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11320-b31b1b.svg)](https://arxiv.org/abs/2305.11320) |
+| 820 | Controlling Formant Frequencies with Neural Text-to-Speech for the Manipulation of Perceived Speaker Age |  |  |
+| 2379 | FastFit: Towards Real-Time Iterative Neural Vocoder by Replacing U-Net Encoder With Multiple STFTs |  |  |
+| 1726 | iSTFTNet2: Faster and More Lightweight iSTFT-Based Neural Vocoder using 1D-2D CNN |  |  |
+| 534 | VITS2: Improving Quality and Efficiency of Single Stage Text to Speech with Adversarial Learning and Architecture Design |  |  |
+| 1175 | Controlling Multi-Class Human Vocalization Generation via a Simple Segment-based Labeling Scheme |  |  |
 
 ### Speech Synthesis: Controllability and Adaptation
 
