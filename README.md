@@ -909,6 +909,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1286 | A Study on Visualization of Voiceprint Feature | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1083 | VoxTube: a Multilingual Speaker Recognition Dataset | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1298 | Visualizing Data Augmentation in Deep Speaker Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16070-b31b1b.svg)](https://arxiv.org/abs/2305.16070) |
+| 1565 | Ordered and Binary Speaker Embedding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16043-b31b1b.svg)](https://arxiv.org/abs/2305.16043) |
+| 2031 | Self-FiLM: Conditioning GANs with Self-supervised Representations for Bandwidth Extension based Speaker Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.03657-b31b1b.svg)](https://arxiv.org/abs/2303.03657) |
+| 1202 | Curriculum Learning for Self-supervised Speaker Verification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2203.14525-b31b1b.svg)](https://arxiv.org/abs/2203.14525) |
+| 1558 | Introducing Self-Supervised Phonetic Information for Text-Independent Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1379 | A Teacher-Student Approach for Extracting Informative Speaker Embeddings from Speech Mixtures | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00634-b31b1b.svg)](https://arxiv.org/abs/2306.00634) |
+| 1479 | Experimenting with Additive Margins for Contrastive Self-Supervised Speaker Verification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03664-b31b1b.svg)](https://arxiv.org/abs/2306.03664) |
 
 ### Cross-lingual and Multilingual ASR
 
