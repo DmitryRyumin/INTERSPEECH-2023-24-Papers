@@ -750,6 +750,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1998 | Glottal Source Analysis of Voice Deficits in Basal Ganglia Dysfunction: Evidence from de novo Parkinson's Disease and Huntington's Disease | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2478 | An Analysis of Glottal Features of Chronic Kidney Disease Speech and its Application to CKD Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 983 | Weakly Supervised Glottis Segmentation in High-speed Video Endoscopy using Bounding Box Labels | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1669 | Investigating the Dynamics of Hand and Lips in French Cued Speech using Attention Mechanisms and CTC-based Decoding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08290-b31b1b.svg)](https://arxiv.org/abs/2306.08290) |
+| 670 | Hearing Loss Affects Emotion Perception in Older Adults: Evidence from a Prosody-Semantics Stroop Task |  |  |
+| 554 | Cochlear-implant Listeners Listening to Cochlear-implant Simulated Speech |  |  |
+| 2168 | Validation of a Task-Independent Cepstral Peak Prominence Measure with Voice Activity Detection |  |  |
+| 1679 | Score-balanced Loss for Multi-aspect Pronunciation Assessment |  |  |
+| 2108 | Federated Learning for Secure Development of AI Models for Parkinson's Disease Detection using Speech from Different Languages |  |  |
+| 652 | F0inTFS: A Lightweight Periodicity Enhancement Strategy for Cochlear Implants |  |  |
+| 1678 | Differentiating Acoustic and Physiological Features in Speech for Hypoxia Detection |  |  |
+| 786 | Mandarin Electrolaryngeal Speech Voice Conversion using Cross-domain Features |  |  |
+| 866 | Audio-Visual Mandarin Electrolaryngeal Speech Voice Conversion |  |  |
+| 1744 | Which Aspects of Motor Speech Disorder are Captured by Mel Frequency Cepstral Coefficients? Evidence from the Change in STN-DBS Conditions in Parkinson's Disease |  |  |
+| 1096 | Detecting Manifest Huntington's Disease using Vocal Data |  |  |
+| 1623 | Exploring Multi-task Learning and Data Augmentation in Dementia Detection with Self-supervised Pre-trained Models |  |  |
 
 ### Spoken Term Detection and Voice Search
 
