@@ -288,10 +288,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 518 | Monaural Speech Separation Method Based on Recurrent Attention with Parallel Branches | :heavy_minus_sign: | :heavy_minus_sign: |
 | 372 | Handling the Alignment for Wake Word Detection: A Comparison Between Alignment-Based, Alignment-Free and Hybrid Approaches | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.08950-b31b1b.svg)](https://arxiv.org/abs/2302.08950) |
 | 951 | What do Self-supervised Speech Representations Encode? An Analysis of Languages, Varieties, Speaking Styles and Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1696 | A Compressed Synthetic Speech Detection Method with Compression Feature Embedding |  |  |
-| 572 | Outlier-aware Inlier Modeling and Multi-scale Scoring for Anomalous Sound Detection via Multitask Learning |  |  |
-| 263 | MOSLight: A Lightweight Data-Efficient System for Non-Intrusive Speech Quality Assessment |  |  |
-| 1626 | A Multi-Scale Attentive Transformer for Multi-Instrument Symbolic Music Generation |  |  |
+| 1696 | A Compressed Synthetic Speech Detection Method with Compression Feature Embedding | :heavy_minus_sign: | :heavy_minus_sign: |
+| 572 | Outlier-aware Inlier Modeling and Multi-scale Scoring for Anomalous Sound Detection via Multitask Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 263 | MOSLight: A Lightweight Data-Efficient System for Non-Intrusive Speech Quality Assessment | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1626 | A Multi-Scale Attentive Transformer for Multi-Instrument Symbolic Music Generation | [![GitHub](https://img.shields.io/github/stars/HaRry-qaq/MSAT)](https://github.com/HaRry-qaq/MSAT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16592-b31b1b.svg)](https://arxiv.org/abs/2305.16592) |
 | 2494 | MTANet: Multi-band Time-frequency Attention Network for Singing Melody Extraction from Polyphonic Music |  |  |
 | 119 | Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network |  |  |
 | 2190 | Do Vocal Breath Sounds Encode Gender cues for Automatic Gender Classification? |  |  |
