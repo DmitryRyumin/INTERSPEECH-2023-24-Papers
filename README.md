@@ -294,8 +294,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1626 | A Multi-Scale Attentive Transformer for Multi-Instrument Symbolic Music Generation | [![GitHub](https://img.shields.io/github/stars/HaRry-qaq/MSAT)](https://github.com/HaRry-qaq/MSAT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16592-b31b1b.svg)](https://arxiv.org/abs/2305.16592) |
 | 2494 | MTANet: Multi-band Time-frequency Attention Network for Singing Melody Extraction from Polyphonic Music | :heavy_minus_sign: | :heavy_minus_sign: |
 | 119 | Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://wavelandspeech.github.io/xiaoice2/) | [![arXiv](https://img.shields.io/badge/arXiv-2210.14666-b31b1b.svg)](https://arxiv.org/abs/2210.14666) |
-| 2190 | Do Vocal Breath Sounds Encode Gender cues for Automatic Gender Classification? |  |  |
-| 202 | Automatic Exploration of Optimal Data Processing Operations for Sound Data Augmentation using Improved Differentiable Automatic Data Augmentation |  |  |
+| 2190 | Do Vocal Breath Sounds Encode Gender cues for Automatic Gender Classification? | :heavy_minus_sign: | :heavy_minus_sign: |
+| 202 | Automatic Exploration of Optimal Data Processing Operations for Sound Data Augmentation using Improved Differentiable Automatic Data Augmentation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1430 | A Snoring Sound Dataset for Body Position Recognition: Collection, Annotation, and Analysis |  |  |
 | 528 | RMVPE: A Robust Model for Vocal Pitch Estimation in Polyphonic Music |  |  |
 | 832 | Spatialization Quality Metric for Binaural Speech |  |  |
