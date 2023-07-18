@@ -755,9 +755,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 554 | Cochlear-implant Listeners Listening to Cochlear-implant Simulated Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2168 | Validation of a Task-Independent Cepstral Peak Prominence Measure with Voice Activity Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1679 | Score-balanced Loss for Multi-aspect Pronunciation Assessment | [![GitHub](https://img.shields.io/github/stars/doheejin/SB_loss_PA)](https://github.com/doheejin/SB_loss_PA) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16664-b31b1b.svg)](https://arxiv.org/abs/2305.16664) |
-| 2108 | Federated Learning for Secure Development of AI Models for Parkinson's Disease Detection using Speech from Different Languages |  |  |
-| 652 | F0inTFS: A Lightweight Periodicity Enhancement Strategy for Cochlear Implants |  |  |
-| 1678 | Differentiating Acoustic and Physiological Features in Speech for Hypoxia Detection |  |  |
+| 2108 | Federated Learning for Secure Development of AI Models for Parkinson's Disease Detection using Speech from Different Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11284-b31b1b.svg)](https://arxiv.org/abs/2305.11284) |
+| 652 | F0inTFS: A Lightweight Periodicity Enhancement Strategy for Cochlear Implants | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1678 | Differentiating Acoustic and Physiological Features in Speech for Hypoxia Detection | [![GitHub](https://img.shields.io/github/stars/doheejin/SB_loss_PA)](https://github.com/doheejin/SB_loss_PA) | [![HAL Science](https://img.shields.io/badge/hal-science-04154914.svg)](https://hal.science/hal-04154914) |
 | 786 | Mandarin Electrolaryngeal Speech Voice Conversion using Cross-domain Features |  |  |
 | 866 | Audio-Visual Mandarin Electrolaryngeal Speech Voice Conversion |  |  |
 | 1744 | Which Aspects of Motor Speech Disorder are Captured by Mel Frequency Cepstral Coefficients? Evidence from the Change in STN-DBS Conditions in Parkinson's Disease |  |  |
