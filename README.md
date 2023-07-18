@@ -188,7 +188,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 101 | Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/DPSL-ASR)](https://github.com/YUCHEN005/DPSL-ASR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.14838-b31b1b.svg)](https://arxiv.org/abs/2203.14838) |
 | 1064 | MT-SLVR: Multi-Task Self-Supervised Learning for Transformation In(Variant) Representations | [![GitHub](https://img.shields.io/github/stars/CHeggan/MT-SLVR)](https://github.com/CHeggan/MT-SLVR) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17191-b31b1b.svg)](https://arxiv.org/abs/2305.17191) |
 | 1422 | Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16263-b31b1b.svg)](https://arxiv.org/abs/2305.16263) |
-| 1413 | Patch-Mix Contrastive Learning with Audio Spectrogram Transformer on Respiratory Sound Classification | [![GitHub](https://img.shields.io/github/stars/raymin0223/patch-mix_contrastive_learning)](https://github.com/raymin0223/patch-mix_contrastive_learning) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14032-b31b1b.svg)](https://arxiv.org/abs/2305.14032) |
 | 2589 | Vistaar: Diverse Benchmarks and Training Sets for Indian Language ASR | [![GitHub](https://img.shields.io/github/stars/AI4Bharat/vistaar)](https://github.com/AI4Bharat/vistaar) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15386-b31b1b.svg)](https://arxiv.org/abs/2305.15386) |
 | 1091 | Domain Adaptive Self-supervised Training of Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1105 | There is more than One Kind of Robustness: Fooling Whisper with Adversarial Examples | [![GitHub](https://img.shields.io/github/stars/RaphaelOlivier/whisper_attack)](https://github.com/RaphaelOlivier/whisper_attack) | [![arXiv](https://img.shields.io/badge/arXiv-2210.17316-b31b1b.svg)](https://arxiv.org/abs/2210.17316) |
@@ -265,7 +264,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1965 | Variational Classifier for Unsupervised Anomalous Sound Detection under Domain Generalization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 745 | FlexiAST: Flexibility is What AST Needs | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1344 | Blind Estimation of Room Impulse Response from Monaural Reverberant Speech with Segmental Generative Neural Network | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/370843606_Blind_Estimation_of_Room_Impulse_Response_from_Monaural_Reverberant_Speech_with_Segmental_Generative_Neural_Network) |
-| 852 | AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) <br /> [![GitHub](https://img.shields.io/github/stars/guyyariv/AudioToken)](https://github.com/guyyariv/AudioToken) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13050-b31b1b.svg)](https://arxiv.org/abs/2305.13050) |
 | 613 | Dual-Memory Multi-Modal Learning for Continual Spoken Keyword Spotting with Confidence Selection and Diversity Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1431 | An Efficient Speech Separation Network Based on Recurrent Fusion Dilated Convolution and Channel Attention | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05887-b31b1b.svg)](https://arxiv.org/abs/2306.05887) |
 | 801 | Audio-Visual Fusion using Multiscale Temporal Convolutional Attention for Time-Domain Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -288,6 +286,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 696 | A Neural State-Space Modeling Approach to Efficient Speech Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16932-b31b1b.svg)](https://arxiv.org/abs/2305.16932) |
 | 1777 | Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation | [![GitHub](https://img.shields.io/github/stars/FYJNEVERFOLLOWS/LaBNet)](https://github.com/FYJNEVERFOLLOWS/LaBNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.10821-b31b1b.svg)](https://arxiv.org/abs/2305.10821) |
 | 518 | Monaural Speech Separation Method Based on Recurrent Attention with Parallel Branches | :heavy_minus_sign: | :heavy_minus_sign: |
+| 372 | Handling the Alignment for Wake Word Detection: A Comparison Between Alignment-Based, Alignment-Free and Hybrid Approaches | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.08950-b31b1b.svg)](https://arxiv.org/abs/2302.08950) |
+| 951 | What do Self-supervised Speech Representations Encode? An Analysis of Languages, Varieties, Speaking Styles and Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1696 | A Compressed Synthetic Speech Detection Method with Compression Feature Embedding |  |  |
+| 572 | Outlier-aware Inlier Modeling and Multi-scale Scoring for Anomalous Sound Detection via Multitask Learning |  |  |
+| 263 | MOSLight: A Lightweight Data-Efficient System for Non-Intrusive Speech Quality Assessment |  |  |
+| 1626 | A Multi-Scale Attentive Transformer for Multi-Instrument Symbolic Music Generation |  |  |
+| 2494 | MTANet: Multi-band Time-frequency Attention Network for Singing Melody Extraction from Polyphonic Music |  |  |
+| 119 | Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network |  |  |
+| 2190 | Do Vocal Breath Sounds Encode Gender cues for Automatic Gender Classification? |  |  |
+| 202 | Automatic Exploration of Optimal Data Processing Operations for Sound Data Augmentation using Improved Differentiable Automatic Data Augmentation |  |  |
+| 1430 | A Snoring Sound Dataset for Body Position Recognition: Collection, Annotation, and Analysis |  |  |
+| 528 | RMVPE: A Robust Model for Vocal Pitch Estimation in Polyphonic Music |  |  |
+| 832 | Spatialization Quality Metric for Binaural Speech |  |  |
+| 428 | AsthmaSCELNet: A Lightweight Supervised Contrastive Embedding Learning Framework for Asthma Classification using Lung Sounds |  |  |
+| 1426 | Patch-Mix Contrastive Learning with Audio Spectrogram Transformer on Respiratory Sound Classification | [![GitHub](https://img.shields.io/github/stars/raymin0223/patch-mix_contrastive_learning)](https://github.com/raymin0223/patch-mix_contrastive_learning) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14032-b31b1b.svg)](https://arxiv.org/abs/2305.14032) |
+| 2115 | Remote Assessment for ALS using Multimodal Dialog Agents: Data Quality, Feasibility and Task Compliance |  |  |
+| 852 | AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) <br /> [![GitHub](https://img.shields.io/github/stars/guyyariv/AudioToken)](https://github.com/guyyariv/AudioToken) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13050-b31b1b.svg)](https://arxiv.org/abs/2305.13050) |
+| 209 | Obstructive Sleep Apnea Screening with Breathing Sounds and Respiratory Effort: a Multimodal Deep Learning Approach |  |  |
+| 2275 | Investigation of Music Emotion Recognition based on Segmented Semi-supervised Learning |  |  |
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
