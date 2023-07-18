@@ -292,8 +292,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 572 | Outlier-aware Inlier Modeling and Multi-scale Scoring for Anomalous Sound Detection via Multitask Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 263 | MOSLight: A Lightweight Data-Efficient System for Non-Intrusive Speech Quality Assessment | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1626 | A Multi-Scale Attentive Transformer for Multi-Instrument Symbolic Music Generation | [![GitHub](https://img.shields.io/github/stars/HaRry-qaq/MSAT)](https://github.com/HaRry-qaq/MSAT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16592-b31b1b.svg)](https://arxiv.org/abs/2305.16592) |
-| 2494 | MTANet: Multi-band Time-frequency Attention Network for Singing Melody Extraction from Polyphonic Music |  |  |
-| 119 | Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network |  |  |
+| 2494 | MTANet: Multi-band Time-frequency Attention Network for Singing Melody Extraction from Polyphonic Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| 119 | Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://wavelandspeech.github.io/xiaoice2/) | [![arXiv](https://img.shields.io/badge/arXiv-2210.14666-b31b1b.svg)](https://arxiv.org/abs/2210.14666) |
 | 2190 | Do Vocal Breath Sounds Encode Gender cues for Automatic Gender Classification? |  |  |
 | 202 | Automatic Exploration of Optimal Data Processing Operations for Sound Data Augmentation using Improved Differentiable Automatic Data Augmentation |  |  |
 | 1430 | A Snoring Sound Dataset for Body Position Recognition: Collection, Annotation, and Analysis |  |  |
