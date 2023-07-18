@@ -168,3 +168,4 @@ dmypy.json
 .pyre/
 
 # Custom
+*.pdf
