@@ -296,15 +296,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 119 | Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://wavelandspeech.github.io/xiaoice2/) | [![arXiv](https://img.shields.io/badge/arXiv-2210.14666-b31b1b.svg)](https://arxiv.org/abs/2210.14666) |
 | 2190 | Do Vocal Breath Sounds Encode Gender cues for Automatic Gender Classification? | :heavy_minus_sign: | :heavy_minus_sign: |
 | 202 | Automatic Exploration of Optimal Data Processing Operations for Sound Data Augmentation using Improved Differentiable Automatic Data Augmentation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1430 | A Snoring Sound Dataset for Body Position Recognition: Collection, Annotation, and Analysis |  |  |
-| 528 | RMVPE: A Robust Model for Vocal Pitch Estimation in Polyphonic Music |  |  |
-| 832 | Spatialization Quality Metric for Binaural Speech |  |  |
-| 428 | AsthmaSCELNet: A Lightweight Supervised Contrastive Embedding Learning Framework for Asthma Classification using Lung Sounds |  |  |
+| 1430 | A Snoring Sound Dataset for Body Position Recognition: Collection, Annotation, and Analysis | :heavy_minus_sign: | :heavy_minus_sign: |
+| 528 | RMVPE: A Robust Model for Vocal Pitch Estimation in Polyphonic Music | [![GitHub](https://img.shields.io/github/stars/Dream-High/RMVPE)](https://github.com/Dream-High/RMVPE) | [![arXiv](https://img.shields.io/badge/arXiv-2306.15412-b31b1b.svg)](https://arxiv.org/abs/2306.15412) |
+| 832 | Spatialization Quality Metric for Binaural Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 428 | AsthmaSCELNet: A Lightweight Supervised Contrastive Embedding Learning Framework for Asthma Classification using Lung Sounds | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1426 | Patch-Mix Contrastive Learning with Audio Spectrogram Transformer on Respiratory Sound Classification | [![GitHub](https://img.shields.io/github/stars/raymin0223/patch-mix_contrastive_learning)](https://github.com/raymin0223/patch-mix_contrastive_learning) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14032-b31b1b.svg)](https://arxiv.org/abs/2305.14032) |
-| 2115 | Remote Assessment for ALS using Multimodal Dialog Agents: Data Quality, Feasibility and Task Compliance |  |  |
+| 2115 | Remote Assessment for ALS using Multimodal Dialog Agents: Data Quality, Feasibility and Task Compliance | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1ydqKLgO18TFrMzFC2Bz_6y3Uml0bUaaN/view) |
 | 852 | AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) <br /> [![GitHub](https://img.shields.io/github/stars/guyyariv/AudioToken)](https://github.com/guyyariv/AudioToken) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13050-b31b1b.svg)](https://arxiv.org/abs/2305.13050) |
-| 209 | Obstructive Sleep Apnea Screening with Breathing Sounds and Respiratory Effort: a Multimodal Deep Learning Approach |  |  |
-| 2275 | Investigation of Music Emotion Recognition based on Segmented Semi-supervised Learning |  |  |
+| 209 | Obstructive Sleep Apnea Screening with Breathing Sounds and Respiratory Effort: a Multimodal Deep Learning Approach | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2275 | Investigation of Music Emotion Recognition based on Segmented Semi-supervised Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
