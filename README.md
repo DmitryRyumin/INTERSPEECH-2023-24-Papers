@@ -867,21 +867,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1820 | A Conformer-based Classifier for Variable-length Utterance Processing in Anti-spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1557 | Conformer-based Language Embedding with Self-Knowledge Distillation for Spoken Language Identification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2419 | CommonAccent: Exploring Large Acoustic Pre-trained Models for Accent Classification Based on Common Voice | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371136510_CommonAccent_Exploring_Large_Acoustic_Pretrained_Models_for_Accent_Classification_Based_on_Common_Voice) |
-| 266 | From Adaptive Score Normalization to Adaptive Data Normalization for Speaker Verification Systems |  |  |
-| 1513 | CAM++: A Fast and Efficient Network for Speaker Verification using Context-Aware Masking |  |  |
-| 1928 | North Sámi Dialect Identification with Self-supervised Speech Models |  |  |
-| 2289 | Encoder-decoder Multimodal Speaker Change Detection |  |  |
-| 1603 | Disentangled Representation Draft Learning for Multilingual Speaker Recognition |  |  |
-| 2310 | A Compact End-to-End Model with Local and Global Context for Spoken Language Identification |  |  |
-| 1005 | On the Robustness of Arabic Speech Dialect Identification |  |  |
-| 927 | Adaptive Neural Network Quantization for Lightweight Speaker Verification |  |  |
-| 1205 | Adversarial Diffusion Probability Model For Cross-domain Speaker Verification Integrating Contrastive Loss |  |  |
-| 1554 | Chinese Dialect Recognition based on Transfer Learning |  |  |
-| 270 | Spoofing Attacker also Benefits from Self-Supervised Pretrained Model |  |  |
-| 854 | Label Aware Speech Representation Learning for Language Identification |  |  |
-| 1761 | Exploring the Impact of Back-End Network on Wav2vec 2.0 for Dialect Identification |  |  |
-| 453 | Improving Speaker Verification with Self-Pretrained Transformer Models |  |  |
-| 155 | Description and analysis of the KPT system for NIST Language Recognition Evaluation 2022 |  |  |
+| 266 | From Adaptive Score Normalization to Adaptive Data Normalization for Speaker Verification Systems | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1513 | CAM++: A Fast and Efficient Network for Speaker Verification using Context-Aware Masking | [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/3D-Speaker)](https://github.com/alibaba-damo-academy/3D-Speaker) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00332-b31b1b.svg)](https://arxiv.org/abs/2303.00332) |
+| 1928 | North Sámi Dialect Identification with Self-supervised Speech Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11864-b31b1b.svg)](https://arxiv.org/abs/2305.11864) |
+| 2289 | Encoder-decoder Multimodal Speaker Change Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00680-b31b1b.svg)](https://arxiv.org/abs/2306.00680) |
+| 1603 | Disentangled Representation Draft Learning for Multilingual Speaker Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2310 | A Compact End-to-End Model with Local and Global Context for Spoken Language Identification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1005 | On the Robustness of Arabic Speech Dialect Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03789-b31b1b.svg)](https://arxiv.org/abs/2306.03789) |
+| 927 | Adaptive Neural Network Quantization for Lightweight Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1205 | Adversarial Diffusion Probability Model For Cross-domain Speaker Verification Integrating Contrastive Loss | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1554 | Chinese Dialect Recognition based on Transfer Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 270 | Spoofing Attacker also Benefits from Self-Supervised Pretrained Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15518-b31b1b.svg)](https://arxiv.org/abs/2305.15518) |
+| 854 | Label Aware Speech Representation Learning for Language Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04374-b31b1b.svg)](https://arxiv.org/abs/2306.04374) |
+| 1761 | Exploring the Impact of Back-End Network on Wav2vec 2.0 for Dialect Identification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 453 | Improving Speaker Verification with Self-Pretrained Transformer Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10517-b31b1b.svg)](https://arxiv.org/abs/2305.10517) |
+| 155 | Description and analysis of the KPT system for NIST Language Recognition Evaluation 2022 | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis and Voice Conversion
 
