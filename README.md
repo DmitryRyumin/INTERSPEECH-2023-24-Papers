@@ -864,9 +864,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks | :heavy_minus_sign: | :heavy_minus_sign: |
 | 605 | One-Step Knowledge Distillation and Fine-Tuning in using Large Pre-Trained Self-Supervised Learning Models for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/jungwoo4021/OS-KDFT)](https://github.com/jungwoo4021/OS-KDFT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17394-b31b1b.svg)](https://arxiv.org/abs/2305.17394) |
 | 409 | Defense Against Adversarial Attacks on Audio DeepFake Detection | [![GitHub](https://img.shields.io/github/stars/piotrkawa/audio-deepfake-adversarial-attacks)](https://github.com/piotrkawa/audio-deepfake-adversarial-attacks) | [![arXiv](https://img.shields.io/badge/arXiv-2212.14597-b31b1b.svg)](https://arxiv.org/abs/2212.14597) |
-| 1820 | A Conformer-based Classifier for Variable-length Utterance Processing in Anti-spoofing |  |  |
-| 1557 | Conformer-based Language Embedding with Self-Knowledge Distillation for Spoken Language Identification |  |  |
-| 2419 | CommonAccent: Exploring Large Acoustic Pre-trained Models for Accent Classification Based on Common Voice |  |  |
+| 1820 | A Conformer-based Classifier for Variable-length Utterance Processing in Anti-spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1557 | Conformer-based Language Embedding with Self-Knowledge Distillation for Spoken Language Identification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2419 | CommonAccent: Exploring Large Acoustic Pre-trained Models for Accent Classification Based on Common Voice | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371136510_CommonAccent_Exploring_Large_Acoustic_Pretrained_Models_for_Accent_Classification_Based_on_Common_Voice) |
 | 266 | From Adaptive Score Normalization to Adaptive Data Normalization for Speaker Verification Systems |  |  |
 | 1513 | CAM++: A Fast and Efficient Network for Speaker Verification using Context-Aware Masking |  |  |
 | 1928 | North Sámi Dialect Identification with Self-supervised Speech Models |  |  |
