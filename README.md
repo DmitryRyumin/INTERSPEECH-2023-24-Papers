@@ -862,6 +862,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 205 | Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 394 | A Method of Audio-Visual Person Verification by Mining Connections between Time Series | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks | :heavy_minus_sign: | :heavy_minus_sign: |
+| 605 | One-Step Knowledge Distillation and Fine-Tuning in using Large Pre-Trained Self-Supervised Learning Models for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/jungwoo4021/OS-KDFT)](https://github.com/jungwoo4021/OS-KDFT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17394-b31b1b.svg)](https://arxiv.org/abs/2305.17394) |
+| 409 | Defense Against Adversarial Attacks on Audio DeepFake Detection |  |  |
+| 1820 | A Conformer-based Classifier for Variable-length Utterance Processing in Anti-spoofing |  |  |
+| 1557 | Conformer-based Language Embedding with Self-Knowledge Distillation for Spoken Language Identification |  |  |
+| 2419 | CommonAccent: Exploring Large Acoustic Pre-trained Models for Accent Classification Based on Common Voice |  |  |
+| 266 | From Adaptive Score Normalization to Adaptive Data Normalization for Speaker Verification Systems |  |  |
+| 1513 | CAM++: A Fast and Efficient Network for Speaker Verification using Context-Aware Masking |  |  |
+| 1928 | North Sámi Dialect Identification with Self-supervised Speech Models |  |  |
+| 2289 | Encoder-decoder Multimodal Speaker Change Detection |  |  |
+| 1603 | Disentangled Representation Draft Learning for Multilingual Speaker Recognition |  |  |
+| 2310 | A Compact End-to-End Model with Local and Global Context for Spoken Language Identification |  |  |
+| 1005 | On the Robustness of Arabic Speech Dialect Identification |  |  |
+| 927 | Adaptive Neural Network Quantization for Lightweight Speaker Verification |  |  |
+| 1205 | Adversarial Diffusion Probability Model For Cross-domain Speaker Verification Integrating Contrastive Loss |  |  |
+| 1554 | Chinese Dialect Recognition based on Transfer Learning |  |  |
+| 270 | Spoofing Attacker also Benefits from Self-Supervised Pretrained Model |  |  |
+| 854 | Label Aware Speech Representation Learning for Language Identification |  |  |
+| 1761 | Exploring the Impact of Back-End Network on Wav2vec 2.0 for Dialect Identification |  |  |
+| 453 | Improving Speaker Verification with Self-Pretrained Transformer Models |  |  |
+| 155 | Description and analysis of the KPT system for NIST Language Recognition Evaluation 2022 |  |  |
 
 ### Speech Synthesis and Voice Conversion
 
