@@ -1014,7 +1014,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2531 | Severity Classification of Parkinson's Disease from Speech using Single Frequency Filtering-based Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1915 | Comparison of Acoustic Measures of Dysphonia in Parkinson's Disease and Huntington's Disease: Effect of Sex and Speaking Task | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03443-b31b1b.svg)](https://arxiv.org/abs/2306.03443) |
-| 1574 | A Pipeline to Evaluate the Effects of Noise on Machine Learning Detection of Laryngeal Cancer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1574 | A Pipeline to Evaluate the Effects of Noise on Machine Learning Detection of Laryngeal Cancer | [![GitHub](https://img.shields.io/github/stars/mary-paterson/Interspeech2023-EvaluationPipeline)](https://github.com/mary-paterson/Interspeech2023-EvaluationPipeline) | :heavy_minus_sign: |
 | 2474 | ReCLR: Reference-Enhanced Contrastive Learning of Audio Representation for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 234 | Automated Multiple Sclerosis Screening Based on Encoded Speech Representations | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1934 | Cross-Lingual Features for Alzheimer's Dementia Detection from Speech | :heavy_minus_sign: | :heavy_minus_sign: |
