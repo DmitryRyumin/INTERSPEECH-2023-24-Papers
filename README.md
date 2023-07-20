@@ -67,9 +67,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 749 | Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03594-b31b1b.svg)](https://arxiv.org/abs/2306.03594) |
 | 1292 | Speech Synthesis with Self-Supervisedly Learnt Prosodic Representations | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1317 | EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00648-b31b1b.svg)](https://arxiv.org/abs/2306.00648) |
-| 806 | Laughter Synthesis using Pseudo Phonetic Tokens with a Large-scale In-the-wild Laughter Corpus | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://aria-k-alethia.github.io/2023laughter-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/Aria-K-Alethia/laughter-synthesis)](https://github.com/Aria-K-Alethia/laughter-synthesis) <br /> [![Laughterscape](https://img.shields.io/badge/Laughterscape-corpus-20BEFF.svg)](https://sites.google.com/site/shinnosuketakamichi/research-topics/laughter_corpus) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12442-b31b1b.svg)](https://arxiv.org/abs/2305.12442) |
-| 2270 | Explicit Intensity Control for Accented Text-to-speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ttslr.github.io/Ai-TTS/) <br /> [![GitHub](https://img.shields.io/github/stars/ttslr/Ai-TTS)](https://github.com/ttslr/Ai-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2210.15364-b31b1b.svg)](https://arxiv.org/abs/2210.15364) |
-| 834 | Comparing Normalizing Flows and Diffusion Models for Prosody and Acoustic Modelling in Text-to-speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 806 | Laughter Synthesis using Pseudo Phonetic Tokens with a Large-Scale In-the-Wild Laughter Corpus | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://aria-k-alethia.github.io/2023laughter-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/Aria-K-Alethia/laughter-synthesis)](https://github.com/Aria-K-Alethia/laughter-synthesis) <br /> [![Laughterscape](https://img.shields.io/badge/Laughterscape-corpus-20BEFF.svg)](https://sites.google.com/site/shinnosuketakamichi/research-topics/laughter_corpus) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12442-b31b1b.svg)](https://arxiv.org/abs/2305.12442) |
+| 2270 | Explicit Intensity Control for Accented Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ttslr.github.io/Ai-TTS/) <br /> [![GitHub](https://img.shields.io/github/stars/ttslr/Ai-TTS)](https://github.com/ttslr/Ai-TTS) | [![arXiv](https://img.shields.io/badge/arXiv-2210.15364-b31b1b.svg)](https://arxiv.org/abs/2210.15364) |
+| 834 | Comparing Normalizing Flows and Diffusion Models for Prosody and Acoustic Modelling in Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Statistical Machine Translation
 
@@ -77,10 +77,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-------|-----------|:--------:|:---------:|
 | 2484 | Modular Speech-to-Text Translation for Zero-Shot Cross-Modal Transfer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1063 | Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13204-b31b1b.svg)](https://arxiv.org/abs/2305.13204) |
-| 648 | StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://styles2st.github.io/StyleS2ST/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17732-b31b1b.svg)](https://arxiv.org/abs/2305.17732) |
+| 648 | StyleS2ST: Zero-Shot Style Transfer for Direct Speech-to-Speech Translation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://styles2st.github.io/StyleS2ST/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17732-b31b1b.svg)](https://arxiv.org/abs/2305.17732) |
 | 1767 | Joint Speech Translation and Named Entity Recognition | [![GitHub](https://img.shields.io/github/stars/hlt-mt/FBK-fairseq)](https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/JOINT_ST_NER2023.md) | [![arXiv](https://img.shields.io/badge/arXiv-2210.11987-b31b1b.svg)](https://arxiv.org/abs/2210.11987) |
 | 2050 | Analysis of Acoustic Information in End-to-End Spoken Language Translation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2004 | LAMASSU: A Streaming Language-Agnostic Multilingual Speech Recognition and Translation Model Using Neural Transducers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02809-b31b1b.svg)](https://arxiv.org/abs/2211.02809) |
+| 2004 | LAMASSU: A Streaming Language-Agnostic Multilingual Speech Recognition and Translation Model using Neural Transducers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02809-b31b1b.svg)](https://arxiv.org/abs/2211.02809) |
 
 ### Self-Supervised Learning in ASR
 
@@ -88,10 +88,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-------|-----------|:--------:|:---------:|
 | 1213 | DPHuBERT: Joint Distillation and Pruning of Self-Supervised Speech Models | [![GitHub](https://img.shields.io/github/stars/pyf98/DPHuBERT)](https://github.com/pyf98/DPHuBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17651-b31b1b.svg)](https://arxiv.org/abs/2305.17651) |
 | 1040 | Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations | [![GitHub](https://img.shields.io/github/stars/salah-zaiem/augmentations_adaptation)](https://github.com/salah-zaiem/augmentations_adaptation) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00481-b31b1b.svg)](https://arxiv.org/abs/2306.00481) |
-| 387 | Dual Acoustic Linguistic Self-supervised Representation Learning for Cross-Domain Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2166 | O-1: Self-training with Oracle and 1-best Hypothesis | :heavy_minus_sign: | :heavy_minus_sign: |
+| 387 | Dual Acoustic Linguistic Self-Supervised Representation Learning for Cross-Domain Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2166 | O-1: Self-Training with Oracle and 1-best Hypothesis | :heavy_minus_sign: | :heavy_minus_sign: |
 | 822 | MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets | [![GitHub](https://img.shields.io/github/stars/ddlBoJack/MT4SSL)](https://github.com/ddlBoJack/MT4SSL) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07321-b31b1b.svg)](https://arxiv.org/abs/2211.07321) |
-| 1802 | Comparison of Multilingual Self-Supervised and Weakly-Supervised Speech Pre-Training for Adaptation to Unseen Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2305.12606) |
+| 1802 | Comparing Self-Supervised Pre-Training and Semi-Supervised Training for Speech Recognition in Languages with Weak Language Models | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Prosody
 
