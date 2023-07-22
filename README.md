@@ -366,21 +366,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1079 | How to Estimate Model Transferability of Pre-Trained Speech Models? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01015-b31b1b.svg)](https://arxiv.org/abs/2306.01015) |
+| 2044 | Syllable Discovery and Cross-Lingual Generalization in a Visually Grounded, Self-Supervised Speech Model | [![GitHub](https://img.shields.io/github/stars/jasonppy/syllable-discovery)](https://github.com/jasonppy/syllable-discovery) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11435-b31b1b.svg)](https://arxiv.org/abs/2305.11435) |
+| 2032 | Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization | [![GitHub](https://img.shields.io/github/stars/jasonppy/PromptingWhisper)](https://github.com/jasonppy/PromptingWhisper) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11095-b31b1b.svg)](https://arxiv.org/abs/2305.11095) |
 | 235 | Progress and Prospects for Spoken Language Technology: Results from Five Sexennial Surveys | :heavy_minus_sign: | :heavy_minus_sign: |
 | 268 | Acoustic Word Embeddings for Untranscribed Target Languages with Continued Pretraining and Learned Pooling | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02153-b31b1b.svg)](https://arxiv.org/abs/2306.02153) |
 | 601 | CASA-ASR: Context-Aware Speaker-Attributed ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12459-b31b1b.svg)](https://arxiv.org/abs/2305.12459) |
 | 1321 | Unsupervised Learning of Discrete Latent Representations with Data-Adaptive Dimensionality from Continuous Speech Streams | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1167 | AD-TUNING: An Adaptive CHILD-TUNING Approach to Efficient Hyperparameter Optimization of Child Networks for Speech Processing Tasks in the SUPERB Benchmark | [![GitHub](https://img.shields.io/github/stars/liyunlongaaa/AD-TUNING)](https://github.com/liyunlongaaa/AD-TUNING) | :heavy_minus_sign: |
 | 190 | Distilling Knowledge from Gaussian Process Teacher to Neural Network Student | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2032 | Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization | [![GitHub](https://img.shields.io/github/stars/jasonppy/PromptingWhisper)](https://github.com/jasonppy/PromptingWhisper) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11095-b31b1b.svg)](https://arxiv.org/abs/2305.11095) |
-| 135 | Segmental SpeechCLIP: Utilizing Pretrained Image-text Models for Audio-Visual Learning | :heavy_minus_sign: | :heavy_minus_sign: |
-| 421 | Towards Hate Speech Detection in Low-resource Languages: Comparing ASR to Acoustic Word Embeddings on Wolof and Swahili | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00410-b31b1b.svg)](https://arxiv.org/abs/2306.00410) |
+| 135 | Segmental SpeechCLIP: Utilizing Pretrained Image-Text Models for Audio-Visual Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 421 | Towards Hate Speech Detection in Low-Resource Languages: Comparing ASR to Acoustic Word Embeddings on Wolof and Swahili | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00410-b31b1b.svg)](https://arxiv.org/abs/2306.00410) |
 | 385 | Mitigating Catastrophic Forgetting for Few-Shot Spoken Word Classification Through Meta-Learning | [![GitHub](https://img.shields.io/github/stars/ByteFuse/MAMLCon)](https://github.com/ByteFuse/MAMLCon) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13080-b31b1b.svg)](https://arxiv.org/abs/2305.13080) |
-| 664 | Online Punctuation Restoration using ELECTRA Model for streaming ASR Systems | :heavy_minus_sign: | :heavy_minus_sign: |
+| 664 | Online Punctuation Restoration using ELECTRA Model for Streaming ASR Systems | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2066 | Language Agnostic Data-Driven Inverse Text Normalization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.08506-b31b1b.svg)](https://arxiv.org/abs/2301.08506) |
-| 2044 | Syllable Discovery and Cross-Lingual Generalization in a Visually Grounded, Self-Supervised Speech Model | [![GitHub](https://img.shields.io/github/stars/jasonppy/syllable-discovery)](https://github.com/jasonppy/syllable-discovery) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11435-b31b1b.svg)](https://arxiv.org/abs/2305.11435) |
-| 1655 | Transcribing Speech as Spoken and Written Dual Text Using an Autoregressive Model | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1079 | How to Estimate Model Transferability of Pre-Trained Speech Models? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01015-b31b1b.svg)](https://arxiv.org/abs/2306.01015) |
+| 1655 | Transcribing Speech as Spoken and Written Dual Text using an Autoregressive Model | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2371 | Assessment of Non-Native Speech Intelligibility using Wav2vec2-based Mispronunciation Detection and Multi-level Goodness of Pronunciation Transformer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1592 | Zero-Shot Automatic Pronunciation Assessment | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19563-b31b1b.svg)](https://arxiv.org/abs/2305.19563) |
 | 337 | A Joint Model for Pronunciation Assessment and Mispronunciation Detection and Diagnosis with Multi-task Learning | :heavy_minus_sign: | :heavy_minus_sign: |
