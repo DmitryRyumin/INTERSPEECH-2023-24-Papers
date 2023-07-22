@@ -897,7 +897,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 270 | Spoofing Attacker also Benefits from Self-Supervised Pretrained Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15518-b31b1b.svg)](https://arxiv.org/abs/2305.15518) |
 | 854 | Label Aware Speech Representation Learning for Language Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04374-b31b1b.svg)](https://arxiv.org/abs/2306.04374) |
 | 1761 | Exploring the Impact of Back-End Network on Wav2vec 2.0 for Dialect Identification | :heavy_minus_sign: | :heavy_minus_sign: |
-| 453 | Improving Speaker Verification with Self-Pretrained Transformer Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10517-b31b1b.svg)](https://arxiv.org/abs/2305.10517) |
+| 453 | Improving Speaker Verification with Self-Pretrained Transformer Models | [![GitHub](https://img.shields.io/github/stars/JunyiPeng00/Interspeech23_SelfPretraining)](https://github.com/JunyiPeng00/Interspeech23_SelfPretraining) | [![arXiv](https://img.shields.io/badge/arXiv-2305.10517-b31b1b.svg)](https://arxiv.org/abs/2305.10517) |
 | 155 | Description and analysis of the KPT system for NIST Language Recognition Evaluation 2022 | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis and Voice Conversion
