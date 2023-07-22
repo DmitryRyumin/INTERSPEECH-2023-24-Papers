@@ -706,7 +706,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 36 | Combining Language Corpora in a Japanese Electromagnetic Articulography Database for Acoustic-to-articulatory Inversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 523 | A Dual Attention-based Modality-Collaborative Fusion Network for Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2174 | Large Dataset Generation of Synchronized Music Audio and Lyrics at Scale using Teacher-Student Paradigm | :heavy_minus_sign: | :heavy_minus_sign: |
-| 483 | Enc-Dec RNN Acoustic Word Embeddings Learned via Pairwise Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
+| 483 | Enc-Dec RNN Acoustic Word Embeddings Learned via Pairwise Prediction | [![GitHub](https://img.shields.io/github/stars/madhavlab/2023_adhiraj_encdecPairwisePred)](https://github.com/madhavlab/2023_adhiraj_encdecPairwisePred) | :heavy_minus_sign: |
 | 864 | Query Based Acoustic Summarization for Podcasts | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1242 | Spot Keywords from Very Noisy and Mixed Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17706-b31b1b.svg)](https://arxiv.org/abs/2305.17706) |
 | 891 | Knowledge Distillation on Joint Task End-to-End Speech Translation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/knowledge-distillation-on-joint-task-end-to-end-speech-translation) |
