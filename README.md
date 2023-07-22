@@ -936,7 +936,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1263 | Hyper-parameter Adaptation of Conformer ASR Systems for Elderly and Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15265-b31b1b.svg)](https://arxiv.org/abs/2306.15265) |
 | 322 | Use of Speech Impairment Severity for Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10659-b31b1b.svg)](https://arxiv.org/abs/2305.10659) |
 | 1709 | Bayesian Networks for the Robust and Unbiased Prediction of Depression and its Symptoms Utilizing Speech and Multimodal Data | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://readpaper.com/paper/4770892998779076609) |
-| 1332 | Personalization for Robust Voice Pathology Detection in Sound Waves | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1332 | Personalization for Robust Voice Pathology Detection in Sound Waves | [![GitHub](https://img.shields.io/github/stars/Fsoft-AIC/RoPADet)](https://github.com/Fsoft-AIC/RoPADet) | :heavy_minus_sign: |
 | 2287 | An Automatic Multimodal Approach to Analyze Linguistic and Acoustic Cues on Parkinson's Disease Patients | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1997 | Classifying Dementia in the Presence of Depression: A Cross-Corpus Study | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2101 | Non-uniform Speaker Disentanglement for Depression Detection from Raw Speech Signals | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01861-b31b1b.svg)](https://arxiv.org/abs/2306.01861) |
