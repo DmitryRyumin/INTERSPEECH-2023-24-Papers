@@ -276,7 +276,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2520 | Joint Blind Source Separation and Dereverberation for Automatic Speech Recognition using Delayed-Subsource | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1766 | SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2451 | Deeply Supervised Curriculum Learning for Deep Neural Network-based Sound Source Localization | :heavy_minus_sign: | :heavy_minus_sign: |
-| 164 | Multi-Channel Separation of Dynamic Speech and Sound Events | :heavy_minus_sign: | :heavy_minus_sign: |
+| 164 | Multi-Channel Separation of Dynamic Speech and Sound Events | [![GitHub](https://img.shields.io/github/stars/fakufaku/interspeech2023-moving-iva-samples)](https://github.com/fakufaku/interspeech2023-moving-iva-samples) | :heavy_minus_sign: |
 | 2545 | Rethinking the Visual Cues in Audio-Visual Speaker Extraction | [![GitHub](https://img.shields.io/github/stars/mrjunjieli/DAVSE)](https://github.com/mrjunjieli/DAVSE) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02625-b31b1b.svg)](https://arxiv.org/abs/2306.02625) |
 | 85 | Using Semi-supervised Learning for Monaural Time-domain Speech Separation with a Self-supervised Learning-based SI-SNR Estimator | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1158 | Investigation of Training Mute-Expressive End-to-End Speech Separation Networks for an Unknown Number of Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
