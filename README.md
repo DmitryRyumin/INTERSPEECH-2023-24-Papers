@@ -653,7 +653,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1799 | Can ChatGPT Detect Intent? Evaluating Large Language Models for Spoken Language Understanding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mutiann.github.io/papers/ChatGPT_SLU/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13512-b31b1b.svg)](https://arxiv.org/abs/2305.13512) |
-| 1760 | Improving End-to-End SLU performance with Prosodic Attention and Distillation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.08067-b31b1b.svg)](https://arxiv.org/abs/2305.08067) |
+| 1760 | Improving End-to-End SLU performance with Prosodic Attention and Distillation | [![GitHub](https://img.shields.io/github/stars/skit-ai/slu-prosody)](https://github.com/skit-ai/slu-prosody) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08067-b31b1b.svg)](https://arxiv.org/abs/2305.08067) |
 | 2575 | Modality Confidence Aware Training for Robust End-to-End Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
 |758 | Cross-Modal Semantic Alignment before Fusion for Two-Pass End-to-End Spoken Language | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2018 | ConvKT: Conversation-Level Knowledge Transfer for Context Aware End-to-End Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
