@@ -521,26 +521,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1038 | 5IDER: Unified Query Rewriting for Steering, Intent Carryover, Disfluencies, Entity Carryover and Repair | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01855-b31b1b.svg)](https://arxiv.org/abs/2306.01855) |
 | 1236 | Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1505 | WhiSLU: End-to-End Spoken Language Understanding with Whisper | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2475 | I Learned Error, I Can Fix It!: A Detector-Corrector Structure for ASR Error Calibration | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1951 | Quantifying the Perceptual Value of Lexical and Non-lexical Channels in Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarenne.github.io/is-2023/) | :heavy_minus_sign: |
+| 1947 | Relationship between Auditory and Semantic Entrainment using Deep Neural Networks (DNN) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1929 | Unsupervised Auditory and Semantic Entrainment Models with Deep Neural Networks | :heavy_minus_sign: | :heavy_minus_sign: |
 | 952 | Parsing Dialog Turns with Prosodic Features in English | :heavy_minus_sign: | :heavy_minus_sign: |
 | 320 | Estimation of Listening Response Timing by Generative Model and Parameter Control of Response Substantialness using Dynamic-Prompt-Tune | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1885 | Parameter Selection for Analyzing Conversations with Autism Spectrum Disorder | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2341 | Efficient Multimodal Neural Networks for Trigger-less Voice Assistants | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12063-b31b1b.svg)](https://arxiv.org/abs/2305.12063) |
+| 2341 | Efficient Multimodal Neural Networks for Trigger-Less Voice Assistants | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12063-b31b1b.svg)](https://arxiv.org/abs/2305.12063) |
 | 2332 | Rapid Lexical Alignment to a Conversational Agent | :heavy_minus_sign: | :heavy_minus_sign: |
-| 578 | Multimodal Turn-Taking Model using Visual Cues for End-of-Utterance Prediction in Spoken Dialogue Systems | :heavy_minus_sign: | :heavy_minus_sign: |
+| 578 | Multimodal Turn-Taking Model using Visual cues for End-of-Utterance Prediction in Spoken Dialogue Systems | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1464 | Audio-Visual Praise Estimation for Conversational Video based on Synchronization-Guided Multimodal Transformer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1618 | Improving the Response Timing Estimation for Spoken Dialogue Systems by Reducing the Effect of Speech Recognition Delay | :heavy_minus_sign: | :heavy_minus_sign: |
-| 555 | Focus-attention-enhanced Cross-modal Transformer with Metric Learning for Multimodal Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1717 | A Multiple-Teacher Pruning Based Self-Distillation (MT-PSD) Approach to Model Compression for Audio-Visual Wake Word Spotting | :heavy_minus_sign: | :heavy_minus_sign: |
+| 555 | Focus-Attention-Enhanced Cross-Modal Transformer with Metric Learning for Multimodal Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1717 | A Multiple-Teacher Pruning based Self-Distillation (MT-PSD) Approach to Model Compression for Audio-Visual Wake Word Spotting | :heavy_minus_sign: | :heavy_minus_sign: |
 | 789 | Abusive Speech Detection in Indic Languages using Acoustic Features | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1791 | Listening To Silences In Contact Center Conversations using Textual Cues | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1947 | Relationship between auditory and semantic entrainment using Deep Neural Networks (DNN) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1791 | Listening To Silences In Contact Center Conversations using Textual cues | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2475 | I Learned Error, I Can Fix It!: A Detector-Corrector Structure for ASR Error Calibration | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1074 | Verbal and Nonverbal Feedback Signals in Response to Increasing Levels of Miscommunication | :heavy_minus_sign: | :heavy_minus_sign: |
-| 76 | Speech-Based Classification of Defensive Communication: A Novel Dataset and Results | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1929 | Unsupervised Auditory and Semantic Entrainment Models with Deep Neural Networks | :heavy_minus_sign: | :heavy_minus_sign: |
+| 76 | Speech-based Classification of Defensive Communication: A Novel Dataset and Results | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1951 | Quantifying the Perceptual Value of Lexical and Non-Lexical Channels in Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarenne.github.io/is-2023/) | :heavy_minus_sign: |
 | 1267 | Relationships between Gender, Personality Traits and Features of Multi-Modal Data to Responses to Spoken Dialog Systems Breakdown | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1650 | Speaker-aware Cross-modal Fusion Architecture for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1650 | Speaker-aware Cross-Modal Fusion Architecture for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Coding and Enhancement
 
@@ -1045,7 +1045,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1443 | Effects of Meter, Genre and Experience on Pausing, Lengthening and Prosodic Phrasing in German Poetry Reading | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1142 | Comparing First Spectral Moment of Australian English /s/ between Straight and Gay Voices using Three Analysis Window Sizes | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2584 | Universal Automatic Phonetic Transcription into the International Phonetic Alphabet | [![GitHub](https://img.shields.io/github/stars/ctaguchi/multipa)](https://github.com/ctaguchi/multipa) | :heavy_minus_sign: |
-| 2134 | Voice Twins: Discovering Extremely Similar-sounding, Unrelated Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2134 | Voice Twins: Discovering Extremely Similar-Sounding, Unrelated Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1042 | Filling the Population Statistics Gap: Swiss German Reference Data on F0 and Speech Tempo for Forensic Contexts | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1619 | Investigating the Syntax-Discourse Interface in the Phonetic Implementation of Discourse Markers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2214 | Evaluation of a Forensic Automatic Speaker Recognition System with Emotional Speech Recordings | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1058,6 +1058,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 976 | Bulgarian Unstressed Vowel Reduction: Received Views vs Corpus Findings | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1764 | An Investigation of Indian Native Language Phonemic Influences on L2 English Pronunciations | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.09284-b31b1b.svg)](https://arxiv.org/abs/2212.09284) |
 | 498 | Identifying Stable Sections for Formant Frequency Extraction of French Nasal Vowels based on Difference Thresholds | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1903 | Evaluation of Delexicalization Methods for Research on Emotional Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1772 | Nonbinary American English Speakers Encode Gender in Vowel Acoustics | :heavy_minus_sign: | :heavy_minus_sign: |
 | 44 | Coarticulation of Sibe Vowels and Dorsal Fricatives in Spontaneous Speech: An Acoustic Study | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1013 | Using Speech Synthesis to Explain Automatic Speaker Recognition: a New Application of Synthetic Speech | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1073,7 +1074,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 995 | Vowel Reduction by Greek-speaking Children: The Effect of Stress and Word Length | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1822 | Pitch Distributions in a Very Large Corpus of Spontaneous Finnish Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 828 | Speech Enhancement Patterns in Human-Robot Interaction: A Cross-Linguistic Perspective | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1903 | Evaluation of Delexicalization Methods for Research on Emotional Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Coding: Privacy
 
