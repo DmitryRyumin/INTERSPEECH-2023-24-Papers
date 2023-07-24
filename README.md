@@ -381,19 +381,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2066 | Language Agnostic Data-Driven Inverse Text Normalization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.08506-b31b1b.svg)](https://arxiv.org/abs/2301.08506) |
 | 1079 | How to Estimate Model Transferability of Pre-Trained Speech Models? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01015-b31b1b.svg)](https://arxiv.org/abs/2306.01015) |
 | 1655 | Transcribing Speech as Spoken and Written Dual Text using an Autoregressive Model | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2371 | Assessment of Non-Native Speech Intelligibility using Wav2vec2-based Mispronunciation Detection and Multi-level Goodness of Pronunciation Transformer | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1592 | Zero-Shot Automatic Pronunciation Assessment | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19563-b31b1b.svg)](https://arxiv.org/abs/2305.19563) |
-| 337 | A Joint Model for Pronunciation Assessment and Mispronunciation Detection and Diagnosis with Multi-task Learning | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1635 | Assessing Intelligibility in Non-native Speech: Comparing Measures Obtained at Different Levels | :heavy_minus_sign: | :heavy_minus_sign: |
+| 587 | Phonetic and Prosody-aware Self-Supervised Learning Approach for Non-Native Fluency Scoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11438-b31b1b.svg)](https://arxiv.org/abs/2305.11438) |
+| 380 | Disentangling the Contribution of Non-Native Speech in Automated Pronunciation Assessment | :heavy_minus_sign: | :heavy_minus_sign: |
+| 337 | A Joint Model for Pronunciation Assessment and Mispronunciation Detection and Diagnosis with Multi-Task Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1635 | Assessing Intelligibility in Non-Native Speech: Comparing Measures Obtained at Different Levels | :heavy_minus_sign: | :heavy_minus_sign: |
 | 585 | End-to-End Word-Level Pronunciation Assessment with MASK Pre-training | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02682-b31b1b.svg)](https://arxiv.org/abs/2306.02682) |
-| 550 | A Hierarchical Context-aware Modeling Approach for Multi-aspect and Multi-granular Pronunciation Assessment | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18146-b31b1b.svg)](https://arxiv.org/abs/2305.18146) |
-| 2541 | Automatic Prediction of Language Learners' Listenability Using Speech and Text Features Extracted from Listening Drills | :heavy_minus_sign: | :heavy_minus_sign: |
-| 380 | Disentangling the Contribution of Non-native Speech in Automated Pronunciation Assessment | :heavy_minus_sign: | :heavy_minus_sign: |
+| 550 | A Hierarchical Context-aware Modeling Approach for Multi-Aspect and Multi-Granular Pronunciation Assessment | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18146-b31b1b.svg)](https://arxiv.org/abs/2305.18146) |
+| 2541 | Automatic Prediction of Language Learners' Listenability using Speech and Text Features Extracted from Listening Drills | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2371 | Assessment of Non-Native Speech Intelligibility using Wav2vec2-based Mispronunciation Detection and Multi-Level Goodness of Pronunciation Transformer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1899 | Adapting an Unadaptable ASR System | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01208-b31b1b.svg)](https://arxiv.org/abs/2306.01208) |
-| 533 | Addressing Cold Start Problem for End-to-end Automatic Speech Scoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14310-b31b1b.svg)](https://arxiv.org/abs/2306.14310) |
-| 816 | Improving Grapheme-to-phoneme Conversion by Learning Pronunciations from Speech Recordings | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/improving-grapheme-to-phoneme-conversion-by-learning-pronunciations-from-speech-recordings) |
+| 533 | Addressing Cold Start Problem for End-to-End Automatic Speech Scoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14310-b31b1b.svg)](https://arxiv.org/abs/2306.14310) |
+| 816 | Improving Grapheme-to-Phoneme Conversion by Learning Pronunciations from Speech Recordings | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/improving-grapheme-to-phoneme-conversion-by-learning-pronunciations-from-speech-recordings) |
 | 2577 | Orthography-based Pronunciation Scoring for Better CAPT Feedback | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://catir.github.io/art/capt_phone_ctc_2023.pdf) |
-| 587 | Phonetic and Prosody-aware Self-supervised Learning Approach for Non-native Fluency Scoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11438-b31b1b.svg)](https://arxiv.org/abs/2305.11438) |
+| 1592 | Zero-Shot Automatic Pronunciation Assessment | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19563-b31b1b.svg)](https://arxiv.org/abs/2305.19563) |
 | 364 | Mispronunciation Detection and Diagnosis Model for Tonal Language, Applied to Vietnamese | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Lexical and Language Modeling for ASR
