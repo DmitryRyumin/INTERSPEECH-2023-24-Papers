@@ -242,24 +242,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1595 | Learning Emotional Representations from Imbalanced Speech Data for Speech Emotion Recognition and Emotional Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://anonymous.4open.science/w/INTERSPEECH2023-F8C4/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.05709-b31b1b.svg)](https://arxiv.org/abs/2306.05709) |
 | 1816 | Towards Multi-Lingual Audio Question Answering | [![GitHub](https://img.shields.io/github/stars/swarupbehera/mAQA)](https://github.com/swarupbehera/mAQA) | :heavy_minus_sign: |
 | 477 | Wav2ToBI: a New Approach to Automatic ToBI Transcription | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1579 | MCR-Data2vec 2.0: Improving Self-supervised Speech Pre-training via Model-level Consistency Regularization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08463-b31b1b.svg)](https://arxiv.org/abs/2306.08463) |
-| 591 | Anomalous Sound Detection Based on Sound Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15859-b31b1b.svg)](https://arxiv.org/abs/2305.15859) |
+| 1579 | MCR-Data2vec 2.0: Improving Self-Supervised Speech Pre-training via Model-Level Consistency Regularization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08463-b31b1b.svg)](https://arxiv.org/abs/2306.08463) |
+| 591 | Anomalous Sound Detection based on Sound Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15859-b31b1b.svg)](https://arxiv.org/abs/2305.15859) |
 | 2089 | Random Forest Classification of Breathing Phases from Audio Signals Recorded using Mobile Devices | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1581 | GRAVO: Learning to Generate Relevant Audio from Visual Features with Noisy Online Videos | :heavy_minus_sign: | :heavy_minus_sign: |
-| 358 | Emotion-Aware Audio-Driven Face Animation via Contrastive Feature Disentanglement | :heavy_minus_sign: | :heavy_minus_sign: |
-| 344 | Joint-Former: Jointly Regularized and Locally Down-sampled Conformer for Semi-supervised Sound Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 358 | Emotion-aware Audio-Driven Face Animation via Contrastive Feature Disentanglement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 344 | Joint-Former: Jointly Regularized and Locally Down-Sampled Conformer for Semi-Supervised Sound Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 245 | Towards Attention-based Contrastive Learning for Audio Spoof Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2488 | Masked Audio Modeling with CLAP and Multi-Objective Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1904 | Few-Shot Open-Set Learning for On-Device Customization of KeyWord Spotting Systems | [![GitHub](https://img.shields.io/github/stars/mrusci/ondevice-fewshot-kws)](https://github.com/mrusci/ondevice-fewshot-kws) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02161-b31b1b.svg)](https://arxiv.org/abs/2306.02161) |
-| 481 | Self-Supervised Dataset Pruning for Efficient Training in Audio Anti-spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
-| 491 | Semantic Segmentation with Bidirectional Language Models Improves Long-form ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18419-b31b1b.svg)](https://arxiv.org/abs/2305.18419) |
-| 684 | Multi-microphone Automatic Speech Segmentation in Meetings Based on Circular Harmonics Features | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04268-b31b1b.svg)](https://arxiv.org/abs/2306.04268) |
+| 481 | Self-Supervised Dataset Pruning for Efficient Training in Audio Anti-Spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
+| 491 | Semantic Segmentation with Bidirectional Language Models Improves Long-Form ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18419-b31b1b.svg)](https://arxiv.org/abs/2305.18419) |
+| 684 | Multi-Microphone Automatic Speech Segmentation in Meetings based on Circular Harmonics Features | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04268-b31b1b.svg)](https://arxiv.org/abs/2306.04268) |
 | 542 | Advanced RawNet2 with Attention-based Channel Masking for Synthetic Speech Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 88 | Insights Into End-to-End Audio-to-Score Transcription with Real Recordings: A Case Study with Saxophone Works | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2193 | Whisper-AT: Noise-Robust Automatic Speech Recognizers are Also Strong Audio Event Taggers | [![GitHub](https://img.shields.io/github/stars/YuanGongND/whisper-at)](https://github.com/YuanGongND/whisper-at) | [![arXiv](https://img.shields.io/badge/arXiv-2307.03183-b31b1b.svg)](https://arxiv.org/abs/2307.03183) |
+| 2193 | Whisper-AT: Noise-Robust Automatic Speech Recognizers are also Strong Audio Event Taggers | [![GitHub](https://img.shields.io/github/stars/YuanGongND/whisper-at)](https://github.com/YuanGongND/whisper-at) | [![arXiv](https://img.shields.io/badge/arXiv-2307.03183-b31b1b.svg)](https://arxiv.org/abs/2307.03183) |
 | 1621 | Synthetic Voice Spoofing Detection based on Feature Pyramid Conformer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1383 | Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2011 | Application of Knowledge Distillation to Multi-task Speech Representation Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.16611-b31b1b.svg)](https://arxiv.org/abs/2210.16611) |
+| 2011 | Application of Knowledge Distillation to Multi-Task Speech Representation Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.16611-b31b1b.svg)](https://arxiv.org/abs/2210.16611) |
 | 2297 | DeCoR: Defy Knowledge Forgetting by Predicting Earlier Audio Codes | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18441-b31b1b.svg)](https://arxiv.org/abs/2305.18441) |
 | 1965 | Variational Classifier for Unsupervised Anomalous Sound Detection under Domain Generalization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 745 | FlexiAST: Flexibility is What AST Needs | [![GitHub](https://img.shields.io/github/stars/JiuFengSC/FlexiAST_INTERSPEECH23)](https://github.com/JiuFengSC/FlexiAST_INTERSPEECH23) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09286-b31b1b.svg)](https://arxiv.org/abs/2307.09286) |
@@ -1080,11 +1080,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1026 | Masking Kernel for Learning Energy-Efficient Representations for Speaker Recognition and Mobile Health | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.04161-b31b1b.svg)](https://arxiv.org/abs/2302.04161) |
-| 727 | eSTImate: A Real-time Speech Transmission Index Estimator with Speech Enhancement Auxiliary Task Using Self-Attention Feature Pyramid Network | :heavy_minus_sign: | :heavy_minus_sign: |
+| 727 | eSTImate: A Real-Time Speech Transmission Index Estimator with Speech Enhancement Auxiliary Task using Self-Attention Feature Pyramid Network | :heavy_minus_sign: | :heavy_minus_sign: |
 | 815 | Efficient Encoder-Decoder and Dual-Path Conformer for Comprehensive Feature Learning in Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05861-b31b1b.svg)](https://arxiv.org/abs/2306.05861) |
-| 2138 | Privacy-preserving Representation Learning for Speech Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
-| 448 | Vocoder Drift in X-vector–based Speaker Anonymization | [![GitHub](https://img.shields.io/github/stars/eurecom-asp/vocoder-drift)](https://github.com/eurecom-asp/vocoder-drift) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02892-b31b1b.svg)](https://arxiv.org/abs/2306.02892) |
-| 703 | Malafide: a Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07655-b31b1b.svg)](https://arxiv.org/abs/2306.07655) |
+| 2138 | Privacy-Preserving Representation Learning for Speech Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
+| 448 | Vocoder Drift in X-Vector–based Speaker Anonymization | [![GitHub](https://img.shields.io/github/stars/eurecom-asp/vocoder-drift)](https://github.com/eurecom-asp/vocoder-drift) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02892-b31b1b.svg)](https://arxiv.org/abs/2306.02892) |
+| 703 | Malafide: A Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07655-b31b1b.svg)](https://arxiv.org/abs/2306.07655) |
 
 ### Analysis of Neural Speech Representations
 
