@@ -505,11 +505,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2635 | My Vowels Matter: Formant Automation Tools for Diverse Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2636 | NEMA: An Ecologically Valid Tool for Assessing Hearing Devices, Advanced Algorithms, and Communication in Diverse Listening Environments | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2644 | When Words Speak Just as Loudly as Actions: Virtual Agent Based Remote Health Assessment Integrating What Patients Say with What They Do | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1wxkBg7fqSi0yV6uLjNO4FyhT3cEKoDhF/view) |
-| 2648 | Stuttering Detection Application |  |  |
-| 2649 | Providing Interpretable Insights for Neurological Speech and Cognitive Disorders from Interactive Serious Games |  |  |
-| 2651 | Automated Neural Nursing Assistant (ANNA): An Over-the-Phone System for Cognitive Monitoring |  |  |
-| 2656 | 5G-IoT Cloud based Demonstration of Real-Time Audio-Visual Speech Enhancement for Multimodal Hearing-aids |  |  |
-| 2671 | Towards Two-Point Neuron-Inspired Energy-Efficient Multimodal Open Master Hearing aid |  |  |
+| 2648 | Stuttering Detection Application | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2649 | Providing Interpretable Insights for Neurological Speech and Cognitive Disorders from Interactive Serious Games | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2651 | Automated Neural Nursing Assistant (ANNA): An Over-the-Phone System for Cognitive Monitoring | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2656 | 5G-IoT Cloud based Demonstration of Real-Time Audio-Visual Speech Enhancement for Multimodal Hearing-aids | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2671 | Towards Two-Point Neuron-Inspired Energy-Efficient Multimodal Open Master Hearing aid | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Spoken Dialog Systems and Conversational Analysis
 
