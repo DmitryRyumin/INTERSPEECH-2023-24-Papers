@@ -928,13 +928,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1356 | Reverberation-Controllable Voice Conversion using Reverberation Time Estimator | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2558 | Cross-Utterance Conditioned Coherent Speech Editing | :heavy_minus_sign: | :heavy_minus_sign: |
 
-### Speech and Language in Health: From Remote Monitoring to Medical Conversations
+### Speech and Language in Health: from Remote Monitoring to Medical Conversations
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 947 | Towards Robust Paralinguistic Assessment for Real-world Mobile Health (mHealth) Monitoring: an Initial Study of Reverberation Effects on Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12514-b31b1b.svg)](https://arxiv.org/abs/2305.12514) |
-| 913 | Investigating the Utility of Synthetic Data for Doctor-Patient Conversation Summarization | :heavy_minus_sign: | :heavy_minus_sign: |
-| 322 | Use of Speech Impairment Severity for Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10659-b31b1b.svg)](https://arxiv.org/abs/2305.10659) |
 | 2287 | An Automatic Multimodal Approach to Analyze Linguistic and Acoustic Cues on Parkinson's Disease Patients | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1332 | Personalization for Robust Voice Pathology Detection in Sound Waves | [![GitHub](https://img.shields.io/github/stars/Fsoft-AIC/RoPADet)](https://github.com/Fsoft-AIC/RoPADet) | :heavy_minus_sign: |
 | 2249 | Integrated and Enhanced Pipeline System to Support Spoken Language Analytics for Screening Neurocognitive Disorders | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -951,16 +948,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1771 | Prediction of the Gender-based Violence Victim Condition using Speech: What do Machine Learning Models rely on? | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1916 | Whisper Encoder features for Infant Cry Classification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1997 | Classifying Dementia in the Presence of Depression: A Cross-Corpus Study | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2101 | Non-uniform Speaker Disentanglement for Depression Detection from Raw Speech Signals | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01861-b31b1b.svg)](https://arxiv.org/abs/2306.01861) |
 | 297 | Exploiting Cross-Domain and Cross-Lingual Ultrasound Tongue Imaging Features for Elderly and Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2206.07327-b31b1b.svg)](https://arxiv.org/abs/2206.07327) |
-| 2100 | Combining Multiple Multimodal Speech Features into an Interpretable Index Score for Capturing Disease Progression in Amyotrophic Lateral Sclerosis | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1FfcQifvTL9bTD7SBU7y_A3APgX8N_Vd0/view) |
+| 464 | Multi-Class Detection of Pathological Speech with Latent Features: How does It Perform on Unseen Data? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.15336-b31b1b.svg)](https://arxiv.org/abs/2210.15336) |
 | 2002 | Responsiveness, Sensitivity and Clinical Utility of Timing-Related Speech Biomarkers for Remote Monitoring of ALS Disease Progression | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1-W1buG48sqQnd9uld2c-z-Ls0NSS-bNn/view) |
-| 753 | PoCaPNet: A Novel Approach for Surgical Phase Recognition using Speech and X-Ray Images | [![GitHub](https://img.shields.io/github/stars/kubicndmr/PoCaPNet)](https://github.com/kubicndmr/PoCaPNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15993-b31b1b.svg)](https://arxiv.org/abs/2305.15993) |
-| 1435 | Towards Reference Speech Characterization for Health Applications | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1438 | The MASCFLICHT Corpus: Face Mask Type and Coverage Area Recognition from Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 322 | Use of Speech Impairment Severity for Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10659-b31b1b.svg)](https://arxiv.org/abs/2305.10659) |
 | 721 | MMLung: Moving Closer to Practical Lung Health Estimation using Smartphones | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://mobiuk.org/2023/abstract/S5_P1_Mosuily_MMLung.pdf) |
-| 464 | Multi-class Detection of Pathological Speech with Latent Features: How does It Perform on Unseen Data? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.15336-b31b1b.svg)](https://arxiv.org/abs/2210.15336) |
+| 913 | Investigating the Utility of Synthetic Data for Doctor-Patient Conversation Summarization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2101 | Non-Uniform Speaker Disentanglement for Depression Detection from Raw Speech Signals | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01861-b31b1b.svg)](https://arxiv.org/abs/2306.01861) |
+| 753 | PoCaPNet: A Novel Approach for Surgical Phase Recognition using Speech and X-Ray Images | [![GitHub](https://img.shields.io/github/stars/kubicndmr/PoCaPNet)](https://github.com/kubicndmr/PoCaPNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15993-b31b1b.svg)](https://arxiv.org/abs/2305.15993) |
+| 2100 | Combining Multiple Multimodal Speech Features into an Interpretable Index Score for Capturing Disease Progression in Amyotrophic Lateral Sclerosis | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1FfcQifvTL9bTD7SBU7y_A3APgX8N_Vd0/view) |
+| 1438 | The MASCFLICHT Corpus: Face Mask Type and Coverage Area Recognition from Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1435 | Towards Reference Speech Characterization for Health Applications | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2146 | Automatic Classification of Hypokinetic and Hyperkinetic Dysarthria based on GMM-Supervectors | :heavy_minus_sign: | :heavy_minus_sign: |
+| 947 | Towards Robust Paralinguistic Assessment for Real-World Mobile Health (mHealth) Monitoring: an Initial Study of Reverberation Effects on Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12514-b31b1b.svg)](https://arxiv.org/abs/2305.12514) |
 
 ### Novel Transformer Models for ASR
 
