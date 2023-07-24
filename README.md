@@ -634,10 +634,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1200 | Multiple Instance Learning for Inference of Child Attachment from Paralinguistic Aspects of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2070 | Speaker Embeddings as Individuality Proxy for Voice Stress Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05915-b31b1b.svg)](https://arxiv.org/abs/2306.05915) |
 | 2213 | From Interval to Ordinal: A HMM based Approach for Emotion Label Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
-| 661 | Turbo your Multi-modal Classification with Contrastive Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 661 | Turbo your Multi-Modal Classification with Contrastive Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 497 | Towards Paralinguistic-Only Speech Representations for End-to-End Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1360 | SOT: Self-supervised Learning-Assisted Optimal Transport for Unsupervised Adaptive Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2464 | On the Efficacy and Noise-robustness of Jointly Learned Speech Emotion and Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12540-b31b1b.svg)](https://arxiv.org/abs/2305.12540) |
+| 1360 | SOT: Self-Supervised Learning-Assisted Optimal Transport for Unsupervised Adaptive Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2464 | On the Efficacy and Noise-Robustness of Jointly Learned Speech Emotion and Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12540-b31b1b.svg)](https://arxiv.org/abs/2305.12540) |
 | 830 | Speaking State Decoder with Transition Detection for Next Speaker Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1507 | What are Differences? Comparing DNN and Human by their Performance and Characteristics in Speaker Age Estimation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 846 | Effects of Perceived Gender on the Perceived Social Function of Laughter | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -842,8 +842,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1922 | A Neural Architecture for Selective Attention to Speech Features | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1122 | Quantifying Informational Masking due to Masker Intelligibility in Same-talker Speech-in-speech Perception | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1476 | On the Benefits of Self-supervised Learned Speech Representations for Predicting Human Phonetic Misperceptions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1122 | Quantifying Informational Masking due to Masker Intelligibility in Same-Talker Speech-in-Speech Perception | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1476 | On the Benefits of Self-Supervised Learned Speech Representations for Predicting Human Phonetic Misperceptions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2154 | Predicting Perceptual Centers Located at Vowel Onset in German Speech using Long Short-Term Memory Networks | :heavy_minus_sign: | :heavy_minus_sign: |
 | 63 | Exploring the Mutual Intelligibility Breakdown Caused by Sculpting Speech from a Competing Speech Signal | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2103 | Perception of Incomplete Voicing Neutralization of Obstruents in Tohoku Japanese | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -852,12 +852,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1879 | The Emergence of Obstruent-intrinsic f0 and VOT as Cues to the Fortis/Lenis Contrast in West Central Bavarian | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1879 | The Emergence of Obstruent-Intrinsic f0 and VOT as Cues to the Fortis/Lenis Contrast in West Central Bavarian | :heavy_minus_sign: | :heavy_minus_sign: |
 | 431 | 〈'〉 in Tsimane': a Preliminary Investigation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2200 | Segmental Features of Brazilian (Santa Catarina) Hunsrik | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2337 | Opening or closing? An Electroglottographic Analysis of Voiceless Coda Consonants in Australian English | :heavy_minus_sign: | :heavy_minus_sign: |
-| 295 | Increasing Aspiration of Word-medial Fortis Plosives in Swiss Standard German | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1456 | Lexical Stress and Velar Palatalization in Italian: A Spatio-temporal Interaction | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2337 | Opening or Closing? An Electroglottographic Analysis of Voiceless Coda Consonants in Australian English | :heavy_minus_sign: | :heavy_minus_sign: |
+| 295 | Increasing Aspiration of Word-Medial Fortis Plosives in Swiss Standard German | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1456 | Lexical Stress and Velar Palatalization in Italian: A Spatio-Temporal Interaction | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speaker and Language Identification
 
