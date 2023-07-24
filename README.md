@@ -500,23 +500,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 311 | Hybrid Dataset for Speech Emotion Recognition in Russian Language | :heavy_minus_sign: | :heavy_minus_sign: |
 | 396 | Speech Emotion Recognition using Decomposed Speech via Multi-task Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 
-### Show and Tell: Health Applications and Emotion Recognition
-
-| **#** | **Title** | **Repo** | **Paper** |
-|-------|-----------|:--------:|:---------:|
-| 2618 | A Personalised Speech Communication Application for Dysarthric Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2624 | Video Multimodal Emotion Recognition System for Real World Applications | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2626 | Promoting Mental Self-Disclosure in a Spoken Dialogue System | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2632 | "Select Language, Modality or Put on a Mask!" Experiments with Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2635 | My Vowels Matter: Formant Automation Tools for Diverse Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2636 | NEMA: An Ecologically Valid Tool for Assessing Hearing Devices, Advanced Algorithms, and Communication in Diverse Listening Environments | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2644 | When Words Speak Just as Loudly as Actions: Virtual Agent Based Remote Health Assessment Integrating What Patients Say with What They Do | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1wxkBg7fqSi0yV6uLjNO4FyhT3cEKoDhF/view) |
-| 2648 | Stuttering Detection Application | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2649 | Providing Interpretable Insights for Neurological Speech and Cognitive Disorders from Interactive Serious Games | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2651 | Automated Neural Nursing Assistant (ANNA): An Over-the-Phone System for Cognitive Monitoring | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2656 | 5G-IoT Cloud based Demonstration of Real-Time Audio-Visual Speech Enhancement for Multimodal Hearing-aids | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2671 | Towards Two-Point Neuron-Inspired Energy-Efficient Multimodal Open Master Hearing aid | :heavy_minus_sign: | :heavy_minus_sign: |
-
 ### Spoken Dialog Systems and Conversational Analysis
 
 | **#** | **Title** | **Repo** | **Paper** |
@@ -863,24 +846,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1989 | Vietnam-Celeb: a Large-scale Dataset for Vietnamese Speaker Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1989 | Vietnam-Celeb: a Large-Scale Dataset for Vietnamese Speaker Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2254 | What Can an Accent Identifier Learn? Probing Phonetic and Prosodic Information in a Wav2vec2-based Accent Identification Model | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://is23-2254.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.06524-b31b1b.svg)](https://arxiv.org/abs/2306.06524) |
 | 241 | The 2022 NIST Language Recognition Evaluation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.14624-b31b1b.svg)](https://arxiv.org/abs/2302.14624) |
-| 1446 | MERLIon CCS Challenge: A English-Mandarin Code-switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
 | 1725 | ACA-Net: Towards Lightweight Speaker Verification using Asymmetric Cross Attention | [![GitHub](https://img.shields.io/github/stars/Yip-Jia-Qi/ACA-Net)](https://github.com/Yip-Jia-Qi/ACA-Net) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12121-b31b1b.svg)](https://arxiv.org/abs/2305.12121) |
 | 402 | Branch-ECAPA-TDNN: A Parallel Branch Architecture to Capture Local and Global Features for Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2052 | Speaker Verification Across Ages: Investigating Deep Speaker Embedding Sensitivity to Age Mismatch in Enrollment and Test Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07501-b31b1b.svg)](https://arxiv.org/abs/2306.07501)|
 | 2569 | Wavelet Scattering Transform for Improving Generalization in Low-Resourced Spoken Language Identification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1407 | A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-trained General Purpose Speech Model | [![GitHub](https://img.shields.io/github/stars/Srijith-rkr/KAUST-Whisper-Adapter)](https://github.com/Srijith-rkr/KAUST-Whisper-Adapter) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11244-b31b1b.svg)](https://arxiv.org/abs/2305.11244)|
-| 2272 | HABLA: A Dataset of Latin American Spanish Accents for Voice Anti-spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1702 | Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2272 | HABLA: A Dataset of Latin American Spanish Accents for Voice Anti-Spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1702 | Self-Supervised Learning Representation based Accent Recognition with Persistent Accent Memory | :heavy_minus_sign: | :heavy_minus_sign: |
 | 800 | Extremely Low Bit Quantization for Mobile Speaker Verification Systems Under 1MB Memory | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1974 | Unsupervised Out-of-Distribution Dialect Detection with Mahalanobis Distance | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.10326-b31b1b.svg)](https://arxiv.org/abs/2302.10326) |
 | 105 | Pyannote.Audio 2.1 Speaker Diarization Pipeline: Principle, Benchmark and Recipe | [![GitHub](https://img.shields.io/github/stars/pyannote/pyannote-audio)](https://github.com/pyannote/pyannote-audio) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://huggingface.co/bhuvanesh25/pyannote-diar-copy/resolve/main/technical_report_2.1.pdf) |
 | 1524 | Model Compression for DNN-based Speaker Verification using Weight Quantization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.17326-b31b1b.svg)](https://arxiv.org/abs/2210.17326) |
-| 1354 | Multi-resolution Approach to Identification of Spoken Languages and to Improve Overall Language Diarization System using Whisper Model | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1354 | Multi-Resolution Approach to Identification of Spoken Languages and to Improve Overall Language Diarization System using Whisper Model | :heavy_minus_sign: | :heavy_minus_sign: |
 | 125 | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10940-b31b1b.svg)](https://arxiv.org/abs/2305.10940) |
 | 849 | Dynamic Fully-Connected Layer for Large-Scale Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1446 | MERLIon CCS Challenge: A English-Mandarin Code-Switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
 | 1314 | Mutual Information-based Embedding Decoupling for Generalizable Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1206 | TO-Rawnet: Improving RawNet with TCN and Orthogonal Regularization for Fake Audio Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13701-b31b1b.svg)](https://arxiv.org/abs/2305.13701) |
 | 777 | ECAPA++: Fine-grained Deep Embedding Learning for TDNN Based Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1560,6 +1543,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1622 | Speaker-Independent Neural Formant Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://perezpoz.github.io/neuralformants) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01957-b31b1b.svg)](https://arxiv.org/abs/2306.01957) |
 | 1098 | CALLS: Japanese Empathetic Dialogue Speech Corpus of Complaint Handling and Attentive Listening in Customer Center | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sython.org/Corpus/STUDIES-2/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13713-b31b1b.svg)](https://arxiv.org/abs/2305.13713) |
 | 430 | SASPEECH: A Hebrew Single Speaker Dataset for Text To Speech and Voice Conversion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://anonymous19283746.github.io/saspeech/) | :heavy_minus_sign: |
+
+### Show and Tell: Health Applications and Emotion Recognition
+
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 2618 | A Personalised Speech Communication Application for Dysarthric Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2624 | Video Multimodal Emotion Recognition System for Real World Applications | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2626 | Promoting Mental Self-Disclosure in a Spoken Dialogue System | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2632 | "Select Language, Modality or Put on a Mask!" Experiments with Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2635 | My Vowels Matter: Formant Automation Tools for Diverse Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2636 | NEMA: An Ecologically Valid Tool for Assessing Hearing Devices, Advanced Algorithms, and Communication in Diverse Listening Environments | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2644 | When Words Speak Just as Loudly as Actions: Virtual Agent based Remote Health Assessment Integrating What Patients Say with What They Do | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1wxkBg7fqSi0yV6uLjNO4FyhT3cEKoDhF/view) |
+| 2648 | Stuttering Detection Application | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2649 | Providing Interpretable Insights for Neurological Speech and Cognitive Disorders from Interactive Serious Games | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2651 | Automated Neural Nursing Assistant (ANNA): An Over-the-Phone System for Cognitive Monitoring | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2656 | 5G-IoT Cloud based Demonstration of Real-Time Audio-Visual Speech Enhancement for Multimodal Hearing-aids | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2671 | Towards Two-Point Neuron-Inspired Energy-Efficient Multimodal Open Master Hearing aid | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ---
 
