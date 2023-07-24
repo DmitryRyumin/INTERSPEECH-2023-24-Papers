@@ -148,7 +148,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1442 | Task-Agnostic Structured Pruning of Speech Representation Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01385-b31b1b.svg)](https://arxiv.org/abs/2306.01385) |
 | 485 | Factual Consistency Oriented Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.12369-b31b1b.svg)](https://arxiv.org/abs/2302.12369) |
 | 1036 | Multi-Head State Space Model for Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12498-b31b1b.svg)](https://arxiv.org/abs/2305.12498) |
-| 341 | Cascaded Multi-Task Adaptive Learning Based on Neural Architecture Search | :heavy_minus_sign: | :heavy_minus_sign: |
+| 341 | Cascaded Multi-task Adaptive Learning Based on Neural Architecture Search | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2359 | Probing Self-Supervised Speech Models for Phonetic and Phonemic Information: a Case Study in Aspiration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06232-b31b1b.svg)](https://arxiv.org/abs/2306.06232) |
 | 739 | Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/selective-biasing-with-trie-based-contextual-adapters-for-personalised-speech-recognition-using-neural-transducers) |
 | 213 | A More Accurate Internal Language Model Score Estimation for the Hybrid Autoregressive Transducer | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -169,7 +169,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 788 | Rehearsal-Free Online Continual Learning for Automatic Speech Recognition | [![GitHub](https://img.shields.io/github/stars/StevenVdEeckt/online-cl-for-asr)](https://github.com/StevenVdEeckt/online-cl-for-asr) | [![arXiv](https://img.shields.io/badge/arXiv-2306.10860-b31b1b.svg)](https://arxiv.org/abs/2306.10860) |
 | 496 | ASR Data Augmentation in Low-Resource Settings using Cross-Lingual Multi-Speaker TTS and Cross-Lingual Voice Conversion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/Edresson/Wav2Vec-Wrapper/tree/main/Papers/TTS-Augmentation) | [![arXiv](https://img.shields.io/badge/arXiv-2204.00618-b31b1b.svg)](https://arxiv.org/abs/2204.00618) |
 | 642 | Personality-aware Training based Speaker Adaptation for End-to-End Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2257 | Target Vocabulary Recognition Based on Multi-Task Learning with Decomposed Teacher Sequences | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2257 | Target Vocabulary Recognition Based on Multi-task Learning with Decomposed Teacher Sequences | :heavy_minus_sign: | :heavy_minus_sign: |
 | 679 | Wave to Syntax: Probing Spoken Language Models for Syntax | [![GitHub](https://img.shields.io/github/stars/techsword/wave-to-syntax)](https://github.com/techsword/wave-to-syntax) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18957-b31b1b.svg)](https://arxiv.org/abs/2305.18957) |
 | 720 | Effective Training of Attention-based Contextual Biasing Adapters with Synthetic Audio for Personalised ASR | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/effective-training-of-attention-based-contextual-biasing-adapters-with-synthetic-audio-for-personalised-asr) |
 | 630 | Pushing the Limits of Unsupervised Unit Discovery for SSL Speech Representation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08920-b31b1b.svg)](https://arxiv.org/abs/2306.08920) |
@@ -186,7 +186,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1010 | Model-Internal Slot-Triggered Biasing for Domain Expansion in Neural Transducer ASR Models | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/model-internal-slot-triggered-biasing-for-domain-expansion-in-neural-transducer-asr-models) |
 | 2508 | Delay-Penalized CTC Implemented based on Finite State Transducer | [![GitHub](https://img.shields.io/github/stars/k2-fsa/k2)](https://github.com/k2-fsa/k2) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11539-b31b1b.svg)](https://arxiv.org/abs/2305.11539) |
 | 101 | Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/DPSL-ASR)](https://github.com/YUCHEN005/DPSL-ASR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.14838-b31b1b.svg)](https://arxiv.org/abs/2203.14838) |
-| 1064 | MT-SLVR: Multi-Task Self-Supervised Learning for Transformation In(Variant) Representations | [![GitHub](https://img.shields.io/github/stars/CHeggan/MT-SLVR)](https://github.com/CHeggan/MT-SLVR) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17191-b31b1b.svg)](https://arxiv.org/abs/2305.17191) |
+| 1064 | MT-SLVR: Multi-task Self-Supervised Learning for Transformation In(Variant) Representations | [![GitHub](https://img.shields.io/github/stars/CHeggan/MT-SLVR)](https://github.com/CHeggan/MT-SLVR) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17191-b31b1b.svg)](https://arxiv.org/abs/2305.17191) |
 | 1422 | Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16263-b31b1b.svg)](https://arxiv.org/abs/2305.16263) |
 | 2589 | Vistaar: Diverse Benchmarks and Training Sets for Indian Language ASR | [![GitHub](https://img.shields.io/github/stars/AI4Bharat/vistaar)](https://github.com/AI4Bharat/vistaar) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15386-b31b1b.svg)](https://arxiv.org/abs/2305.15386) |
 | 1091 | Domain Adaptive Self-supervised Training of Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -211,7 +211,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2499 | Biased Self-supervised Learning for ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02536-b31b1b.svg)](https://arxiv.org/abs/2211.02536) |
 | 1300 | A Unified Recognition and Correction Model under Noisy and Accent Speech Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2470 | Wav2Vec 2.0 ASR for Cantonese-Speaking Older Adults in a Clinical Setting | :heavy_minus_sign: | :heavy_minus_sign: |
-| 770 | BAT: Boundary Aware Transducer for Memory-efficient and Low-latency ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11571-b31b1b.svg)](https://arxiv.org/abs/2305.11571) |
+| 770 | BAT: Boundary Aware Transducer for Memory-efficient and Low-Latency ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11571-b31b1b.svg)](https://arxiv.org/abs/2305.11571) |
 | 1342 | Bayes Risk Transducer: Transducer with Controllable Alignment Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
 | 783 | Multi-View Frequency-Attention Alternative to CNN Frontends for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06954-b31b1b.svg)](https://arxiv.org/abs/2306.06954) |
 
@@ -315,28 +315,28 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2182 | On the N-gram Approximation of Pre-trained Language Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06892-b31b1b.svg)](https://arxiv.org/abs/2306.06892) |
 | 2147 | Record Deduplication for Entity Distribution Modeling in ASR Transcripts | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06246-b31b1b.svg)](https://arxiv.org/abs/2306.06246) |
 | 2205 | Learning When to Trust Which Teacher for Weakly Supervised ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.12012-b31b1b.svg)](https://arxiv.org/abs/2306.12012) |
-| 1313 | Text-only Domain Adaptation using Unified Speech-Text Representation in Transducer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04076-b31b1b.svg)](https://arxiv.org/abs/2306.04076) |
+| 1313 | Text-Only Domain Adaptation using Unified Speech-Text Representation in Transducer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04076-b31b1b.svg)](https://arxiv.org/abs/2306.04076) |
 | 1378 | Text-Only Domain Adaptation for End-to-End Speech Recognition through Down-Sampling Acoustic Representation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2479 | Knowledge Distillation Approach for Efficient Internal Language Model Estimation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 276 | Language Model Personalization for Improved Touchscreen Typing | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1223 | Blank Collapse: Compressing CTC Emission for the Faster Decoding | [![GitHub](https://img.shields.io/github/stars/minkjung/blankcollapse)](https://github.com/minkjung/blankcollapse) | [![arXiv](https://img.shields.io/badge/arXiv-2210.17017-b31b1b.svg)](https://arxiv.org/abs/2210.17017) |
-| 403 | Improving Joint Speech-Text Representations Without Alignment | :heavy_minus_sign: | :heavy_minus_sign: |
+| 403 | Improving Joint Speech-Text Representations without Alignment | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1941 | Leveraging Cross-Utterance Context for ASR Decoding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16903-b31b1b.svg)](https://arxiv.org/abs/2306.16903) |
 | 423 | Knowledge Transfer from Pre-trained Language Models to Cif-based Speech Recognizers via Hierarchical Distillation | [![GitHub](https://img.shields.io/github/stars/MingLunHan/CIF-HieraDist)](https://github.com/MingLunHan/CIF-HieraDist) | [![arXiv](https://img.shields.io/badge/arXiv-2301.13003-b31b1b.svg)](https://arxiv.org/abs/2301.13003) |
-| 1517 | Integration of Frame- and Label-synchronous Beam Search for Streaming Encoder-decoder Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1517 | Integration of Frame- and Label-Synchronous Beam Search for Streaming Encoder-Decoder Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1071 | A Neural Time Alignment Module for End-to-End Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 599 | Accelerating Transducers through Adjacent Token Merging | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16009-b31b1b.svg)](https://arxiv.org/abs/2306.16009) |
 | 617 | Language-Universal Phonetic Representation in Multilingual Speech Pretraining for Low-Resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11569-b31b1b.svg)](https://arxiv.org/abs/2305.11569) |
-| 2292 | Language-Routing Mixture of Experts for Multi-lingual and Code-Switching Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1437 | Embedding Articulatory Constraints for Low-resource Speech Recognition Based on Large Pre-trained Model | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2292 | Language-Routing Mixture of Experts for Multi-Lingual and Code-Switching Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1437 | Embedding Articulatory Constraints for Low-Resource Speech Recognition based on Large Pre-trained Model | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2051 | Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18108-b31b1b.svg)](https://arxiv.org/abs/2305.18108) |
-| 768 | SpellMapper: A Non-autoregressive Neural Spellchecker for ASR Customization with Candidate Retrieval based on N-gram Mappings | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02317-b31b1b.svg)](https://arxiv.org/abs/2306.02317) |
+| 768 | SpellMapper: A Non-Autoregressive Neural Spellchecker for ASR Customization with Candidate Retrieval based on N-Gram Mappings | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02317-b31b1b.svg)](https://arxiv.org/abs/2306.02317) |
 | 2037 | Text Injection for Capitalization and Turn-Taking Prediction in Speech Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1281 | Confidence-based Ensembles of End-to-End Speech Recognition Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15824-b31b1b.svg)](https://arxiv.org/abs/2306.15824) |
-| 1050 | Unsupervised Code-switched Text Generation from Parallel Text | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1050 | Unsupervised Code-Switched Text Generation from Parallel Text | :heavy_minus_sign: | :heavy_minus_sign: |
 | 258 | A Binary Keyword Spotting System With Error-Diffusion Speech Feature Binarization | :heavy_minus_sign: | :heavy_minus_sign: |
-| 621 | Language-universal Phonetic Encoder for Low-resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11576-b31b1b.svg)](https://arxiv.org/abs/2305.11576) |
-| 863 | A Lexical-aware Non-autoregressive Transformer-based ASR Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10839-b31b1b.svg)](https://arxiv.org/abs/2305.10839) |
+| 621 | Language-Universal Phonetic Encoder for Low-Resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11576-b31b1b.svg)](https://arxiv.org/abs/2305.11576) |
+| 863 | A Lexical-aware Non-Autoregressive Transformer-based ASR Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10839-b31b1b.svg)](https://arxiv.org/abs/2305.10839) |
 | 1841 | Improving Under-Resourced Code-Switched Speech Recognition: Large Pre-trained Models or Architectural Interventions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1194 | A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11073-b31b1b.svg)](https://arxiv.org/abs/2305.11073) |
 | 61 | A Model for Every User and Budget: Label-Free and Personalized Mixed-Precision Quantization | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -379,11 +379,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 385 | Mitigating Catastrophic Forgetting for Few-Shot Spoken Word Classification Through Meta-Learning | [![GitHub](https://img.shields.io/github/stars/ByteFuse/MAMLCon)](https://github.com/ByteFuse/MAMLCon) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13080-b31b1b.svg)](https://arxiv.org/abs/2305.13080) |
 | 664 | Online Punctuation Restoration using ELECTRA Model for Streaming ASR Systems | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2066 | Language Agnostic Data-Driven Inverse Text Normalization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.08506-b31b1b.svg)](https://arxiv.org/abs/2301.08506) |
-| 1079 | How to Estimate Model Transferability of Pre-Trained Speech Models? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01015-b31b1b.svg)](https://arxiv.org/abs/2306.01015) |
+| 1079 | How to Estimate Model Transferability of Pre-trained Speech Models? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01015-b31b1b.svg)](https://arxiv.org/abs/2306.01015) |
 | 1655 | Transcribing Speech as Spoken and Written Dual Text using an Autoregressive Model | :heavy_minus_sign: | :heavy_minus_sign: |
 | 587 | Phonetic and Prosody-aware Self-Supervised Learning Approach for Non-Native Fluency Scoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11438-b31b1b.svg)](https://arxiv.org/abs/2305.11438) |
 | 380 | Disentangling the Contribution of Non-Native Speech in Automated Pronunciation Assessment | :heavy_minus_sign: | :heavy_minus_sign: |
-| 337 | A Joint Model for Pronunciation Assessment and Mispronunciation Detection and Diagnosis with Multi-Task Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 337 | A Joint Model for Pronunciation Assessment and Mispronunciation Detection and Diagnosis with Multi-task Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1635 | Assessing Intelligibility in Non-Native Speech: Comparing Measures Obtained at Different Levels | :heavy_minus_sign: | :heavy_minus_sign: |
 | 585 | End-to-End Word-Level Pronunciation Assessment with MASK Pre-training | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02682-b31b1b.svg)](https://arxiv.org/abs/2306.02682) |
 | 550 | A Hierarchical Context-aware Modeling Approach for Multi-Aspect and Multi-Granular Pronunciation Assessment | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18146-b31b1b.svg)](https://arxiv.org/abs/2305.18146) |
@@ -395,6 +395,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2577 | Orthography-based Pronunciation Scoring for Better CAPT Feedback | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://catir.github.io/art/capt_phone_ctc_2023.pdf) |
 | 1592 | Zero-Shot Automatic Pronunciation Assessment | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19563-b31b1b.svg)](https://arxiv.org/abs/2305.19563) |
 | 364 | Mispronunciation Detection and Diagnosis Model for Tonal Language, Applied to Vietnamese | :heavy_minus_sign: | :heavy_minus_sign: |
+| 793 | An Efficient and Noise-Robust Audiovisual Encoder for Audiovisual Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 540 | A Novel Self-training Approach for Low-Resource Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1428 | FunASR: A Fundamental End-to-End Speech Recognition Toolkit | [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/FunASR)](https://github.com/alibaba-damo-academy/FunASR) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11013-b31b1b.svg)](https://arxiv.org/abs/2305.11013) |
+| 487 | Streaming Audio-Visual Speech Recognition with Alignment Regularization |  |  |
+| 462 | SparseVSR: Lightweight and Noise Robust Visual Speech Recognition |  |  |
+| 2262 | Multimodal Speech Recognition for Language-Guided Embodied Agents |  |  |
 
 ### Lexical and Language Modeling for ASR
 
@@ -515,7 +521,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 46 | FC-MTLF: A Fine- and Coarse-grained Multi-Task Learning Framework for Cross-Lingual Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
+| 46 | FC-MTLF: A Fine- and Coarse-grained Multi-task Learning Framework for Cross-Lingual Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 93 | Cˆ2A-SLU: Cross and Contrastive Attention for Improving ASR Robustness in Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2300 | Tri-level Joint Natural Language Understanding for Multi-turn Conversational Datasets | [![GitHub](https://img.shields.io/github/stars/adlnlp/Tri-NLU)](https://github.com/adlnlp/Tri-NLU) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17729-b31b1b.svg)](https://arxiv.org/abs/2305.17729) |
 | 2234 | Semantic Enrichment Towards Efficient Speech Representations | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -695,12 +701,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1968 | Can Self-Supervised Neural Representations Pre-Trained on Human Speech Distinguish Animal Callers? | [![GitHub](https://img.shields.io/github/stars/idiap/ssl-caller-detection)](https://github.com/idiap/ssl-caller-detection) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14035-b31b1b.svg)](https://arxiv.org/abs/2305.14035) |
+| 1968 | Can Self-Supervised Neural Representations Pre-trained on Human Speech Distinguish Animal Callers? | [![GitHub](https://img.shields.io/github/stars/idiap/ssl-caller-detection)](https://github.com/idiap/ssl-caller-detection) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14035-b31b1b.svg)](https://arxiv.org/abs/2305.14035) |
 | 2342 | Discovering COVID-19 Coughing and Breathing Patterns from Unlabeled Data using Contrastive Learning with Varying Pre-Training Domains | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01864-b31b1b.svg)](https://arxiv.org/abs/2306.01864) |
 | 330 | Background-aware Modeling for Weakly Supervised Sound Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1065 | How to (Virtually) Train Your Speaker Localizer | [![GitHub](https://img.shields.io/github/stars/prerak23/Dir_SrcMic_DOA)](https://github.com/prerak23/Dir_SrcMic_DOA) | [![arXiv](https://img.shields.io/badge/arXiv-2211.16958-b31b1b.svg)](https://arxiv.org/abs/2211.16958) |
-| 2271 | MMER: Multimodal Multi-Task Learning for Speech Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/Sreyan88/MMER)](https://github.com/Sreyan88/MMER) | [![arXiv](https://img.shields.io/badge/arXiv-2203.16794-b31b1b.svg)](https://arxiv.org/abs/2203.16794) |
-| 909 | A Multi-Task Learning Framework for Sound Event Detection using High-Level Acoustic Characteristics of Sounds | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10729-b31b1b.svg)](https://arxiv.org/abs/2305.10729) |
+| 2271 | MMER: Multimodal Multi-task Learning for Speech Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/Sreyan88/MMER)](https://github.com/Sreyan88/MMER) | [![arXiv](https://img.shields.io/badge/arXiv-2203.16794-b31b1b.svg)](https://arxiv.org/abs/2203.16794) |
+| 909 | A Multi-task Learning Framework for Sound Event Detection using High-Level Acoustic Characteristics of Sounds | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10729-b31b1b.svg)](https://arxiv.org/abs/2305.10729) |
 
 ### DiGo - Dialog for Good: Speech and Language Technology for Social Good
 
@@ -720,18 +726,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2078 | ASR and Emotional Speech: A Word-Level Investigation of the Mutual Impact of Speech and Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16065-b31b1b.svg)](https://arxiv.org/abs/2305.16065) |
 | 916 | BASS: Block-wise Adaptation for Speech Summarization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1258 | Speaker Tracking using Graph Attention Networks with Varying Duration Utterances in Multi-Channel Naturalistic Data: Fearless Steps Apollo 11 Audio Corpus | :heavy_minus_sign: | :heavy_minus_sign: |
-| 36 | Combining Language Corpora in a Japanese Electromagnetic Articulography Database for Acoustic-to-articulatory Inversion | :heavy_minus_sign: | :heavy_minus_sign: |
+| 36 | Combining Language Corpora in a Japanese Electromagnetic Articulography Database for Acoustic-to-Articulatory Inversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 523 | A Dual Attention-based Modality-Collaborative Fusion Network for Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2174 | Large Dataset Generation of Synchronized Music Audio and Lyrics at Scale using Teacher-Student Paradigm | :heavy_minus_sign: | :heavy_minus_sign: |
 | 483 | Enc-Dec RNN Acoustic Word Embeddings Learned via Pairwise Prediction | [![GitHub](https://img.shields.io/github/stars/madhavlab/2023_adhiraj_encdecPairwisePred)](https://github.com/madhavlab/2023_adhiraj_encdecPairwisePred) | :heavy_minus_sign: |
-| 864 | Query Based Acoustic Summarization for Podcasts | :heavy_minus_sign: | :heavy_minus_sign: |
+| 864 | Query based Acoustic Summarization for Podcasts | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1242 | Spot Keywords from Very Noisy and Mixed Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17706-b31b1b.svg)](https://arxiv.org/abs/2305.17706) |
 | 891 | Knowledge Distillation on Joint Task End-to-End Speech Translation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/knowledge-distillation-on-joint-task-end-to-end-speech-translation) |
 | 343 | Investigating Pre-trained Audio Encoders in the Low-Resource Condition | [![GitHub](https://img.shields.io/github/stars/YangHao97/investigateAudioEncoders)](https://github.com/YangHao97/investigateAudioEncoders) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17733-b31b1b.svg)](https://arxiv.org/abs/2305.17733) |
 | 1718 | Improving Textless Spoken Language Understanding with Discrete Units as Intermediate Target | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18096-b31b1b.svg)](https://arxiv.org/abs/2305.18096) |
 | 823 | MAVD: The First Open Large-Scale Mandarin Audio-Visual Dataset with Depth Information | [![GitHub](https://img.shields.io/github/stars/SpringHuo/MAVD)](https://github.com/YangHao97/investigateAudioEncoders) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02263-b31b1b.svg)](https://arxiv.org/abs/2306.02263) |
 | 1674 | CN-Celeb-AV: A Multi-Genre Audio-Visual Dataset for Person Recognition | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](http://cnceleb.org/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16049-b31b1b.svg)](https://arxiv.org/abs/2305.16049) |
-| 1762 | Improving Zero-shot Cross-domain Slot Filling via Transformer-based Slot Semantics Fusion | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1762 | Improving Zero-Shot Cross-Domain Slot Filling via Transformer-based Slot Semantics Fusion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 619 | Rethinking Transfer and Auxiliary Learning for Improving Audio Captioning Transformer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1468 | Boosting Punctuation Restoration with Data Generation and Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 695 | J-ToneNet: A Transformer-based Encoding Network for Improving Tone Classification in Continuous Speech via F0 Sequences | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -773,17 +779,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2198 | Multimodal Locally Enhanced Transformer for Continuous Sign Language Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1759 | Towards Supporting an Early Diagnosis of Multiple Sclerosis using Vocal Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1891 | Whisper Features for Dysarthric Severity-Level Classification | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2191 | A New Benchmark of Aphasia Speech Recognition and Detection Based on E-Branchformer and Multi-task Learning | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet/tree/master/egs2/aphasiabank/asr1) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13331-b31b1b.svg)](https://arxiv.org/abs/2305.13331) |
+| 2191 | A New Benchmark of Aphasia Speech Recognition and Detection based on E-Branchformer and Multi-task Learning | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet/tree/master/egs2/aphasiabank/asr1) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13331-b31b1b.svg)](https://arxiv.org/abs/2305.13331) |
 | 222 | Dysarthric Speech Recognition, Detection and Classification using Raw Phase and Magnitude Spectra | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2026 | A Stutter Seldom Comes Alone - Cross-Corpus Stuttering Detection as a Multi-label Problem | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19255-b31b1b.svg)](https://arxiv.org/abs/2305.19255) |
 | 1542 | Transfer Learning to Aid Dysarthria Severity Classification for Patients with Amyotrophic Lateral Sclerosis | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2203 | DuTa-VC: A Duration-aware Typical-to-atypical Voice Conversion Approach with Diffusion Probabilistic Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.10588-b31b1b.svg)](https://arxiv.org/abs/2306.10588) |
+| 2203 | DuTa-VC: A Duration-aware Typical-to-Atypical Voice Conversion Approach with Diffusion Probabilistic Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.10588-b31b1b.svg)](https://arxiv.org/abs/2306.10588) |
 | 201 | CNVVE: Dataset and Benchmark for Classifying Non-verbal Voice | [![GitHub](https://img.shields.io/github/stars/hedeshy/CNVVE)](https://github.com/hedeshy/CNVVE) | [![University of Southampton](https://img.shields.io/badge/soton-ac-015C84.svg)](https://eprints.soton.ac.uk/478344/) |
-| 1541 | Arabic Dysarthric Speech Recognition Using Adversarial and Signal-Based Augmentation | [![GitHub](https://img.shields.io/github/stars/massabaali7/AR_Dysarthric)](https://github.com/massabaali7/AR_Dysarthric) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04368-b31b1b.svg)](https://arxiv.org/abs/2306.04368) |
-| 1887 | Weakly-supervised Forced Alignment of Disfluent Speech using Phoneme-level Modeling | [![GitHub](https://img.shields.io/github/stars/zelaki/WSFA)](https://github.com/zelaki/WSFA) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00996-b31b1b.svg)](https://arxiv.org/abs/2306.00996) |
+| 1541 | Arabic Dysarthric Speech Recognition using Adversarial and Signal-based Augmentation | [![GitHub](https://img.shields.io/github/stars/massabaali7/AR_Dysarthric)](https://github.com/massabaali7/AR_Dysarthric) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04368-b31b1b.svg)](https://arxiv.org/abs/2306.04368) |
+| 1887 | Weakly-Supervised Forced Alignment of Disfluent Speech using Phoneme-level Modeling | [![GitHub](https://img.shields.io/github/stars/zelaki/WSFA)](https://github.com/zelaki/WSFA) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00996-b31b1b.svg)](https://arxiv.org/abs/2306.00996) |
 | 1998 | Glottal Source Analysis of Voice Deficits in Basal Ganglia Dysfunction: Evidence from de novo Parkinson's Disease and Huntington's Disease | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2478 | An Analysis of Glottal Features of Chronic Kidney Disease Speech and its Application to CKD Detection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 983 | Weakly Supervised Glottis Segmentation in High-speed Video Endoscopy using Bounding Box Labels | :heavy_minus_sign: | :heavy_minus_sign: |
+| 983 | Weakly Supervised Glottis Segmentation in High-Speed Video Endoscopy using Bounding Box Labels | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1669 | Investigating the Dynamics of Hand and Lips in French Cued Speech using Attention Mechanisms and CTC-based Decoding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08290-b31b1b.svg)](https://arxiv.org/abs/2306.08290) |
 | 670 | Hearing Loss Affects Emotion Perception in Older Adults: Evidence from a Prosody-Semantics Stroop Task | :heavy_minus_sign: | :heavy_minus_sign: |
 | 554 | Cochlear-implant Listeners Listening to Cochlear-implant Simulated Speech | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -865,7 +871,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 402 | Branch-ECAPA-TDNN: A Parallel Branch Architecture to Capture Local and Global Features for Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2052 | Speaker Verification Across Ages: Investigating Deep Speaker Embedding Sensitivity to Age Mismatch in Enrollment and Test Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07501-b31b1b.svg)](https://arxiv.org/abs/2306.07501)|
 | 2569 | Wavelet Scattering Transform for Improving Generalization in Low-Resourced Spoken Language Identification | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1407 | A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-Trained General Purpose Speech Model | [![GitHub](https://img.shields.io/github/stars/Srijith-rkr/KAUST-Whisper-Adapter)](https://github.com/Srijith-rkr/KAUST-Whisper-Adapter) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11244-b31b1b.svg)](https://arxiv.org/abs/2305.11244)|
+| 1407 | A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-trained General Purpose Speech Model | [![GitHub](https://img.shields.io/github/stars/Srijith-rkr/KAUST-Whisper-Adapter)](https://github.com/Srijith-rkr/KAUST-Whisper-Adapter) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11244-b31b1b.svg)](https://arxiv.org/abs/2305.11244)|
 | 2272 | HABLA: A Dataset of Latin American Spanish Accents for Voice Anti-spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1702 | Self-supervised Learning Representation based Accent Recognition with Persistent Accent Memory | :heavy_minus_sign: | :heavy_minus_sign: |
 | 800 | Extremely Low Bit Quantization for Mobile Speaker Verification Systems Under 1MB Memory | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -896,7 +902,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 205 | Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 394 | A Method of Audio-Visual Person Verification by Mining Connections between Time Series | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks | :heavy_minus_sign: | :heavy_minus_sign: |
-| 605 | One-Step Knowledge Distillation and Fine-Tuning in using Large Pre-Trained Self-Supervised Learning Models for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/jungwoo4021/OS-KDFT)](https://github.com/jungwoo4021/OS-KDFT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17394-b31b1b.svg)](https://arxiv.org/abs/2305.17394) |
+| 605 | One-Step Knowledge Distillation and Fine-Tuning in using Large Pre-trained Self-Supervised Learning Models for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/jungwoo4021/OS-KDFT)](https://github.com/jungwoo4021/OS-KDFT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17394-b31b1b.svg)](https://arxiv.org/abs/2305.17394) |
 | 409 | Defense Against Adversarial Attacks on Audio DeepFake Detection | [![GitHub](https://img.shields.io/github/stars/piotrkawa/audio-deepfake-adversarial-attacks)](https://github.com/piotrkawa/audio-deepfake-adversarial-attacks) | [![arXiv](https://img.shields.io/badge/arXiv-2212.14597-b31b1b.svg)](https://arxiv.org/abs/2212.14597) |
 | 1820 | A Conformer-based Classifier for Variable-length Utterance Processing in Anti-spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1557 | Conformer-based Language Embedding with Self-Knowledge Distillation for Spoken Language Identification | :heavy_minus_sign: | :heavy_minus_sign: |
