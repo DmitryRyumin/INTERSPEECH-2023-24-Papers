@@ -1565,7 +1565,7 @@ Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 2614 | DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement |  | [![arXiv](https://img.shields.io/badge/arXiv-2305.08227-b31b1b.svg)](https://arxiv.org/abs/2305.08227) |
+| 2614 | DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/Rikorose/DeepFilterNet)](https://github.com/Rikorose/DeepFilterNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08227-b31b1b.svg)](https://arxiv.org/abs/2305.08227) |
 | 2615 | Nkululeko: Machine Learning Experiments on Speaker Characteristics without Programming |  |  |
 | 2625 | Sp1NY: A Quick and Flexible Python Speech Visualization Tool |  |  |
 | 2629 | Intonation Control for Neural Text-to-Speech Synthesis with Polynomial Models of F0 |  |  |
