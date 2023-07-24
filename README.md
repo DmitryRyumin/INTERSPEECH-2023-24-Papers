@@ -810,21 +810,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-------|-----------|:--------:|:---------:|
 | 478 | Matching Latent Encoding for Audio-Text based Keyword Spotting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05245-b31b1b.svg)](https://arxiv.org/abs/2306.05245) |
 | 1215 | Self-Paced Pattern Augmentation for Spoken Term Detection in Zero-Resource | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2362 | On-Device Constrained Self-Supervised Speech Representation Learning for Keyword Spotting via Knowledge Distillation by Gene | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/on-device-constrained-self-supervised-speech-representation-learning-for-keyword-spotting-via-knowledge-distillation) |
+| 2362 | On-Device Constrained Self-Supervised Speech Representation Learning for Keyword Spotting via Knowledge Distillation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/on-device-constrained-self-supervised-speech-representation-learning-for-keyword-spotting-via-knowledge-distillation) |
 | 90 | Online Continual Learning in Keyword Spotting for Low-Resource Devices via Pooling High-Order Temporal Statistics | :heavy_minus_sign: | :heavy_minus_sign: |
-| 689 | Improving Small Footprint Few-shot Keyword Spotting with Supervision on Auxiliary Data | :heavy_minus_sign: | :heavy_minus_sign: |
+| 689 | Improving Small Footprint Few-Shot Keyword Spotting with Supervision on Auxiliary Data | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2222 | Robust Keyword Spotting for Noisy Environments by Leveraging Speech Enhancement and Speech Presence Probability | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Models for Streaming ASR
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-|  831 | Enhancing the Unified Streaming and Non-streaming Model with Contrastive Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00755-b31b1b.svg)](https://arxiv.org/abs/2306.00755) |
+|  831 | Enhancing the Unified Streaming and Non-Streaming Model with Contrastive Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00755-b31b1b.svg)](https://arxiv.org/abs/2306.00755) |
 | 1497 | ZeroPrompt: Streaming Acoustic Encoders are Zero-Shot Masked LMs | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10649-b31b1b.svg)](https://arxiv.org/abs/2305.10649) |
 | 361 | Improved Training for End-to-End Streaming Automatic Speech Recognition Model with Punctuation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01296-b31b1b.svg)](https://arxiv.org/abs/2306.01296) |
-| 1129 | DCTX-Conformer: Dynamic Context Carry-over for Low Latency Unified Streaming and Non-streaming Conformer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08175-b31b1b.svg)](https://arxiv.org/abs/2306.08175) |
-| 1121 | Knowledge Distillation from Non-streaming to Streaming ASR Encoder using Auxiliary Non-streaming Layer | :heavy_minus_sign: | :heavy_minus_sign: |
-| 884 | Adaptive Contextual Biasing for Transducer Based Streaming Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00804-b31b1b.svg)](https://arxiv.org/abs/2306.00804) |
+| 1129 | DCTX-Conformer: Dynamic Context Carry-over for Low Latency Unified Streaming and Non-Streaming Conformer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08175-b31b1b.svg)](https://arxiv.org/abs/2306.08175) |
+| 1121 | Knowledge Distillation from Non-Streaming to Streaming ASR Encoder using Auxiliary Non-Streaming Layer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 884 | Adaptive Contextual Biasing for Transducer based Streaming Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00804-b31b1b.svg)](https://arxiv.org/abs/2306.00804) |
 
 ### Source Separation
 
@@ -949,35 +949,35 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 963 | Respiratory Distress Estimation in Human-robot Interaction Scenario | :heavy_minus_sign: | :heavy_minus_sign: |
 | 947 | Towards Robust Paralinguistic Assessment for Real-world Mobile Health (mHealth) Monitoring: an Initial Study of Reverberation Effects on Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12514-b31b1b.svg)](https://arxiv.org/abs/2305.12514) |
-| 301 | On-the-Fly Feature Based Rapid Speaker Adaptation for Dysarthric and Elderly Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2203.14593-b31b1b.svg)](https://arxiv.org/abs/2203.14593) |
-| 2079 | Automatic Assessment of Alzheimer's across Three Languages using Speech and Language Features | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1722 | Relationship between LTAS-based Spectral Moments and Acoustic Parameters of Hypokinetic Dysarthria in Parkinson's Disease | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1946 | Active Learning for Abnormal Lung Sound Data Curation and Detection in Asthma | :heavy_minus_sign: | :heavy_minus_sign: |
 | 913 | Investigating the Utility of Synthetic Data for Doctor-Patient Conversation Summarization | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1263 | Hyper-parameter Adaptation of Conformer ASR Systems for Elderly and Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15265-b31b1b.svg)](https://arxiv.org/abs/2306.15265) |
 | 322 | Use of Speech Impairment Severity for Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10659-b31b1b.svg)](https://arxiv.org/abs/2305.10659) |
-| 1709 | Bayesian Networks for the Robust and Unbiased Prediction of Depression and its Symptoms Utilizing Speech and Multimodal Data | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://readpaper.com/paper/4770892998779076609) |
-| 1332 | Personalization for Robust Voice Pathology Detection in Sound Waves | [![GitHub](https://img.shields.io/github/stars/Fsoft-AIC/RoPADet)](https://github.com/Fsoft-AIC/RoPADet) | :heavy_minus_sign: |
 | 2287 | An Automatic Multimodal Approach to Analyze Linguistic and Acoustic Cues on Parkinson's Disease Patients | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1997 | Classifying Dementia in the Presence of Depression: A Cross-Corpus Study | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2101 | Non-uniform Speaker Disentanglement for Depression Detection from Raw Speech Signals | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01861-b31b1b.svg)](https://arxiv.org/abs/2306.01861) |
-| 296 | FTA-net: A Frequency and Time Attention Network for Speech Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1332 | Personalization for Robust Voice Pathology Detection in Sound Waves | [![GitHub](https://img.shields.io/github/stars/Fsoft-AIC/RoPADet)](https://github.com/Fsoft-AIC/RoPADet) | :heavy_minus_sign: |
 | 2249 | Integrated and Enhanced Pipeline System to Support Spoken Language Analytics for Screening Neurocognitive Disorders | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1990 | Capturing Mismatch between Textual and Acoustic Emotion Expressions for Mood Identification in Bipolar Disorder | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://emp.engin.umich.edu/wp-content/uploads/sites/67/2023/06/Capturing_Mismatch_between_Textual_and_Acoustic_Emotion_Expressions_for_Mood_Identification_in_Bipolar_Disorder-3.pdf) |
+| 296 | FTA-Net: A Frequency and Time Attention Network for Speech Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1709 | Bayesian Networks for the Robust and Unbiased Prediction of Depression and its Symptoms Utilizing Speech and Multimodal Data | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://readpaper.com/paper/4770892998779076609) |
+| 1263 | Hyper-Parameter Adaptation of Conformer ASR Systems for Elderly and Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15265-b31b1b.svg)](https://arxiv.org/abs/2306.15265) |
+| 1721 | Classifying Depression Symptom Severity: Assessment of Speech Representations in Personalized and Generalized Machine Learning Models | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1946 | Active Learning for Abnormal Lung Sound Data Curation and Detection in Asthma | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2079 | Automatic Assessment of Alzheimer's across Three Languages using Speech and Language Features | :heavy_minus_sign: | :heavy_minus_sign: |
+| 301 | On-the-Fly Feature based Rapid Speaker Adaptation for Dysarthric and Elderly Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2203.14593-b31b1b.svg)](https://arxiv.org/abs/2203.14593) |
+| 1722 | Relationship between LTAS-based Spectral Moments and Acoustic Parameters of Hypokinetic Dysarthria in Parkinson's Disease | :heavy_minus_sign: | :heavy_minus_sign: |
+| 963 | Respiratory Distress Estimation in Human-Robot Interaction Scenario | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1771 | Prediction of the Gender-based Violence Victim Condition using Speech: What do Machine Learning Models rely on? | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1916 | Whisper Encoder features for Infant Cry Classification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1997 | Classifying Dementia in the Presence of Depression: A Cross-Corpus Study | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2101 | Non-uniform Speaker Disentanglement for Depression Detection from Raw Speech Signals | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01861-b31b1b.svg)](https://arxiv.org/abs/2306.01861) |
 | 297 | Exploiting Cross-Domain and Cross-Lingual Ultrasound Tongue Imaging Features for Elderly and Dysarthric Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2206.07327-b31b1b.svg)](https://arxiv.org/abs/2206.07327) |
 | 2100 | Combining Multiple Multimodal Speech Features into an Interpretable Index Score for Capturing Disease Progression in Amyotrophic Lateral Sclerosis | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1FfcQifvTL9bTD7SBU7y_A3APgX8N_Vd0/view) |
 | 2002 | Responsiveness, Sensitivity and Clinical Utility of Timing-Related Speech Biomarkers for Remote Monitoring of ALS Disease Progression | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1-W1buG48sqQnd9uld2c-z-Ls0NSS-bNn/view) |
 | 753 | PoCaPNet: A Novel Approach for Surgical Phase Recognition using Speech and X-Ray Images | [![GitHub](https://img.shields.io/github/stars/kubicndmr/PoCaPNet)](https://github.com/kubicndmr/PoCaPNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15993-b31b1b.svg)](https://arxiv.org/abs/2305.15993) |
-| 1721 | Classifying Depression Symptom Severity: Assessment of Speech Representations in Personalized and Generalized Machine Learning Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1435 | Towards Reference Speech Characterization for Health Applications | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1438 | The MASCFLICHT Corpus: Face Mask Type and Coverage Area Recognition from Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 721 | MMLung: Moving Closer to Practical Lung Health Estimation using Smartphones | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://mobiuk.org/2023/abstract/S5_P1_Mosuily_MMLung.pdf) |
-| 1916 | Whisper Encoder features for Infant Cry Classification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 464 | Multi-class Detection of Pathological Speech with Latent Features: How does It Perform on Unseen Data? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.15336-b31b1b.svg)](https://arxiv.org/abs/2210.15336) |
 | 2146 | Automatic Classification of Hypokinetic and Hyperkinetic Dysarthria based on GMM-Supervectors | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1771 | Prediction of the Gender-based Violence Victim Condition using Speech: What do Machine Learning Models rely on? | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Novel Transformer Models for ASR
 
