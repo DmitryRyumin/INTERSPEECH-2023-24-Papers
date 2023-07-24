@@ -911,22 +911,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 2336 | Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction | :heavy_minus_sign: | :heavy_minus_sign: |
-| 160 | Streaming Parrotron for On-device Speech-to-Speech Conversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.13761-b31b1b.svg)](https://arxiv.org/abs/2210.13761) |
+| 160 | Streaming Parrotron for On-Device Speech-to-Speech Conversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.13761-b31b1b.svg)](https://arxiv.org/abs/2210.13761) |
 | 2407 | Exploiting Emotion Information in Speaker Embeddings for Expressive Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2518 | E2E-S2S-VC: End-to-End Sequence-to-Sequence Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2403 | DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19567-b31b1b.svg)](https://arxiv.org/abs/2305.19567) |
-| 419 | Voice Conversion With Just Nearest Neighbors | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://bshall.github.io/knn-vc/) <br /> [![GitHub](https://img.shields.io/github/stars/bshall/knn-vc)](https://github.com/bshall/knn-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18975-b31b1b.svg)](https://arxiv.org/abs/2305.18975) |
+| 419 | Voice Conversion with Just Nearest Neighbors | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://bshall.github.io/knn-vc/) <br /> [![GitHub](https://img.shields.io/github/stars/bshall/knn-vc)](https://github.com/bshall/knn-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18975-b31b1b.svg)](https://arxiv.org/abs/2305.18975) |
 | 1193 | CFVC: Conditional Filtering for Controllable Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1157 | DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://dualvc.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12425-b31b1b.svg)](https://arxiv.org/abs/2305.12425) |
-| 39 | Attention-based Interactive Disentangling Network for Instance-level Emotional Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
-| 836 | ALO-VC: Any-to-any Low-latency One-shot Voice Conversion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://bohan7.github.io/ALO-VC-demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01100-b31b1b.svg)](https://arxiv.org/abs/2306.01100) |
+| 1157 | DualVC: Dual-mode Voice Conversion using Intra-Model Knowledge Distillation and Hybrid Predictive Coding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://dualvc.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12425-b31b1b.svg)](https://arxiv.org/abs/2305.12425) |
+| 39 | Attention-based Interactive Disentangling Network for Instance-Level Emotional Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
+| 836 | ALO-VC: Any-to-Any Low-Latency One-Shot Voice Conversion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://bohan7.github.io/ALO-VC-demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01100-b31b1b.svg)](https://arxiv.org/abs/2306.01100) |
 | 1978 | Evaluating and Reducing the Distance between Synthetic and Real Speech Distributions | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.16049-b31b1b.svg)](https://arxiv.org/abs/2211.16049) |
-| 2202 | Decoupling Segmental and Prosodic cues of Non-native Speech through Vector Quantization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2202 | Decoupling Segmental and Prosodic cues of Non-Native Speech through Vector Quantization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2383 | VC-T: Streaming Voice Conversion based on Neural Transducer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 191 | Emo-StarGAN: A Semi-Supervised Any-to-Many Non-Parallel Emotion Preserving Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1788 | ControlVC: Zero-Shot Voice Conversion with Time-Varying Controls on Pitch and Speed | [![GitHub](https://img.shields.io/github/stars/MelissaChen15/control-vc)](https://github.com/MelissaChen15/control-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2209.11866-b31b1b.svg)](https://arxiv.org/abs/2209.11866) |
-| 1356 | Reverberation-Controllable Voice Conversion Using Reverberation Time Estimator | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2558 | Cross-utterance Conditioned Coherent Speech Editing | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1356 | Reverberation-Controllable Voice Conversion using Reverberation Time Estimator | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2558 | Cross-Utterance Conditioned Coherent Speech Editing | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech and Language in Health: From Remote Monitoring to Medical Conversations
 
