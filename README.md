@@ -398,9 +398,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 793 | An Efficient and Noise-Robust Audiovisual Encoder for Audiovisual Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 540 | A Novel Self-training Approach for Low-Resource Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1428 | FunASR: A Fundamental End-to-End Speech Recognition Toolkit | [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/FunASR)](https://github.com/alibaba-damo-academy/FunASR) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11013-b31b1b.svg)](https://arxiv.org/abs/2305.11013) |
-| 487 | Streaming Audio-Visual Speech Recognition with Alignment Regularization |  |  |
-| 462 | SparseVSR: Lightweight and Noise Robust Visual Speech Recognition |  |  |
-| 2262 | Multimodal Speech Recognition for Language-Guided Embodied Agents |  |  |
+| 487 | Streaming Audio-Visual Speech Recognition with Alignment Regularization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02133-b31b1b.svg)](https://arxiv.org/abs/2211.02133) |
+| 462 | SparseVSR: Lightweight and Noise Robust Visual Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.04552-b31b1b.svg)](https://arxiv.org/abs/2307.04552) |
+| 2262 | Multimodal Speech Recognition for Language-Guided Embodied Agents | [![GitHub](https://img.shields.io/github/stars/Cylumn/embodied-multimodal-asr)](https://github.com/Cylumn/embodied-multimodal-asr) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14030-b31b1b.svg)](https://arxiv.org/abs/2302.14030) |
 
 ### Lexical and Language Modeling for ASR
 
