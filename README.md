@@ -1566,15 +1566,15 @@ Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 2614 | DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/Rikorose/DeepFilterNet)](https://github.com/Rikorose/DeepFilterNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08227-b31b1b.svg)](https://arxiv.org/abs/2305.08227) |
-| 2615 | Nkululeko: Machine Learning Experiments on Speaker Characteristics without Programming |  |  |
-| 2625 | Sp1NY: A Quick and Flexible Python Speech Visualization Tool |  |  |
-| 2629 | Intonation Control for Neural Text-to-Speech Synthesis with Polynomial Models of F0 |  |  |
-| 2634 | So-to-Speak: an Exploratory Platform for Investigating the Interplay between Style and Prosody in TTS |  |  |
-| 2638 | Comparing /b/ and /d/ with a Single Physical Model of the Human Vocal Tract to Visualize Droplets Produced while Speaking |  |  |
-| 2640 | Show & Tell: Voice Activity Projection and Turn-taking |  |  |
-| 2652 | Real-Time Detection of Soft Voice for Speech Enhancement |  |  |
-| 2655 | Data Augmentation for Diverse Voice Conversion in Noisy Environments |  |  |
-| 2667 | Application for Real-Time Audio-Visual Speech Enhancement |  |  |
+| 2615 | Nkululeko: Machine Learning Experiments on Speaker Characteristics without Programming | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2625 | Sp1NY: A Quick and Flexible Python Speech Visualization Tool | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2629 | Intonation Control for Neural Text-to-Speech Synthesis with Polynomial Models of F0 | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2634 | So-to-Speak: an Exploratory Platform for Investigating the Interplay between Style and Prosody in TTS | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2638 | Comparing /b/ and /d/ with a Single Physical Model of the Human Vocal Tract to Visualize Droplets Produced while Speaking | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2640 | Show & Tell: Voice Activity Projection and Turn-taking | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2652 | Real-Time Detection of Soft Voice for Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2655 | Data Augmentation for Diverse Voice Conversion in Noisy Environments | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10684-b31b1b.svg)](https://arxiv.org/abs/2305.10684) |
+| 2667 | Application for Real-Time Audio-Visual Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ---
 
