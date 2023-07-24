@@ -515,22 +515,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1236 | Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 46 | FC-MTLF: A Fine- and Coarse-grained Multi-Task Learning Framework for Cross-Lingual Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
+| 93 | Cˆ2A-SLU: Cross and Contrastive Attention for Improving ASR Robustness in Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2300 | Tri-level Joint Natural Language Understanding for Multi-turn Conversational Datasets | [![GitHub](https://img.shields.io/github/stars/adlnlp/Tri-NLU)](https://github.com/adlnlp/Tri-NLU) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17729-b31b1b.svg)](https://arxiv.org/abs/2305.17729) |
 | 2234 | Semantic Enrichment Towards Efficient Speech Representations | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1299 | Tensor Decomposition for Minimization of E2E SLU Model Toward On-device Processing | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01247-b31b1b.svg)](https://arxiv.org/abs/2306.01247) |
-| 46 | FC-MTLF: A Fine- and Coarse-grained Multi-Task Learning Framework for Cross-Lingual Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
-| 699 | DiffSLU: Knowledge Distillation Based Diffusion Model for Cross-Lingual Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1299 | Tensor Decomposition for Minimization of E2E SLU Model Toward On-Device Processing | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01247-b31b1b.svg)](https://arxiv.org/abs/2306.01247) |
+| 699 | DiffSLU: Knowledge Distillation based Diffusion Model for Cross-Lingual Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1962 | Integrating Pretrained ASR and LM to perform Sequence Generation for Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
-| 644 | Contrastive Learning Based ASR Robust Knowledge Selection For Spoken Dialogue System | :heavy_minus_sign: | :heavy_minus_sign: |
+| 644 | Contrastive Learning based ASR Robust Knowledge Selection for Spoken Dialogue System | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1859 | Unsupervised Dialogue Topic Segmentation in Hyperdimensional Space | :heavy_minus_sign: | :heavy_minus_sign: |
 | 198 | An Investigation of the Combination of Rehearsal and Knowledge Distillation in Continual Learning for Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/umbertocappellazzo/CL_SLU)](https://github.com/umbertocappellazzo/CL_SLU) | [![arXiv](https://img.shields.io/badge/arXiv-2211.08161-b31b1b.svg)](https://arxiv.org/abs/2211.08161) |
 | 1740 | Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://chenmengdx.github.io/papers/IS23-NID.pdf) |
 | 211 | Personalized Predictive ASR for Latency Reduction in Voice Assistants | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13794-b31b1b.svg)](https://arxiv.org/abs/2305.13794) |
 | 1419 | Compositional Generalization in Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2314 | Sampling bias in NLU models: Impact and Mitigation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/sampling-bias-in-nlu-models-impact-and-mitigation) |
+| 2314 | Sampling Bias in NLU Models: Impact and Mitigation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/sampling-bias-in-nlu-models-impact-and-mitigation) |
 | 1038 | 5IDER: Unified Query Rewriting for Steering, Intent Carryover, Disfluencies, Entity Carryover and Repair | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01855-b31b1b.svg)](https://arxiv.org/abs/2306.01855) |
-| 93 | Cˆ2A-SLU: Cross and Contrastive Attention for Improving ASR Robustness in Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1236 | Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1505 | WhiSLU: End-to-End Spoken Language Understanding with Whisper | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2475 | I Learned Error, I Can Fix It!: A Detector-Corrector Structure for ASR Error Calibration | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1951 | Quantifying the Perceptual Value of Lexical and Non-lexical Channels in Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarenne.github.io/is-2023/) | :heavy_minus_sign: |
@@ -557,25 +557,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 936 | Biophysically-inspired Single-channel Speech Enhancement in the Time Domain | :heavy_minus_sign: | :heavy_minus_sign: |
+| 936 | Biophysically-inspired Single-Channel Speech Enhancement in the Time Domain | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1902 | On-Device Speaker Anonymization of Acoustic Embeddings for ASR based on Flexible Location Gradient Reversal Layer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1901 | How to Construct Perfect and Worse-than-Coin-Flip Spoofing Countermeasures: A Word of Warning on Shortcut Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00044-b31b1b.svg)](https://arxiv.org/abs/2306.00044) |
 | 1287 | CleanUNet 2: A Hybrid Speech Denoising Model on Waveform and Spectrogram | :heavy_minus_sign: | :heavy_minus_sign: |
-| 521 | A Two-stage Progressive Neural Network for Acoustic Echo Cancellation | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371040399_A_Two-stage_Progressive_Neural_Network_for_Acoustic_Echo_Cancellation) |
-| 537 | An Intra-BRNN and GB-RVQ Based End-to-end Neural Audio Codec | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1066 | Real-Time Personalised Speech Enhancement Transformers with Dynamic Cross-attended Speaker Representations | :heavy_minus_sign: | :heavy_minus_sign: |
-| 280 | CFTNet: Complex-valued Frequency Transformation Network for Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
-| 623 | Feature Normalization for Fine-tuning Self-Supervised Models in Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08406-b31b1b.svg)](https://arxiv.org/abs/2306.08406) |
-| 1490 | Multi-mode Neural Speech Coding Based on Deep Generative Networks | :heavy_minus_sign: | :heavy_minus_sign: |
+| 521 | A Two-Stage Progressive Neural Network for Acoustic echo Cancellation | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371040399_A_Two-stage_Progressive_Neural_Network_for_Acoustic_Echo_Cancellation) |
+| 537 | An Intra-BRNN and GB-RVQ based End-to-End Neural Audio Codec | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1066 | Real-Time Personalised Speech Enhancement Transformers with Dynamic Cross-Attended Speaker Representations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 280 | CFTNet: Complex-Valued Frequency Transformation Network for Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 623 | Feature Normalization for Fine-Tuning Self-Supervised Models in Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08406-b31b1b.svg)](https://arxiv.org/abs/2306.08406) |
+| 1490 | Multi-Mode Neural Speech Coding based on Deep Generative Networks | :heavy_minus_sign: | :heavy_minus_sign: |
 | 751 | Streaming Dual-Path Transformer for Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1848 | Sequence-to-Sequence Multi-Modal Speech In-Painting | :heavy_minus_sign: | :heavy_minus_sign: |
 | 984 | Hybrid AHS: A Hybrid of Kalman Filter and Deep Learning for Acoustic Howling Suppression | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.02583-b31b1b.svg)](https://arxiv.org/abs/2305.02583) |
 | 551 | Differentially Private Adapters for Parameter Efficient Acoustic Modeling | [![GitHub](https://img.shields.io/github/stars/Chun-wei-Ho/Private-Speech-Adapter)](https://github.com/Chun-wei-Ho/Private-Speech-Adapter) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11360-b31b1b.svg)](https://arxiv.org/abs/2305.11360) |
 | 780 | Incorporating Ultrasound Tongue Images for Audio-Visual Speech Enhancement through Knowledge Distillation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zhengrachel.github.io/UTIforAVSE-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/ZhengRachel/UTIforAVSE-demo)](https://github.com/ZhengRachel/UTIforAVSE-demo) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14933-b31b1b.svg)](https://arxiv.org/abs/2305.14933) |
-| 2568 | Consonant-emphasis Method Incorporating Robust Consonant-section Detection to Improve Intelligibility of Bone-conducted Speech | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2568 | Consonant-Emphasis Method Incorporating Robust Consonant-Section Detection to Improve Intelligibility of Bone-Conducted Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1578 | Downstream Task-Agnostic Speech Enhancement with Self-Supervised Representation Loss | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.14723-b31b1b.svg)](https://arxiv.org/abs/2305.14723) |
-| 2305 | Perceptual Improvement of Deep Neural Network (DNN) Speech Coder Using Parametric and Nonparametric Density Models | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2437 | DeFT-AN RT: Real-time Multichannel Speech Enhancement using Dense Frequency-Time Attentive Network and Non-overlapping Synthesis Window | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2305 | Perceptual Improvement of Deep Neural Network (DNN) Speech Coder using Parametric and Nonparametric Density Models | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2437 | DeFT-AN RT: Real-Time Multichannel Speech Enhancement using Dense Frequency-Time Attentive Network and Non-overlapping Synthesis Window | :heavy_minus_sign: | :heavy_minus_sign: |
 | 365 | Iterative Autoregression: a Novel Trick to Improve your Low-latency Speech Enhancement Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.01751-b31b1b.svg)](https://arxiv.org/abs/2211.01751) |
 | 1116 | Impact of Residual Noise and Artifacts in Speech Enhancement Errors on Intelligibility of Human and Machine | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1364 | Exploring the Interactions between Target Positive and Negative Information for Acoustic Echo Cancellation | :heavy_minus_sign: | :heavy_minus_sign: |
