@@ -565,29 +565,29 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1578 | Downstream Task-Agnostic Speech Enhancement with Self-Supervised Representation Loss | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.14723-b31b1b.svg)](https://arxiv.org/abs/2305.14723) |
 | 2305 | Perceptual Improvement of Deep Neural Network (DNN) Speech Coder using Parametric and Nonparametric Density Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2437 | DeFT-AN RT: Real-Time Multichannel Speech Enhancement using Dense Frequency-Time Attentive Network and Non-overlapping Synthesis Window | :heavy_minus_sign: | :heavy_minus_sign: |
-| 365 | Iterative Autoregression: a Novel Trick to Improve your Low-latency Speech Enhancement Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.01751-b31b1b.svg)](https://arxiv.org/abs/2211.01751) |
-| 1116 | Impact of Residual Noise and Artifacts in Speech Enhancement Errors on Intelligibility of Human and Machine | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1376 | PCNN: A Lightweight Parallel Conformer Neural Network for Efficient Monaural Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1364 | Exploring the Interactions between Target Positive and Negative Information for Acoustic Echo Cancellation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1084 | A Multi-dimensional Deep Structured State Space Approach to Speech Enhancement using Small-footprint Models | [![GitHub](https://img.shields.io/github/stars/Kuray107/S4ND-U-Net_speech_enhancement)](https://github.com/Kuray107/S4ND-U-Net_speech_enhancement) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00331-b31b1b.svg)](https://arxiv.org/abs/2306.00331) |
+| 365 | Iterative Autoregression: a Novel Trick to Improve your Low-Latency Speech Enhancement Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.01751-b31b1b.svg)](https://arxiv.org/abs/2211.01751) |
+| 1084 | A Multi-Dimensional Deep Structured State Space Approach to Speech Enhancement using Small-Footprint Models | [![GitHub](https://img.shields.io/github/stars/Kuray107/S4ND-U-Net_speech_enhancement)](https://github.com/Kuray107/S4ND-U-Net_speech_enhancement) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00331-b31b1b.svg)](https://arxiv.org/abs/2306.00331) |
 | 705 | Domain Adaptation for Speech Enhancement in a Large Domain Gap | :heavy_minus_sign: | :heavy_minus_sign: |
 | 456 | SCP-GAN: Self-Correcting Discriminator Optimization for Training Consistency Preserving Metric GAN on Speech Enhancement Tasks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.14474-b31b1b.svg)](https://arxiv.org/abs/2210.14474) |
 | 339 | A Mask Free Neural Network for Monaural Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/ioyy900205/MFNet)](https://github.com/ioyy900205/MFNet) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04286-b31b1b.svg)](https://arxiv.org/abs/2306.04286) |
 | 1548 | A Training and Inference Strategy using Noisy and Enhanced Speech as Target for Speech Enhancement without Clean Speech | [![GitHub](https://img.shields.io/github/stars/Sinica-SLAM/Ny-EnhTT)](https://github.com/Sinica-SLAM/Ny-EnhTT) | [![arXiv](https://img.shields.io/badge/arXiv-2210.15368-b31b1b.svg)](https://arxiv.org/abs/2210.15368) |
-| 2418 | A Simple RNN Model for Lightweight, Low-compute and Low-latency Multichannel Speech Enhancement in the Time Domain | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1433 | High Fidelity Speech Enhancement with Band-split RNN | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.00406-b31b1b.svg)](https://arxiv.org/abs/2212.00406) |
+| 2418 | A Simple RNN Model for Lightweight, Low-Compute and Low-Latency Multichannel Speech Enhancement in the Time Domain | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1433 | High Fidelity Speech Enhancement with Band-Split RNN | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.00406-b31b1b.svg)](https://arxiv.org/abs/2212.00406) |
 | 218 | Focus on the Sound around You: Monaural Target Speaker Extraction via Distance and Speaker Information | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://thuhcsi.github.io/interspeech2023-NS-Extractor/) <br /> [![GitHub](https://img.shields.io/github/stars/thuhcsi/interspeech2023-NS-Extractor)](https://github.com/thuhcsi/interspeech2023-NS-Extractor) | [![arXiv](https://img.shields.io/badge/arXiv-2306.16241-b31b1b.svg)](https://arxiv.org/abs/2306.16241) |
 | 882 | DFSNet: A Steerable Neural Beamformer Invariant to Microphone Array Configuration for Real-Time, Low-Latency Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.13407-b31b1b.svg)](https://arxiv.org/abs/2302.13407) |
-| 1323 | Speaker-Aware Anti-spoofing | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.01126-b31b1b.svg)](https://arxiv.org/abs/2303.01126) |
-| 1376 | PCNN: A Lightweight Parallel Conformer Neural Network for Efficient Monaural Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1323 | Speaker-Aware Anti-Spoofing | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.01126-b31b1b.svg)](https://arxiv.org/abs/2303.01126) |
+| 1116 | Impact of Residual Noise and Artifacts in Speech Enhancement Errors on Intelligibility of Human and Machine | :heavy_minus_sign: | :heavy_minus_sign: |
 | 799 | EffCRN: An Efficient Convolutional Recurrent Network for High-Performance Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02778-b31b1b.svg)](https://arxiv.org/abs/2306.02778) |
 | 1795 | HAD-ANC: A Hybrid System Comprising an Adaptive Filter and Deep Neural Networks for Active Noise Control | :heavy_minus_sign: | :heavy_minus_sign: |
 | 886 | MSAF: A Multiple Self-Attention Field Method for Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2302 | Ultra Dual-Path Compression For Joint Echo Cancellation And Noise Suppression | :heavy_minus_sign: | :heavy_minus_sign: |
-| 971 | ABC-KD: Attention-Based-Compression Knowledge Distillation for Deep Learning-Based Noise Suppression | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16665-b31b1b.svg)](https://arxiv.org/abs/2305.16665) |
-| 1532 | PLCMOS – a Data-driven Non-intrusive Metric for the Evaluation of Packet Loss Concealment Algorithms | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/PLC-Challenge/tree/main/PLCMOS) <br /> [![PyPI](https://img.shields.io/pypi/v/speechmos)](https://pypi.org/project/speechmos/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15127-b31b1b.svg)](https://arxiv.org/abs/2305.15127) |
-| 1910 | Multi-Dataset Co-Training with Sharpness-Aware Optimization for Audio Anti-spoofing | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19953-b31b1b.svg)](https://arxiv.org/abs/2305.19953) |
+| 2302 | Ultra Dual-Path Compression for Joint echo Cancellation and Noise Suppression | :heavy_minus_sign: | :heavy_minus_sign: |
+| 971 | ABC-KD: Attention-based-Compression Knowledge Distillation for Deep Learning-based Noise Suppression | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16665-b31b1b.svg)](https://arxiv.org/abs/2305.16665) |
+| 1532 | PLCMOS – a Data-Driven Non-Intrusive Metric for the Evaluation of Packet Loss Concealment Algorithms | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/PLC-Challenge/tree/main/PLCMOS) <br /> [![PyPI](https://img.shields.io/pypi/v/speechmos)](https://pypi.org/project/speechmos/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15127-b31b1b.svg)](https://arxiv.org/abs/2305.15127) |
+| 1910 | Multi-Dataset Co-training with Sharpness-aware Optimization for Audio Anti-Spoofing | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19953-b31b1b.svg)](https://arxiv.org/abs/2305.19953) |
 | 1445 | Reducing the Prior Mismatch of Stochastic Differential Equations for Diffusion-based Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/sp-uhh/sgmse-bbed)](https://github.com/sp-uhh/sgmse-bbed) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14748-b31b1b.svg)](https://arxiv.org/abs/2302.14748) |
-| 901 | Complex-valued Neural Networks for Voice Anti-spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
+| 901 | Complex-valued Neural Networks for Voice Anti-Spoofing | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1028 | DeepVQE: Real Time Deep Voice Quality Enhancement for Joint Acoustic echo Cancellation, Noise Suppression and Dereverberation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03177-b31b1b.svg)](https://arxiv.org/abs/2306.03177) |
 | 1547 | Diffiner: A Versatile Diffusion-based Generative Refiner for Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.17287-b31b1b.svg)](https://arxiv.org/abs/2210.17287) |
 | 1642 | HD-DEMUCS: General Speech Restoration with Heterogeneous Decoders | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01411-b31b1b.svg)](https://arxiv.org/abs/2306.01411) |
@@ -597,13 +597,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1890 | Self-Supervised Learning with Diffusion based Multichannel Speech Enhancement for Speaker Verification under Noisy Conditions | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.02244-b31b1b.svg)](https://arxiv.org/abs/2307.02244) |
 | 1341 | Two-Stage Voice Anonymization for Enhanced Privacy | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16069-b31b1b.svg)](https://arxiv.org/abs/2306.16069) |
 | 2055 | Personalized Dereverberation of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 580 | Weighted Von Mises Distribution-based Loss Function for Real-time STFT Phase Reconstruction using DNN | :heavy_minus_sign: | :heavy_minus_sign: |
+| 580 | Weighted Von Mises Distribution-based Loss Function for Real-Time STFT Phase Reconstruction using DNN | :heavy_minus_sign: | :heavy_minus_sign: |
 | 272 | Deep Multi-Frame Filtering for Hearing Aids | [![GitHub](https://img.shields.io/github/stars/rikorose/deepfilternet)](https://github.com/rikorose/deepfilternet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08225-b31b1b.svg)](https://arxiv.org/abs/2305.08225) |
 | 1232 | Aligning Speech Enhancement for Improving Downstream Classification Performance | :heavy_minus_sign: | :heavy_minus_sign: |
-| 420 | DNN-based Parameter Estimation for MVDR Beamforming and Post-filtering | :heavy_minus_sign: | :heavy_minus_sign: |
-| 675 | FRA-RIR: Fast Random Approximation of the Image-source | [![GitHub](https://img.shields.io/github/stars/tencent-ailab/FRA-RIR)](https://github.com/tencent-ailab/FRA-RIR) | [![arXiv](https://img.shields.io/badge/arXiv-2208.04101-b31b1b.svg)](https://arxiv.org/abs/2208.04101) |
+| 420 | DNN-based Parameter Estimation for MVDR Beamforming and Post-Filtering | :heavy_minus_sign: | :heavy_minus_sign: |
+| 675 | FRA-RIR: Fast Random Approximation of the Image-Source | [![GitHub](https://img.shields.io/github/stars/tencent-ailab/FRA-RIR)](https://github.com/tencent-ailab/FRA-RIR) | [![arXiv](https://img.shields.io/badge/arXiv-2208.04101-b31b1b.svg)](https://arxiv.org/abs/2208.04101) |
 | 686 | Rethinking Complex-Valued Deep Neural Networks for Monaural Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.04320-b31b1b.svg)](https://arxiv.org/abs/2301.04320) |
-| 186 | Harmonic Enhancement using Learnable Comb Filter for Light-weight Full-band Speech Enhancement Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00812-b31b1b.svg)](https://arxiv.org/abs/2306.00812) |
+| 186 | Harmonic Enhancement using Learnable Comb Filter for Light-Weight Full-band Speech Enhancement Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00812-b31b1b.svg)](https://arxiv.org/abs/2306.00812) |
 
 ### Paralinguistics
 
@@ -1034,8 +1034,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1832 | LanSER: Language-Model Supported Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 463 | Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1591 | Emotion Label Encoding using Word Embeddings for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2444 | Discrimination of the Different Intents Carried by the Same Text Through Integrating Multimodal Information | :heavy_minus_sign: | :heavy_minus_sign: |
-| 510 | Meta-domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-sentiment Predictions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2444 | Discrimination of the Different Intents Carried by the Same Text through Integrating Multimodal Information | :heavy_minus_sign: | :heavy_minus_sign: |
+| 510 | Meta-Domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-Sentiment Predictions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 413 | SWRR: Feature Map Classifier Based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Phonetics, Phonology, and Prosody
