@@ -724,7 +724,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 619 | Rethinking Transfer and Auxiliary Learning for Improving Audio Captioning Transformer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1468 | Boosting Punctuation Restoration with Data Generation and Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 695 | J-ToneNet: A Transformer-based Encoding Network for Improving Tone Classification in Continuous Speech via F0 Sequences | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1152 | Towards Cross-language Prosody Transfer for Dialog | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1152 | Towards Cross-Language Prosody Transfer for Dialog | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2506 | Strategies for Improving Low Resource Speech to Text Translation Relying on Pre-trained ASR Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00208-b31b1b.svg)](https://arxiv.org/abs/2306.00208) |
  | 1980 | ITALIC: An Italian Intent Classification Dataset | [![GitHub](https://img.shields.io/github/stars/RiTA-nlp/ITALIC)](https://github.com/RiTA-nlp/ITALIC) <br /> [![Zenodo](https://img.shields.io/badge/Zenodo-dataset-FFD1BF.svg)](https://zenodo.org/record/8040649) | [![arXiv](https://img.shields.io/badge/arXiv-2306.08502-b31b1b.svg)](https://arxiv.org/abs/2306.08502) |
 | 1778 | Perceptual and Task-Oriented Assessment of a Semantic Metric for ASR Evaluation | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -734,7 +734,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2473 | Crowdsource-based Validation of the Audio Cocktail as a Sound Browsing Tool | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1675 | PunCantonese: A Benchmark Corpus for Low-Resource Cantonese Punctuation Restoration from Speech Transcripts | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1358 | Speech-to-Face Conversion using Denoising Diffusion Probabilistic Models | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2255 | Inter-connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16897-b31b1b.svg)](https://arxiv.org/abs/2305.16897) |
+| 2255 | Inter-Connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16897-b31b1b.svg)](https://arxiv.org/abs/2305.16897) |
 | 1068 | How Does Pretraining Improve Discourse-Aware Translation? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19847-b31b1b.svg)](https://arxiv.org/abs/2305.19847) |
 | 1135 | PATCorrect: Non-autoregressive Phoneme-augmented Transformer for ASR Error Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.05040-b31b1b.svg)](https://arxiv.org/abs/2302.05040) |
 | 161 | Model-assisted Lexical Tone Evaluation of Three-year-old Chinese-speaking Children by also Considering Segment Production | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -966,11 +966,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 2228 | Conmer: Streaming Conformer without Self-attention for Interactive Voice Assistants | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/conmer-streaming-conformer-without-self-attention-for-interactive-voice-assistants) |
-| 1255 | Intra-ensemble: A New Method for Combining Intermediate Outputs in Transformer-based Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2228 | Conmer: Streaming Conformer without Self-Attention for Interactive Voice Assistants | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/conmer-streaming-conformer-without-self-attention-for-interactive-voice-assistants) |
+| 1255 | Intra-Ensemble: A New Method for Combining Intermediate Outputs in Transformer-based Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1194 | A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11073-b31b1b.svg)](https://arxiv.org/abs/2305.11073) |
 | 1611 | HyperConformer: Multi-head HyperMixer for Efficient Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18281-b31b1b.svg)](https://arxiv.org/abs/2305.18281) |
-| 893 | Memory-augmented Conformer for Improved End-To-End Long-form ASR | :heavy_minus_sign: | :heavy_minus_sign: |
+| 893 | Memory-Augmented Conformer for Improved End-To-End Long-form ASR | :heavy_minus_sign: | :heavy_minus_sign: |
 | 552 | Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.13307-b31b1b.svg)](https://arxiv.org/abs/2306.13307) |
 
 ### Speaker Recognition
@@ -992,11 +992,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 97 | Phonetic-assisted Multi-Target Units Modeling for Improving Conformer-Transducer ASR System | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.01571-b31b1b.svg)](https://arxiv.org/abs/2211.01571) |
-| 1338 | UniSplice: Universal Cross-Lingual Data Splicing for Low-Resource ASR | :heavy_minus_sign: | :heavy_minus_sign: |
-| 772 | Allophant: Cross-lingual Phoneme Recognition with Articulatory Attributes | [![GitHub](https://img.shields.io/github/stars/kgnlp/allophant)](https://github.com/kgnlp/allophant) [![GitHub](https://img.shields.io/github/stars/Aariciah/allophoible)](https://github.com/Aariciah/allophoible) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04306-b31b1b.svg)](https://arxiv.org/abs/2306.04306) |
 | 1630 | Fast and Efficient Multilingual Self-Supervised Pre-training for Low-Resource Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1061 | Comparison of Multilingual Self-Supervised and Weakly-Supervised Speech Pre-Training for Adaptation to Unseen Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2305.12606) |
+| 1338 | UniSplice: Universal Cross-Lingual Data Splicing for Low-Resource ASR | :heavy_minus_sign: | :heavy_minus_sign: |
+| 772 | Allophant: Cross-Lingual Phoneme Recognition with Articulatory Attributes | [![GitHub](https://img.shields.io/github/stars/kgnlp/allophant)](https://github.com/kgnlp/allophant) [![GitHub](https://img.shields.io/github/stars/Aariciah/allophoible)](https://github.com/Aariciah/allophoible) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04306-b31b1b.svg)](https://arxiv.org/abs/2306.04306) |
+| 97 | Phonetic-assisted Multi-Target Units Modeling for Improving Conformer-Transducer ASR System | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.01571-b31b1b.svg)](https://arxiv.org/abs/2211.01571) |
+| 1061 | Comparison of Multilingual Self-Supervised and Weakly-Supervised Speech Pre-training for Adaptation to Unseen Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2305.12606) |
 | 1444 | DistilXLSR: A Light Weight Cross-Lingual Speech Representation Model | [![GitHub](https://img.shields.io/github/stars/backspacetg/distilXLSR)](https://github.com/backspacetg/distilXLSR) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01303-b31b1b.svg)](https://arxiv.org/abs/2306.01303) |
 
 ### Voice Conversion
@@ -1004,9 +1004,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 251 | Emotional Voice Conversion with Semi-Supervised Generative Modeling |:heavy_minus_sign:| :heavy_minus_sign: |
-| 817 | Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation |:heavy_minus_sign: | :heavy_minus_sign: |
-| 215 | S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1508 | Flow-VAE VC: End-to-End Flow Framework with Contrastive Loss for Zero-shot Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
+| 817 | Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-Shot Speaker Adaptation |:heavy_minus_sign: | :heavy_minus_sign: |
+| 215 | S2CD-VC: Self-Heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1508 | Flow-VAE VC: End-to-End Flow Framework with Contrastive Loss for Zero-Shot Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1602 | Automatic Speech Disentanglement for Voice Conversion using Rank Module and Speech Augmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hhhuazi.github.io) | [![arXiv](https://img.shields.io/badge/arXiv-2306.12259-b31b1b.svg)](https://arxiv.org/abs/2306.12259) |
 | 2298 | End-to-End Zero-Shot Voice Conversion with Location-Variable Convolutions | [![GitHub](https://img.shields.io/github/stars/wonjune-kang/lvc-vc)](https://github.com/wonjune-kang/lvc-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09784-b31b1b.svg)](https://arxiv.org/abs/2205.09784) |
 
