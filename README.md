@@ -1022,7 +1022,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03443-b31b1b.svg)](https://arxiv.org/abs/2306.03443) |
 | 1574 | A Pipeline to Evaluate the Effects of Noise on Machine Learning Detection of Laryngeal Cancer | [![GitHub](https://img.shields.io/github/stars/mary-paterson/Interspeech2023-EvaluationPipeline)](https://github.com/mary-paterson/Interspeech2023-EvaluationPipeline) | :heavy_minus_sign: |
 | 2474 | ReCLR: Reference-Enhanced Contrastive Learning of Audio Representation for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 234 | Automated Multiple Sclerosis Screening Based on Encoded Speech Representations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 234 | Automated Multiple Sclerosis Screening based on Encoded Speech Representations | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1934 | Cross-Lingual Features for Alzheimer's Dementia Detection from Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1653 | Careful Whisper - Leveraging Advances in Automatic Speech Recognition for Robust and Interpretable Aphasia Subtype Classification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1868 | Behavioral Analysis of Pathological Speaker Embeddings of Patients During Oncological Treatment of Oral Cancer | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1090,9 +1090,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1087 | Speech Self-Supervised Representation Bench-marking: Are We Doing it Right? | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/salah-zaiem/speechbrain-2/tree/develop/recipes/SSL_benchmark) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00452-b31b1b.svg)](https://arxiv.org/abs/2306.00452) |
-| 383 | An Extension of Disentanglement Metrics and Its Application to Voice | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2131 | An Information-Theoretic Analysis of Self-supervised Discrete Representations of Speech | [![GitHub](https://img.shields.io/github/stars/uds-lsv/phone2unit)](https://github.com/uds-lsv/phone2unit) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02405-b31b1b.svg)](https://arxiv.org/abs/2306.02405) |
+| 1087 | Speech Self-Supervised Representation Bench-Marking: Are We Doing it Right? | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/salah-zaiem/speechbrain-2/tree/develop/recipes/SSL_benchmark) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00452-b31b1b.svg)](https://arxiv.org/abs/2306.00452) |
+| 383 | An Extension of Disentanglement Metrics and its Application to Voice | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2131 | An Information-Theoretic Analysis of Self-Supervised Discrete Representations of Speech | [![GitHub](https://img.shields.io/github/stars/uds-lsv/phone2unit)](https://github.com/uds-lsv/phone2unit) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02405-b31b1b.svg)](https://arxiv.org/abs/2306.02405) |
 | 1823 | SpeechGLUE: How Well Can Self-Supervised Speech Models Capture Linguistic Knowledge? | [![GitHub](https://img.shields.io/github/stars/ashi-ta/speechGLUE)](https://github.com/ashi-ta/speechGLUE) | [![arXiv](https://img.shields.io/badge/arXiv-2306.08374-b31b1b.svg)](https://arxiv.org/abs/2306.08374) |
 | 1418 | Comparison of GIF- and SSL-based Features in Pathological Voice Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1617 | What is Learnt by the LEArnable Front-end (LEAF)? Adapting Per-Channel Energy Normalisation (PCEN) to Noisy Conditions | :heavy_minus_sign:| :heavy_minus_sign: |
@@ -1102,11 +1102,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1640 | End-to-End Joint Target and Non-Target Speakers ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02273-b31b1b.svg)](https://arxiv.org/abs/2306.02273) |
-| 144 | Improving Frame-level Classifier for Word Timings with Non-peaky CTC in End-to-End Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07949-b31b1b.svg)](https://arxiv.org/abs/2306.07949) |
-| 564 | Joint Autoregressive Modeling of End-to-End Multi-Talker Overlapped Speech Recognition and Utterance-level Timestamp Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
+| 144 | Improving Frame-Level Classifier for Word Timings with Non-peaky CTC in End-to-End Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07949-b31b1b.svg)](https://arxiv.org/abs/2306.07949) |
+| 564 | Joint Autoregressive Modeling of End-to-End Multi-Talker Overlapped Speech Recognition and Utterance-Level Timestamp Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
 | 101 | Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/DPSL-ASR)](https://github.com/YUCHEN005/DPSL-ASR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.14838-b31b1b.svg)](https://arxiv.org/abs/2203.14838) |
-| 906 | Text-only Domain Adaptation for End-to-End ASR using Integrated Text-to-mel-Spectrogram Generator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.14036-b31b1b.svg)](https://arxiv.org/abs/2302.14036) |
-| 142 | Multi-pass Training and Cross-information Fusion for Low-resource End-to-end Accented Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2306.11309) |
+| 906 | Text-Only Domain Adaptation for End-to-End ASR using Integrated Text-to-Mel-Spectrogram Generator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.14036-b31b1b.svg)](https://arxiv.org/abs/2302.14036) |
+| 142 | Multi-Pass Training and Cross-Information Fusion for Low-Resource End-to-End Accented Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2306.11309) |
 
 ### Spoken Language Understanding, Summarization, and Information Retrieval
 
@@ -1124,10 +1124,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 438 | ProsAudit, a Prosodic Benchmark for Self-Supervised Speech Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.12057-b31b1b.svg)](https://arxiv.org/abs/2302.12057) |
-| 1390 | CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning | [![GitHub](https://img.shields.io/github/stars/mct10/CoBERT)](https://github.com/mct10/CoBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2210.04062-b31b1b.svg)](https://arxiv.org/abs/2210.04062) |
-| 847 | Self-supervised Fine-tuning for Improved Content Representations by Speaker-invariant Clustering | [![GitHub](https://img.shields.io/github/stars/vectominist/spin)](https://github.com/vectominist/spin) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11072-b31b1b.svg)](https://arxiv.org/abs/2305.11072) |
-| 871 | Self-supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12464-b31b1b.svg)](https://arxiv.org/abs/2305.12464) |
-| 1862 | Evaluating Context-invariance in Unsupervised Speech Representations | [![GitHub](https://img.shields.io/github/stars/perceptimatic/irpam2023)](https://github.com/perceptimatic/irpam2023) | [![arXiv](https://img.shields.io/badge/arXiv-2210.15775-b31b1b.svg)](https://arxiv.org/abs/2210.15775) |
+| 871 | Self-Supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12464-b31b1b.svg)](https://arxiv.org/abs/2305.12464) |
+| 1862 | Evaluating Context-Invariance in Unsupervised Speech Representations | [![GitHub](https://img.shields.io/github/stars/perceptimatic/irpam2023)](https://github.com/perceptimatic/irpam2023) | [![arXiv](https://img.shields.io/badge/arXiv-2210.15775-b31b1b.svg)](https://arxiv.org/abs/2210.15775) |
+| 1390 | CoBERT: Self-Supervised Speech Representation Learning through Code Representation Learning | [![GitHub](https://img.shields.io/github/stars/mct10/CoBERT)](https://github.com/mct10/CoBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2210.04062-b31b1b.svg)](https://arxiv.org/abs/2210.04062) |
+| 847 | Self-Supervised Fine-tuning for Improved Content Representations by Speaker-Invariant Clustering | [![GitHub](https://img.shields.io/github/stars/vectominist/spin)](https://github.com/vectominist/spin) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11072-b31b1b.svg)](https://arxiv.org/abs/2305.11072) |
 | 359 | Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis: Representation Learning
