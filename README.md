@@ -344,7 +344,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 757 | ASR for Low Resource and Multilingual Noisy Code-Mixed Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 390 | Accurate and Reliable Confidence Estimation Based on Non-Autoregressive End-to-End Speech Recognition System | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10680-b31b1b.svg)](https://arxiv.org/abs/2305.10680) |
 | 737 | Combining Multilingual Resources and Models to Develop State-of-the-Art E2E ASR for Swedish | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1171 | Two Stage Contextual Word Filtering for Context bias in Unified Streaming and Non-streaming Transducer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.06735-b31b1b.svg)](https://arxiv.org/abs/2301.06735) |
+| 1171 | Two Stage Contextual Word Filtering for Context bias in Unified Streaming and Non-Streaming Transducer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.06735-b31b1b.svg)](https://arxiv.org/abs/2301.06735) |
 | 1867 | Towards Continually Learning New Languages | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1616 | N-best T5: Robust ASR Error Correction using Multiple Input Hypotheses and Constrained Decoding Space | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.00456-b31b1b.svg)](https://arxiv.org/abs/2303.00456) |
 | 1432 | SememeASR: Boosting Performance of End-to-End Speech Recognition against Domain and Long-Tailed Data Shift with Sememe Semantic Knowledge | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -352,12 +352,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1469 | CoMFLP: Correlation Measure based Fast Search on ASR Layer Pruning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1337 | Exploration on HuBERT with Multiple Resolution | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01084-b31b1b.svg)](https://arxiv.org/abs/2306.01084) |
 | 2045 | Quantization-aware and Tensor-compressed Training of Transformers for Natural Language Understanding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01076-b31b1b.svg)](https://arxiv.org/abs/2306.01076) |
-| 2355 | Word-level Confidence Estimation for CTC Models | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2235 | Multilingual Contextual Adapters to Improve Custom Word Recognition in Low-resource Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.00759-b31b1b.svg)](https://arxiv.org/abs/2307.00759) |
+| 2355 | Word-Level Confidence Estimation for CTC Models | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2235 | Multilingual Contextual Adapters to Improve Custom Word Recognition in Low-Resource Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.00759-b31b1b.svg)](https://arxiv.org/abs/2307.00759) |
 | 614 | Unsupervised Active Learning: Optimizing Labeling Cost-Effectiveness for Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1303 | 4D ASR: Joint modeling of CTC, Attention, Transducer, and Mask-Predict Decoders | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.10818-b31b1b.svg)](https://arxiv.org/abs/2212.10818) |
+| 1303 | 4D ASR: Joint Modeling of CTC, Attention, Transducer, and Mask-Predict Decoders | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.10818-b31b1b.svg)](https://arxiv.org/abs/2212.10818) |
 | 1086 | Neural Model Reprogramming with Similarity Based Mapping for Low-Resource Spoken Command Recognition | [![GitHub](https://img.shields.io/github/stars/dodohow1011/SpeechAdvReprogram)](https://github.com/dodohow1011/SpeechAdvReprogram) | [![arXiv](https://img.shields.io/badge/arXiv-2110.03894-b31b1b.svg)](https://arxiv.org/abs/2110.03894) |
-| 262 | Language-specific Boundary Learning for Improving Mandarin-English Code-switching Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 262 | Language-Specific Boundary Learning for Improving Mandarin-English Code-Switching Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 480 | Mixture-of-Expert Conformer for Streaming Multilingual ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15663-b31b1b.svg)](https://arxiv.org/abs/2305.15663) |
 | 1665 | Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switch-board Corpus | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2544 | Compressed MoE ASR Model Based on Knowledge Distillation and Quantization | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -866,23 +866,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1446 | MERLIon CCS Challenge: A English-Mandarin Code-Switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
 | 1314 | Mutual Information-based Embedding Decoupling for Generalizable Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1206 | TO-Rawnet: Improving RawNet with TCN and Orthogonal Regularization for Fake Audio Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13701-b31b1b.svg)](https://arxiv.org/abs/2305.13701) |
-| 777 | ECAPA++: Fine-grained Deep Embedding Learning for TDNN Based Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
+| 777 | ECAPA++: Fine-grained Deep Embedding Learning for TDNN based Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 100 | Fooling Speaker Identification Systems with Adversarial Background Music | :heavy_minus_sign: | :heavy_minus_sign: |
-| 574 | Target Active Speaker Detection with Audio-visual Cues | [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/abs/2305.12831) |
+| 574 | Target Active Speaker Detection with Audio-Visual Cues | [![GitHub](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet)](https://github.com/Jiang-Yidi/TS-TalkNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12831-b31b1b.svg)](https://arxiv.org/abs/2305.12831) |
 | 2401 | Improving End-to-End Neural Diarization using Conversational Summary Representations | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.13863-b31b1b.svg)](https://arxiv.org/abs/2306.13863) |
 | 2039 | Phase Perturbation Improves Channel Robustness for Speech Spoofing Countermeasures | [![GitHub](https://img.shields.io/github/stars/yongyizang/PhaseAntispoofing_INTERSPEECH)](https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03389-b31b1b.svg)](https://arxiv.org/abs/2306.03389) |
 | 210 | Improving Training Datasets for Resource-constrained Speaker Recognition Neural Networks | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1498 | Instance-based Temporal Normalization for Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 881 | On the Robustness of Wav2Vec 2.0 based Speaker Recognition Systems | :heavy_minus_sign: | :heavy_minus_sign: |
-| 697 | P-vectors: A Parallel-coupled TDNN/Transformer Network for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/xyw7/pvector)](https://github.com/xyw7/pvector) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14778-b31b1b.svg)](https://arxiv.org/abs/2305.14778) |
+| 697 | P-Vectors: A Parallel-coupled TDNN/Transformer Network for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/xyw7/pvector)](https://github.com/xyw7/pvector) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14778-b31b1b.svg)](https://arxiv.org/abs/2305.14778) |
 | 844 | Reversible Neural Networks for Memory-Efficient Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 452 | Robust Training for Speaker Verification against Noisy Labels | [![GitHub](https://img.shields.io/github/stars/PunkMale/OR-Gate)](https://github.com/PunkMale/OR-Gate) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12080-b31b1b.svg)](https://arxiv.org/abs/2211.12080) |
 | 1404 | Self-Distillation into Self-Attention Heads for Improving Transformer-based End-to-End Neural Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1217 | Build a SRE Challenge System: Lessons from VoxSRC 2022 and CNSRC 2022 | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00815-b31b1b.svg)](https://arxiv.org/abs/2211.00815) |
 | 1648 | Describing the Phonetics in the Underlying Speech Attributes for Deep and Interpretable Speaker Recognition | [![GitHub](https://img.shields.io/github/stars/LIAvignon/BA-LR)](https://github.com/LIAvignon/BA-LR) | :heavy_minus_sign: |
-| 1214 | Range-Based Equal Error Rate for Spoof Localization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17739-b31b1b.svg)](https://arxiv.org/abs/2305.17739) |
-| 1888 | Exploring the English Accent-independent Features for Speech Emotion Recognition using Filter and Wrapper-based Methods for Feature Selection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 205 | Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1214 | Range-based Equal Error Rate for Spoof Localization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17739-b31b1b.svg)](https://arxiv.org/abs/2305.17739) |
+| 1888 | Exploring the English Accent-Independent Features for Speech Emotion Recognition using Filter and Wrapper-based Methods for Feature Selection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 205 | Powerset Multi-Class Cross Entropy Loss for Neural Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 394 | A Method of Audio-Visual Person Verification by Mining Connections between Time Series | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks | :heavy_minus_sign: | :heavy_minus_sign: |
 | 605 | One-Step Knowledge Distillation and Fine-Tuning in using Large Pre-trained Self-Supervised Learning Models for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/jungwoo4021/OS-KDFT)](https://github.com/jungwoo4021/OS-KDFT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17394-b31b1b.svg)](https://arxiv.org/abs/2305.17394) |
@@ -1135,9 +1135,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1571 | Adversarial Learning of Intermediate Acoustic Feature for End-to-End Lightweight Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2313 | Adapter-Based Extension of Multi-Speaker Text-To-Speech Model for New Speakers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.00585) |
+| 2313 | Adapter-based Extension of Multi-Speaker Text-To-Speech Model for New Speakers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.00585) |
 | 2574 | SALTTS: Leveraging Self-Supervised Speech Representations for improved Text-to-Speech Synthesis | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2326 | UnitSpeech: Speaker-adaptive Speech Synthesis with Untranscribed Data | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://unitspeech.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/gmltmd789/UnitSpeech)](https://github.com/gmltmd789/UnitSpeech) | [![arXiv](https://img.shields.io/badge/arXiv-2306.16083-b31b1b.svg)](https://arxiv.org/abs/2306.16083) |
+| 2326 | UnitSpeech: Speaker-Adaptive Speech Synthesis with Untranscribed Data | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://unitspeech.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/gmltmd789/UnitSpeech)](https://github.com/gmltmd789/UnitSpeech) | [![arXiv](https://img.shields.io/badge/arXiv-2306.16083-b31b1b.svg)](https://arxiv.org/abs/2306.16083) |
 | 677 | LightVoc: an Upsampling-Free GAN Vocoder based on Conformer and Inverse Short-time Fourier Transform | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1095 | ChatGPT-EDSS: Empathetic Dialogue Speech Synthesis Trained from ChatGPT-derived Context Word Embeddings | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarulab-speech.github.io/demo_ChatGPT_EDSS/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13724-b31b1b.svg)](https://arxiv.org/abs/2305.13724) |
 
@@ -1148,8 +1148,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1330 | Human Transcription Quality Improvement | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/human-transcription-quality-improvement) |
 | 1604 | The Effect of Masking Noise on Listeners' Spectral Tilt Preferences | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1967 | The Effect of Whistled Vowels on Whistled Word Categorization for Naive Listeners | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1481 | Automatic Deep Neural Network-Based Segmental Pronunciation Error Detection of L2 English Speech (L1 Bengali) | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1662 | The Effect of Stress on Mandarin Tonal Perception in Continuous Speech for Spanish-speaking Learners | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1481 | Automatic Deep Neural Network-based Segmental Pronunciation Error Detection of L2 English Speech (L1 Bengali) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1662 | The Effect of Stress on Mandarin Tonal Perception in Continuous Speech for Spanish-Speaking Learners | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1918 | Combining Acoustic and Aerodynamic Data Collection: A Perceptual Evaluation of Acoustic Distortions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 953 | Estimating Virtual Targets for Lingual Stop Consonants using General Tau Theory | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1931 | Using Random Forests to Classify Language as a Function of Syllable Timing in Two Groups: Children with Cochlear Implants and with Normal Hearing | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1158,9 +1158,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2077 | Investigating the Perception Production Link through Perceptual Adaptation and Phonetic Convergence | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1385 | Emotion Prompting for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1196 | Speech-in-Speech Recognition is Modulated by Familiarity to Dialect | :heavy_minus_sign: | :heavy_minus_sign: |
-| 673 | BASEN: Time-Domain Brain-Assisted Speech Enhancement Network with Convolutional Cross Attention in Multi-talker Conditions | [![GitHub](https://img.shields.io/github/stars/jzhangU/Basen)](https://github.com/jzhangU/Basen) | [![arXiv](https://img.shields.io/badge/arXiv-2305.09994-b31b1b.svg)](https://arxiv.org/abs/2305.09994) |
-| 2046 | Are Retroflex-to-dental Sibilant Substitutions in Polish Children's Speech an Example of a Covert Contrast? A Preliminary Acoustic Study | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1123 | First Language Effects on Second Language Perception: Evidence from English Low-vowel Nasal Sequences Perceived by L1 Mandarin Chinese Listeners | :heavy_minus_sign: | :heavy_minus_sign: |
+| 673 | BASEN: Time-Domain Brain-Assisted Speech Enhancement Network with Convolutional Cross Attention in Multi-Talker Conditions | [![GitHub](https://img.shields.io/github/stars/jzhangU/Basen)](https://github.com/jzhangU/Basen) | [![arXiv](https://img.shields.io/badge/arXiv-2305.09994-b31b1b.svg)](https://arxiv.org/abs/2305.09994) |
+| 2046 | Are Retroflex-to-Dental Sibilant Substitutions in Polish Children's Speech an Example of a Covert Contrast? A Preliminary Acoustic Study | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1123 | First Language Effects on Second Language Perception: Evidence from English Low-Vowel Nasal Sequences Perceived by L1 Mandarin Chinese Listeners | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2247 | Motor Control Similarity between Speakers Saying "a Souk" using Inverse Atlas Tongue Modeling | :heavy_minus_sign: | :heavy_minus_sign: |
 | 910 | Assessing Phrase Break of ESL Speech with Pre-trained Language Models and Large Language Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.04980-b31b1b.svg)](https://arxiv.org/abs/2306.04980) |
 | 317 | A Relationship Between Vocal Fold Vibration and Droplet Production | :heavy_minus_sign: | :heavy_minus_sign: |
