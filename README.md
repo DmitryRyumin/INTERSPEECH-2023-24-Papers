@@ -546,7 +546,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 936 | Biophysically-inspired Single-Channel Speech Enhancement in the Time Domain | :heavy_minus_sign: | :heavy_minus_sign: |
+| 936 | Biophysically-Inspired Single-Channel Speech Enhancement in the Time Domain | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1902 | On-Device Speaker Anonymization of Acoustic Embeddings for ASR based on Flexible Location Gradient Reversal Layer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1901 | How to Construct Perfect and Worse-than-Coin-Flip Spoofing Countermeasures: A Word of Warning on Shortcut Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00044-b31b1b.svg)](https://arxiv.org/abs/2306.00044) |
 | 1287 | CleanUNet 2: A Hybrid Speech Denoising Model on Waveform and Spectrogram | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -593,7 +593,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1642 | HD-DEMUCS: General Speech Restoration with Heterogeneous Decoders | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01411-b31b1b.svg)](https://arxiv.org/abs/2306.01411) |
 | 1441 | MP-SENet: A Speech Enhancement Model with Parallel Denoising of Magnitude and Phase Spectra | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yxlu-0102.github.io/mpsenet-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/yxlu-0102/MP-SENet)](https://github.com/yxlu-0102/MP-SENet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13686-b31b1b.svg)](https://arxiv.org/abs/2305.13686) |
 | 565 | TRIDENTSE: Guiding Speech Enhancement with 32 Global Tokens | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.12995-b31b1b.svg)](https://arxiv.org/abs/2210.12995) |
-| 1254 | Detection of Cross-Dataset Fake Audio Based on Prosodic and Pronunciation Features | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13700-b31b1b.svg)](https://arxiv.org/abs/2305.13700) |
+| 1254 | Detection of Cross-Dataset Fake Audio based on Prosodic and Pronunciation Features | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13700-b31b1b.svg)](https://arxiv.org/abs/2305.13700) |
 | 1890 | Self-Supervised Learning with Diffusion based Multichannel Speech Enhancement for Speaker Verification under Noisy Conditions | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.02244-b31b1b.svg)](https://arxiv.org/abs/2307.02244) |
 | 1341 | Two-Stage Voice Anonymization for Enhanced Privacy | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16069-b31b1b.svg)](https://arxiv.org/abs/2306.16069) |
 | 2055 | Personalized Dereverberation of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -735,9 +735,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1675 | PunCantonese: A Benchmark Corpus for Low-Resource Cantonese Punctuation Restoration from Speech Transcripts | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1358 | Speech-to-Face Conversion using Denoising Diffusion Probabilistic Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2255 | Inter-Connection: Effective Connection between Pre-trained Encoder and Decoder for Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16897-b31b1b.svg)](https://arxiv.org/abs/2305.16897) |
-| 1068 | How Does Pretraining Improve Discourse-Aware Translation? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19847-b31b1b.svg)](https://arxiv.org/abs/2305.19847) |
-| 1135 | PATCorrect: Non-autoregressive Phoneme-augmented Transformer for ASR Error Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.05040-b31b1b.svg)](https://arxiv.org/abs/2302.05040) |
-| 161 | Model-assisted Lexical Tone Evaluation of Three-year-old Chinese-speaking Children by also Considering Segment Production | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1068 | How Does Pretraining Improve Discourse-aware Translation? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19847-b31b1b.svg)](https://arxiv.org/abs/2305.19847) |
+| 1135 | PATCorrect: Non-Autoregressive Phoneme-Augmented Transformer for ASR Error Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.05040-b31b1b.svg)](https://arxiv.org/abs/2302.05040) |
+| 161 | Model-assisted Lexical Tone Evaluation of Three-Year-Old Chinese-Speaking Children by also Considering Segment Production | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1392 | Sentence Embedder Guided Utterance Encoder (SEGUE) for Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/declare-lab/segue)](https://github.com/declare-lab/segue) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12301-b31b1b.svg)](https://arxiv.org/abs/2305.12301) |
 | 1582 | Joint Time and Frequency Transformer for Chinese Opera Classification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 116 | AdaMS: Deep Metric Learning with Adaptive Margin and Adaptive Scale for Acoustic Word Discrimination | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.14564-b31b1b.svg)](https://arxiv.org/abs/2210.14564) |
@@ -749,8 +749,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 466 | Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin | [![GitHub](https://img.shields.io/github/stars/muhammed-saeed/CLaT)](https://github.com/muhammed-saeed/CLaT) | [![arXiv](https://img.shields.io/badge/arXiv-2307.00382-b31b1b.svg)](https://arxiv.org/abs/2307.00382) |
 | 1878 | Efficient Adaptation of Spoken Language Understanding based on End-to-End Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 597 | PhonMatchNet: Phoneme-Guided Zero-Shot Keyword Spotting for User-Defined Keywords | [![GitHub](https://img.shields.io/github/stars/ncsoft/PhonMatchNet)](https://github.com/ncsoft/PhonMatchNet) | :heavy_minus_sign: |
-| 69 | Mix before Align: Towards Zero-shot Cross-lingual Sentiment Analysis via Soft-Mix and Multi-View Learning | :heavy_minus_sign: | :heavy_minus_sign: |
-| 170 | AlignAtt: Using Attention-based Audio-Translation Alignments as a Guide for Simultaneous Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11408-b31b1b.svg)](https://arxiv.org/abs/2305.11408) |
+| 69 | Mix before Align: Towards Zero-Shot Cross-Lingual Sentiment Analysis via Soft-Mix and Multi-View Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 170 | AlignAtt: using Attention-based Audio-Translation Alignments as a Guide for Simultaneous Speech Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11408-b31b1b.svg)](https://arxiv.org/abs/2305.11408) |
 | 2225 | Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1979 | Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages | [![GitHub](https://img.shields.io/github/stars/unza-speech-lab/zambezi-voice)](https://github.com/unza-speech-lab/zambezi-voice) | [![arXiv](https://img.shields.io/badge/arXiv-2306.04428-b31b1b.svg)](https://arxiv.org/abs/2306.04428) |
 
@@ -863,7 +863,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1354 | Multi-Resolution Approach to Identification of Spoken Languages and to Improve Overall Language Diarization System using Whisper Model | :heavy_minus_sign: | :heavy_minus_sign: |
 | 125 | Improving Generalization Ability of Countermeasures for New Mismatch Scenario by Combining Multiple Advanced Regularization Terms | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10940-b31b1b.svg)](https://arxiv.org/abs/2305.10940) |
 | 849 | Dynamic Fully-Connected Layer for Large-Scale Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1446 | MERLIon CCS Challenge: A English-Mandarin Code-Switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
 | 1314 | Mutual Information-based Embedding Decoupling for Generalizable Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1206 | TO-Rawnet: Improving RawNet with TCN and Orthogonal Regularization for Fake Audio Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13701-b31b1b.svg)](https://arxiv.org/abs/2305.13701) |
 | 777 | ECAPA++: Fine-grained Deep Embedding Learning for TDNN based Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1289,7 +1288,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1402 | Towards Single Integrated Spoofing-aware Speaker Verification Embeddings | [![GitHub](https://img.shields.io/github/stars/sasv-challenge/ASVSpoof5-SASVBaseline)](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19051-b31b1b.svg)](https://arxiv.org/abs/2305.19051) |
-| 1352 | Pseudo-Siamese Network based Timbre-reserved Black-box Adversarial Attack in Speaker Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19020-b31b1b.svg)](https://arxiv.org/abs/2305.19020) |
+| 1352 | Pseudo-Siamese Network based Timbre-Reserved Black-Box Adversarial Attack in Speaker Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19020-b31b1b.svg)](https://arxiv.org/abs/2305.19020) |
 | 2335 | Betray Oneself: A Novel Audio DeepFake Detection Model via Mono-to-Stereo Conversion | [![GitHub](https://img.shields.io/github/stars/ttslr/M2S-ADD)](https://github.com/ttslr/M2S-ADD) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16353-b31b1b.svg)](https://arxiv.org/abs/2305.16353) |
 | 1166 | Robust Audio Anti-Spoofing Countermeasure with Joint Training of Front-end and Back-end and Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1537 | Improved DeepFake Detection using Whisper Features | [![GitHub](https://img.shields.io/github/stars/piotrkawa/deepfake-whisper-features)](https://github.com/piotrkawa/deepfake-whisper-features) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01428-b31b1b.svg)](https://arxiv.org/abs/2306.01428) |
@@ -1321,6 +1320,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
+| 1446 | MERLIon CCS Challenge: A English-Mandarin Code-Switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
 | 1335 | Spoken Language Identification System for English-Mandarin Code-Switching Child-Directed Speech | [![GitHub](https://img.shields.io/github/stars/shashikg/LID-Code-Switching)](https://github.com/shashikg/LID-Code-Switching) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00736-b31b1b.svg)](https://arxiv.org/abs/2306.00736) |
 | 1707 | Investigating Model Performance in Language Identification: beyond Simple Error Statistics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18925-b31b1b.svg)](https://arxiv.org/abs/2305.18925) |
 | 2533 | Improving Wav2vec2-based Spoken Language Identification by Learning Phonological Features | :heavy_minus_sign: | :heavy_minus_sign: |
