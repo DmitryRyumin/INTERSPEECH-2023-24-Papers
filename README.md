@@ -1597,15 +1597,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 2621 | Let's Give a Voice to Conversational Agents in Virtual Reality | [![GitHub](https://img.shields.io/github/stars/sislab-unitn/Let-s-Give-a-Voice-to-Conversational-Agents-in-VR)](https://github.com/sislab-unitn/Let-s-Give-a-Voice-to-Conversational-Agents-in-VR) | :heavy_minus_sign: |
-| 2622 | FOOCTTS: Generating Arabic Speech with Acoustic Environment for Football Commentator |  |  |
-| 2637 | Video Summarization Leveraging Multimodal Information for Presentations |  |  |
-| 2645 | What Questions are My Customers Asking?: Towards Actionable Insights from Customer Questions in Contact Center Calls |  |  |
-| 2646 | COnVoy: A Contact Center Operated Pipeline for Voice of Customer Discovery |  |  |
-| 2653 | NeMo Forced Aligner and its Application to Word Alignment for Subtitle Generation |  |  |
-| 2662 | CauSE: Causal Search Engine for Understanding Contact-Center Conversations |  |  |
-| 2663 | Tailored Real-Time Call Summarization System for Contact Centers |  |  |
-| 2647 | Federated Learning Toolkit with Voice-based User Verification Demo |  |  |
-| 2657 | Learning when to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models |  |  |
+| 2622 | FOOCTTS: Generating Arabic Speech with Acoustic Environment for Football Commentator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07936-b31b1b.svg)](https://arxiv.org/abs/2306.07936) |
+| 2637 | Video Summarization Leveraging Multimodal Information for Presentations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2645 | What Questions are My Customers Asking?: Towards Actionable Insights from Customer Questions in Contact Center Calls | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2646 | COnVoy: A Contact Center Operated Pipeline for Voice of Customer Discovery | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2653 | NeMo Forced Aligner and its Application to Word Alignment for Subtitle Generation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2662 | CauSE: Causal Search Engine for Understanding Contact-Center Conversations | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2663 | Tailored Real-Time Call Summarization System for Contact Centers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2647 | Federated Learning Toolkit with Voice-based User Verification Demo | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2657 | Learning when to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models | [![GitHub](https://img.shields.io/github/stars/liamdugan/speech-to-speech)](https://github.com/liamdugan/speech-to-speech) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01201-b31b1b.svg)](https://arxiv.org/abs/2306.01201) |
 | 2628 | Fast Enrollable Streaming Keyword Spotting System: Training and Inference using a Web Browser |  |  |
 | 2665 | Cross-Lingual/Cross-Channel Intent Detection in Contact-Center Conversations |  |  |
 
