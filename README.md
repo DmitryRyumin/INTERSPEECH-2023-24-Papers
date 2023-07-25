@@ -1576,6 +1576,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2655 | Data Augmentation for Diverse Voice Conversion in Noisy Environments | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10684-b31b1b.svg)](https://arxiv.org/abs/2305.10684) |
 | 2667 | Application for Real-Time Audio-Visual Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
 
+### Show and Tell: Language Learning and Educational Resources
+
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 2623 | A Unified Framework to Improve Learners' Skills of Perception and Production based on Speech Shadowing and Overlapping | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2633 | Speak & Improve: L2 English Speaking Practice Tool | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2641 | Measuring Prosody in Child Speech using SoapBox Fluency API | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2650 | Teaching Non-native Sound Contrasts using Visual Biofeedback | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2654 | Large-Scale Automatic Audiobook Creation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2658 | QVoice: Arabic Speech Pronunciation Learning Application | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.07445-b31b1b.svg)](https://arxiv.org/abs/2305.07445) |
+| 2659 | Asking Questions: an Innovative Way to Interact with Oral History Archives |  |  |
+| 2660 | DisfluencyFixer: A Tool to Enhance Language Learning through Speech To Speech Disfluency Correction |  |  |
+| 2661 | Technology Pipeline for Large Scale Cross-Lingual Dubbing of Lecture Videos into Multiple Indian Languages |  |  |
+| 2668 | MyVoice: Arabic Speech Resource Collaboration Platform |  |  |
+| 2669 | Personal Primer Prototype 1: Invitation to Make Your Own Embooked Speech-based Educational Artifact |  |  |
+
 ---
 
 ## Star History
