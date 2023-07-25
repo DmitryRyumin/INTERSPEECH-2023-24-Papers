@@ -477,9 +477,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2111 | Episodic Memory For Domain-Adaptable, Robust Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 80 | Stable Speech Emotion Recognition with Head-k-Pooling Loss | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1923 | Node-weighted Graph Convolutional Network for Depression Detection in Transcribed Clinical Interviews | [![GitHub](https://img.shields.io/github/stars/idiap/Node_weighted_GCN_for_depression_detection)](https://github.com/idiap/Node_weighted_GCN_for_depression_detection) | [![arXiv](https://img.shields.io/badge/arXiv-2307.00920-b31b1b.svg)](https://arxiv.org/abs/2307.00920) |
-| 756 | Two-stage Finetuning of Wav2vec 2.0 for Speech Emotion Recognition with ASR and Gender Pretraining | :heavy_minus_sign: | :heavy_minus_sign: |
+| 756 | Two-Stage Finetuning of Wav2vec 2.0 for Speech Emotion Recognition with ASR and Gender Pretraining | :heavy_minus_sign: | :heavy_minus_sign: |
 | 240 | The Co-use of Laughter and Head Gestures Across Speech Styles | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1351 | EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2203.13617-b31b1b.svg)](https://arxiv.org/abs/2203.13617) |
+| 1351 | EmotionNAS: Two-Stream Neural Architecture Search for Speech Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2203.13617-b31b1b.svg)](https://arxiv.org/abs/2203.13617) |
 | 136 | Pre-Finetuning for Few-Shot Emotional Speech Recognition | [![GitHub](https://img.shields.io/github/stars/maxlchen/Speech-PreFinetuning)](https://github.com/maxlchen/Speech-PreFinetuning) | [![arXiv](https://img.shields.io/badge/arXiv-2302.12921-b31b1b.svg)](https://arxiv.org/abs/2302.12921) |
 | 293 | Integrating Emotion Recognition with Speech Recognition and Speaker Diarization for Conversations | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1075 | Utility-Preserving Privacy-Enabled Speech Embeddings for Emotion Detection | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -490,7 +490,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 819 | MetricAug: A Distortion Metric-Lead Augmentation Strategy for Training Noise-Robust Speech Emotion Recognizer | [![GitHub](https://img.shields.io/github/stars/crowpeter/MetricAug)](https://github.com/crowpeter/MetricAug) | :heavy_minus_sign: |
 | 1311 | Investigating Acoustic Cues for Multilingual Abuse Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1600 | A Novel Frequency Warping Scale for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1170 | Multi-scale Temporal Transformer for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1170 | Multi-Scale Temporal Transformer for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1169 | Distant Speech Emotion Recognition in an Indoor Human-Robot Interaction Scenario | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2498 | A Study on Prosodic Entrainment in Relation to Therapist Empathy in Counseling Conversation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2375 | Improving Joint Speech and Emotion Recognition using Global Style Tokens | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1183,7 +1183,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 583 | Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14608-b31b1b.svg)](https://arxiv.org/abs/2306.14608) |
+| 583 | Factorised Speaker-Environment Adaptive Training of Conformer Speech Recognition Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14608-b31b1b.svg)](https://arxiv.org/abs/2306.14608) |
 | 1349 | Text Only Domain Adaptation with Phoneme Guided Data Splicing for End-to-End Speech Recognition | [![GitHub](https://img.shields.io/github/stars/NVIDIA/NeMo)](https://github.com/NVIDIA/NeMo/) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14036-b31b1b.svg)](https://arxiv.org/abs/2302.14036) |
  | 327 | Towards Cross-Lingual Cross-Age Adaptation for Low-Resource Elderly Speech Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/hltchkust/elderly_ser)](https://github.com/hltchkust/elderly_ser) | [![arXiv](https://img.shields.io/badge/arXiv-2306.14517-b31b1b.svg)](https://arxiv.org/abs/2306.14517) |
  | 2215 | Modular Domain Adaptation for Conformer-based Streaming ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13408-b31b1b.svg)](https://arxiv.org/abs/2305.13408) |
@@ -1198,9 +1198,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2242 | Dual Audio Encoders Based Mandarin Prosodic Boundary Prediction by using Multi-Granularity Prosodic Representations | :heavy_minus_sign: | :heavy_minus_sign: |
 | 645 | NoreSpeech: Knowledge Distillation based Conditional Diffusion Model for Noise-robust Expressive TTS | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](http://anonymousdemo.fun/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.02448-b31b1b.svg)](https://arxiv.org/abs/2211.02448) |
 | 782 | MaskedSpeech: Context-aware Speech Synthesis with Masking Strategy | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://speech11.github.io/MaskedSpeech/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.06170-b31b1b.svg)](https://arxiv.org/abs/2211.06170) |
-| 2469 | Narrator or Character: Voice Modulation in an Expressive Multi-speaker TTS | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2469 | Narrator or Character: Voice Modulation in an Expressive Multi-Speaker TTS | :heavy_minus_sign: | :heavy_minus_sign: |
 | 843 | CASEIN: Cascading Explicit and Implicit Control for Fine-grained Emotion Intensity Regulation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.00020-b31b1b.svg)](https://arxiv.org/abs/2307.00020) |
-| 1405 | Semi-supervised Learning for Continuous Emotional Intensity Controllable Speech Synthesis with Disentangled Representations | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.06160-b31b1b.svg)](https://arxiv.org/abs/2211.06160) |
+| 1405 | Semi-Supervised Learning for Continuous Emotional Intensity Controllable Speech Synthesis with Disentangled Representations | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.06160-b31b1b.svg)](https://arxiv.org/abs/2211.06160) |
 | 1905 | Expresso: A Benchmark and Analysis of Discrete Expressive Speech Resynthesis | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1460 | ComedicSpeech: Adaptive Text To Speech For Stand-up Comedy in Low-Resource Scenario | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://xh621.github.io/stand-up-comedy-demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12200-b31b1b.svg)](https://arxiv.org/abs/2305.12200) |
 | 1552 | Neural Speech Synthesis with Enriched Phrase Boundaries | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1217,7 +1217,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1779 | PromptStyle: Controllable Style Transfer for Text-to-Speech with Natural Language Descriptions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://promptstyle.github.io/PromptStyle) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19522-b31b1b.svg)](https://arxiv.org/abs/2305.19522)
 | 1639 | Creating Personalized Synthetic Voices from Post-Glossectomy Speech with Guided Diffusion Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://diffcorrect.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17436-b31b1b.svg)](https://arxiv.org/abs/2305.17436) |
 | 2453 | A Generative Framework for Conversational Laughter: Its "Language Model" and Laughter Sound Synthesis | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03465-b31b1b.svg)](https://arxiv.org/abs/2306.03465) |
-| 1754 | Towards Spontaneous Style Modeling with Semi-supervised Pre-training for Conversational Text-to-Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://thuhcsi.github.io/interspeech2023-spontaneousTTS/) | :heavy_minus_sign: |
+| 1754 | Towards Spontaneous Style Modeling with Semi-Supervised Pre-training for Conversational Text-to-Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://thuhcsi.github.io/interspeech2023-spontaneousTTS/) | :heavy_minus_sign: |
 | 2072 | Beyond Style: Synthesizing Speech with Pragmatic Functions | :heavy_minus_sign: | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.speech.kth.se/tts-demos/beyond_style/) |
 | 965 | eCat: An End-to-End Model for Multi-Speaker TTS & Many-to-Many Fine-Grained Prosody Transfer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11327-b31b1b.svg)](https://arxiv.org/abs/2306.11327) |
 
@@ -1226,10 +1226,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1146 | BeAts: Bengali Speech Acts Recognition using Multimodal Attention Fusion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://soumitri2001.github.io/BeAts) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02680-b31b1b.svg)](https://arxiv.org/abs/2306.02680) |
-| 370 | Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech Based on Metric Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.14203-b31b1b.svg)](https://arxiv.org/abs/2305.14203) |
+| 370 | Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech based on Metric Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.14203-b31b1b.svg)](https://arxiv.org/abs/2305.14203) |
 | 989 | Whistle-to-Text: Automatic Recognition of the Silbo Gomero Whistled Language | :heavy_minus_sign: | :heavy_minus_sign: |
-| 663 | A Novel Interpretable and Generalizable Re-synchronization Model for Cued Speech based on a Multi-Cuer Corpus | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02596-b31b1b.svg)](https://arxiv.org/abs/2306.02596) |
-| 668 | Visually Grounded Few-shot Word Acquisition with Fewer Shots | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15937-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
+| 663 | A Novel Interpretable and Generalizable Re-Synchronization Model for Cued Speech based on a Multi-Cuer Corpus | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02596-b31b1b.svg)](https://arxiv.org/abs/2306.02596) |
+| 668 | Visually Grounded Few-Shot Word Acquisition with Fewer Shots | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15937-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
 | 183 | JAMFN: Joint Attention Multi-Scale Fusion Network for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Question Answering from Speech
@@ -1238,7 +1238,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-------|-----------|:--------:|:---------:|
 | 1485 | Prompt Guided Copy Mechanism for Conversational Question Answering | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1240 | Composing Spoken Hints for Follow-on Question Suggestion in Voice Assistants | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1391 | On Monotonic Aggregation for Open-domain QA | [![GitHub](https://img.shields.io/github/stars/YeonseokJeong/Judge-Specialist)](https://github.com/YeonseokJeong/Judge-Specialist) | :heavy_minus_sign: |
+| 1391 | On Monotonic Aggregation for Open-Domain QA | [![GitHub](https://img.shields.io/github/stars/YeonseokJeong/Judge-Specialist)](https://github.com/YeonseokJeong/Judge-Specialist) | :heavy_minus_sign: |
 | 2240 | Question-Context Alignment and Answer-Context Dependencies for Effective Answer Sentence Selection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02196-b31b1b.svg)](https://arxiv.org/abs/2306.02196) |
 | 1606 | Multi-Scale Attention for Audio Question Answering | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17993-b31b1b.svg)](https://arxiv.org/abs/2305.17993) |
 | 539 | Enhancing Visual Question Answering via Deconstructing Questions and Explicating Answers | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1248,16 +1248,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1749 | SEF-Net: Speaker Embedding Free Target Spekaer Extraction Network | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1530 | Overlap Aware Continuous Speech Separation without Permutation Invariant Training Linfeng | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1530 | Overlap aware Continuous Speech Separation without Permutation Invariant Training Linfeng | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1952 | Cascaded Encoders for Fine-Tuning ASR Models on Overlapped Speech | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.16398-b31b1b.svg)](https://arxiv.org/abs/2306.16398) |
 | 2069 | TokenSplit: using Discrete Speech Representations for Direct, Refined, and Transcript-Conditioned Speech Separation and Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1422 | Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16263-b31b1b.svg)](https://arxiv.org/abs/2305.16263) |
-| 2098 | Time-domain Transformer-based Audiovisual Speaker Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2098 | Time-Domain Transformer-based Audiovisual Speaker Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 628 | Multi-Stream Extension of Variational Bayesian HMM Clustering (MS-VBx) for Combined End-to-End and Vector Clustering-based Diarization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13580-b31b1b.svg)](https://arxiv.org/abs/2305.13580) |
-| 1502 | Unsupervised Adaptation with Quality-Aware Masking to Improve Target-Speaker Voice Activity Detection for Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1521 | BA-SOT: Boundary-Aware Serialized Output Training for Multi-Talker ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13716-b31b1b.svg)](https://arxiv.org/abs/2305.13716) |
+| 1502 | Unsupervised Adaptation with Quality-aware Masking to Improve Target-Speaker Voice Activity Detection for Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1521 | BA-SOT: Boundary-aware Serialized Output Training for Multi-Talker ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13716-b31b1b.svg)](https://arxiv.org/abs/2305.13716) |
 | 1172 | Improving Label Assignments Learning by Dynamic Sample Dropout Combined with Layer-wise Optimization in Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 975 | Joint Compensation of Multi-talker Noise and Reverberation for Speech Enhancement with Cochlear Implants using One or More Microphones | :heavy_minus_sign: | :heavy_minus_sign: |
+| 975 | Joint Compensation of Multi-Talker Noise and Reverberation for Speech Enhancement with Cochlear Implants using One or More Microphones | :heavy_minus_sign: | :heavy_minus_sign: |
 | 494 | Speaker Diarization for ASR Output with T-vectors: A Sequence Classification Approach | :heavy_minus_sign: | :heavy_minus_sign: |
 | 42 | GPU-accelerated Guided Source Separation for Meeting Transcription | [![GitHub](https://img.shields.io/github/stars/desh2608/gss)](https://github.com/desh2608/gss) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05271-b31b1b.svg)](https://arxiv.org/abs/2212.05271) |
 | 1280 | Weakly-Supervised Speech Pre-training: A Case Study on Target Speech Recognition | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/Emrys365/fairseq/tree/wavlm/examples/tshubert) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16286-b31b1b.svg)](https://arxiv.org/abs/2305.16286) |
@@ -1268,7 +1268,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 206 | Aberystwyth English Pre-aspiration in Apparent Time |:heavy_minus_sign: | :heavy_minus_sign: |
+| 206 | Aberystwyth English Pre-Aspiration in Apparent Time |:heavy_minus_sign: | :heavy_minus_sign: |
 | 1154 | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1414 | Sociodemographic and Attitudinal Effects on Dialect Speakers' Articulation of the Standard Language: Evidence from German-Speaking Switzerland | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1704 | Vowel Normalisation in Latent Space for Sociolinguistics |:heavy_minus_sign: | :heavy_minus_sign: |
@@ -1281,7 +1281,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1447 | Robust Self Supervised Speech Embeddings for Child-Adult Classification in Interactions involving Children with Autism | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2367 | The DISPLACE Challenge 2023 - DIarization of SPeaker and LAnguage in Conversational Environments | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://displace2023.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00830-b31b1b.svg)](https://arxiv.org/abs/2303.00830) |
 | 1982 | Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.09313-b31b1b.svg)](https://arxiv.org/abs/2306.09313) |
-| 1839 | The SpeeD-ZevoTech submission at DISPLACE 2023 | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1839 | The SpeeD-ZevoTech Submission at DISPLACE 2023 | :heavy_minus_sign: | :heavy_minus_sign: |
 | 656 | End-to-End Neural Speaker Diarization with Absolute Speaker Loss | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Anti-Spoofing for Speaker Verification
