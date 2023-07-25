@@ -1606,8 +1606,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2663 | Tailored Real-Time Call Summarization System for Contact Centers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2647 | Federated Learning Toolkit with Voice-based User Verification Demo | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2657 | Learning when to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models | [![GitHub](https://img.shields.io/github/stars/liamdugan/speech-to-speech)](https://github.com/liamdugan/speech-to-speech) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01201-b31b1b.svg)](https://arxiv.org/abs/2306.01201) |
-| 2628 | Fast Enrollable Streaming Keyword Spotting System: Training and Inference using a Web Browser |  |  |
-| 2665 | Cross-Lingual/Cross-Channel Intent Detection in Contact-Center Conversations |  |  |
+| 2628 | Fast Enrollable Streaming Keyword Spotting System: Training and Inference using a Web Browser | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2665 | Cross-Lingual/Cross-Channel Intent Detection in Contact-Center Conversations | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ---
 
