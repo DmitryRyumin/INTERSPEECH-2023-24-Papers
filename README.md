@@ -1586,8 +1586,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2650 | Teaching Non-native Sound Contrasts using Visual Biofeedback | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2654 | Large-Scale Automatic Audiobook Creation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2658 | QVoice: Arabic Speech Pronunciation Learning Application | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.07445-b31b1b.svg)](https://arxiv.org/abs/2305.07445) |
-| 2659 | Asking Questions: an Innovative Way to Interact with Oral History Archives |  |  |
-| 2660 | DisfluencyFixer: A Tool to Enhance Language Learning through Speech To Speech Disfluency Correction |  |  |
+| 2659 | Asking Questions: an Innovative Way to Interact with Oral History Archives | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2660 | DisfluencyFixer: A Tool to Enhance Language Learning through Speech To Speech Disfluency Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16957-b31b1b.svg)](https://arxiv.org/abs/2305.16957) |
 | 2661 | Technology Pipeline for Large Scale Cross-Lingual Dubbing of Lecture Videos into Multiple Indian Languages |  |  |
 | 2668 | MyVoice: Arabic Speech Resource Collaboration Platform |  |  |
 | 2669 | Personal Primer Prototype 1: Invitation to Make Your Own Embooked Speech-based Educational Artifact |  |  |
