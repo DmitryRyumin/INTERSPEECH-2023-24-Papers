@@ -265,35 +265,35 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 745 | FlexiAST: Flexibility is What AST Needs | [![GitHub](https://img.shields.io/github/stars/JiuFengSC/FlexiAST_INTERSPEECH23)](https://github.com/JiuFengSC/FlexiAST_INTERSPEECH23) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09286-b31b1b.svg)](https://arxiv.org/abs/2307.09286) |
 | 1344 | Blind Estimation of Room Impulse Response from Monaural Reverberant Speech with Segmental Generative Neural Network | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/370843606_Blind_Estimation_of_Room_Impulse_Response_from_Monaural_Reverberant_Speech_with_Segmental_Generative_Neural_Network) |
 | 613 | Dual-Memory Multi-Modal Learning for Continual Spoken Keyword Spotting with Confidence Selection and Diversity Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1431 | An Efficient Speech Separation Network Based on Recurrent Fusion Dilated Convolution and Channel Attention | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05887-b31b1b.svg)](https://arxiv.org/abs/2306.05887) |
+| 1431 | An Efficient Speech Separation Network based on Recurrent Fusion Dilated Convolution and Channel Attention | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05887-b31b1b.svg)](https://arxiv.org/abs/2306.05887) |
 | 801 | Audio-Visual Fusion using Multiscale Temporal Convolutional Attention for Time-Domain Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2015 | Binaural Sound Localization in Noisy Environments Using Frequency-Based Audio Vision Transformer (FAViT) | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2015 | Binaural Sound Localization in Noisy Environments using Frequency-based Audio Vision Transformer (FAViT) | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1723 | Contrastive Learning based Deep Latent Masking for Music Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 655 | Speaker Extraction with Detection of Presence and Absence of Target Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 889 | PIAVE: A Pose-Invariant Audio-Visual Speaker Extraction Network | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2117 | Spatial LibriSpeech: An Augmented Dataset for Spatial Audio Learning | :heavy_minus_sign: | [![Apple](https://img.shields.io/badge/apple-ml-FE9901.svg)](https://machinelearning.apple.com/research/spatial-librispeech) |
 | 1309 | Image-Driven Audio-Visual Universal Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2520 | Joint Blind Source Separation and Dereverberation for Automatic Speech Recognition using Delayed-Subsource | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1766 | SDNet: Stream-attention and Dual-feature Learning Network for Ad-hoc Array Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1766 | SDNet: Stream-Attention and Dual-Feature Learning Network for Ad-hoc Array Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2451 | Deeply Supervised Curriculum Learning for Deep Neural Network-based Sound Source Localization | :heavy_minus_sign: | :heavy_minus_sign: |
 | 164 | Multi-Channel Separation of Dynamic Speech and Sound Events | [![GitHub](https://img.shields.io/github/stars/fakufaku/interspeech2023-moving-iva-samples)](https://github.com/fakufaku/interspeech2023-moving-iva-samples) | :heavy_minus_sign: |
 | 2545 | Rethinking the Visual Cues in Audio-Visual Speaker Extraction | [![GitHub](https://img.shields.io/github/stars/mrjunjieli/DAVSE)](https://github.com/mrjunjieli/DAVSE) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02625-b31b1b.svg)](https://arxiv.org/abs/2306.02625) |
-| 85 | Using Semi-supervised Learning for Monaural Time-domain Speech Separation with a Self-supervised Learning-based SI-SNR Estimator | :heavy_minus_sign: | :heavy_minus_sign: |
+| 85 | Using Semi-Supervised Learning for Monaural Time-Domain Speech Separation with a Self-Supervised Learning-based SI-SNR Estimator | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1158 | Investigation of Training Mute-Expressive End-to-End Speech Separation Networks for an Unknown Number of Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2369 | SR-SRP: Super-Resolution based SRP-PHAT for Sound Source Localization and Tracking | :heavy_minus_sign: | :heavy_minus_sign: |
-| 165 | Time-frequency Domain Filter-and-sum Network for Multi-channel Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 165 | Time-Frequency Domain Filter-and-Sum Network for Multi-Channel Speech Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 714 | FN-SSL: Full-Band and Narrow-Band Fusion for Sound Source Localization | [![GitHub](https://img.shields.io/github/stars/Audio-WestlakeU/FN-SSL)](https://github.com/Audio-WestlakeU/FN-SSL) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19610-b31b1b.svg)](https://arxiv.org/abs/2305.19610) |
 | 696 | A Neural State-Space Modeling Approach to Efficient Speech Separation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16932-b31b1b.svg)](https://arxiv.org/abs/2305.16932) |
-| 1777 | Locate and Beamform: Two-dimensional Locating All-neural Beamformer for Multi-channel Speech Separation | [![GitHub](https://img.shields.io/github/stars/FYJNEVERFOLLOWS/LaBNet)](https://github.com/FYJNEVERFOLLOWS/LaBNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.10821-b31b1b.svg)](https://arxiv.org/abs/2305.10821) |
-| 518 | Monaural Speech Separation Method Based on Recurrent Attention with Parallel Branches | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1777 | Locate and Beamform: Two-Dimensional Locating All-Neural Beamformer for Multi-Channel Speech Separation | [![GitHub](https://img.shields.io/github/stars/FYJNEVERFOLLOWS/LaBNet)](https://github.com/FYJNEVERFOLLOWS/LaBNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.10821-b31b1b.svg)](https://arxiv.org/abs/2305.10821) |
+| 518 | Monaural Speech Separation Method based on Recurrent Attention with Parallel Branches | :heavy_minus_sign: | :heavy_minus_sign: |
 | 372 | Handling the Alignment for Wake Word Detection: A Comparison Between Alignment-Based, Alignment-Free and Hybrid Approaches | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.08950-b31b1b.svg)](https://arxiv.org/abs/2302.08950) |
-| 951 | What do Self-supervised Speech Representations Encode? An Analysis of Languages, Varieties, Speaking Styles and Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 951 | What do Self-Supervised Speech Representations Encode? An Analysis of Languages, Varieties, Speaking Styles and Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1696 | A Compressed Synthetic Speech Detection Method with Compression Feature Embedding | :heavy_minus_sign: | :heavy_minus_sign: |
-| 572 | Outlier-aware Inlier Modeling and Multi-scale Scoring for Anomalous Sound Detection via Multitask Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 572 | Outlier-aware Inlier Modeling and Multi-Scale Scoring for Anomalous Sound Detection via Multitask Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 | 263 | MOSLight: A Lightweight Data-Efficient System for Non-Intrusive Speech Quality Assessment | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1626 | A Multi-Scale Attentive Transformer for Multi-Instrument Symbolic Music Generation | [![GitHub](https://img.shields.io/github/stars/HaRry-qaq/MSAT)](https://github.com/HaRry-qaq/MSAT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16592-b31b1b.svg)](https://arxiv.org/abs/2305.16592) |
-| 2494 | MTANet: Multi-band Time-frequency Attention Network for Singing Melody Extraction from Polyphonic Music | :heavy_minus_sign: | :heavy_minus_sign: |
-| 119 | Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://wavelandspeech.github.io/xiaoice2/) | [![arXiv](https://img.shields.io/badge/arXiv-2210.14666-b31b1b.svg)](https://arxiv.org/abs/2210.14666) |
+| 2494 | MTANet: Multi-band Time-Frequency Attention Network for Singing Melody Extraction from Polyphonic Music | :heavy_minus_sign: | :heavy_minus_sign: |
+| 119 | Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer based on Generative Adversarial Network | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://wavelandspeech.github.io/xiaoice2/) | [![arXiv](https://img.shields.io/badge/arXiv-2210.14666-b31b1b.svg)](https://arxiv.org/abs/2210.14666) |
 | 2190 | Do Vocal Breath Sounds Encode Gender cues for Automatic Gender Classification? | :heavy_minus_sign: | :heavy_minus_sign: |
 | 202 | Automatic Exploration of Optimal Data Processing Operations for Sound Data Augmentation using Improved Differentiable Automatic Data Augmentation | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1430 | A Snoring Sound Dataset for Body Position Recognition: Collection, Annotation, and Analysis | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -304,7 +304,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2115 | Remote Assessment for ALS using Multimodal Dialog Agents: Data Quality, Feasibility and Task Compliance | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1ydqKLgO18TFrMzFC2Bz_6y3Uml0bUaaN/view) |
 | 852 | AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/AudioToken/) <br /> [![GitHub](https://img.shields.io/github/stars/guyyariv/AudioToken)](https://github.com/guyyariv/AudioToken) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13050-b31b1b.svg)](https://arxiv.org/abs/2305.13050) |
 | 209 | Obstructive Sleep Apnea Screening with Breathing Sounds and Respiratory Effort: a Multimodal Deep Learning Approach | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2275 | Investigation of Music Emotion Recognition based on Segmented Semi-supervised Learning | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2275 | Investigation of Music Emotion Recognition based on Segmented Semi-Supervised Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
