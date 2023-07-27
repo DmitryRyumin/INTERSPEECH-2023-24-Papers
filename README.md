@@ -1194,7 +1194,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 858 | Controllable Generation of Artificial Speaker Embeddings through Discovery of Principal Directions | :heavy_minus_sign: | :heavy_minus_sign: |
+| 858 | Controllable Generation of Artificial Speaker Embeddings through Discovery of Principal Directions | [![GitHub](https://img.shields.io/github/stars/DigitalPhonetics/IMS-Toucan)](https://github.com/DigitalPhonetics/IMS-Toucan) | :heavy_minus_sign: |
 | 2242 | Dual Audio Encoders based Mandarin Prosodic Boundary Prediction by using Multi-Granularity Prosodic Representations | :heavy_minus_sign: | :heavy_minus_sign: |
 | 645 | NoreSpeech: Knowledge Distillation based Conditional Diffusion Model for Noise-robust Expressive TTS | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](http://anonymousdemo.fun/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.02448-b31b1b.svg)](https://arxiv.org/abs/2211.02448) |
 | 782 | MaskedSpeech: Context-aware Speech Synthesis with Masking Strategy | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://speech11.github.io/MaskedSpeech/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.06170-b31b1b.svg)](https://arxiv.org/abs/2211.06170) |
