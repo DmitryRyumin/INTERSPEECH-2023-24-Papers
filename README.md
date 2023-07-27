@@ -893,7 +893,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1513 | CAM++: A Fast and Efficient Network for Speaker Verification using Context-aware Masking | [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/3D-Speaker)](https://github.com/alibaba-damo-academy/3D-Speaker) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00332-b31b1b.svg)](https://arxiv.org/abs/2303.00332) |
 | 1928 | North Sámi Dialect Identification with Self-Supervised Speech Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11864-b31b1b.svg)](https://arxiv.org/abs/2305.11864) |
 | 2289 | Encoder-Decoder Multimodal Speaker Change Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00680-b31b1b.svg)](https://arxiv.org/abs/2306.00680) |
-| 1603 | Disentangled Representation Draft Learning for Multilingual Speaker Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1603 | Disentangled Representation for Multilingual Speaker Recognition | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://mm.kaist.ac.kr/projects/voxceleb1-b/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00437-b31b1b.svg)](https://arxiv.org/abs/2211.00437) |
 | 2310 | A Compact End-to-End Model with Local and Global Context for Spoken Language Identification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1005 | On the Robustness of Arabic Speech Dialect Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03789-b31b1b.svg)](https://arxiv.org/abs/2306.03789) |
 | 927 | Adaptive Neural Network Quantization for Lightweight Speaker Verification | :heavy_minus_sign: | :heavy_minus_sign: |
