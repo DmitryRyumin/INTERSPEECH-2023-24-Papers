@@ -33,6 +33,10 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 ---
 
+[*Other collections of the best AI conferences*](https://github.com/DmitryRyumin/NewEraAI-Papers).
+
+---
+
 ## Contributors
 
 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/graphs/contributors">
