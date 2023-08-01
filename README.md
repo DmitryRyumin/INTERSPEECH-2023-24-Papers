@@ -193,7 +193,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1091 | Domain Adaptive Self-Supervised Training of Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1105 | There is more than One Kind of Robustness: Fooling Whisper with Adversarial Examples | [![GitHub](https://img.shields.io/github/stars/RaphaelOlivier/whisper_attack)](https://github.com/RaphaelOlivier/whisper_attack) | [![arXiv](https://img.shields.io/badge/arXiv-2210.17316-b31b1b.svg)](https://arxiv.org/abs/2210.17316) |
 | 1176 | Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06672-b31b1b.svg)](https://arxiv.org/abs/2306.06672) |
-| 759 | Blank-Regularized CTC for Frame Skipping in Neural Transducer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11558-b31b1b.svg)](https://arxiv.org/abs/2305.11558) |
+| 759 | Blank-Regularized CTC for Frame Skipping in Neural Transducer | [![GitHub](https://img.shields.io/github/stars/k2-fsa/k2) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11558-b31b1b.svg)](https://arxiv.org/abs/2305.11558) |
 | 2406 | The Tag-Team Approach: Leveraging CLS and Language Tagging for Enhancing Multilingual ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19584-b31b1b.svg)](https://arxiv.org/abs/2305.19584) |
 | 2354 | Improving RNN-Transducers with Acoustic LookAhead | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.05006-b31b1b.svg)](https://arxiv.org/abs/2307.05006) |
 | 1847 | Everyone has an Accent | :heavy_minus_sign: | :heavy_minus_sign: |
