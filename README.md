@@ -35,6 +35,12 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 [*Other collections of the best AI conferences*](https://github.com/DmitryRyumin/NewEraAI-Papers).
 
+> ***NOTE*:** Conference table will be up to date all the time.
+
+| **Conference** | Year |
+|----------------|:----:|
+| ICASSP | [2023](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
+
 ---
 
 ## Contributors
