@@ -228,7 +228,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2499 | Biased Self-Supervised Learning for ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02536-b31b1b.svg)](https://arxiv.org/abs/2211.02536) |
 | 1300 | A Unified Recognition and Correction Model under Noisy and Accent Speech Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2470 | Wav2Vec 2.0 ASR for Cantonese-Speaking Older Adults in a Clinical Setting | :heavy_minus_sign: | :heavy_minus_sign: |
-| 770 | BAT: Boundary aware Transducer for Memory-Efficient and Low-Latency ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11571-b31b1b.svg)](https://arxiv.org/abs/2305.11571) |
+| 770 | BAT: Boundary aware Transducer for Memory-Efficient and Low-Latency ASR | [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/FunASR)](https://github.com/alibaba-damo-academy/FunASR) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11571-b31b1b.svg)](https://arxiv.org/abs/2305.11571) |
 | 1342 | Bayes Risk Transducer: Transducer with Controllable Alignment Prediction | :heavy_minus_sign: | :heavy_minus_sign: |
 | 783 | Multi-View Frequency-Attention Alternative to CNN Frontends for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06954-b31b1b.svg)](https://arxiv.org/abs/2306.06954) |
 
