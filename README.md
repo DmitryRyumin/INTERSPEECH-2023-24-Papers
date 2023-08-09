@@ -45,6 +45,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 | **Conference** | Year |
 |----------------|:----:|
+| CVPR | [2023](https://github.com/DmitryRyumin/CVPR-2023-Papers) |
 | ICASSP | [2023](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
 
 ---
