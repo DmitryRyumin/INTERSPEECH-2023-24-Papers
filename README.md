@@ -43,10 +43,26 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 > ***NOTE*:** Conference table will be up to date all the time.
 
-| **Conference** | Year |
-|----------------|:----:|
-| CVPR | [2023](https://github.com/DmitryRyumin/CVPR-2023-Papers) |
-| ICASSP | [2023](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
+<table>
+    <tr>
+        <td><strong>Conference</strong></td>
+        <td colspan="1" align="center"><strong>Year</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><i>Computer Vision (CV)</i></td>
+    </tr>
+    <tr>
+        <td>CVPR</td>
+        <td><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><i>Speech (SP)</i></td>
+    </tr>
+    <tr>
+        <td>ICASSP</td>
+        <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+</table>
 
 ---
 
