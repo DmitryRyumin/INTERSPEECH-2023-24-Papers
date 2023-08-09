@@ -897,7 +897,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1648 | Describing the Phonetics in the Underlying Speech Attributes for Deep and Interpretable Speaker Recognition | [![GitHub](https://img.shields.io/github/stars/LIAvignon/BA-LR)](https://github.com/LIAvignon/BA-LR) | :heavy_minus_sign: |
 | 1214 | Range-based Equal Error Rate for Spoof Localization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17739-b31b1b.svg)](https://arxiv.org/abs/2305.17739) |
 | 1888 | Exploring the English Accent-Independent Features for Speech Emotion Recognition using Filter and Wrapper-based Methods for Feature Selection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 205 | Powerset Multi-Class Cross Entropy Loss for Neural Speaker Diarization | :heavy_minus_sign: | :heavy_minus_sign: |
+| 205 | Powerset Multi-Class Cross Entropy Loss for Neural Speaker Diarization | [![GitHub](https://img.shields.io/github/stars/FrenchKrab/IS2023-powerset-diarization)](https://github.com/FrenchKrab/IS2023-powerset-diarization) | :heavy_minus_sign: |
 | 394 | A Method of Audio-Visual Person Verification by Mining Connections between Time Series | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1249 | Group GMM-ResNet for Detection of Synthetic Speech Attacks | :heavy_minus_sign: | :heavy_minus_sign: |
 | 605 | One-Step Knowledge Distillation and Fine-Tuning in using Large Pre-trained Self-Supervised Learning Models for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/jungwoo4021/OS-KDFT)](https://github.com/jungwoo4021/OS-KDFT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17394-b31b1b.svg)](https://arxiv.org/abs/2305.17394) |
