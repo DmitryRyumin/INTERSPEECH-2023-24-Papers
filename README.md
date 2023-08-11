@@ -85,7 +85,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Resources for Spoken Language Processing
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1686 | Multimodal Personality Traits Assessment (MuPTA) Corpus: The Impact of Spontaneous and Read Speech | [![GitHub](https://img.shields.io/github/stars/DmitryRyumin/OCEANAI)](https://github.com/DmitryRyumin/OCEANAI) <br /> [![Documentation Status](https://readthedocs.org/projects/oceanai/badge/?version=latest)](https://oceanai.readthedocs.io/en/latest/?badge=latest) <br /> [![PyPI](https://img.shields.io/pypi/v/oceanai)](https://pypi.org/project/oceanai/) <br /> [![MuPTA](https://img.shields.io/badge/MuPTA-dataset-20BEFF.svg)](https://hci.nw.ru/en/pages/mupta-corpus) | :heavy_minus_sign: |
 | 1049 | MOCKS 1.0: Multilingual Open Custom Keyword Spotting Testset | :heavy_minus_sign: |  :heavy_minus_sign: |
@@ -96,7 +96,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Prosody and Emotion
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 749 | Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03594-b31b1b.svg)](https://arxiv.org/abs/2306.03594) |
 | 1292 | Speech Synthesis with Self-Supervisedly Learnt Prosodic Representations | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -107,7 +107,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Statistical Machine Translation
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2484 | Modular Speech-to-Text Translation for Zero-Shot Cross-Modal Transfer | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1063 | Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13204-b31b1b.svg)](https://arxiv.org/abs/2305.13204) |
@@ -118,7 +118,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Self-Supervised Learning in ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1213 | DPHuBERT: Joint Distillation and Pruning of Self-Supervised Speech Models | [![GitHub](https://img.shields.io/github/stars/pyf98/DPHuBERT)](https://github.com/pyf98/DPHuBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17651-b31b1b.svg)](https://arxiv.org/abs/2305.17651) |
 | 1040 | Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations | [![GitHub](https://img.shields.io/github/stars/salah-zaiem/augmentations_adaptation)](https://github.com/salah-zaiem/augmentations_adaptation) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00481-b31b1b.svg)](https://arxiv.org/abs/2306.00481) |
@@ -129,7 +129,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Prosody
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1781 | Chinese EFL Learners' Perception of English Prosodic Focus | :heavy_minus_sign: | :heavy_minus_sign: |
 | 315 | Pitch Accent Variation and the Interpretation of Rising and Falling Intonation in American English | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -140,7 +140,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Production
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 637 | Transvelar Nasal Coupling Contributing to Speaker Characteristics in Non-nasal Vowels | :heavy_minus_sign: | :heavy_minus_sign: |
 | 286 | Speech Synthesis from Articulatory Movements Recorded by Real-time MRI | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -149,7 +149,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Dysarthric Speech Assessment
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2017 | Automatic Assessments of Dysarthric Speech: the Usability of Acoustic-Phonetic Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1455 | Classification of Multi-class Vowels and Fricatives from Patients Having Amyotrophic Lateral Sclerosis with Varied Levels of Dysarthria Severity | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -160,7 +160,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Coding: Transmission
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1562 | CQNV: A Combination of Coarsely Quantized Bitstream and Neural Vocoder for Low Rate Speech Coding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1234 | Target Speech Extraction with Conditional Diffusion Model | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -169,7 +169,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2118 | Using Text Injection to Improve Recognition of Personal Identifiers in Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 837 | Investigating Wav2Vec2 Context Representations and the Effects of Fine-Tuning, a Case-Study of a Finnish Model | [![GitHub](https://img.shields.io/github/stars/aalto-speech/Wav2vec2Interpretation)](https://github.com/aalto-speech/Wav2vec2Interpretation) | :heavy_minus_sign: |
@@ -251,7 +251,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Analysis of Speech and Audio Signals
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1173 | Robust Prototype Learning for Anomalous Sound Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 982 | A Multimodal Prototypical Approach for Unsupervised Sound Classification | [![GitHub](https://img.shields.io/github/stars/sakshamsingh1/audio_text_proto)](https://github.com/sakshamsingh1/audio_text_proto) | [![arXiv](https://img.shields.io/badge/arXiv-2306.12300-b31b1b.svg)](https://arxiv.org/abs/2306.12300) |
@@ -341,7 +341,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2344 | Diacritic Recognition Performance in Arabic ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2302.14022) |
 | 990 | Personalization for BERT-based Discriminative Speech Recognition Rescoring | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/personalization-for-bert-based-discriminative-speech-recognition-rescoring) |
@@ -397,7 +397,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2044 | Syllable Discovery and Cross-Lingual Generalization in a Visually Grounded, Self-Supervised Speech Model | [![GitHub](https://img.shields.io/github/stars/jasonppy/syllable-discovery)](https://github.com/jasonppy/syllable-discovery) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11435-b31b1b.svg)](https://arxiv.org/abs/2305.11435) |
 | 2032 | Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization | [![GitHub](https://img.shields.io/github/stars/jasonppy/PromptingWhisper)](https://github.com/jasonppy/PromptingWhisper) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11095-b31b1b.svg)](https://arxiv.org/abs/2305.11095) |
@@ -437,7 +437,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Lexical and Language Modeling for ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 643 | NoRefER: A Referenceless Quality Metric for Automatic Speech Recognition via Semi-Supervised Language Model Fine-Tuning with Contrastive Learning | [![GitHub](https://img.shields.io/github/stars/aixplain/NoRefER)](https://github.com/aixplain/NoRefER) | [![arXiv](https://img.shields.io/badge/arXiv-2306.12577-b31b1b.svg)](https://arxiv.org/abs/2306.12577) |
 | 2128 | Scaling Laws for Discriminative Speech Recognition Rescoring Models | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/scaling-laws-for-discriminative-speech-recognition-rescoring-models) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.15815-b31b1b.svg)](https://arxiv.org/abs/2306.15815) |
@@ -448,7 +448,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Language Identification and Diarization
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 304 | Lightweight and Efficient Spoken Language Identification of Long-form Audio | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1109 | End-to-End Spoken Language Diarization with Wav2vec Embeddings | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -459,7 +459,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Quality Assessment
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1436 | DeePMOS: Deep Posterior Mean-Opinion-Score of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1644 | The Role of Formant and Excitation Source Features in Perceived Naturalness of Low Resource Tribal Language TTS: An Empirical Study | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -470,7 +470,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Feature Modeling for ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2296 | Re-Investigating the Efficient Transfer Learning of Speech Foundation Model using Feature Fusion Methods | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1556 | Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -481,7 +481,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Interfacing Speech Technology and Phonetics
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1846 | Phonemic Competition in End-to-End ASR models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 443 | Automatic Speaker Recognition with Variation Across Vocal Conditions: A Controlled Experiment with Implications for Forensics | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -490,7 +490,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Multilinguality
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2303 | FACTSpeech: Speaking a Foreign Language Pronunciation using Only Your Native Characters | :heavy_minus_sign: | :heavy_minus_sign: |
 | 934 | Cross-Lingual Transfer Learning for Phrase Break Prediction with Multilingual Language Model | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02579-b31b1b.svg)](https://arxiv.org/abs/2306.02579) |
@@ -501,7 +501,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Emotion Recognition
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2170 | Personalized Adaptation with Pre-trained Speech Encoders for Continuous Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1113 | The Importance of Calibration: Rethinking Confidence and Performance of Speech Multi-label Emotion Classifiers | :heavy_minus_sign: | [![BIIC](https://img.shields.io/badge/biic-research-F7C552.svg)](https://biic.ee.nthu.edu.tw/research.php?id=166) |
@@ -535,7 +535,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Spoken Dialog Systems and Conversational Analysis
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 46 | FC-MTLF: A Fine- and Coarse-grained Multi-task Learning Framework for Cross-Lingual Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
 | 93 | Cˆ2A-SLU: Cross and Contrastive Attention for Improving ASR Robustness in Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -577,7 +577,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Coding and Enhancement
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 936 | Biophysically-Inspired Single-Channel Speech Enhancement in the Time Domain | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1902 | On-Device Speaker Anonymization of Acoustic Embeddings for ASR based on Flexible Location Gradient Reversal Layer | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -640,7 +640,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Paralinguistics
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1023 | Detection of Emotional Hotspots in Meetings using a Cross-Corpus Approach | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1412 | Detection of Laughter and Screaming using the Attention and CTC Models | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -667,7 +667,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Enhancement and Denoising
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1088 | Real-Time Joint Personalized Speech Enhancement and Acoustic echo Cancellation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02773-b31b1b.svg)](https://arxiv.org/abs/2211.02773) |
 | 514 | TaylorBeamixer: Learning Taylor-Inspired All-Neural Multi-Channel Speech Enhancement from Beam-Space Dictionary Perspective | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://andong-li-speech.github.io/TaylorBM-Demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12024-b31b1b.svg)](https://arxiv.org/abs/2211.12024) |
@@ -678,7 +678,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Evaluation
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1843 | Listener Sensitivity to Deviating Obstruents in WaveNet | :heavy_minus_sign: | :heavy_minus_sign: |
 | 981 | How Generative Spoken Language Modeling Encodes Noisy Speech: Investigation from Phonetics to Syntactics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00697-b31b1b.svg)](https://arxiv.org/abs/2306.00697) |
@@ -689,7 +689,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### End-to-End Spoken Dialog Systems
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1799 | Can ChatGPT Detect Intent? Evaluating Large Language Models for Spoken Language Understanding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mutiann.github.io/papers/ChatGPT_SLU/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13512-b31b1b.svg)](https://arxiv.org/abs/2305.13512) |
 | 1760 | Improving End-to-End SLU performance with Prosodic Attention and Distillation | [![GitHub](https://img.shields.io/github/stars/skit-ai/slu-prosody)](https://github.com/skit-ai/slu-prosody) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08067-b31b1b.svg)](https://arxiv.org/abs/2305.08067) |
@@ -700,7 +700,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Biosignal-enabled Spoken Communication
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 278 | Obstructive Sleep Apnea Detection using Pretrained Speech Representations | :heavy_minus_sign: | :heavy_minus_sign: |
 | 620 | EEG-based Auditory Attention Detection with Spatiotemporal Graph and Graph Convolutional Network | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -715,7 +715,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Neural-based Speech and Acoustic Analysis
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1968 | Can Self-Supervised Neural Representations Pre-trained on Human Speech Distinguish Animal Callers? | [![GitHub](https://img.shields.io/github/stars/idiap/ssl-caller-detection)](https://github.com/idiap/ssl-caller-detection) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14035-b31b1b.svg)](https://arxiv.org/abs/2305.14035) |
 | 2342 | Discovering COVID-19 Coughing and Breathing Patterns from Unlabeled Data using Contrastive Learning with Varying Pre-Training Domains | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01864-b31b1b.svg)](https://arxiv.org/abs/2306.01864) |
@@ -726,7 +726,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### DiGo - Dialog for Good: Speech and Language Technology for Social Good
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2194 | A Multimodal Investigation of Speech, Text, Cognitive and Facial Video Features for Characterizing Depression with and without Medication | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1n6ymnLKt21RDfawu9WHsd8tgmBPuz9SC/view) |
 | 307 | Understanding Disrupted Sentences using Underspecified Abstract Meaning Representation | [![GitHub](https://img.shields.io/github/stars/amazon-science/disrupt-amr)](https://github.com/amazon-science/disrupt-amr) | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/understanding-disrupted-sentences-using-underspecified-abstract-meaning-representation) |
@@ -736,7 +736,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources, and Evaluation
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 180 | Pragmatic Pertinence: A Learnable Confidence Metric to Assess the Subjective Quality of LM-Generated Text | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2078 | ASR and Emotional Speech: A Word-Level Investigation of the Mutual Impact of Speech and Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16065-b31b1b.svg)](https://arxiv.org/abs/2305.16065) |
@@ -789,7 +789,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech, Voice, and Hearing Disorders
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2421 | Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13108-b31b1b.svg)](https://arxiv.org/abs/2305.13108) |
 | 2198 | Multimodal Locally Enhanced Transformer for Continuous Sign Language Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -822,7 +822,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Spoken Term Detection and Voice Search
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 478 | Matching Latent Encoding for Audio-Text based Keyword Spotting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05245-b31b1b.svg)](https://arxiv.org/abs/2306.05245) |
 | 1215 | Self-Paced Pattern Augmentation for Spoken Term Detection in Zero-Resource | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -833,7 +833,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Models for Streaming ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 |  831 | Enhancing the Unified Streaming and Non-Streaming Model with Contrastive Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00755-b31b1b.svg)](https://arxiv.org/abs/2306.00755) |
 | 1497 | ZeroPrompt: Streaming Acoustic Encoders are Zero-Shot Masked LMs | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10649-b31b1b.svg)](https://arxiv.org/abs/2305.10649) |
@@ -844,7 +844,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Source Separation
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1753 | Audio-Visual Speech Separation in Noisy Environments with a Lightweight Iterative Model | [![GitHub](https://img.shields.io/github/stars/hmartelb/avlit)](https://github.com/hmartelb/avlit) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00160-b31b1b.svg)](https://arxiv.org/abs/2306.00160) |
 | 1389 | Remixing-based Unsupervised Source Separation from Scratch | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -855,7 +855,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Perception
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1922 | A Neural Architecture for Selective Attention to Speech Features | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1122 | Quantifying Informational Masking due to Masker Intelligibility in Same-Talker Speech-in-Speech Perception | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -866,7 +866,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Phonetics and Phonology: Languages and Varieties
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1879 | The Emergence of Obstruent-Intrinsic f0 and VOT as Cues to the Fortis/Lenis Contrast in West Central Bavarian | :heavy_minus_sign: | :heavy_minus_sign: |
 | 431 | 〈'〉 in Tsimane': A Preliminary Investigation | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -877,7 +877,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speaker and Language Identification
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1989 | Vietnam-Celeb: A Large-Scale Dataset for Vietnamese Speaker Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2254 | What Can an Accent Identifier Learn? Probing Phonetic and Prosodic Information in a Wav2vec2-based Accent Identification Model | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://is23-2254.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.06524-b31b1b.svg)](https://arxiv.org/abs/2306.06524) |
@@ -941,7 +941,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis and Voice Conversion
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2336 | Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction | :heavy_minus_sign: | :heavy_minus_sign: |
 | 160 | Streaming Parrotron for On-Device Speech-to-Speech Conversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.13761-b31b1b.svg)](https://arxiv.org/abs/2210.13761) |
@@ -963,7 +963,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech and Language in Health: from Remote Monitoring to Medical Conversations
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2287 | An Automatic Multimodal Approach to Analyze Linguistic and Acoustic Cues on Parkinson's Disease Patients | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1332 | Personalization for Robust Voice Pathology Detection in Sound Waves | [![GitHub](https://img.shields.io/github/stars/Fsoft-AIC/RoPADet)](https://github.com/Fsoft-AIC/RoPADet) | :heavy_minus_sign: |
@@ -997,7 +997,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Novel Transformer Models for ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2228 | Conmer: Streaming Conformer without Self-Attention for Interactive Voice Assistants | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/conmer-streaming-conformer-without-self-attention-for-interactive-voice-assistants) |
 | 1255 | Intra-Ensemble: A New Method for Combining Intermediate Outputs in Transformer-based Automatic Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1008,7 +1008,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speaker Recognition
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1294 | An Enhanced Res2Net with Local and Global Feature Fusion for Speaker Verification | [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/3D-Speaker)](https://github.com/alibaba-damo-academy/3D-Speaker) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12838-b31b1b.svg)](https://arxiv.org/abs/2305.12838) |
 | 1286 | A Study on Visualization of Voiceprint Feature | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1023,7 +1023,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Cross-lingual and Multilingual ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1630 | Fast and Efficient Multilingual Self-Supervised Pre-training for Low-Resource Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1338 | UniSplice: Universal Cross-Lingual Data Splicing for Low-Resource ASR | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1034,7 +1034,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Voice Conversion
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 251 | Emotional Voice Conversion with Semi-Supervised Generative Modeling |:heavy_minus_sign:| :heavy_minus_sign: |
 | 817 | Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-Shot Speaker Adaptation |:heavy_minus_sign: | :heavy_minus_sign: |
@@ -1045,7 +1045,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Pathological Speech Analysis
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2093 | Multimodal Assessment of Bulbar Amyotrophic Lateral Sclerosis (ALS) using a Novel Remote Speech Assessment App | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2181 | On the use of High Frequency Information for Voice Pathology Classification | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1062,7 +1062,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multimodal Speech Emotion Recognition
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1832 | LanSER: Language-Model Supported Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 463 | Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1073,7 +1073,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Phonetics, Phonology, and Prosody
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1443 | Effects of Meter, Genre and Experience on Pausing, Lengthening and Prosodic Phrasing in German Poetry Reading | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1142 | Comparing First Spectral Moment of Australian English /s/ between Straight and Gay Voices using Three Analysis Window Sizes | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1110,7 +1110,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Coding: Privacy
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1026 | Masking Kernel for Learning Energy-Efficient Representations for Speaker Recognition and Mobile Health | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.04161-b31b1b.svg)](https://arxiv.org/abs/2302.04161) |
 | 727 | eSTImate: A Real-Time Speech Transmission Index Estimator with Speech Enhancement Auxiliary Task using Self-Attention Feature Pyramid Network | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1121,7 +1121,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Analysis of Neural Speech Representations
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1087 | Speech Self-Supervised Representation Bench-Marking: Are We Doing it Right? | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/salah-zaiem/speechbrain-2/tree/develop/recipes/SSL_benchmark) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00452-b31b1b.svg)](https://arxiv.org/abs/2306.00452) |
 | 383 | An Extension of Disentanglement Metrics and its Application to Voice | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1132,7 +1132,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### End-to-end ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1640 | End-to-End Joint Target and Non-Target Speakers ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02273-b31b1b.svg)](https://arxiv.org/abs/2306.02273) |
 | 144 | Improving Frame-Level Classifier for Word Timings with Non-peaky CTC in End-to-End Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07949-b31b1b.svg)](https://arxiv.org/abs/2306.07949) |
@@ -1143,7 +1143,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Spoken Language Understanding, Summarization, and Information Retrieval
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 461 | Leveraging Pretrained ASR Encoders for Effective and Efficient End-to-End Speech Intent Classification and Slot Filling | :heavy_minus_sign: |:heavy_minus_sign: |
 | 277 | Relation-based Counterfactual Data Augmentation and Contrastive Learning for Robustifying Natural Language Inference Models | :heavy_minus_sign: |:heavy_minus_sign: |
@@ -1154,7 +1154,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Invariant and Robust Pre-trained Acoustic Models
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 438 | ProsAudit, a Prosodic Benchmark for Self-Supervised Speech Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.12057-b31b1b.svg)](https://arxiv.org/abs/2302.12057) |
 | 871 | Self-Supervised Predictive Coding Models Encode Speaker and Phonetic Information in Orthogonal Subspaces | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12464-b31b1b.svg)](https://arxiv.org/abs/2305.12464) |
@@ -1165,7 +1165,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Representation Learning
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1571 | Adversarial Learning of Intermediate Acoustic Feature for End-to-End Lightweight Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2313 | Adapter-based Extension of Multi-Speaker Text-To-Speech Model for New Speakers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.00585) |
@@ -1176,7 +1176,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Perception, Production, and Acquisition
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1330 | Human Transcription Quality Improvement | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/human-transcription-quality-improvement) |
 | 1604 | The Effect of Masking Noise on Listeners' Spectral Tilt Preferences | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1214,7 +1214,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Acoustic Model Adaptation for ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 583 | Factorised Speaker-Environment Adaptive Training of Conformer Speech Recognition Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14608-b31b1b.svg)](https://arxiv.org/abs/2306.14608) |
 | 1349 | Text Only Domain Adaptation with Phoneme Guided Data Splicing for End-to-End Speech Recognition | [![GitHub](https://img.shields.io/github/stars/NVIDIA/NeMo)](https://github.com/NVIDIA/NeMo/) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14036-b31b1b.svg)](https://arxiv.org/abs/2302.14036) |
@@ -1225,7 +1225,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Expressivity
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 858 | Controllable Generation of Artificial Speaker Embeddings through Discovery of Principal Directions | [![GitHub](https://img.shields.io/github/stars/DigitalPhonetics/IMS-Toucan)](https://github.com/DigitalPhonetics/IMS-Toucan) | :heavy_minus_sign: |
 | 2242 | Dual Audio Encoders based Mandarin Prosodic Boundary Prediction by using Multi-Granularity Prosodic Representations | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1256,7 +1256,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multi-modal Systems
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1146 | BeAts: Bengali Speech Acts Recognition using Multimodal Attention Fusion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://soumitri2001.github.io/BeAts) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02680-b31b1b.svg)](https://arxiv.org/abs/2306.02680) |
 | 370 | Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech based on Metric Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.14203-b31b1b.svg)](https://arxiv.org/abs/2305.14203) |
@@ -1267,7 +1267,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Question Answering from Speech
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1485 | Prompt Guided Copy Mechanism for Conversational Question Answering | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1240 | Composing Spoken Hints for Follow-on Question Suggestion in Voice Assistants | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1278,7 +1278,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multi-talker Methods in Speech Processing
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1749 | SEF-Net: Speaker Embedding Free Target Spekaer Extraction Network | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1530 | Overlap aware Continuous Speech Separation without Permutation Invariant Training Linfeng | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1299,7 +1299,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Sociophonetics
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 206 | Aberystwyth English Pre-Aspiration in Apparent Time |:heavy_minus_sign: | :heavy_minus_sign: |
 | 1154 | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1308,7 +1308,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speaker and Language Diarization
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1228 | Attention-based Encoder-Decoder Network for End-to-End Neural Speaker Diarization with Target Speaker Attractor | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10704-b31b1b.svg)](https://arxiv.org/abs/2305.10704) |
 | 1447 | Robust Self Supervised Speech Embeddings for Child-Adult Classification in Interactions involving Children with Autism | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1319,7 +1319,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Anti-Spoofing for Speaker Verification
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1402 | Towards Single Integrated Spoofing-aware Speaker Verification Embeddings | [![GitHub](https://img.shields.io/github/stars/sasv-challenge/ASVSpoof5-SASVBaseline)](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19051-b31b1b.svg)](https://arxiv.org/abs/2305.19051) |
 | 1352 | Pseudo-Siamese Network based Timbre-Reserved Black-Box Adversarial Attack in Speaker Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19020-b31b1b.svg)](https://arxiv.org/abs/2305.19020) |
@@ -1330,7 +1330,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Coding: Intelligibility
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2209 | On Training a Neural Residual Acoustic echo Suppressor for Improved ASR | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1429 | Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jmlemercier.github.io/2023/05/30/interspeech2023.html) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00529-b31b1b.svg)](https://arxiv.org/abs/2303.00529) |
@@ -1341,7 +1341,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### New Computational Strategies for ASR Training and Inference
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2183 | A Metric-Driven Approach to Conformer Layer Pruning for Efficient ASR Inference | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1981 | Distillation Strategies for Discriminative Speech Recognition Rescoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.09452-b31b1b.svg)](https://arxiv.org/abs/2306.09452) |
@@ -1352,7 +1352,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1446 | MERLIon CCS Challenge: A English-Mandarin Code-Switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
 | 1335 | Spoken Language Identification System for English-Mandarin Code-Switching Child-Directed Speech | [![GitHub](https://img.shields.io/github/stars/shashikg/LID-Code-Switching)](https://github.com/shashikg/LID-Code-Switching) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00736-b31b1b.svg)](https://arxiv.org/abs/2306.00736) |
@@ -1362,7 +1362,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Health-Related Speech Analysis
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2038 | Classification of Vocal Intensity Category from Speech using the Wav2vec2 and Whisper Embeddings | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1668 | The Effect of Clinical Intervention on the Speech of Individuals with PTSD: Features and Recognition Performances | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1373,7 +1373,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Automatic Audio Classification and Audio Captioning
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 943 | Dual Transformer Decoder based Features Fusion Network for Automated Audio Captioning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18753-b31b1b.svg)](https://arxiv.org/abs/2305.18753) |
 | 1564 | Adapting a ConvNeXt Model to Audio Classification on AudioSet | [![GitHub](https://img.shields.io/github/stars/topel/audioset-convnext-inf)](https://github.com/topel/audioset-convnext-inf) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00830-b31b1b.svg)](https://arxiv.org/abs/2306.00830) |
@@ -1382,7 +1382,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 407 | Epoch-based Spectrum Estimation for Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1996 | OverFlow: Putting Flows on Top of Neural Transducers for Better TTS | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://shivammehta25.github.io/OverFlow/) <br /> [![GitHub](https://img.shields.io/github/stars/shivammehta25/OverFlow)](https://github.com/shivammehta25/OverFlow) | [![arXiv](https://img.shields.io/badge/arXiv-2211.06892-b31b1b.svg)](https://arxiv.org/abs/2211.06892) |
@@ -1409,7 +1409,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Controllability and Adaptation
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1608 | HierVST: Hierarchical Adaptive Zero-Shot Voice Style Transfer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hiervst.github.io) | :heavy_minus_sign: |
 | 391 | VISinger2: High-Fidelity End-to-End Singing Voice Synthesis Enhanced by Digital Signal Processing Synthesizer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zhangyongmao.github.io/VISinger2/) <br /> [![GitHub](https://img.shields.io/github/stars/zhangyongmao/VISinger2)](https://github.com/zhangyongmao/VISinger2) | [![arXiv](https://img.shields.io/badge/arXiv-2211.02903-b31b1b.svg)](https://arxiv.org/abs/2211.02903) |
@@ -1420,7 +1420,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Search Methods and Decoding Algorithms for ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 933 | Average Token Delay: A Latency Metric for Simultaneous Translation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.13173-b31b1b.svg)](https://arxiv.org/abs/2211.13173) |
 | 1450 | Automatic Speech Recognition Transformer with Global Contextual Information Decoder | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1431,7 +1431,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Signal Analysis
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2487 | MF-PAM: Accurate Pitch Estimation through Periodicity Analysis and Multi-Level Feature Fusion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.09640-b31b1b.svg)](https://arxiv.org/abs/2306.09640) |
 | 2211 | Enhancing Speech Articulation Analysis using A Geometric Transformation of the X-ray Microbeam Dataset | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10775-b31b1b.svg)](https://arxiv.org/abs/2305.10775) |
@@ -1442,7 +1442,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Connecting Speech-science and Speech-technology for Children's Speech
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 928 | Using Commercial ASR Solutions to Assess Reading Skills in Children: A Case Report | :heavy_minus_sign: | :heavy_minus_sign: |
 | 907 | Uncertainty Estimation for Connectionist Temporal Classification based Automatic Speech Recognition | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.tnt.uni-hannover.de/papers/data/1678/2023-Rumberg-Uncertainty_Estimation_for_Connectionist_Temporal_Classification_Based_Speech_Recognition.pdf) |
@@ -1466,7 +1466,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Dialog Management
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2238 | Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.10915-b31b1b.svg)](https://arxiv.org/abs/2301.10915) |
 | 2525 | An Autoregressive Conversational Dynamics Model for Dialogue Systems | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1477,7 +1477,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Activity Detection and Modeling
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 558 | GL-SSD: Global and Local Speech Style Disentanglement by Vector Quantization for Robust Sentence Boundary Detection in Speech Stream | :heavy_minus_sign: | :heavy_minus_sign: |
 | 598 | Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12450-b31b1b.svg)](https://arxiv.org/abs/2305.12450) |
@@ -1488,7 +1488,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multilingual Models for ASR
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1613 | Learning Cross-Lingual Mappings for Data Augmentation to Improve Low-Resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08577-b31b1b.svg)](https://arxiv.org/abs/2306.08577) |
 | 2122 | AfriNames: Most ASR models "butcher" African Names | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00253-b31b1b.svg)](https://arxiv.org/abs/2306.00253) |
@@ -1499,7 +1499,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Enhancement and Bandwidth Expansion
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 232 | Unsupervised Speech Enhancement with Deep Dynamical Generative Speech and Noise Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07820-b31b1b.svg)](https://arxiv.org/abs/2306.07820) |
 | 857 | Noise-Robust Bandwidth Expansion for 8K Speech Recordings | :heavy_minus_sign: |:heavy_minus_sign: |
@@ -1510,7 +1510,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Articulation
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2316 | Deep Speech Synthesis from MRI-based Articulatory Representations | [![GitHub](https://img.shields.io/github/stars/articulatory/articulatory)](https://github.com/articulatory/articulatory) | [![arXiv](https://img.shields.io/badge/arXiv-2307.02471-b31b1b.svg)](https://arxiv.org/abs/2307.02471) |
 | 562 | Learning to Compute the Articulatory Representations of Speech with the MIRRORNET | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yashish92.github.io/MirrorNet-for-speech/) <br /> [![GitHub](https://img.shields.io/github/stars/Yashish92/MirrorNet-for-speech)](https://github.com/Yashish92/MirrorNet-for-speech)| [![arXiv](https://img.shields.io/badge/arXiv-2210.16454-b31b1b.svg)](https://arxiv.org/abs/2210.16454) |
@@ -1519,7 +1519,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 633 | Coherence Estimation Tracks Auditory Attention in Listeners with Hearing Impairment | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2378 | Enhancing the EEG Speech Match Mismatch Tasks with Word Boundaries | [![GitHub](https://img.shields.io/github/stars/iiscleap/EEGspeech-MatchMismatch)](https://github.com/iiscleap/EEGspeech-MatchMismatch) | [![arXiv](https://img.shields.io/badge/arXiv-2307.00366-b31b1b.svg)](https://arxiv.org/abs/2307.00366) |
@@ -1533,7 +1533,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Perception of Paralinguistics
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2061 | Transfer Learning for Personality Perception via Speech Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16076-b31b1b.svg)](https://arxiv.org/abs/2305.16076) |
 | 1131 | A Stimulus-Organism-Response Model of Willingness to Buy from Advertising Speech using Voice Quality | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1544,7 +1544,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Technologies for Child Speech Processing
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1302 | Joint Learning Feature and Model Adaptation for Unsupervised Acoustic Modelling of Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1681 | Automatic Assessment of Oral Reading Accuracy for Reading Diagnostics | [![GitHub](https://img.shields.io/github/stars/bomolenaar/jasmin_data_prep)](https://github.com/bomolenaar/jasmin_data_prep) <br /> [![GitHub](https://img.shields.io/github/stars/cristiantg/kaldi_egs_CGN)](https://github.com/cristiantg/kaldi_egs_CGN/tree/onPonyLand) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03444-b31b1b.svg)](https://arxiv.org/abs/2306.03444) |
@@ -1553,7 +1553,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Multilinguality; Evaluation
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2064 | Automatic Evaluation of Turn-Taking Cues in Conversational Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://erikekstedt.github.io/vap_tts/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17971-b31b1b.svg)](https://arxiv.org/abs/2305.17971) |
 | 441 | Expressive Machine Dubbing through Phrase-Level Cross-Lingual Prosody Transfer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11662-b31b1b.svg)](https://arxiv.org/abs/2306.11662) |
@@ -1580,7 +1580,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Show and Tell: Health Applications and Emotion Recognition
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2618 | A Personalised Speech Communication Application for Dysarthric Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2624 | Video Multimodal Emotion Recognition System for Real World Applications | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1597,7 +1597,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2614 | DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/Rikorose/DeepFilterNet)](https://github.com/Rikorose/DeepFilterNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08227-b31b1b.svg)](https://arxiv.org/abs/2305.08227) |
 | 2615 | Nkululeko: Machine Learning Experiments on Speaker Characteristics without Programming | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1612,7 +1612,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Show and Tell: Language Learning and Educational Resources
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2623 | A Unified Framework to Improve Learners' Skills of Perception and Production based on Speech Shadowing and Overlapping | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2633 | Speak & Improve: L2 English Speaking Practice Tool | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1628,7 +1628,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Show and Tell: Media and Commercial Applications
 
-| :ID: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2621 | Let's Give a Voice to Conversational Agents in Virtual Reality | [![GitHub](https://img.shields.io/github/stars/sislab-unitn/Let-s-Give-a-Voice-to-Conversational-Agents-in-VR)](https://github.com/sislab-unitn/Let-s-Give-a-Voice-to-Conversational-Agents-in-VR) | :heavy_minus_sign: |
 | 2622 | FOOCTTS: Generating Arabic Speech with Acoustic Environment for Football Commentator | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07936-b31b1b.svg)](https://arxiv.org/abs/2306.07936) |
