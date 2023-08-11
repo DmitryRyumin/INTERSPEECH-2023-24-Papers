@@ -83,7 +83,100 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 > ***NOTE*:** Final paper links will be added post-conference.
 
+<details open>
+<summary>List of sections<a id="sections"></a></summary>
+
+- [Resources for Spoken Language Processing](#resources-for-spoken-language-processing)
+- [Speech Synthesis: Prosody and Emotion](#speech-synthesis-prosody-and-emotion)
+- [Statistical Machine Translation](#statistical-machine-translation)
+- [Self-Supervised Learning in ASR](#self-supervised-learning-in-asr)
+- [Prosody](#prosody)
+- [Speech Production](#speech-production)
+- [Dysarthric Speech Assessment](#dysarthric-speech-assessment)
+- [Speech Coding: Transmission](#speech-coding-transmission)
+- [Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation](#speech-recognition-signal-processing-acoustic-modeling-robustness-adaptation)
+- [Analysis of Speech and Audio Signals](#analysis-of-speech-and-audio-signals)
+- [Speech Recognition: Architecture, Search, and Linguistic Components](#speech-recognition-architecture-search-and-linguistic-components)
+- [Speech Recognition: Technologies and Systems for New Applications](#speech-recognition-technologies-and-systems-for-new-applications)
+- [Lexical and Language Modeling for ASR](#lexical-and-language-modeling-for-asr)
+- [Language Identification and Diarization](#language-identification-and-diarization)
+- [Speech Quality Assessment](#speech-quality-assessment)
+- [Feature Modeling for ASR](#feature-modeling-for-asr)
+- [Interfacing Speech Technology and Phonetics](#interfacing-speech-technology-and-phonetics)
+- [Speech Synthesis: Multilinguality](#speech-synthesis-multilinguality)
+- [Speech Emotion Recognition](#speech-emotion-recognition)
+- [Spoken Dialog Systems and Conversational Analysis](#spoken-dialog-systems-and-conversational-analysis)
+- [Speech Coding and Enhancement](#speech-coding-and-enhancement)
+- [Paralinguistics](#paralinguistics)
+- [Speech Enhancement and Denoising](#speech-enhancement-and-denoising)
+- [Speech Synthesis: Evaluation](#speech-synthesis-evaluation)
+- [End-to-End Spoken Dialog Systems](#end-to-end-spoken-dialog-systems)
+- [Biosignal-enabled Spoken Communication](#biosignal-enabled-spoken-communication)
+- [Neural-based Speech and Acoustic Analysis](#neural-based-speech-and-acoustic-analysis)
+- [DiGo - Dialog for Good: Speech and Language Technology for Social Good](#digo---dialog-for-good-speech-and-language-technology-for-social-good)
+- [Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources, and Evaluation](#spoken-language-processing-translation-information-retrieval-summarization-resources-and-evaluation)
+- [Speech, Voice, and Hearing Disorders](#speech-voice-and-hearing-disorders)
+- [Spoken Term Detection and Voice Search](#spoken-term-detection-and-voice-search)
+- [Models for Streaming ASR](#models-for-streaming-asr)
+- [Source Separation](#source-separation)
+- [Speech Perception](#speech-perception)
+- [Phonetics and Phonology: Languages and Varieties](#phonetics-and-phonology-languages-and-varieties)
+- [Speaker and Language Identification](#speaker-and-language-identification)
+- [Speech Synthesis and Voice Conversion](#speech-synthesis-and-voice-conversion)
+- [Speech and Language in Health: from Remote Monitoring to Medical Conversations](#speech-and-language-in-health-from-remote-monitoring-to-medical-conversations)
+- [Novel Transformer Models for ASR](#novel-transformer-models-for-asr)
+- [Speaker Recognition](#speaker-recognition)
+- [Cross-lingual and Multilingual ASR](#cross-lingual-and-multilingual-asr)
+- [Voice Conversion](#voice-conversion)
+- [Pathological Speech Analysis](#pathological-speech-analysis)
+- [Multimodal Speech Emotion Recognition](#multimodal-speech-emotion-recognition)
+- [Phonetics, Phonology, and Prosody](#phonetics-phonology-and-prosody)
+- [Speech Coding: Privacy](#speech-coding-privacy)
+- [Analysis of Neural Speech Representations](#analysis-of-neural-speech-representations)
+- [End-to-end ASR](#end-to-end-asr)
+- [Spoken Language Understanding, Summarization, and Information Retrieval](#spoken-language-understanding-summarization-and-information-retrieval)
+- [Invariant and Robust Pre-trained Acoustic Models](#invariant-and-robust-pre-trained-acoustic-models)
+- [Speech Synthesis: Representation Learning](#speech-synthesis-representation-learning)
+- [Speech Perception, Production, and Acquisition](#speech-perception-production-and-acquisition)
+- [Acoustic Model Adaptation for ASR](#acoustic-model-adaptation-for-asr)
+- [Speech Synthesis: Expressivity](#speech-synthesis-expressivity)
+- [Multi-modal Systems](#multi-modal-systems)
+- [Question Answering from Speech](#question-answering-from-speech)
+- [Multi-talker Methods in Speech Processing](#multi-talker-methods-in-speech-processing)
+- [Sociophonetics](#sociophonetics)
+- [Speaker and Language Diarization](#speaker-and-language-diarization)
+- [Anti-Spoofing for Speaker Verification](#anti-spoofing-for-speaker-verification)
+- [Speech Coding: Intelligibility](#speech-coding-intelligibility)
+- [New Computational Strategies for ASR Training and Inference](#new-computational-strategies-for-asr-training-and-inference)
+- [MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech](#merlion-ccs-challenge-multilingual-everyday-recordings---language-identification-on-code-switched-child-directed-speech)
+- [Health-Related Speech Analysis](#health-related-speech-analysis)
+- [Automatic Audio Classification and Audio Captioning](#automatic-audio-classification-and-audio-captioning)
+- [Speech Synthesis](#speech-synthesis)
+- [Speech Synthesis: Controllability and Adaptation](#speech-synthesis-controllability-and-adaptation)
+- [Search Methods and Decoding Algorithms for ASR](#search-methods-and-decoding-algorithms-for-asr)
+- [Speech Signal Analysis](#speech-signal-analysis)
+- [Connecting Speech-science and Speech-technology for Children's Speech](#connecting-speech-science-and-speech-technology-for-childrens-speech)
+- [Dialog Management](#dialog-management)
+- [Speech Activity Detection and Modeling](#speech-activity-detection-and-modeling)
+- [Multilingual Models for ASR](#multilingual-models-for-asr)
+- [Speech Enhancement and Bandwidth Expansion](#speech-enhancement-and-bandwidth-expansion)
+- [Articulation](#articulation)
+- [Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain](#neural-processing-of-speech-and-language-encoding-and-decoding-the-diverse-auditory-brain)
+- [Perception of Paralinguistics](#perception-of-paralinguistics)
+- [Technologies for Child Speech Processing](#technologies-for-child-speech-processing)
+- [Speech Synthesis: Multilinguality; Evaluation](#speech-synthesis-multilinguality-evaluation)
+- [Show and Tell: Health Applications and Emotion Recognition](#show-and-tell-health-applications-and-emotion-recognition)
+- [Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis](#show-and-tell-speech-tools-speech-enhancement-speech-synthesis)
+- [Show and Tell: Language Learning and Educational Resources](#show-and-tell-language-learning-and-educational-resources)
+- [Show and Tell: Media and Commercial Applications](#show-and-tell-media-and-commercial-applications)
+
+</details>
+
 ### Resources for Spoken Language Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -96,6 +189,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Prosody and Emotion
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 749 | Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03594-b31b1b.svg)](https://arxiv.org/abs/2306.03594) |
@@ -106,6 +203,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 834 | Comparing Normalizing Flows and Diffusion Models for Prosody and Acoustic Modelling in Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Statistical Machine Translation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -118,6 +219,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Self-Supervised Learning in ASR
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1213 | DPHuBERT: Joint Distillation and Pruning of Self-Supervised Speech Models | [![GitHub](https://img.shields.io/github/stars/pyf98/DPHuBERT)](https://github.com/pyf98/DPHuBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17651-b31b1b.svg)](https://arxiv.org/abs/2305.17651) |
@@ -128,6 +233,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1802 | Comparing Self-Supervised Pre-Training and Semi-Supervised Training for Speech Recognition in Languages with Weak Language Models | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Prosody
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -140,6 +249,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Production
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 637 | Transvelar Nasal Coupling Contributing to Speaker Characteristics in Non-nasal Vowels | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -148,6 +261,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1933 | Did You See that? Exploring the Role of Vision in the Development of Consonant Feature Contrasts in Children with Cochlear Implants | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Dysarthric Speech Assessment
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -160,6 +277,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Coding: Transmission
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1562 | CQNV: A Combination of Coarsely Quantized Bitstream and Neural Vocoder for Low Rate Speech Coding | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -168,6 +289,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 980 | Complex Image Generation SwinTransformer Network for Audio Denoising | [![GitHub](https://img.shields.io/github/stars/YoushanZhang/CoxImgSwinTransformer)](https://github.com/YoushanZhang/CoxImgSwinTransformer) | :heavy_minus_sign: |
 
 ### Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -250,6 +375,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 783 | Multi-View Frequency-Attention Alternative to CNN Frontends for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06954-b31b1b.svg)](https://arxiv.org/abs/2306.06954) |
 
 ### Analysis of Speech and Audio Signals
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -341,6 +470,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Recognition: Architecture, Search, and Linguistic Components
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2344 | Diacritic Recognition Performance in Arabic ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.14022-b31b1b.svg)](https://arxiv.org/abs/2302.14022) |
@@ -397,6 +530,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2044 | Syllable Discovery and Cross-Lingual Generalization in a Visually Grounded, Self-Supervised Speech Model | [![GitHub](https://img.shields.io/github/stars/jasonppy/syllable-discovery)](https://github.com/jasonppy/syllable-discovery) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11435-b31b1b.svg)](https://arxiv.org/abs/2305.11435) |
@@ -437,6 +574,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Lexical and Language Modeling for ASR
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 643 | NoRefER: A Referenceless Quality Metric for Automatic Speech Recognition via Semi-Supervised Language Model Fine-Tuning with Contrastive Learning | [![GitHub](https://img.shields.io/github/stars/aixplain/NoRefER)](https://github.com/aixplain/NoRefER) | [![arXiv](https://img.shields.io/badge/arXiv-2306.12577-b31b1b.svg)](https://arxiv.org/abs/2306.12577) |
@@ -447,6 +588,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1320 | Retraining-free Customized ASR for Enharmonic Words Based on a Named-Entity-Aware Model and Phoneme Similarity Estimation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17846-b31b1b.svg)](https://arxiv.org/abs/2305.17846) |
 
 ### Language Identification and Diarization
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -459,6 +604,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Quality Assessment
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1436 | DeePMOS: Deep Posterior Mean-Opinion-Score of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -469,6 +618,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 389 | Crowdsourced Data Validation for ASR Training | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Feature Modeling for ASR
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -481,6 +634,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Interfacing Speech Technology and Phonetics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1846 | Phonemic Competition in End-to-End ASR models | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -489,6 +646,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 680 | Automatic Speaker Recognition Performance with Matched and Mismatched Female Bilingual Speech Data | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis: Multilinguality
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -500,6 +661,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 861 | Multilingual Context-based Pronunciation Learning for Text-to-Speech | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/multilingual-context-based-pronunciation-learning-for-text-to-speech) |
 
 ### Speech Emotion Recognition
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -534,6 +699,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 396 | Speech Emotion Recognition using Decomposed Speech via Multi-Task Learning | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Spoken Dialog Systems and Conversational Analysis
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -576,6 +745,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1650 | Speaker-aware Cross-Modal Fusion Architecture for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Coding and Enhancement
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -640,6 +813,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Paralinguistics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1023 | Detection of Emotional Hotspots in Meetings using a Cross-Corpus Approach | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -667,6 +844,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Enhancement and Denoising
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1088 | Real-Time Joint Personalized Speech Enhancement and Acoustic echo Cancellation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02773-b31b1b.svg)](https://arxiv.org/abs/2211.02773) |
@@ -677,6 +858,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 992 | Short-Term Extrapolation of Speech Signals using Recursive Neural Networks in the STFT Domain | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis: Evaluation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -689,6 +874,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### End-to-End Spoken Dialog Systems
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1799 | Can ChatGPT Detect Intent? Evaluating Large Language Models for Spoken Language Understanding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mutiann.github.io/papers/ChatGPT_SLU/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13512-b31b1b.svg)](https://arxiv.org/abs/2305.13512) |
@@ -699,6 +888,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 41 | GhostT5: Generate More Features with Cheap Operations to Improve Textless Spoken Question Answering | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Biosignal-enabled Spoken Communication
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -715,6 +908,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Neural-based Speech and Acoustic Analysis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1968 | Can Self-Supervised Neural Representations Pre-trained on Human Speech Distinguish Animal Callers? | [![GitHub](https://img.shields.io/github/stars/idiap/ssl-caller-detection)](https://github.com/idiap/ssl-caller-detection) | [![arXiv](https://img.shields.io/badge/arXiv-2305.14035-b31b1b.svg)](https://arxiv.org/abs/2305.14035) |
@@ -726,6 +923,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### DiGo - Dialog for Good: Speech and Language Technology for Social Good
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2194 | A Multimodal Investigation of Speech, Text, Cognitive and Facial Video Features for Characterizing Depression with and without Medication | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1n6ymnLKt21RDfawu9WHsd8tgmBPuz9SC/view) |
@@ -735,6 +936,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 848 | Affective Attributes of French Caregivers' Professional Speech | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources, and Evaluation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -789,6 +994,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech, Voice, and Hearing Disorders
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2421 | Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.13108-b31b1b.svg)](https://arxiv.org/abs/2305.13108) |
@@ -822,6 +1031,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Spoken Term Detection and Voice Search
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 478 | Matching Latent Encoding for Audio-Text based Keyword Spotting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05245-b31b1b.svg)](https://arxiv.org/abs/2306.05245) |
@@ -832,6 +1045,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2222 | Robust Keyword Spotting for Noisy Environments by Leveraging Speech Enhancement and Speech Presence Probability | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Models for Streaming ASR
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -844,6 +1061,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Source Separation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1753 | Audio-Visual Speech Separation in Noisy Environments with a Lightweight Iterative Model | [![GitHub](https://img.shields.io/github/stars/hmartelb/avlit)](https://github.com/hmartelb/avlit) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00160-b31b1b.svg)](https://arxiv.org/abs/2306.00160) |
@@ -854,6 +1075,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 185 | Background-Sound Controllable Voice Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Perception
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -866,6 +1091,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Phonetics and Phonology: Languages and Varieties
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1879 | The Emergence of Obstruent-Intrinsic f0 and VOT as Cues to the Fortis/Lenis Contrast in West Central Bavarian | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -876,6 +1105,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1456 | Lexical Stress and Velar Palatalization in Italian: A Spatio-Temporal Interaction | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speaker and Language Identification
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -941,6 +1174,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis and Voice Conversion
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2336 | Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -962,6 +1199,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2558 | Cross-Utterance Conditioned Coherent Speech Editing | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech and Language in Health: from Remote Monitoring to Medical Conversations
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -997,6 +1238,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Novel Transformer Models for ASR
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2228 | Conmer: Streaming Conformer without Self-Attention for Interactive Voice Assistants | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/conmer-streaming-conformer-without-self-attention-for-interactive-voice-assistants) |
@@ -1007,6 +1252,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 552 | Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.13307-b31b1b.svg)](https://arxiv.org/abs/2306.13307) |
 
 ### Speaker Recognition
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1023,6 +1272,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Cross-lingual and Multilingual ASR
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1630 | Fast and Efficient Multilingual Self-Supervised Pre-training for Low-Resource Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1034,6 +1287,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Voice Conversion
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 251 | Emotional Voice Conversion with Semi-Supervised Generative Modeling |:heavy_minus_sign:| :heavy_minus_sign: |
@@ -1044,6 +1301,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2298 | End-to-End Zero-Shot Voice Conversion with Location-Variable Convolutions | [![GitHub](https://img.shields.io/github/stars/wonjune-kang/lvc-vc)](https://github.com/wonjune-kang/lvc-vc) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09784-b31b1b.svg)](https://arxiv.org/abs/2205.09784) |
 
 ### Pathological Speech Analysis
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1062,6 +1323,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multimodal Speech Emotion Recognition
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1832 | LanSER: Language-Model Supported Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1072,6 +1337,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 413 | SWRR: Feature Map Classifier Based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Phonetics, Phonology, and Prosody
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1110,6 +1379,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Coding: Privacy
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1026 | Masking Kernel for Learning Energy-Efficient Representations for Speaker Recognition and Mobile Health | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.04161-b31b1b.svg)](https://arxiv.org/abs/2302.04161) |
@@ -1120,6 +1393,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 703 | Malafide: A Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07655-b31b1b.svg)](https://arxiv.org/abs/2306.07655) |
 
 ### Analysis of Neural Speech Representations
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1132,6 +1409,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### End-to-end ASR
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1640 | End-to-End Joint Target and Non-Target Speakers ASR | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02273-b31b1b.svg)](https://arxiv.org/abs/2306.02273) |
@@ -1142,6 +1423,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 142 | Multi-Pass Training and Cross-Information Fusion for Low-Resource End-to-End Accented Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2306.11309) |
 
 ### Spoken Language Understanding, Summarization, and Information Retrieval
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1154,6 +1439,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Invariant and Robust Pre-trained Acoustic Models
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 438 | ProsAudit, a Prosodic Benchmark for Self-Supervised Speech Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.12057-b31b1b.svg)](https://arxiv.org/abs/2302.12057) |
@@ -1165,6 +1454,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Representation Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1571 | Adversarial Learning of Intermediate Acoustic Feature for End-to-End Lightweight Text-to-Speech | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1175,6 +1468,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1095 | ChatGPT-EDSS: Empathetic Dialogue Speech Synthesis Trained from ChatGPT-derived Context Word Embeddings | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarulab-speech.github.io/demo_ChatGPT_EDSS/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13724-b31b1b.svg)](https://arxiv.org/abs/2305.13724) |
 
 ### Speech Perception, Production, and Acquisition
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1214,6 +1511,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Acoustic Model Adaptation for ASR
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 583 | Factorised Speaker-Environment Adaptive Training of Conformer Speech Recognition Systems | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14608-b31b1b.svg)](https://arxiv.org/abs/2306.14608) |
@@ -1224,6 +1525,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1282 | SGEM: Test-Time Adaptation for Automatic Speech Recognition via Sequential-Level Generalized Entropy Minimization | [![GitHub](https://img.shields.io/github/stars/drumpt/SGEM)](https://github.com/drumpt/SGEM/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01981-b31b1b.svg)](https://arxiv.org/abs/2306.01981) |
 
 ### Speech Synthesis: Expressivity
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1256,6 +1561,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multi-modal Systems
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1146 | BeAts: Bengali Speech Acts Recognition using Multimodal Attention Fusion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://soumitri2001.github.io/BeAts) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02680-b31b1b.svg)](https://arxiv.org/abs/2306.02680) |
@@ -1267,6 +1576,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Question Answering from Speech
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1485 | Prompt Guided Copy Mechanism for Conversational Question Answering | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1277,6 +1590,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 539 | Enhancing Visual Question Answering via Deconstructing Questions and Explicating Answers | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Multi-talker Methods in Speech Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1299,6 +1616,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Sociophonetics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 206 | Aberystwyth English Pre-Aspiration in Apparent Time |:heavy_minus_sign: | :heavy_minus_sign: |
@@ -1307,6 +1628,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1704 | Vowel Normalisation in Latent Space for Sociolinguistics |:heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speaker and Language Diarization
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1319,6 +1644,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Anti-Spoofing for Speaker Verification
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1402 | Towards Single Integrated Spoofing-aware Speaker Verification Embeddings | [![GitHub](https://img.shields.io/github/stars/sasv-challenge/ASVSpoof5-SASVBaseline)](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19051-b31b1b.svg)](https://arxiv.org/abs/2305.19051) |
@@ -1329,6 +1658,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 371 | DoubleDeceiver: Deceiving the Speaker Verification System Protected by Spoofing Countermeasures | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Coding: Intelligibility
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1341,6 +1674,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### New Computational Strategies for ASR Training and Inference
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2183 | A Metric-Driven Approach to Conformer Layer Pruning for Efficient ASR Inference | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1352,6 +1689,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1446 | MERLIon CCS Challenge: A English-Mandarin Code-Switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
@@ -1361,6 +1702,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2047 | Language Identification Networks for Multilingual Everyday Recordings | :heavy_minus_sign: |:heavy_minus_sign: |
 
 ### Health-Related Speech Analysis
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1373,6 +1718,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Automatic Audio Classification and Audio Captioning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 943 | Dual Transformer Decoder based Features Fusion Network for Automated Audio Captioning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18753-b31b1b.svg)](https://arxiv.org/abs/2305.18753) |
@@ -1381,6 +1730,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1614 | Enhance Temporal Relations in Audio Captioning with Sound Event Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01533-b31b1b.svg)](https://arxiv.org/abs/2306.01533) |
 
 ### Speech Synthesis
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1409,6 +1762,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Synthesis: Controllability and Adaptation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1608 | HierVST: Hierarchical Adaptive Zero-Shot Voice Style Transfer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hiervst.github.io) | :heavy_minus_sign: |
@@ -1419,6 +1776,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2243 | STEN-TTS: Improving Zero-Shot Cross-Lingual Transfer for Multi-Lingual TTS with Style-Enhanced Normalization Diffusion Framework | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Search Methods and Decoding Algorithms for ASR
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1431,6 +1792,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Signal Analysis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2487 | MF-PAM: Accurate Pitch Estimation through Periodicity Analysis and Multi-Level Feature Fusion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.09640-b31b1b.svg)](https://arxiv.org/abs/2306.09640) |
@@ -1441,6 +1806,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2229 | FusedF0: Improving DNN-based F0 Estimation by Fusion of Summary-Correlograms and Raw Waveform Representations of Speech Signals | :heavy_minus_sign:| [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://www.seas.ucla.edu/spapl/paper/Eray_IS_2023.pdf) |
 
 ### Connecting Speech-science and Speech-technology for Children's Speech
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1466,6 +1835,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Dialog Management
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2238 | Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.10915-b31b1b.svg)](https://arxiv.org/abs/2301.10915) |
@@ -1476,6 +1849,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2513 | Tracking Must Go On: Dialogue State Tracking with Verified Self-Training | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Activity Detection and Modeling
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1488,6 +1865,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multilingual Models for ASR
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1613 | Learning Cross-Lingual Mappings for Data Augmentation to Improve Low-Resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08577-b31b1b.svg)](https://arxiv.org/abs/2306.08577) |
@@ -1498,6 +1879,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1014 | The MALACH Corpus: Results with End-to-End Architectures and Pretraining | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Enhancement and Bandwidth Expansion
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1510,6 +1895,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Articulation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2316 | Deep Speech Synthesis from MRI-based Articulatory Representations | [![GitHub](https://img.shields.io/github/stars/articulatory/articulatory)](https://github.com/articulatory/articulatory) | [![arXiv](https://img.shields.io/badge/arXiv-2307.02471-b31b1b.svg)](https://arxiv.org/abs/2307.02471) |
@@ -1518,6 +1907,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1593 | Exploring a Classification Approach using Quantised Articulatory Movements for Acoustic to Articulatory Inversion | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1533,6 +1926,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Perception of Paralinguistics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2061 | Transfer Learning for Personality Perception via Speech Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16076-b31b1b.svg)](https://arxiv.org/abs/2305.16076) |
@@ -1544,6 +1941,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Technologies for Child Speech Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1302 | Joint Learning Feature and Model Adaptation for Unsupervised Acoustic Modelling of Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1552,6 +1953,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 935 | Adaptation of Whisper Models to Child Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Speech Synthesis: Multilinguality; Evaluation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1580,6 +1985,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Show and Tell: Health Applications and Emotion Recognition
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2618 | A Personalised Speech Communication Application for Dysarthric Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
@@ -1597,6 +2006,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2614 | DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/Rikorose/DeepFilterNet)](https://github.com/Rikorose/DeepFilterNet) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08227-b31b1b.svg)](https://arxiv.org/abs/2305.08227) |
@@ -1611,6 +2024,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2667 | Application for Real-Time Audio-Visual Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
 
 ### Show and Tell: Language Learning and Educational Resources
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1627,6 +2044,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2669 | Personal Primer Prototype 1: Invitation to Make Your Own Embooked Speech-based Educational Artifact | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371491906_Personal_Primer_Prototype_1_Invitation_to_Make_Your_Own_Embooked_Speech-Based_Educational_Artifact) |
 
 ### Show and Tell: Media and Commercial Applications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
