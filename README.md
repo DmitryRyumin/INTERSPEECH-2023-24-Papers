@@ -1,7 +1,7 @@
 # INTERSPEECH-2023-Papers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Version](https://img.shields.io/badge/version-v1.0.0-rc3)
+![Version](https://img.shields.io/badge/version-v1.0.0-rc4)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/INTERSPEECH-2023-Papers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/README.md)
@@ -496,7 +496,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2292 | Language-Routing Mixture of Experts for Multi-Lingual and Code-Switching Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1437 | Embedding Articulatory Constraints for Low-Resource Speech Recognition based on Large Pre-trained Model | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2051 | Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18108-b31b1b.svg)](https://arxiv.org/abs/2305.18108) |
-| 768 | SpellMapper: A Non-Autoregressive Neural Spellchecker for ASR Customization with Candidate Retrieval based on N-Gram Mappings | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02317-b31b1b.svg)](https://arxiv.org/abs/2306.02317) |
+| 768 | SpellMapper: A Non-Autoregressive Neural Spellchecker for ASR Customization with Candidate Retrieval based on N-Gram Mappings | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/NVIDIA/NeMo/blob/main/tutorials/nlp/SpellMapper_English_ASR_Customization.ipynb) <br /> [![GitHub](https://img.shields.io/github/stars/NVIDIA/NeMo)](https://github.com/NVIDIA/NeMo) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02317-b31b1b.svg)](https://arxiv.org/abs/2306.02317) |
 | 2037 | Text Injection for Capitalization and Turn-Taking Prediction in Speech Models | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1281 | Confidence-based Ensembles of End-to-End Speech Recognition Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15824-b31b1b.svg)](https://arxiv.org/abs/2306.15824) |
 | 1050 | Unsupervised Code-Switched Text Generation from Parallel Text | :heavy_minus_sign: | :heavy_minus_sign: |
