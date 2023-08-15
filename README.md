@@ -23,7 +23,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 <p align="center">
     <a href="https://interspeech2023.org/" target="_blank">
-        <img width="400" src="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/images/Interspeech2023-Stacked-Colour_v2.png" alt="Interspeech 2023">
+        <img width="600" src="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/images/Interspeech2023-Stacked-Colour_v2.png" alt="Interspeech 2023">
     </a>
 <p>
 
