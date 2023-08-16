@@ -228,7 +228,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1213 | DPHuBERT: Joint Distillation and Pruning of Self-Supervised Speech Models | [![GitHub](https://img.shields.io/github/stars/pyf98/DPHuBERT)](https://github.com/pyf98/DPHuBERT) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17651-b31b1b.svg)](https://arxiv.org/abs/2305.17651) |
 | 1040 | Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations | [![GitHub](https://img.shields.io/github/stars/salah-zaiem/augmentations_adaptation)](https://github.com/salah-zaiem/augmentations_adaptation) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00481-b31b1b.svg)](https://arxiv.org/abs/2306.00481) |
 | 387 | Dual Acoustic Linguistic Self-Supervised Representation Learning for Cross-Domain Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2166 | O-1: Self-Training with Oracle and 1-best Hypothesis | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2166 | O-1: Self-Training with Oracle and 1-best Hypothesis | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.07486-b31b1b.svg)](https://arxiv.org/abs/2308.07486) |
 | 822 | MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets | [![GitHub](https://img.shields.io/github/stars/ddlBoJack/MT4SSL)](https://github.com/ddlBoJack/MT4SSL) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07321-b31b1b.svg)](https://arxiv.org/abs/2211.07321) |
 | 1802 | Comparing Self-Supervised Pre-Training and Semi-Supervised Training for Speech Recognition in Languages with Weak Language Models | :heavy_minus_sign: | :heavy_minus_sign: |
 
