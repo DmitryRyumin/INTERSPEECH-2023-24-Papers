@@ -2031,17 +2031,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2623 | A Unified Framework to Improve Learners' Skills of Perception and Production based on Speech Shadowing and Overlapping | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2633 | Speak & Improve: L2 English Speaking Practice Tool | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2641 | Measuring Prosody in Child Speech using SoapBox Fluency API | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2650 | Teaching Non-native Sound Contrasts using Visual Biofeedback | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2654 | Large-Scale Automatic Audiobook Creation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2658 | QVoice: Arabic Speech Pronunciation Learning Application | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.07445-b31b1b.svg)](https://arxiv.org/abs/2305.07445) |
-| 2659 | Asking Questions: an Innovative Way to Interact with Oral History Archives | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2660 | DisfluencyFixer: A Tool to Enhance Language Learning through Speech to Speech Disfluency Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16957-b31b1b.svg)](https://arxiv.org/abs/2305.16957) |
-| 2661 | Technology Pipeline for Large Scale Cross-Lingual Dubbing of Lecture Videos into Multiple Indian Languages | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.01338-b31b1b.svg)](https://arxiv.org/abs/2211.01338) |
-| 2668 | MyVoice: Arabic Speech Resource Collaboration Platform | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2669 | Personal Primer Prototype 1: Invitation to Make Your Own Embooked Speech-based Educational Artifact | :heavy_minus_sign: | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371491906_Personal_Primer_Prototype_1_Invitation_to_Make_Your_Own_Embooked_Speech-Based_Educational_Artifact) |
+| 2623 | A Unified Framework to Improve Learners' Skills of Perception and Production based on Speech Shadowing and Overlapping | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/minematsu23_interspeech.pdf) |
+| 2633 | Speak & Improve: L2 English Speaking Practice Tool | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nicholls23_interspeech.pdf) |
+| 2641 | Measuring Prosody in Child Speech using SoapBox Fluency API | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nicolao23_interspeech.pdf) |
+| 2650 | Teaching Non-native Sound Contrasts using Visual Biofeedback | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nissen23_interspeech.pdf) |
+| 2654 | Large-Scale Automatic Audiobook Creation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/walsh23_interspeech.pdf) |
+| 2658 | QVoice: Arabic Speech Pronunciation Learning Application | :heavy_minus_sign: |  [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/elkheir23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.07445-b31b1b.svg)](https://arxiv.org/abs/2305.07445) |
+| 2659 | Asking Questions: an Innovative Way to Interact with Oral History Archives | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/svec23_interspeech.pdf) |
+| 2660 | DisfluencyFixer: A Tool to Enhance Language Learning through Speech to Speech Disfluency Correction | [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://www.cfilt.iitb.ac.in/speech2text/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bhat23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.16957-b31b1b.svg)](https://arxiv.org/abs/2305.16957) |
+| 2661 | Technology Pipeline for Large Scale Cross-Lingual Dubbing of Lecture Videos into Multiple Indian Languages | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/prakash23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.01338-b31b1b.svg)](https://arxiv.org/abs/2211.01338) |
+| 2668 | MyVoice: Arabic Speech Resource Collaboration Platform | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/elshahawy23_interspeech.pdf)|
+| 2669 | Personal Primer Prototype 1: Invitation to Make Your Own Embooked Speech-based Educational Artifact | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hromada23_interspeech.pdf) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371491906_Personal_Primer_Prototype_1_Invitation_to_Make_Your_Own_Embooked_Speech-Based_Educational_Artifact) |
 
 ### Show and Tell: Media and Commercial Applications
 
