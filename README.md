@@ -283,10 +283,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1562 | CQNV: A Combination of Coarsely Quantized Bitstream and Neural Vocoder for Low Rate Speech Coding | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1234 | Target Speech Extraction with Conditional Diffusion Model | :heavy_minus_sign: | :heavy_minus_sign: |
-| 883 | Towards Fully Quantized Neural Networks For Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/ssi-research/FQSE)](https://github.com/ssi-research/FQSE) | :heavy_minus_sign: |
-| 980 | Complex Image Generation SwinTransformer Network for Audio Denoising | [![GitHub](https://img.shields.io/github/stars/YoushanZhang/CoxImgSwinTransformer)](https://github.com/YoushanZhang/CoxImgSwinTransformer) | :heavy_minus_sign: |
+| 1562 | CQNV: A Combination of Coarsely Quantized Bitstream and Neural Vocoder for Low Rate Speech Coding | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zheng23c_interspeech.pdf) |
+| 1234 | Target Speech Extraction with Conditional Diffusion Model | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kamo23_interspeech.pdf) |
+| 883 | Towards Fully Quantized Neural Networks For Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/ssi-research/FQSE)](https://github.com/ssi-research/FQSE) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cohen23_interspeech.pdf) |
+| 980 | Complex Image Generation SwinTransformer Network for Audio Denoising | [![GitHub](https://img.shields.io/github/stars/YoushanZhang/CoxImgSwinTransformer)](https://github.com/YoushanZhang/CoxImgSwinTransformer) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23p_interspeech.pdf) |
 
 ### Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
 
