@@ -240,12 +240,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1781 | Chinese EFL Learners' Perception of English Prosodic Focus | :heavy_minus_sign: | :heavy_minus_sign: |
-| 315 | Pitch Accent Variation and the Interpretation of Rising and Falling Intonation in American English | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1033 | Tonal Coarticulation as a Cue for Upcoming Prosodic Boundary | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2116 | Alignment of Beat Gestures and Prosodic Prominence in German | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1454 | Creak Prevalence and Prosodic Context in Australian English | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1651 | Speech Reduction: Position within French Prosodic Structure | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1781 | Chinese EFL Learners' Perception of English Prosodic Focus | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23da_interspeech.pdf) |
+| 315 | Pitch Accent Variation and the Interpretation of Rising and Falling Intonation in American English | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sostarics23_interspeech.pdf) |
+| 1033 | Tonal Coarticulation as a Cue for Upcoming Prosodic Boundary | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kuang23_interspeech.pdf) |
+| 2116 | Alignment of Beat Gestures and Prosodic Prominence in German | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/repp23_interspeech.pdf) |
+| 1454 | Creak Prevalence and Prosodic Context in Australian English | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/white23_interspeech.pdf) |
+| 1651 | Speech Reduction: Position within French Prosodic Structure | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bodur23_interspeech.pdf) |
 
 ### Speech Production
 
