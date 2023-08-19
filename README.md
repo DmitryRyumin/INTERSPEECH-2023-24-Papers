@@ -41,7 +41,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 <br />
 <br />
 
-> ***NOTE*:** Conference table will be up to date all the time.
+> :exclamation: Conference table will be up to date all the time.
 
 <table>
     <tr>
