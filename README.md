@@ -81,7 +81,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## [Papers](https://www.isca-speech.org/archive/interspeech_2023/)
 
-> ***NOTE*:** Final paper links will be added post-conference.
+> :exclamation: Final paper links will be added post-conference.
 
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
