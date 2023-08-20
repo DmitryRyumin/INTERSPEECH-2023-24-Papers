@@ -388,7 +388,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 734 | TFECN: Time-Frequency Enhanced ConvNet for Audio Classification | :heavy_minus_sign: | :heavy_minus_sign: |
 | 350 | Resolution Consistency Training on Time-Frequency Domain for Semi-Supervised Sound Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1174 | Fine-Tuning Audio Spectrogram Transformer with Task-Aware Adapters for Sound Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1210 | Small Footprint Multi-Channel Network for Keyword Spotting with Centroid Based Awareness | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1210 | Small Footprint Multi-Channel Network for Keyword Spotting with Centroid Based Awareness | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2204.05445-b31b1b.svg)](https://arxiv.org/abs/2204.05445) |
 | 1380 | Few-Shot Class-Incremental Audio Classification using Adaptively-Refined Prototypes | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18045-b31b1b.svg)](https://arxiv.org/abs/2305.18045) |
 | 1549 | Interpretable Latent Space using Space-Filling Curves for Phonetic Analysis in Voice Conversion | [![GitLab](https://img.shields.io/gitlab/stars/speech-interaction-technology-aalto-university/sfvq)](https://gitlab.com/speech-interaction-technology-aalto-university/sfvq) | [![Aalto](https://img.shields.io/badge/aalto-fi-005EB8.svg)](https://research.aalto.fi/en/publications/interpretable-latent-space-using-space-filling-curves-for-phoneti) |
 | 1861 | Topological Data Analysis for Speech Processing | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://topohubert.github.io/speech-topology-webpages/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.17223-b31b1b.svg)](https://arxiv.org/abs/2211.17223) |
@@ -1038,7 +1038,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 478 | Matching Latent Encoding for Audio-Text based Keyword Spotting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05245-b31b1b.svg)](https://arxiv.org/abs/2306.05245) |
 | 1215 | Self-Paced Pattern Augmentation for Spoken Term Detection in Zero-Resource | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2362 | On-Device Constrained Self-Supervised Speech Representation Learning for Keyword Spotting via Knowledge Distillation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/on-device-constrained-self-supervised-speech-representation-learning-for-keyword-spotting-via-knowledge-distillation) |
-| 90 | Online Continual Learning in Keyword Spotting for Low-Resource Devices via Pooling High-Order Temporal Statistics | :heavy_minus_sign: | :heavy_minus_sign: |
+| 90 | Online Continual Learning in Keyword Spotting for Low-Resource Devices via Pooling High-Order Temporal Statistics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.12660-b31b1b.svg)](https://arxiv.org/abs/2307.12660) |
 | 689 | Improving Small Footprint Few-Shot Keyword Spotting with Supervision on Auxiliary Data | :heavy_minus_sign: | :heavy_minus_sign: |
 | 2222 | Robust Keyword Spotting for Noisy Environments by Leveraging Speech Enhancement and Speech Presence Probability | :heavy_minus_sign: | :heavy_minus_sign: |
 
