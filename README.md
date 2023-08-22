@@ -622,12 +622,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2296 | Re-Investigating the Efficient Transfer Learning of Speech Foundation Model using Feature Fusion Methods | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1556 | Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training | :heavy_minus_sign: | :heavy_minus_sign: |
-| 509 | InterFormer: Interactive Local and Global Features Fusion for Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16342-b31b1b.svg)](https://arxiv.org/abs/2305.16342) |
-| 579 | Transductive Feature Space Regularization for Few-Shot Bioacoustic Event Detection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 615 | Incorporating L2 Phonemes using Articulatory Features for Robust Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02534-b31b1b.svg)](https://arxiv.org/abs/2306.02534) |
-| 1510 | On the (In)Efficiency of Acoustic Feature Extractors for Self-Supervised Speech Representation Learning | :heavy_minus_sign: | [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04116371) |
+| 2296 | Re-Investigating the Efficient Transfer Learning of Speech Foundation Model using Feature Fusion Methods | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/huo23b_interspeech.pdf) |
+| 1556 | Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/qi23_interspeech.pdf) |
+| 509 | InterFormer: Interactive Local and Global Features Fusion for Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lai23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.16342-b31b1b.svg)](https://arxiv.org/abs/2305.16342) |
+| 579 | Transductive Feature Space Regularization for Few-Shot Bioacoustic Event Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/tan23_interspeech.pdf) |
+| 615 | Incorporating L2 Phonemes using Articulatory Features for Robust Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23e_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02534-b31b1b.svg)](https://arxiv.org/abs/2306.02534) |
+| 1510 | On the (In)Efficiency of Acoustic Feature Extractors for Self-Supervised Speech Representation Learning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/parcollet23_interspeech.pdf) <br /> [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04116371) |
 
 ### Interfacing Speech Technology and Phonetics
 
