@@ -592,12 +592,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 304 | Lightweight and Efficient Spoken Language Identification of Long-form Audio | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1109 | End-to-End Spoken Language Diarization with Wav2vec Embeddings | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1986 | Efficient Spoken Language Recognition via Multilabel Classification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01945-b31b1b.svg)](https://arxiv.org/abs/2306.01945) |
-| 1529 | Description and Analysis of ABC Submission to NIST LRE 2022 | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1790 | Exploring the Impact of Pretrained Models and Web-Scraped Data for the 2022 NIST Language Recognition Evaluation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1094 | Advances in Language Recognition in Low Resource African Languages: The JHU-MIT Submission for NIST LRE22 | :heavy_minus_sign: | :heavy_minus_sign: |
+| 304 | Lightweight and Efficient Spoken Language Identification of Long-form Audio | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhu23c_interspeech.pdf) |
+| 1109 | End-to-End Spoken Language Diarization with Wav2vec Embeddings | [![GitHub](https://img.shields.io/github/stars/jagabandhumishra/W2V-E2E-Language-Diarization)](https://github.com/jagabandhumishra/W2V-E2E-Language-Diarization) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/mishra23_interspeech.pdf) |
+| 1986 | Efficient Spoken Language Recognition via Multilabel Classification | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nieto23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01945-b31b1b.svg)](https://arxiv.org/abs/2306.01945) |
+| 1529 | Description and Analysis of ABC Submission to NIST LRE 2022 | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/matejka23_interspeech.pdf) |
+| 1790 | Exploring the Impact of Pretrained Models and Web-Scraped Data for the 2022 NIST Language Recognition Evaluation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/alumae23_interspeech.pdf) |
+| 1094 | Advances in Language Recognition in Low Resource African Languages: The JHU-MIT Submission for NIST LRE22 | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/villalba23_interspeech.pdf) |
 
 ### Speech Quality Assessment
 
