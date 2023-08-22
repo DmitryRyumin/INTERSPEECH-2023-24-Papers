@@ -1291,7 +1291,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 251 | Emotional Voice Conversion with Semi-Supervised Generative Modeling |:heavy_minus_sign:| :heavy_minus_sign: |
-| 817 | Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-Shot Speaker Adaptation |:heavy_minus_sign: | :heavy_minus_sign: |
+| 817 | Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-Shot Speaker Adaptation | [![GitHub](https://img.shields.io/github/stars/hayeong0/Diff-HierVC)](https://github.com/hayeong0/Diff-HierVC) | :heavy_minus_sign: |
 | 215 | S2CD-VC: Self-Heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1508 | Flow-VAE VC: End-to-End Flow Framework with Contrastive Loss for Zero-Shot Voice Conversion | :heavy_minus_sign: | :heavy_minus_sign: |
 | 1602 | Automatic Speech Disentanglement for Voice Conversion using Rank Module and Speech Augmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hhhuazi.github.io) | [![arXiv](https://img.shields.io/badge/arXiv-2306.12259-b31b1b.svg)](https://arxiv.org/abs/2306.12259) |
