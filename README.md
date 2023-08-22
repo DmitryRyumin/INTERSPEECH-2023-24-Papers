@@ -637,10 +637,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1846 | Phonemic Competition in End-to-End ASR models | :heavy_minus_sign: | :heavy_minus_sign: |
-| 443 | Automatic Speaker Recognition with Variation Across Vocal Conditions: A Controlled Experiment with Implications for Forensics | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1398 | Exploring Graph Theory Methods for the Analysis of Pronunciation Variation in Spontaneous Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 680 | Automatic Speaker Recognition Performance with Matched and Mismatched Female Bilingual Speech Data | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1846 | Phonemic Competition in End-to-End ASR models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/tenbosch23_interspeech.pdf) |
+| 443 | Automatic Speaker Recognition with Variation Across Vocal Conditions: A Controlled Experiment with Implications for Forensics | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hughes23_interspeech.pdf) |
+| 1398 | Exploring Graph Theory Methods for the Analysis of Pronunciation Variation in Spontaneous Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/geiger23_interspeech.pdf) |
+| 680 | Automatic Speaker Recognition Performance with Matched and Mismatched Female Bilingual Speech Data | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nuttall23_interspeech.pdf) |
 
 ### Speech Synthesis: Multilinguality
 
