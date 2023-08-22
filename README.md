@@ -607,12 +607,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1436 | DeePMOS: Deep Posterior Mean-Opinion-Score of Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1644 | The Role of Formant and Excitation Source Features in Perceived Naturalness of Low Resource Tribal Language TTS: An Empirical Study | :heavy_minus_sign: | :heavy_minus_sign: |
-| 811 | A No-Reference Speech Quality Assessment Method based on Neural Network with Densely Connected Convolutional Architecture | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2507 | Probing Speech Quality Information in ASR Systems | :heavy_minus_sign: | :heavy_minus_sign: |
-| 589 | Preference-based Training Framework for Automatic Speech Quality Assessment using Deep Neural Network | :heavy_minus_sign: | :heavy_minus_sign: |
-| 389 | Crowdsourced Data Validation for ASR Training | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1436 | DeePMOS: Deep Posterior Mean-Opinion-Score of Speech | [![GitHub](https://img.shields.io/github/stars/Hope-Liang/DeePMOS)](https://github.com/Hope-Liang/DeePMOS) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liang23d_interspeech.pdf) |
+| 1644 | The Role of Formant and Excitation Source Features in Perceived Naturalness of Low Resource Tribal Language TTS: An Empirical Study | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/dasare23_interspeech.pdf) |
+| 811 | A No-Reference Speech Quality Assessment Method based on Neural Network with Densely Connected Convolutional Architecture | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gong23_interspeech.pdf) |
+| 2507 | Probing Speech Quality Information in ASR Systems | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ta23_interspeech.pdf) |
+| 589 | Preference-based Training Framework for Automatic Speech Quality Assessment using Deep Neural Network | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hu23d_interspeech.pdf) |
+| 389 | Crowdsourced Data Validation for ASR Training | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/phatthiyaphaibun23_interspeech.pdf) |
 
 ### Feature Modeling for ASR
 
