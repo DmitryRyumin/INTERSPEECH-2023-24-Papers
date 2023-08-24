@@ -877,12 +877,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1799 | Can ChatGPT Detect Intent? Evaluating Large Language Models for Spoken Language Understanding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mutiann.github.io/papers/ChatGPT_SLU/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13512-b31b1b.svg)](https://arxiv.org/abs/2305.13512) |
-| 1760 | Improving End-to-End SLU performance with Prosodic Attention and Distillation | [![GitHub](https://img.shields.io/github/stars/skit-ai/slu-prosody)](https://github.com/skit-ai/slu-prosody) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08067-b31b1b.svg)](https://arxiv.org/abs/2305.08067) |
-| 2575 | Modality Confidence Aware Training for Robust End-to-End Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
-|758 | Cross-Modal Semantic Alignment before Fusion for Two-Pass End-to-End Spoken Language | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2018 | ConvKT: Conversation-Level Knowledge Transfer for Context Aware End-to-End Spoken Language Understanding | :heavy_minus_sign: | :heavy_minus_sign: |
-| 41 | GhostT5: Generate More Features with Cheap Operations to Improve Textless Spoken Question Answering | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1799 | Can ChatGPT Detect Intent? Evaluating Large Language Models for Spoken Language Understanding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mutiann.github.io/papers/ChatGPT_SLU/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/he23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.13512-b31b1b.svg)](https://arxiv.org/abs/2305.13512) |
+| 1760 | Improving End-to-End SLU performance with Prosodic Attention and Distillation | [![GitHub](https://img.shields.io/github/stars/skit-ai/slu-prosody)](https://github.com/skit-ai/slu-prosody) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/rajaa23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.08067-b31b1b.svg)](https://arxiv.org/abs/2305.08067) |
+| 2575 | Modality Confidence Aware Training for Robust End-to-End Spoken Language Understanding | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kim23n_interspeech.pdf) |
+|758 | Cross-Modal Semantic Alignment before Fusion for Two-Pass End-to-End Spoken Language | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/huang23c_interspeech.pdf) |
+| 2018 | ConvKT: Conversation-Level Knowledge Transfer for Context Aware End-to-End Spoken Language Understanding | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sunder23_interspeech.pdf) |
+| 41 | GhostT5: Generate More Features with Cheap Operations to Improve Textless Spoken Question Answering | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cheng23_interspeech.pdf) |
 
 ### Biosignal-enabled Spoken Communication
 
