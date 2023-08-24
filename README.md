@@ -1988,18 +1988,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2618 | A Personalised Speech Communication Application for Dysarthric Speakers | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2624 | Video Multimodal Emotion Recognition System for Real World Applications | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2626 | Promoting Mental Self-Disclosure in a Spoken Dialogue System | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2632 | "Select Language, Modality or Put on a Mask!" Experiments with Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2635 | My Vowels Matter: Formant Automation Tools for Diverse Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2636 | NEMA: An Ecologically Valid Tool for Assessing Hearing Devices, Advanced Algorithms, and Communication in Diverse Listening Environments | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2644 | When Words Speak Just as Loudly as Actions: Virtual Agent based Remote Health Assessment Integrating What Patients Say with What They Do | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1wxkBg7fqSi0yV6uLjNO4FyhT3cEKoDhF/view) |
-| 2648 | Stuttering Detection Application | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2649 | Providing Interpretable Insights for Neurological Speech and Cognitive Disorders from Interactive Serious Games | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2651 | Automated Neural Nursing Assistant (ANNA): An Over-the-Phone System for Cognitive Monitoring | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2656 | 5G-IoT Cloud based Demonstration of Real-Time Audio-Visual Speech Enhancement for Multimodal Hearing-aids | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2671 | Towards Two-Point Neuron-Inspired Energy-Efficient Multimodal Open Master Hearing aid | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2618 | A Personalised Speech Communication Application for Dysarthric Speakers | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gibson23b_interspeech.pdf) |
+| 2624 | Video Multimodal Emotion Recognition System for Real World Applications | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lee23l_interspeech.pdf) |
+| 2626 | Promoting Mental Self-Disclosure in a Spoken Dialogue System | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/rohmatillah23_interspeech.pdf) |
+| 2632 | "Select Language, Modality or Put on a Mask!" Experiments with Multimodal Emotion Recognition | :heavy_minus_sign: |  [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bujnowski23_interspeech.pdf) |
+| 2635 | My Vowels Matter: Formant Automation Tools for Diverse Child Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/valentine23_interspeech.pdf) |
+| 2636 | NEMA: An Ecologically Valid Tool for Assessing Hearing Devices, Advanced Algorithms, and Communication in Diverse Listening Environments | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chongwhite23_interspeech.pdf) |
+| 2644 | When Words Speak Just as Loudly as Actions: Virtual Agent based Remote Health Assessment Integrating What Patients Say with What They Do | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ramanarayanan23_interspeech.pdf)<br />[![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1wxkBg7fqSi0yV6uLjNO4FyhT3cEKoDhF/view) |
+| 2648 | Stuttering Detection Application | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/motepalli23_interspeech.pdf)|
+| 2649 | Providing Interpretable Insights for Neurological Speech and Cognitive Disorders from Interactive Serious Games | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zusag23b_interspeech.pdf) |
+| 2651 | Automated Neural Nursing Assistant (ANNA): An Over-the-Phone System for Cognitive Monitoring | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/solinsky23_interspeech.pdf) |
+| 2656 | 5G-IoT Cloud based Demonstration of Real-Time Audio-Visual Speech Enhancement for Multimodal Hearing-aids | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://cogmhear.org/index.html) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gupta23b_interspeech.pdf) |
+| 2671 | Towards Two-Point Neuron-Inspired Energy-Efficient Multimodal Open Master Hearing aid | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/raza23_interspeech.pdf) |
 
 ### Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis
 
