@@ -892,16 +892,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 278 | Obstructive Sleep Apnea Detection using Pretrained Speech Representations | :heavy_minus_sign: | :heavy_minus_sign: |
-| 620 | EEG-based Auditory Attention Detection with Spatiotemporal Graph and Graph Convolutional Network | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1966 | Silent Speech Recognition with Articulator Positions Estimated from Tongue Ultrasound and Lip Video | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1377 | Auditory Attention Detection in Real-Life Scenarios using Common Spatial Patterns from EEG | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1381 | Diff-E: Diffusion-based Learning for Decoding Imagined Speech EEG | [![GitHub](https://img.shields.io/github/stars/yorgoon/DiffE)](https://github.com/yorgoon/DiffE) | :heavy_minus_sign: |
-| 40 | Towards Ultrasound Tongue Image Prediction from EEG During Speech Production | [![GitHub](https://img.shields.io/github/stars/BME-SmartLab/EEG-to-UTI)](https://github.com/BME-SmartLab/EEG-to-UTI) | [![arXiv](https://img.shields.io/badge/arXiv-2306.05374-b31b1b.svg)](https://arxiv.org/abs/2306.05374) |
-| 1607 | Adaptation of Tongue Ultrasound-based Silent Speech Interfaces using Spatial Transformer Networks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19130-b31b1b.svg)](https://arxiv.org/abs/2305.19130) |
-| 174 | STE-GAN: Speech-to-Electromyography Signal Conversion using Generative Adversarial Networks | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1881 | Spanish Phone Confusion Analysis for EMG-based Silent Speech Interfaces | :heavy_minus_sign: | :heavy_minus_sign: |
-| 805 | Hybrid Silent Speech Interface through Fusion of Electroencephalography and Electromyography | :heavy_minus_sign: | :heavy_minus_sign: |
+| 278 | Obstructive Sleep Apnea Detection using Pretrained Speech Representations | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23b_interspeech.pdf) |
+| 620 | EEG-based Auditory Attention Detection with Spatiotemporal Graph and Graph Convolutional Network | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23f_interspeech.pdf) |
+| 1966 | Silent Speech Recognition with Articulator Positions Estimated from Tongue Ultrasound and Lip Video | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/beeson23_interspeech.pdf) |
+| 1377 | Auditory Attention Detection in Real-Life Scenarios using Common Spatial Patterns from EEG | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yang23r_interspeech.pdf) |
+| 1381 | Diff-E: Diffusion-based Learning for Decoding Imagined Speech EEG | [![GitHub](https://img.shields.io/github/stars/yorgoon/DiffE)](https://github.com/yorgoon/DiffE) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kim23g_interspeech.pdf) |
+| 40 | Towards Ultrasound Tongue Image Prediction from EEG During Speech Production | [![GitHub](https://img.shields.io/github/stars/BME-SmartLab/EEG-to-UTI)](https://github.com/BME-SmartLab/EEG-to-UTI) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/csapo23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.05374-b31b1b.svg)](https://arxiv.org/abs/2306.05374) |
+| 1607 | Adaptation of Tongue Ultrasound-based Silent Speech Interfaces using Spatial Transformer Networks | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/toth23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19130-b31b1b.svg)](https://arxiv.org/abs/2305.19130) |
+| 174 | STE-GAN: Speech-to-Electromyography Signal Conversion using Generative Adversarial Networks | [![GitHub](https://img.shields.io/github/stars/scheck-k/ste-gan)](https://github.com/scheck-k/ste-gan) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/scheck23_interspeech.pdf) |
+| 1881 | Spanish Phone Confusion Analysis for EMG-based Silent Speech Interfaces | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/salomons23_interspeech.pdf) |
+| 805 | Hybrid Silent Speech Interface through Fusion of Electroencephalography and Electromyography | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://stone-wave.github.io/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23l_interspeech.pdf) |
 
 ### Neural-based Speech and Acoustic Analysis
 
