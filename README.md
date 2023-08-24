@@ -1883,12 +1883,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 232 | Unsupervised Speech Enhancement with Deep Dynamical Generative Speech and Noise Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.07820-b31b1b.svg)](https://arxiv.org/abs/2306.07820) |
-| 857 | Noise-Robust Bandwidth Expansion for 8K Speech Recordings | :heavy_minus_sign: |:heavy_minus_sign: |
-| 113 | mdctGAN: Taming Transformer-based GAN for Speech Super-Resolution with Modified DCT Spectra | [![GitHub](https://img.shields.io/github/stars/neoncloud/mdctgan)](https://github.com/neoncloud/mdctgan) | [![arXiv](https://img.shields.io/badge/arXiv-2305.11104-b31b1b.svg)](https://arxiv.org/abs/2305.11104) |
-| 625 | Zoneformer: On-Device Neural Beamformer for In-Car Multi-Zone Speech Separation, Enhancement and echo Cancellation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 634 | Low-Complexity Broadband Beampattern Synthesis using Array Response Control | :heavy_minus_sign: | :heavy_minus_sign: |
-| 904 | A GAN Speech Inpainting Model for Audio Editing Software | :heavy_minus_sign: | :heavy_minus_sign: |
+| 232 | Unsupervised Speech Enhancement with Deep Dynamical Generative Speech and Noise Models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lin23c_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2306.07820-b31b1b.svg)](https://arxiv.org/abs/2306.07820) |
+| 857 | Noise-Robust Bandwidth Expansion for 8K Speech Recordings | :heavy_minus_sign: |[![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lin23f_interspeech.pdf) |
+| 113 | mdctGAN: Taming Transformer-based GAN for Speech Super-Resolution with Modified DCT Spectra | [![GitHub](https://img.shields.io/github/stars/neoncloud/mdctgan)](https://github.com/neoncloud/mdctgan) |[![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/shuai23_interspeech.pdf) <br />[![arXiv](https://img.shields.io/badge/arXiv-2305.11104-b31b1b.svg)](https://arxiv.org/abs/2305.11104) |
+| 625 | Zoneformer: On-Device Neural Beamformer for In-Car Multi-Zone Speech Separation, Enhancement and echo Cancellation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yongxuustc.github.io/zf/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/xu23b_interspeech.pdf) |
+| 634 | Low-Complexity Broadband Beampattern Synthesis using Array Response Control | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/xu23c_interspeech.pdf) |
+| 904 | A GAN Speech Inpainting Model for Audio Editing Software | [![GitHub](https://img.shields.io/github/stars/HXZhao1/GSIM)](https://github.com/HXZhao1/GSIM) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhao23d_interspeech.pdf) |
 
 ### Articulation
 
