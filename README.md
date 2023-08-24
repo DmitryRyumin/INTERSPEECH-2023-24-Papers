@@ -1929,12 +1929,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2061 | Transfer Learning for Personality Perception via Speech Emotion Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.16076-b31b1b.svg)](https://arxiv.org/abs/2305.16076) |
-| 1131 | A Stimulus-Organism-Response Model of Willingness to Buy from Advertising Speech using Voice Quality | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1835 | Voice Passing: A Non-Binary Voice Gender Prediction System for evaluating Transgender | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1139 | Influence of Personal Traits on Impressions of One's Own Voice | :heavy_minus_sign: | :heavy_minus_sign: |
-| 887 | Pardon my Disfluency: The Impact of Disfluency Effects on the Perception of Speaker Competence and Confidence | :heavy_minus_sign: | :heavy_minus_sign: |
-| 711 | Cross-Linguistic Emotion Perception in Human and TTS Voices | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://michelledcohn.com/2023/05/19/interspeech-2023-paper-on-cross-cultural-emotion-perception/) | :heavy_minus_sign: |
+| 2061 | Transfer Learning for Personality Perception via Speech Emotion Recognition | :heavy_minus_sign: |[![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23da_interspeech.pdf) [![arXiv](https://img.shields.io/badge/arXiv-2305.16076-b31b1b.svg)](https://arxiv.org/abs/2305.16076) |
+| 1131 | A Stimulus-Organism-Response Model of Willingness to Buy from Advertising Speech using Voice Quality | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://ntt-hilab-gensp.github.io/is2023-SOR-VQ/)| [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nagano23_interspeech.pdf)|
+| 1835 | Voice Passing: A Non-Binary Voice Gender Prediction System for evaluating Transgender | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/doukhan23_interspeech.pdf) |
+| 1139 | Influence of Personal Traits on Impressions of One's Own Voice | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yanagida23_interspeech.pdf) |
+| 887 | Pardon my Disfluency: The Impact of Disfluency Effects on the Perception of Speaker Competence and Confidence | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kirkland23_interspeech.pdf) |
+| 711 | Cross-Linguistic Emotion Perception in Human and TTS Voices | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://michelledcohn.com/2023/05/19/interspeech-2023-paper-on-cross-cultural-emotion-perception/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gessinger23_interspeech.pdf)|
 
 ### Technologies for Child Speech Processing
 
@@ -1944,10 +1944,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1302 | Joint Learning Feature and Model Adaptation for Unsupervised Acoustic Modelling of Child Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1681 | Automatic Assessment of Oral Reading Accuracy for Reading Diagnostics | [![GitHub](https://img.shields.io/github/stars/bomolenaar/jasmin_data_prep)](https://github.com/bomolenaar/jasmin_data_prep) <br /> [![GitHub](https://img.shields.io/github/stars/cristiantg/kaldi_egs_CGN)](https://github.com/cristiantg/kaldi_egs_CGN/tree/onPonyLand) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03444-b31b1b.svg)](https://arxiv.org/abs/2306.03444) |
-| 2084 | An ASR-enabled Reading Tutor: Investigating Feedback to Optimize Interaction for Learning to Read | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://aichildinteraction.github.io/preprint/AIAIC23_paper_7671.pdf) |
-| 935 | Adaptation of Whisper Models to Child Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1302 | Joint Learning Feature and Model Adaptation for Unsupervised Acoustic Modelling of Child Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/duan23_interspeech.pdf) |
+| 1681 | Automatic Assessment of Oral Reading Accuracy for Reading Diagnostics | [![GitHub](https://img.shields.io/github/stars/bomolenaar/jasmin_data_prep)](https://github.com/bomolenaar/jasmin_data_prep) <br /> [![GitHub](https://img.shields.io/github/stars/cristiantg/kaldi_egs_CGN)](https://github.com/cristiantg/kaldi_egs_CGN/tree/onPonyLand) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/molenaar23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2306.03444-b31b1b.svg)](https://arxiv.org/abs/2306.03444) |
+| 2084 | An ASR-enabled Reading Tutor: Investigating Feedback to Optimize Interaction for Learning to Read | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bai23_interspeech.pdf)<br />[![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://aichildinteraction.github.io/preprint/AIAIC23_paper_7671.pdf) |
+| 935 | Adaptation of Whisper Models to Child Speech Recognition | [![GitHub](https://img.shields.io/github/stars/C3Imaging/whisper_child_asr)](https://github.com/C3Imaging/whisper_child_asr) <br />[![Hugging Face](https://img.shields.io/badge/HuggingFace-rishabhjain16-yellow)](https://huggingface.co/rishabhjain16)|  [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/jain23_interspeech.pdf) |
 
 ### Speech Synthesis: Multilinguality; Evaluation
 
