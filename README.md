@@ -847,12 +847,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1088 | Real-Time Joint Personalized Speech Enhancement and Acoustic echo Cancellation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.02773-b31b1b.svg)](https://arxiv.org/abs/2211.02773) |
-| 514 | TaylorBeamixer: Learning Taylor-Inspired All-Neural Multi-Channel Speech Enhancement from Beam-Space Dictionary Perspective | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://andong-li-speech.github.io/TaylorBM-Demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12024-b31b1b.svg)](https://arxiv.org/abs/2211.12024) |
-| 865 | MFT-CRN:Multi-Scale Fourier Transform for Monaural Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1265 | Variance-Preserving-based Interpolation Diffusion Models for Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08527-b31b1b.svg)](https://arxiv.org/abs/2306.08527) |
-| 318 | Multi-Input Multi-Output Complex Spectral Mapping for Speaker Separation | :heavy_minus_sign: | :heavy_minus_sign: |
-| 992 | Short-Term Extrapolation of Speech Signals using Recursive Neural Networks in the STFT Domain | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1088 | Real-Time Joint Personalized Speech Enhancement and Acoustic echo Cancellation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/eskimez23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02773-b31b1b.svg)](https://arxiv.org/abs/2211.02773) |
+| 514 | TaylorBeamixer: Learning Taylor-Inspired All-Neural Multi-Channel Speech Enhancement from Beam-Space Dictionary Perspective | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://andong-li-speech.github.io/TaylorBM-Demo/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23g_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.12024-b31b1b.svg)](https://arxiv.org/abs/2211.12024) |
+| 865 | MFT-CRN:Multi-Scale Fourier Transform for Monaural Speech Enhancement | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23s_interspeech.pdf) |
+| 1265 | Variance-Preserving-based Interpolation Diffusion Models for Speech Enhancement | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/guo23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.08527-b31b1b.svg)](https://arxiv.org/abs/2306.08527) |
+| 318 | Multi-Input Multi-Output Complex Spectral Mapping for Speaker Separation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/taherian23_interspeech.pdf) |
+| 992 | Short-Term Extrapolation of Speech Signals using Recursive Neural Networks in the STFT Domain | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/oberhag23_interspeech.pdf) |
 
 ### Speech Synthesis: Evaluation
 
