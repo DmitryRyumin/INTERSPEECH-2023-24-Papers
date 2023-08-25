@@ -1838,12 +1838,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2238 | Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.10915-b31b1b.svg)](https://arxiv.org/abs/2301.10915) |
-| 2525 | An Autoregressive Conversational Dynamics Model for Dialogue Systems | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1983 | Style-Transfer based Speech and Audio-Visual Scene Understanding for Robot Action Sequence Acquisition from Videos | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15644-b31b1b.svg)](https://arxiv.org/abs/2306.15644) |
-| 1037 | Speech aware Dialog System Technology Challenge (DSTC11) | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://dstc11.dstc.community/) | [![arXiv](https://img.shields.io/badge/arXiv-2212.08704-b31b1b.svg)](https://arxiv.org/abs/2212.08704) |
-| 1397 | Knowledge-Retrieval Task-Oriented Dialog Systems with Semi-Supervision | [![GitHub](https://img.shields.io/github/stars/thu-spmi/JSA-KRTOD)](https://github.com/thu-spmi/JSA-KRTOD) | [![arXiv](https://img.shields.io/badge/arXiv-2305.13199-b31b1b.svg)](https://arxiv.org/abs/2305.13199) |
-| 2513 | Tracking Must Go On: Dialogue State Tracking with Verified Self-Training | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2238 | Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ma23g_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2301.10915-b31b1b.svg)](https://arxiv.org/abs/2301.10915) |
+| 2525 | An Autoregressive Conversational Dynamics Model for Dialogue Systems | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/mcneill23_interspeech.pdf) |
+| 1983 | Style-Transfer based Speech and Audio-Visual Scene Understanding for Robot Action Sequence Acquisition from Videos | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hori23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2306.15644-b31b1b.svg)](https://arxiv.org/abs/2306.15644) |
+| 1037 | Speech aware Dialog System Technology Challenge (DSTC11) | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://dstc11.dstc.community/) |[![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/soltau23_interspeech.pdf) <br />[![arXiv](https://img.shields.io/badge/arXiv-2212.08704-b31b1b.svg)](https://arxiv.org/abs/2212.08704) |
+| 1397 | Knowledge-Retrieval Task-Oriented Dialog Systems with Semi-Supervision | [![GitHub](https://img.shields.io/github/stars/thu-spmi/JSA-KRTOD)](https://github.com/thu-spmi/JSA-KRTOD) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cai23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2305.13199-b31b1b.svg)](https://arxiv.org/abs/2305.13199) |
+| 2513 | Tracking Must Go On: Dialogue State Tracking with Verified Self-Training | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lee23k_interspeech.pdf) |
 
 ### Speech Activity Detection and Modeling
 
@@ -1853,12 +1853,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 558 | GL-SSD: Global and Local Speech Style Disentanglement by Vector Quantization for Robust Sentence Boundary Detection in Speech Stream | :heavy_minus_sign: | :heavy_minus_sign: |
-| 598 | Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12450-b31b1b.svg)](https://arxiv.org/abs/2305.12450) |
-| 2466 | Dynamic Encoder RNN for Online Voice Activity Detection in Adverse Noise Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
-| 996 | Point to the Hidden: Exposing Speech Audio Splicing via Signal Pointer Nets | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.05641-b31b1b.svg)](https://arxiv.org/abs/2307.05641) |
-| 716 | Real-Time Causal Spectro-Temporal Voice Activity Detection based on Convolutional Encoding and Residual Decoding | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2413 | SVVAD: Personal Voice Activity Detection for Speaker Verification | :heavy_minus_sign:  | [![arXiv](https://img.shields.io/badge/arXiv-2305.19581-b31b1b.svg)](https://arxiv.org/abs/2305.19581) |
+| 558 | GL-SSD: Global and Local Speech Style Disentanglement by Vector Quantization for Robust Sentence Boundary Detection in Speech Stream | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23i_interspeech.pdf) |
+| 598 | Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/shi23c_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2305.12450-b31b1b.svg)](https://arxiv.org/abs/2305.12450) |
+| 2466 | Dynamic Encoder RNN for Online Voice Activity Detection in Adverse Noise Conditions | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gudepu23_interspeech.pdf)|
+| 996 | Point to the Hidden: Exposing Speech Audio Splicing via Signal Pointer Nets | :heavy_minus_sign: |[![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/moussa23_interspeech.pdf)<br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.05641-b31b1b.svg)](https://arxiv.org/abs/2307.05641) |
+| 716 | Real-Time Causal Spectro-Temporal Voice Activity Detection based on Convolutional Encoding and Residual Decoding | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23k_interspeech.pdf) |
+| 2413 | SVVAD: Personal Voice Activity Detection for Speaker Verification | :heavy_minus_sign:  |  [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kang23c_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2305.19581-b31b1b.svg)](https://arxiv.org/abs/2305.19581) |
 
 ### Multilingual Models for ASR
 
@@ -1868,12 +1868,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1613 | Learning Cross-Lingual Mappings for Data Augmentation to Improve Low-Resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08577-b31b1b.svg)](https://arxiv.org/abs/2306.08577) |
-| 2122 | AfriNames: Most ASR models "butcher" African Names | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00253-b31b1b.svg)](https://arxiv.org/abs/2306.00253) |
-| 2528 | Towards Dialect-Inclusive Recognition in a Low-Resource Language: are Balanced Corpora the Answer? | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2588 | Svarah: Evaluating English ASR Systems on Indian Accents | [![GitHub](https://img.shields.io/github/stars/AI4Bharat/Svarah)](https://github.com/AI4Bharat/Svarah) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15760-b31b1b.svg)](https://arxiv.org/abs/2305.15760) |
-| 1044 | N-Shot Benchmarking of Whisper on Diverse Arabic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02902-b31b1b.svg)](https://arxiv.org/abs/2306.02902) |
-| 1014 | The MALACH Corpus: Results with End-to-End Architectures and Pretraining | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1613 | Learning Cross-Lingual Mappings for Data Augmentation to Improve Low-Resource Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/farooq23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2306.08577-b31b1b.svg)](https://arxiv.org/abs/2306.08577) |
+| 2122 | AfriNames: Most ASR models "butcher" African Names | [![Hugging Face](https://img.shields.io/badge/HuggingFace-tobiolatunji-yellow)](https://huggingface.co/datasets/tobiolatunji/afrispeech-200) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/olatunji23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2306.00253-b31b1b.svg)](https://arxiv.org/abs/2306.00253) |
+| 2528 | Towards Dialect-Inclusive Recognition in a Low-Resource Language: are Balanced Corpora the Answer? | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lonergan23_interspeech.pdf) |
+| 2588 | Svarah: Evaluating English ASR Systems on Indian Accents | [![GitHub](https://img.shields.io/github/stars/AI4Bharat/Svarah)](https://github.com/AI4Bharat/Svarah) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/javed23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2305.15760-b31b1b.svg)](https://arxiv.org/abs/2305.15760) |
+| 1044 | N-Shot Benchmarking of Whisper on Diverse Arabic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/talafha23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2306.02902-b31b1b.svg)](https://arxiv.org/abs/2306.02902) |
+| 1014 | The MALACH Corpus: Results with End-to-End Architectures and Pretraining | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/picheny23_interspeech.pdf) |
 
 ### Speech Enhancement and Bandwidth Expansion
 
