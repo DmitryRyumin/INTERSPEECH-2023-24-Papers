@@ -1553,7 +1553,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1639 | Creating Personalized Synthetic Voices from Post-Glossectomy Speech with Guided Diffusion Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://diffcorrect.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.17436-b31b1b.svg)](https://arxiv.org/abs/2305.17436) |
 | 2453 | A Generative Framework for Conversational Laughter: Its "Language Model" and Laughter Sound Synthesis | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03465-b31b1b.svg)](https://arxiv.org/abs/2306.03465) |
 | 1754 | Towards Spontaneous Style Modeling with Semi-Supervised Pre-training for Conversational Text-to-Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://thuhcsi.github.io/interspeech2023-spontaneousTTS/) | :heavy_minus_sign: |
-| 2072 | Beyond Style: Synthesizing Speech with Pragmatic Functions | :heavy_minus_sign: | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.speech.kth.se/tts-demos/beyond_style/) |
+| 2072 | Beyond Style: Synthesizing Speech with Pragmatic Functions | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.speech.kth.se/tts-demos/beyond_style/) | :heavy_minus_sign: |
 | 965 | eCat: An End-to-End Model for Multi-Speaker TTS & Many-to-Many Fine-Grained Prosody Transfer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.11327-b31b1b.svg)](https://arxiv.org/abs/2306.11327) |
 
 ### Multi-modal Systems
