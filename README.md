@@ -1064,12 +1064,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1753 | Audio-Visual Speech Separation in Noisy Environments with a Lightweight Iterative Model | [![GitHub](https://img.shields.io/github/stars/hmartelb/avlit)](https://github.com/hmartelb/avlit) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00160-b31b1b.svg)](https://arxiv.org/abs/2306.00160) |
-| 1389 | Remixing-based Unsupervised Source Separation from Scratch | :heavy_minus_sign: | :heavy_minus_sign: |
-| 577 | CAPTDURE: Captioned Sound Dataset of Single Sources | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17758-b31b1b.svg)](https://arxiv.org/abs/2305.17758) |
-| 488 | Recursive Sound Source Separation with Deep Learning-based Beamforming for Unknown Number of Sources | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2537 | Multi-Channel Speech Separation with Cross-Attention and Beamforming | :heavy_minus_sign: | :heavy_minus_sign: |
-| 185 | Background-Sound Controllable Voice Source Separation | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1753 | Audio-Visual Speech Separation in Noisy Environments with a Lightweight Iterative Model | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://avlit-interspeech.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/hmartelb/avlit)](https://github.com/hmartelb/avlit) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/martel23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00160-b31b1b.svg)](https://arxiv.org/abs/2306.00160) |
+| 1389 | Remixing-based Unsupervised Source Separation from Scratch | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/saijo23_interspeech.pdf) |
+| 577 | CAPTDURE: Captioned Sound Dataset of Single Sources | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/okamoto23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17758-b31b1b.svg)](https://arxiv.org/abs/2305.17758) |
+| 488 | Recursive Sound Source Separation with Deep Learning-based Beamforming for Unknown Number of Sources | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/munakata23_interspeech.pdf) |
+| 2537 | Multi-Channel Speech Separation with Cross-Attention and Beamforming | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/mosner23_interspeech.pdf) |
+| 185 | Background-Sound Controllable Voice Source Separation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/eom23_interspeech.pdf) |
 
 ### Speech Perception
 
