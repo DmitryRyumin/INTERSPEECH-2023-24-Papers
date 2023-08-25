@@ -1868,12 +1868,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1613 | Learning Cross-Lingual Mappings for Data Augmentation to Improve Low-Resource Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08577-b31b1b.svg)](https://arxiv.org/abs/2306.08577) |
-| 2122 | AfriNames: Most ASR models "butcher" African Names | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.00253-b31b1b.svg)](https://arxiv.org/abs/2306.00253) |
-| 2528 | Towards Dialect-Inclusive Recognition in a Low-Resource Language: are Balanced Corpora the Answer? | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2588 | Svarah: Evaluating English ASR Systems on Indian Accents | [![GitHub](https://img.shields.io/github/stars/AI4Bharat/Svarah)](https://github.com/AI4Bharat/Svarah) | [![arXiv](https://img.shields.io/badge/arXiv-2305.15760-b31b1b.svg)](https://arxiv.org/abs/2305.15760) |
-| 1044 | N-Shot Benchmarking of Whisper on Diverse Arabic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02902-b31b1b.svg)](https://arxiv.org/abs/2306.02902) |
-| 1014 | The MALACH Corpus: Results with End-to-End Architectures and Pretraining | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1613 | Learning Cross-Lingual Mappings for Data Augmentation to Improve Low-Resource Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/farooq23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2306.08577-b31b1b.svg)](https://arxiv.org/abs/2306.08577) |
+| 2122 | AfriNames: Most ASR models "butcher" African Names | [![Hugging Face](https://img.shields.io/badge/HuggingFace-tobiolatunji-yellow)](https://huggingface.co/datasets/tobiolatunji/afrispeech-200) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/olatunji23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2306.00253-b31b1b.svg)](https://arxiv.org/abs/2306.00253) |
+| 2528 | Towards Dialect-Inclusive Recognition in a Low-Resource Language: are Balanced Corpora the Answer? | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lonergan23_interspeech.pdf |
+| 2588 | Svarah: Evaluating English ASR Systems on Indian Accents | [![GitHub](https://img.shields.io/github/stars/AI4Bharat/Svarah)](https://github.com/AI4Bharat/Svarah) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/javed23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2305.15760-b31b1b.svg)](https://arxiv.org/abs/2305.15760) |
+| 1044 | N-Shot Benchmarking of Whisper on Diverse Arabic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/talafha23_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2306.02902-b31b1b.svg)](https://arxiv.org/abs/2306.02902) |
+| 1014 | The MALACH Corpus: Results with End-to-End Architectures and Pretraining | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/picheny23_interspeech.pdf) |
 
 ### Speech Enhancement and Bandwidth Expansion
 
