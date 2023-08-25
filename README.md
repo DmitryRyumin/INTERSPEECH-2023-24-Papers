@@ -1034,12 +1034,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 478 | Matching Latent Encoding for Audio-Text based Keyword Spotting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.05245-b31b1b.svg)](https://arxiv.org/abs/2306.05245) |
-| 1215 | Self-Paced Pattern Augmentation for Spoken Term Detection in Zero-Resource | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2362 | On-Device Constrained Self-Supervised Speech Representation Learning for Keyword Spotting via Knowledge Distillation | :heavy_minus_sign: | [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/on-device-constrained-self-supervised-speech-representation-learning-for-keyword-spotting-via-knowledge-distillation) |
+| 478 | Matching Latent Encoding for Audio-Text based Keyword Spotting | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nishu23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.05245-b31b1b.svg)](https://arxiv.org/abs/2306.05245) |
+| 1215 | Self-Paced Pattern Augmentation for Spoken Term Detection in Zero-Resource | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/p23_interspeech.pdf) |
+| 2362 | On-Device Constrained Self-Supervised Speech Representation Learning for Keyword Spotting via Knowledge Distillation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yang23y_interspeech.pdf) <br /> [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/on-device-constrained-self-supervised-speech-representation-learning-for-keyword-spotting-via-knowledge-distillation) |
 | 90 | Online Continual Learning in Keyword Spotting for Low-Resource Devices via Pooling High-Order Temporal Statistics | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/michieli23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.12660-b31b1b.svg)](https://arxiv.org/abs/2307.12660) |
-| 689 | Improving Small Footprint Few-Shot Keyword Spotting with Supervision on Auxiliary Data | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2222 | Robust Keyword Spotting for Noisy Environments by Leveraging Speech Enhancement and Speech Presence Probability | :heavy_minus_sign: | :heavy_minus_sign: |
+| 689 | Improving Small Footprint Few-Shot Keyword Spotting with Supervision on Auxiliary Data | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yang23j_interspeech.pdf) |
+| 2222 | Robust Keyword Spotting for Noisy Environments by Leveraging Speech Enhancement and Speech Presence Probability | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yang23t_interspeech.pdf) |
 
 ### Models for Streaming ASR
 
