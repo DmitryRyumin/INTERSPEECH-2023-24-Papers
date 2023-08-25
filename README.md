@@ -1853,12 +1853,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 558 | GL-SSD: Global and Local Speech Style Disentanglement by Vector Quantization for Robust Sentence Boundary Detection in Speech Stream | :heavy_minus_sign: | :heavy_minus_sign: |
-| 598 | Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12450-b31b1b.svg)](https://arxiv.org/abs/2305.12450) |
-| 2466 | Dynamic Encoder RNN for Online Voice Activity Detection in Adverse Noise Conditions | :heavy_minus_sign: | :heavy_minus_sign: |
-| 996 | Point to the Hidden: Exposing Speech Audio Splicing via Signal Pointer Nets | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.05641-b31b1b.svg)](https://arxiv.org/abs/2307.05641) |
-| 716 | Real-Time Causal Spectro-Temporal Voice Activity Detection based on Convolutional Encoding and Residual Decoding | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2413 | SVVAD: Personal Voice Activity Detection for Speaker Verification | :heavy_minus_sign:  | [![arXiv](https://img.shields.io/badge/arXiv-2305.19581-b31b1b.svg)](https://arxiv.org/abs/2305.19581) |
+| 558 | GL-SSD: Global and Local Speech Style Disentanglement by Vector Quantization for Robust Sentence Boundary Detection in Speech Stream | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23i_interspeech.pdf) |
+| 598 | Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/shi23c_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2305.12450-b31b1b.svg)](https://arxiv.org/abs/2305.12450) |
+| 2466 | Dynamic Encoder RNN for Online Voice Activity Detection in Adverse Noise Conditions | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gudepu23_interspeech.pdf)|
+| 996 | Point to the Hidden: Exposing Speech Audio Splicing via Signal Pointer Nets | :heavy_minus_sign: |[![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/moussa23_interspeech.pdf)<br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.05641-b31b1b.svg)](https://arxiv.org/abs/2307.05641) |
+| 716 | Real-Time Causal Spectro-Temporal Voice Activity Detection based on Convolutional Encoding and Residual Decoding | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23k_interspeech.pdf) |
+| 2413 | SVVAD: Personal Voice Activity Detection for Speaker Verification | :heavy_minus_sign:  |  [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kang23c_interspeech.pdf)<br />[![arXiv](https://img.shields.io/badge/arXiv-2305.19581-b31b1b.svg)](https://arxiv.org/abs/2305.19581) |
 
 ### Multilingual Models for ASR
 
