@@ -1079,12 +1079,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1922 | A Neural Architecture for Selective Attention to Speech Features | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1122 | Quantifying Informational Masking due to Masker Intelligibility in Same-Talker Speech-in-Speech Perception | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1476 | On the Benefits of Self-Supervised Learned Speech Representations for Predicting Human Phonetic Misperceptions | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2154 | Predicting Perceptual Centers Located at Vowel Onset in German Speech using Long Short-Term Memory Networks | :heavy_minus_sign: | :heavy_minus_sign: |
-| 63 | Exploring the Mutual Intelligibility Breakdown Caused by Sculpting Speech from a Competing Speech Signal | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2103 | Perception of Incomplete Voicing Neutralization of Obstruents in Tohoku Japanese | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1922 | A Neural Architecture for Selective Attention to Speech Features | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/jurov23_interspeech.pdf) |
+| 1122 | Quantifying Informational Masking due to Masker Intelligibility in Same-Talker Speech-in-Speech Perception | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/huo23_interspeech.pdf) |
+| 1476 | On the Benefits of Self-Supervised Learned Speech Representations for Predicting Human Phonetic Misperceptions | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cuervo23_interspeech.pdf) |
+| 2154 | Predicting Perceptual Centers Located at Vowel Onset in German Speech using Long Short-Term Memory Networks | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/schulz23_interspeech.pdf) |
+| 63 | Exploring the Mutual Intelligibility Breakdown Caused by Sculpting Speech from a Competing Speech Signal | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cooke23_interspeech.pdf) |
+| 2103 | Perception of Incomplete Voicing Neutralization of Obstruents in Tohoku Japanese | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kitahara23_interspeech.pdf) |
 
 ### Phonetics and Phonology: Languages and Varieties
 
