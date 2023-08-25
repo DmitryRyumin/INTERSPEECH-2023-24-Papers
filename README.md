@@ -1721,10 +1721,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 943 | Dual Transformer Decoder based Features Fusion Network for Automated Audio Captioning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18753-b31b1b.svg)](https://arxiv.org/abs/2305.18753) |
-| 1564 | Adapting a ConvNeXt Model to Audio Classification on AudioSet | [![GitHub](https://img.shields.io/github/stars/topel/audioset-convnext-inf)](https://github.com/topel/audioset-convnext-inf) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00830-b31b1b.svg)](https://arxiv.org/abs/2306.00830) |
-| 1610 | Few-Shot Class-Incremental Audio Classification using Stochastic Classifier | [![GitHub](https://img.shields.io/github/stars/vinceasvp/meta-sc)](https://github.com/vinceasvp/meta-sc) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02053-b31b1b.svg)](https://arxiv.org/abs/2306.02053) |
-| 1614 | Enhance Temporal Relations in Audio Captioning with Sound Event Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.01533-b31b1b.svg)](https://arxiv.org/abs/2306.01533) |
+| 943 | Dual Transformer Decoder based Features Fusion Network for Automated Audio Captioning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sun23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.18753-b31b1b.svg)](https://arxiv.org/abs/2305.18753) |
+| 1564 | Adapting a ConvNeXt Model to Audio Classification on AudioSet | [![GitHub](https://img.shields.io/github/stars/topel/audioset-convnext-inf)](https://github.com/topel/audioset-convnext-inf) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/pellegrini23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00830-b31b1b.svg)](https://arxiv.org/abs/2306.00830) |
+| 1610 | Few-Shot Class-Incremental Audio Classification using Stochastic Classifier | [![GitHub](https://img.shields.io/github/stars/vinceasvp/meta-sc)](https://github.com/vinceasvp/meta-sc) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23w_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02053-b31b1b.svg)](https://arxiv.org/abs/2306.02053) |
+| 1614 | Enhance Temporal Relations in Audio Captioning with Sound Event Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/xie23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01533-b31b1b.svg)](https://arxiv.org/abs/2306.01533) |
 
 ### Speech Synthesis
 
