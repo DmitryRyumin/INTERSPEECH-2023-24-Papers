@@ -1305,18 +1305,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2093 | Multimodal Assessment of Bulbar Amyotrophic Lateral Sclerosis (ALS) using a Novel Remote Speech Assessment App | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2181 | On the use of High Frequency Information for Voice Pathology Classification | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1784 | Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora? | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2531 | Severity Classification of Parkinson's Disease from Speech using Single Frequency Filtering-based Features | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1915 | Comparison of Acoustic Measures of Dysphonia in Parkinson's Disease and Huntington's Disease: Effect of Sex and Speaking Task | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03443-b31b1b.svg)](https://arxiv.org/abs/2306.03443) |
-| 1574 | A Pipeline to Evaluate the Effects of Noise on Machine Learning Detection of Laryngeal Cancer | [![GitHub](https://img.shields.io/github/stars/mary-paterson/Interspeech2023-EvaluationPipeline)](https://github.com/mary-paterson/Interspeech2023-EvaluationPipeline) | :heavy_minus_sign: |
-| 2474 | ReCLR: Reference-Enhanced Contrastive Learning of Audio Representation for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
-| 234 | Automated Multiple Sclerosis Screening based on Encoded Speech Representations | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1934 | Cross-Lingual Features for Alzheimer's Dementia Detection from Speech | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1653 | Careful Whisper - Leveraging Advances in Automatic Speech Recognition for Robust and Interpretable Aphasia Subtype Classification | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1868 | Behavioral Analysis of Pathological Speaker Embeddings of Patients During Oncological Treatment of Oral Cancer | :heavy_minus_sign: | :heavy_minus_sign: |
+| 2093 | Multimodal Assessment of Bulbar Amyotrophic Lateral Sclerosis (ALS) using a Novel Remote Speech Assessment App | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/simmatis23_interspeech.pdf) |
+| 2181 | On the use of High Frequency Information for Voice Pathology Classification | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/martinez23_interspeech.pdf) |
+| 1784 | Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora? | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/favaro23_interspeech.pdf) |
+| 2531 | Severity Classification of Parkinson's Disease from Speech using Single Frequency Filtering-based Features | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kadiri23_interspeech.pdf) |
+| 1915 | Comparison of Acoustic Measures of Dysphonia in Parkinson's Disease and Huntington's Disease: Effect of Sex and Speaking Task | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/simek23_interspeech.pdf) |
+| 1734 | Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses | [![GitHub](https://img.shields.io/github/stars/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease)](https://github.com/LuciaGomZa/INTERSPEECH2023_AlzheimersDisease) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gomezzaragoza23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.03443-b31b1b.svg)](https://arxiv.org/abs/2306.03443) |
+| 1574 | A Pipeline to Evaluate the Effects of Noise on Machine Learning Detection of Laryngeal Cancer | [![GitHub](https://img.shields.io/github/stars/mary-paterson/Interspeech2023-EvaluationPipeline)](https://github.com/mary-paterson/Interspeech2023-EvaluationPipeline) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/paterson23_interspeech.pdf) |
+| 2474 | ReCLR: Reference-Enhanced Contrastive Learning of Audio Representation for Depression Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23ga_interspeech.pdf) |
+| 234 | Automated Multiple Sclerosis Screening based on Encoded Speech Representations | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/egaslopez23_interspeech.pdf) |
+| 1934 | Cross-Lingual Features for Alzheimer's Dementia Detection from Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/melistas23_interspeech.pdf) |
+| 1653 | Careful Whisper - Leveraging Advances in Automatic Speech Recognition for Robust and Interpretable Aphasia Subtype Classification | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zusag23_interspeech.pdf) |
+| 1868 | Behavioral Analysis of Pathological Speaker Embeddings of Patients During Oncological Treatment of Oral Cancer | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/thienpondt23_interspeech.pdf) |
 
 ### Multimodal Speech Emotion Recognition
 
@@ -1326,12 +1326,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1832 | LanSER: Language-Model Supported Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 463 | Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1591 | Emotion Label Encoding using Word Embeddings for Speech Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2444 | Discrimination of the Different Intents Carried by the Same Text through Integrating Multimodal Information | :heavy_minus_sign: | :heavy_minus_sign: |
-| 510 | Meta-Domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-Sentiment Predictions | :heavy_minus_sign: | :heavy_minus_sign: |
-| 413 | SWRR: Feature Map Classifier based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1832 | LanSER: Language-Model Supported Speech Emotion Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gong23c_interspeech.pdf) |
+| 463 | Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/luo23_interspeech.pdf) |
+| 1591 | Emotion Label Encoding using Word Embeddings for Speech Emotion Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/stanley23_interspeech.pdf) |
+| 2444 | Discrimination of the Different Intents Carried by the Same Text through Integrating Multimodal Information | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23ia_interspeech.pdf) |
+| 510 | Meta-Domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-Sentiment Predictions | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23f_interspeech.pdf) |
+| 413 | SWRR: Feature Map Classifier based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhao23b_interspeech.pdf) |
 
 ### Phonetics, Phonology, and Prosody
 
