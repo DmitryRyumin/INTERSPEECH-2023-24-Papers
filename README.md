@@ -1579,12 +1579,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1485 | Prompt Guided Copy Mechanism for Conversational Question Answering | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1240 | Composing Spoken Hints for Follow-on Question Suggestion in Voice Assistants | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1391 | On Monotonic Aggregation for Open-Domain QA | [![GitHub](https://img.shields.io/github/stars/YeonseokJeong/Judge-Specialist)](https://github.com/YeonseokJeong/Judge-Specialist) | :heavy_minus_sign: |
-| 2240 | Question-Context Alignment and Answer-Context Dependencies for Effective Answer Sentence Selection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02196-b31b1b.svg)](https://arxiv.org/abs/2306.02196) |
-| 1606 | Multi-Scale Attention for Audio Question Answering | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17993-b31b1b.svg)](https://arxiv.org/abs/2305.17993) |
-| 539 | Enhancing Visual Question Answering via Deconstructing Questions and Explicating Answers | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1485 | Prompt Guided Copy Mechanism for Conversational Question Answering | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23z_interspeech.pdf) |
+| 1240 | Composing Spoken Hints for Follow-on Question Suggestion in Voice Assistants | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/faustini23_interspeech.pdf) |
+| 1391 | On Monotonic Aggregation for Open-Domain QA | [![GitHub](https://img.shields.io/github/stars/YeonseokJeong/Judge-Specialist)](https://github.com/YeonseokJeong/Judge-Specialist) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/han23c_interspeech.pdf) |
+| 2240 | Question-Context Alignment and Answer-Context Dependencies for Effective Answer Sentence Selection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nguyen23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02196-b31b1b.svg)](https://arxiv.org/abs/2306.02196) |
+| 1606 | Multi-Scale Attention for Audio Question Answering | [![GitHub](https://img.shields.io/github/stars/GeWu-Lab/MWAFM)](https://github.com/GeWu-Lab/MWAFM) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23v_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17993-b31b1b.svg)](https://arxiv.org/abs/2305.17993) |
+| 539 | Enhancing Visual Question Answering via Deconstructing Questions and Explicating Answers | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chen23f_interspeech.pdf) |
 
 ### Multi-talker Methods in Speech Processing
 
