@@ -1564,12 +1564,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1146 | BeAts: Bengali Speech Acts Recognition using Multimodal Attention Fusion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://soumitri2001.github.io/BeAts) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02680-b31b1b.svg)](https://arxiv.org/abs/2306.02680) |
-| 370 | Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech based on Metric Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.14203-b31b1b.svg)](https://arxiv.org/abs/2305.14203) |
-| 989 | Whistle-to-Text: Automatic Recognition of the Silbo Gomero Whistled Language | :heavy_minus_sign: | :heavy_minus_sign: |
-| 663 | A Novel Interpretable and Generalizable Re-Synchronization Model for Cued Speech based on a Multi-Cuer Corpus | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.02596-b31b1b.svg)](https://arxiv.org/abs/2306.02596) |
-| 668 | Visually Grounded Few-Shot Word Acquisition with Fewer Shots | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.15937-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
-| 183 | JAMFN: Joint Attention Multi-Scale Fusion Network for Depression Detection | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1146 | BeAts: Bengali Speech Acts Recognition using Multimodal Attention Fusion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://soumitri2001.github.io/BeAts) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/deb23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02680-b31b1b.svg)](https://arxiv.org/abs/2306.02680) |
+| 370 | Improving the Gap in Visual Speech Recognition Between Normal and Silent Speech based on Metric Learning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kashiwagi23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.14203-b31b1b.svg)](https://arxiv.org/abs/2305.14203) |
+| 989 | Whistle-to-Text: Automatic Recognition of the Silbo Gomero Whistled Language | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/jakubiak23_interspeech.pdf) |
+| 663 | A Novel Interpretable and Generalizable Re-Synchronization Model for Cued Speech based on a Multi-Cuer Corpus | [![GitHub](https://img.shields.io/github/stars/lufei321/ReSync-CS)](https://github.com/lufei321/ReSync-CS) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gao23c_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02596-b31b1b.svg)](https://arxiv.org/abs/2306.02596) |
+| 668 | Visually Grounded Few-Shot Word Acquisition with Fewer Shots | :heavy_minus_sign: |  [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nortje23_interspeech.pdf)  <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.15937-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
+| 183 | JAMFN: Joint Attention Multi-Scale Fusion Network for Depression Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhou23_interspeech.pdf) |
 
 ### Question Answering from Speech
 
