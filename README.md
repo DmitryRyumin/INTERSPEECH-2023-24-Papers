@@ -1677,12 +1677,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2183 | A Metric-Driven Approach to Conformer Layer Pruning for Efficient ASR Inference | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1981 | Distillation Strategies for Discriminative Speech Recognition Rescoring | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.09452-b31b1b.svg)](https://arxiv.org/abs/2306.09452) |
-| 969 | Another Point of View on Visual Speech Recognition | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1062 | RASR2: The RWTH ASR Toolkit for Generic Sequence-to-Sequence Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.17782-b31b1b.svg)](https://arxiv.org/abs/2305.17782) |
-| 486 |  Streaming Speech-to-Confusion Network Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.03778-b31b1b.svg)](https://arxiv.org/abs/2306.03778) |
-| 809 | Accurate and Structured Pruning for Efficient Automatic Speech Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19549-b31b1b.svg)](https://arxiv.org/abs/2305.19549) |
+| 2183 | A Metric-Driven Approach to Conformer Layer Pruning for Efficient ASR Inference | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bekal23_interspeech.pdf) |
+| 1981 | Distillation Strategies for Discriminative Speech Recognition Rescoring | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gurunathshivakumar23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.09452-b31b1b.svg)](https://arxiv.org/abs/2306.09452) |
+| 969 | Another Point of View on Visual Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/pouthier23_interspeech.pdf) |
+| 1062 | RASR2: The RWTH ASR Toolkit for Generic Sequence-to-Sequence Speech Recognition | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/rwth-i6/rasr/tree/generic-seq2seq-decoder) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhou23e_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17782-b31b1b.svg)](https://arxiv.org/abs/2305.17782) |
+| 486 |  Streaming Speech-to-Confusion Network Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/filimonov23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.03778-b31b1b.svg)](https://arxiv.org/abs/2306.03778) |
+| 809 | Accurate and Structured Pruning for Efficient Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/jiang23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19549-b31b1b.svg)](https://arxiv.org/abs/2305.19549) |
 
 ### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech
 
@@ -1692,11 +1692,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1446 | MERLIon CCS Challenge: A English-Mandarin Code-Switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
-| 1335 | Spoken Language Identification System for English-Mandarin Code-Switching Child-Directed Speech | [![GitHub](https://img.shields.io/github/stars/shashikg/LID-Code-Switching)](https://github.com/shashikg/LID-Code-Switching) | [![arXiv](https://img.shields.io/badge/arXiv-2306.00736-b31b1b.svg)](https://arxiv.org/abs/2306.00736) |
-| 1707 | Investigating Model Performance in Language Identification: beyond Simple Error Statistics | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.18925-b31b1b.svg)](https://arxiv.org/abs/2305.18925) |
-| 2533 | Improving Wav2vec2-based Spoken Language Identification by Learning Phonological Features | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2047 | Language Identification Networks for Multilingual Everyday Recordings | :heavy_minus_sign: |:heavy_minus_sign: |
+| 1446 | MERLIon CCS Challenge: A English-Mandarin Code-Switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chua23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
+| 1335 | Spoken Language Identification System for English-Mandarin Code-Switching Child-Directed Speech | [![GitHub](https://img.shields.io/github/stars/shashikg/LID-Code-Switching)](https://github.com/shashikg/LID-Code-Switching) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gupta23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00736-b31b1b.svg)](https://arxiv.org/abs/2306.00736) |
+| 1707 | Investigating Model Performance in Language Identification: beyond Simple Error Statistics | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/styles23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.18925-b31b1b.svg)](https://arxiv.org/abs/2305.18925) |
+| 2533 | Improving Wav2vec2-based Spoken Language Identification by Learning Phonological Features | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/shahin23_interspeech.pdf) |
+| 2047 | Language Identification Networks for Multilingual Everyday Recordings | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/praveen23_interspeech.pdf) |
 
 ### Health-Related Speech Analysis
 
