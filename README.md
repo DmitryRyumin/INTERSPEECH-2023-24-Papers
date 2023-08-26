@@ -1619,10 +1619,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 206 | Aberystwyth English Pre-Aspiration in Apparent Time |:heavy_minus_sign: | :heavy_minus_sign: |
-| 1154 | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1414 | Sociodemographic and Attitudinal Effects on Dialect Speakers' Articulation of the Standard Language: Evidence from German-Speaking Switzerland | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1704 | Vowel Normalisation in Latent Space for Sociolinguistics |:heavy_minus_sign: | :heavy_minus_sign: |
+| 206 | Aberystwyth English Pre-Aspiration in Apparent Time |:heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hejna23_interspeech.pdf) |
+| 1154 | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sun23c_interspeech.pdf) |
+| 1414 | Sociodemographic and Attitudinal Effects on Dialect Speakers' Articulation of the Standard Language: Evidence from German-Speaking Switzerland | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/steiner23_interspeech.pdf) |
+| 1704 | Vowel Normalisation in Latent Space for Sociolinguistics |:heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/burridge23_interspeech.pdf) |
 
 ### Speaker and Language Diarization
 
@@ -1632,12 +1632,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1228 | Attention-based Encoder-Decoder Network for End-to-End Neural Speaker Diarization with Target Speaker Attractor | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.10704-b31b1b.svg)](https://arxiv.org/abs/2305.10704) |
-| 1447 | Robust Self Supervised Speech Embeddings for Child-Adult Classification in Interactions involving Children with Autism | :heavy_minus_sign: | :heavy_minus_sign: |
-| 2367 | The DISPLACE Challenge 2023 - DIarization of SPeaker and LAnguage in Conversational Environments | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://displace2023.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00830-b31b1b.svg)](https://arxiv.org/abs/2303.00830) |
-| 1982 | Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.09313-b31b1b.svg)](https://arxiv.org/abs/2306.09313) |
-| 1839 | The SpeeD-ZevoTech Submission at DISPLACE 2023 | :heavy_minus_sign: | :heavy_minus_sign: |
-| 656 | End-to-End Neural Speaker Diarization with Absolute Speaker Loss | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1228 | Attention-based Encoder-Decoder Network for End-to-End Neural Speaker Diarization with Target Speaker Attractor | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chen23n_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10704-b31b1b.svg)](https://arxiv.org/abs/2305.10704) |
+| 1447 | Robust Self Supervised Speech Embeddings for Child-Adult Classification in Interactions involving Children with Autism | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lahiri23_interspeech.pdf) |
+| 2367 | The DISPLACE Challenge 2023 - DIarization of SPeaker and LAnguage in Conversational Environments | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://displace2023.github.io/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/baghel23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00830-b31b1b.svg)](https://arxiv.org/abs/2303.00830) |
+| 1982 | Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/paturi23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.09313-b31b1b.svg)](https://arxiv.org/abs/2306.09313) |
+| 1839 | The SpeeD-ZevoTech Submission at DISPLACE 2023 | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/pirlogeanu23_interspeech.pdf) |
+| 656 | End-to-End Neural Speaker Diarization with Absolute Speaker Loss | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23g_interspeech.pdf) |
 
 ### Anti-Spoofing for Speaker Verification
 
@@ -1647,12 +1647,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1402 | Towards Single Integrated Spoofing-aware Speaker Verification Embeddings | [![GitHub](https://img.shields.io/github/stars/sasv-challenge/ASVSpoof5-SASVBaseline)](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline) | [![arXiv](https://img.shields.io/badge/arXiv-2305.19051-b31b1b.svg)](https://arxiv.org/abs/2305.19051) |
-| 1352 | Pseudo-Siamese Network based Timbre-Reserved Black-Box Adversarial Attack in Speaker Identification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.19020-b31b1b.svg)](https://arxiv.org/abs/2305.19020) |
-| 2335 | Betray Oneself: A Novel Audio DeepFake Detection Model via Mono-to-Stereo Conversion | [![GitHub](https://img.shields.io/github/stars/ttslr/M2S-ADD)](https://github.com/ttslr/M2S-ADD) | [![arXiv](https://img.shields.io/badge/arXiv-2305.16353-b31b1b.svg)](https://arxiv.org/abs/2305.16353) |
-| 1166 | Robust Audio Anti-Spoofing Countermeasure with Joint Training of Front-end and Back-end and Models | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1537 | Improved DeepFake Detection using Whisper Features | [![GitHub](https://img.shields.io/github/stars/piotrkawa/deepfake-whisper-features)](https://github.com/piotrkawa/deepfake-whisper-features) | [![arXiv](https://img.shields.io/badge/arXiv-2306.01428-b31b1b.svg)](https://arxiv.org/abs/2306.01428) |
-| 371 | DoubleDeceiver: Deceiving the Speaker Verification System Protected by Spoofing Countermeasures | :heavy_minus_sign: | :heavy_minus_sign: |
+| 1402 | Towards Single Integrated Spoofing-aware Speaker Verification Embeddings | [![GitHub](https://img.shields.io/github/stars/sasv-challenge/ASVSpoof5-SASVBaseline)](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/mun23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19051-b31b1b.svg)](https://arxiv.org/abs/2305.19051) |
+| 1352 | Pseudo-Siamese Network based Timbre-Reserved Black-Box Adversarial Attack in Speaker Identification | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23ba_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19020-b31b1b.svg)](https://arxiv.org/abs/2305.19020) |
+| 2335 | Betray Oneself: A Novel Audio DeepFake Detection Model via Mono-to-Stereo Conversion | [![GitHub](https://img.shields.io/github/stars/ttslr/M2S-ADD)](https://github.com/ttslr/M2S-ADD) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liu23v_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.16353-b31b1b.svg)](https://arxiv.org/abs/2305.16353) |
+| 1166 | Robust Audio Anti-Spoofing Countermeasure with Joint Training of Front-end and Back-end and Models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23v_interspeech.pdf) |
+| 1537 | Improved DeepFake Detection using Whisper Features | [![GitHub](https://img.shields.io/github/stars/piotrkawa/deepfake-whisper-features)](https://github.com/piotrkawa/deepfake-whisper-features) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kawa23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01428-b31b1b.svg)](https://arxiv.org/abs/2306.01428) |
+| 371 | DoubleDeceiver: Deceiving the Speaker Verification System Protected by Spoofing Countermeasures | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23c_interspeech.pdf) |
 
 ### Speech Coding: Intelligibility
 
@@ -1662,12 +1662,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2209 | On Training a Neural Residual Acoustic echo Suppressor for Improved ASR | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1429 | Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jmlemercier.github.io/2023/05/30/interspeech2023.html) | [![arXiv](https://img.shields.io/badge/arXiv-2303.00529-b31b1b.svg)](https://arxiv.org/abs/2303.00529) |
-| 378 | UnSE: Unsupervised Speech Enhancement using Optimal Transport | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1130 | MC-SpEx: Towards Effective Speaker Extraction with Multi-Scale Interfusion and Conditional Speaker Modulation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rookiejunchen.github.io/MC-SpEx_demo/) | [![arXiv](https://img.shields.io/badge/arXiv-2306.16250-b31b1b.svg)](https://arxiv.org/abs/2306.16250) |
-| 2177 | Causal Signal-based DCCRN with Overlapped-Frame Prediction for Online Speech Enhancement | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1511 | Gesper: A Restoration-Enhancement Framework for General Speech Reconstruction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.08454-b31b1b.svg)](https://arxiv.org/abs/2306.08454) |
+| 2209 | On Training a Neural Residual Acoustic echo Suppressor for Improved ASR | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/panchapagesan23_interspeech.pdf) |
+| 1429 | Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jmlemercier.github.io/2023/05/30/interspeech2023.html) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lemercier23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00529-b31b1b.svg)](https://arxiv.org/abs/2303.00529) |
+| 378 | UnSE: Unsupervised Speech Enhancement using Optimal Transport | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jiang-wenbin.github.io/UnSE/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/jiang23b_interspeech.pdf) |
+| 1130 | MC-SpEx: Towards Effective Speaker Extraction with Multi-Scale Interfusion and Conditional Speaker Modulation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rookiejunchen.github.io/MC-SpEx_demo/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chen23k_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.16250-b31b1b.svg)](https://arxiv.org/abs/2306.16250) |
+| 2177 | Causal Signal-based DCCRN with Overlapped-Frame Prediction for Online Speech Enhancement | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bartolewska23_interspeech.pdf) |
+| 1511 | Gesper: A Restoration-Enhancement Framework for General Speech Reconstruction | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liu23q_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.08454-b31b1b.svg)](https://arxiv.org/abs/2306.08454) |
 
 ### New Computational Strategies for ASR Training and Inference
 
