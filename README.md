@@ -17,6 +17,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/INTERSPEECH-2023-Papers)
 <!-- ![Papers Implemented](https://badgen.net/badge/Papers%20implemented/0) -->
 
+![Progress](https://geps.dev/progress/32?successColor=006600)
+
 ---
 
 INTERSPEECH 2023 Papers: A complete collection of influential and exciting research papers from the [*INTERSPEECH 2023*](https://interspeech2023.org/) conference. Explore the latest advances in speech and language processing. Code included. :star: the repository to support the advancement of speech technology!
