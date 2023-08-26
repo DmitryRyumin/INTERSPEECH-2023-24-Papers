@@ -17,7 +17,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/INTERSPEECH-2023-Papers)
 <!-- ![Papers Implemented](https://badgen.net/badge/Papers%20implemented/0) -->
 
-![Progress](https://geps.dev/progress/100?successColor=006600)
+Completed: ![Progress](https://geps.dev/progress/100?successColor=006600)
 
 ---
 
