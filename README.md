@@ -1619,10 +1619,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 206 | Aberystwyth English Pre-Aspiration in Apparent Time |:heavy_minus_sign: | :heavy_minus_sign: |
-| 1154 | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1414 | Sociodemographic and Attitudinal Effects on Dialect Speakers' Articulation of the Standard Language: Evidence from German-Speaking Switzerland | :heavy_minus_sign: | :heavy_minus_sign: |
-| 1704 | Vowel Normalisation in Latent Space for Sociolinguistics |:heavy_minus_sign: | :heavy_minus_sign: |
+| 206 | Aberystwyth English Pre-Aspiration in Apparent Time |:heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hejna23_interspeech.pdf) |
+| 1154 | Speech Entrainment in Chinese Story-Style Talk Shows: The Interaction Between Gender and Role | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sun23c_interspeech.pdf) |
+| 1414 | Sociodemographic and Attitudinal Effects on Dialect Speakers' Articulation of the Standard Language: Evidence from German-Speaking Switzerland | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/steiner23_interspeech.pdf) |
+| 1704 | Vowel Normalisation in Latent Space for Sociolinguistics |:heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/burridge23_interspeech.pdf) |
 
 ### Speaker and Language Diarization
 
