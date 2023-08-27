@@ -31,18 +31,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 <details open>
 <summary>Statistics<a id="sections"></a></summary>
 
-<table>
-  <tr>
-    <th><strong>Total Papers</strong></th>
-    <th><strong>Preprint Papers</strong></th>
-    <th><strong>Papers with Open Code</strong></th>
-  </tr>
-  <tr>
-    <td>1144</td>
-    <td>501</td>
-    <td>236</td>
-  </tr>
-</table>
+![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-236-1D7FBF)
 
 </details>
 
