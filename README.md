@@ -28,7 +28,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </a>
 <p>
 
-<!-- <details open>
+<details open>
 <summary>Statistics<a id="sections"></a></summary>
 
 <table>
@@ -38,13 +38,13 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     <th><strong>Papers with Open Code</strong></th>
   </tr>
   <tr>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>1144</td>
+    <td>501</td>
+    <td>236</td>
   </tr>
 </table>
 
-</details> -->
+</details>
 
 ---
 
