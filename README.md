@@ -191,11 +191,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 </details>
 
-### Resources for Spoken Language Processing
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Resources for Spoken Language Processing
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -208,11 +208,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1828 | Thai Dialect Corpus and Transfer-based Curriculum Learning Investigation for Dialect Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/suwanbandit23_interspeech.pdf) |
 | 2351 | HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/xiao23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.11252-b31b1b.svg)](https://arxiv.org/abs/2306.11252) |
 
-### Speech Synthesis: Prosody and Emotion
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Synthesis: Prosody and Emotion
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -225,11 +225,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2270 | Explicit Intensity Control for Accented Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ttslr.github.io/Ai-TTS/) <br /> [![GitHub](https://img.shields.io/github/stars/ttslr/Ai-TTS)](https://github.com/ttslr/Ai-TTS) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liu23u_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15364-b31b1b.svg)](https://arxiv.org/abs/2210.15364) |
 | 834 | Comparing Normalizing Flows and Diffusion Models for Prosody and Acoustic Modelling in Text-to-Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23o_interspeech.pdf) |
 
-### Statistical Machine Translation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Statistical Machine Translation
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -242,11 +242,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2050 | Analysis of Acoustic Information in End-to-End Spoken Language Translation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sant23_interspeech.pdf) |
 | 2004 | LAMASSU: A Streaming Language-Agnostic Multilingual Speech Recognition and Translation Model using Neural Transducers | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23oa_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02809-b31b1b.svg)](https://arxiv.org/abs/2211.02809) |
 
-### Self-Supervised Learning in ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Self-Supervised Learning in ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -259,11 +259,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 822 | MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets | [![GitHub](https://img.shields.io/github/stars/ddlBoJack/MT4SSL)](https://github.com/ddlBoJack/MT4SSL) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ma23d_interspeech.pdf) <br />  [![arXiv](https://img.shields.io/badge/arXiv-2211.07321-b31b1b.svg)](https://arxiv.org/abs/2211.07321) |
 | 1802 | Comparing Self-Supervised Pre-Training and Semi-Supervised Training for Speech Recognition in Languages with Weak Language Models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lamyeemui23_interspeech.pdf) |
 
-### Prosody
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Prosody
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -276,11 +276,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1454 | Creak Prevalence and Prosodic Context in Australian English | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/white23_interspeech.pdf) |
 | 1651 | Speech Reduction: Position within French Prosodic Structure | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bodur23_interspeech.pdf) |
 
-### Speech Production
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Production
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -291,11 +291,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2283 | The ART of Conversation: Measuring Phonetic Convergence and Deliberate Imitation in L2-Speech with a Siamese RNN | [![GitHub](https://img.shields.io/github/stars/byronthecoder/S-RNN-4-ART)](https://github.com/byronthecoder/S-RNN-4-ART) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yuan23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.05088-b31b1b.svg)](https://arxiv.org/abs/2306.05088) |
 | 1933 | Did You See that? Exploring the Role of Vision in the Development of Consonant Feature Contrasts in Children with Cochlear Implants | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/mahshie23_interspeech.pdf) |
 
-### Dysarthric Speech Assessment
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Dysarthric Speech Assessment
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -308,11 +308,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1921 | Latent Phrase Matching for Dysarthric Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yee23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.05446-b31b1b.svg)](https://arxiv.org/abs/2306.05446) |
 | 173 | Speech Intelligibility Assessment of Dysarthric Speech by using Goodness of Pronunciation with Uncertainty Quantification | [![GitHub](https://img.shields.io/github/stars/juice500ml/dysarthria-gop)](https://github.com/juice500ml/dysarthria-gop) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yeo23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.18392-b31b1b.svg)](https://arxiv.org/abs/2305.18392) |
 
-### Speech Coding: Transmission
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Coding: Transmission
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -323,11 +323,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 883 | Towards Fully Quantized Neural Networks For Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/ssi-research/FQSE)](https://github.com/ssi-research/FQSE) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cohen23_interspeech.pdf) |
 | 980 | Complex Image Generation SwinTransformer Network for Audio Denoising | [![GitHub](https://img.shields.io/github/stars/YoushanZhang/CoxImgSwinTransformer)](https://github.com/YoushanZhang/CoxImgSwinTransformer) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23p_interspeech.pdf) |
 
-### Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-75-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-48-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-17-1D7FBF)
 
@@ -409,11 +409,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1342 | Bayes Risk Transducer: Transducer with Controllable Alignment Prediction | [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/tian23_interspeech.pdf) |
 | 783 | Multi-View Frequency-Attention Alternative to CNN Frontends for Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/alastruey23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.06954-b31b1b.svg)](https://arxiv.org/abs/2306.06954) |
 
-### Analysis of Speech and Audio Signals
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Analysis of Speech and Audio Signals
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-85-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-32-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-27-1D7FBF)
 
@@ -505,11 +505,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 209 | Obstructive Sleep Apnea Screening with Breathing Sounds and Respiratory Effort: A Multimodal Deep Learning Approach | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/romero23_interspeech.pdf) |
 | 2275 | Investigation of Music Emotion Recognition based on Segmented Semi-Supervised Learning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sun23f_interspeech.pdf) |
 
-### Speech Recognition: Architecture, Search, and Linguistic Components
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Recognition: Architecture, Search, and Linguistic Components
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-50-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-26-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF)
 
@@ -566,11 +566,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1665 | Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switch-board Corpus | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23x_interspeech.pdf) |
 | 2544 | Compressed MoE ASR Model based on Knowledge Distillation and Quantization | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yuan23c_interspeech.pdf) |
 
-### Speech Recognition: Technologies and Systems for New Applications
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Recognition: Technologies and Systems for New Applications
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-35-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-20-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF)
 
@@ -612,11 +612,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 462 | SparseVSR: Lightweight and Noise Robust Visual Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/fernandezlopez23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.04552-b31b1b.svg)](https://arxiv.org/abs/2307.04552) |
 | 2262 | Multimodal Speech Recognition for Language-Guided Embodied Agents | [![GitHub](https://img.shields.io/github/stars/Cylumn/embodied-multimodal-asr)](https://github.com/Cylumn/embodied-multimodal-asr) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chang23c_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.14030-b31b1b.svg)](https://arxiv.org/abs/2302.14030) |
 
-### Lexical and Language Modeling for ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Lexical and Language Modeling for ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -629,11 +629,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1251 | Memory Network-based End-To-End Neural ES-KMeans for Improved Word Segmentation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/iwamoto23_interspeech.pdf) |
 | 1320 | Retraining-free Customized ASR for Enharmonic Words based on a Named-Entity-Aware Model and Phoneme Similarity Estimation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sudo23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17846-b31b1b.svg)](https://arxiv.org/abs/2305.17846) |
 
-### Language Identification and Diarization
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Language Identification and Diarization
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -646,11 +646,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1790 | Exploring the Impact of Pretrained Models and Web-Scraped Data for the 2022 NIST Language Recognition Evaluation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/alumae23_interspeech.pdf) |
 | 1094 | Advances in Language Recognition in Low Resource African Languages: The JHU-MIT Submission for NIST LRE22 | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/villalba23_interspeech.pdf) |
 
-### Speech Quality Assessment
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Quality Assessment
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -663,11 +663,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 589 | Preference-based Training Framework for Automatic Speech Quality Assessment using Deep Neural Network | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hu23d_interspeech.pdf) |
 | 389 | Crowdsourced Data Validation for ASR Training | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/phatthiyaphaibun23_interspeech.pdf) |
 
-### Feature Modeling for ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Feature Modeling for ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -680,11 +680,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 615 | Incorporating L2 Phonemes using Articulatory Features for Robust Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23e_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02534-b31b1b.svg)](https://arxiv.org/abs/2306.02534) |
 | 1510 | On the (In)Efficiency of Acoustic Feature Extractors for Self-Supervised Speech Representation Learning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/parcollet23_interspeech.pdf) <br /> [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04116371) |
 
-### Interfacing Speech Technology and Phonetics
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Interfacing Speech Technology and Phonetics
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -695,11 +695,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1398 | Exploring Graph Theory Methods for the Analysis of Pronunciation Variation in Spontaneous Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/geiger23_interspeech.pdf) |
 | 680 | Automatic Speaker Recognition Performance with Matched and Mismatched Female Bilingual Speech Data | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nuttall23_interspeech.pdf) |
 
-### Speech Synthesis: Multilinguality
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Synthesis: Multilinguality
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -712,11 +712,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2330 | RADMMM: Multilingual Multiaccented Multispeaker Text-to-Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/badlani23_interspeech.pdf) <br /> [![NVidia AI](https://img.shields.io/badge/NVidia-AI-78B900.svg)](https://research.nvidia.com/labs/adlr/projects/radmmm/) |
 | 861 | Multilingual Context-based Pronunciation Learning for Text-to-Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/comini23_interspeech.pdf) <br /> [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/multilingual-context-based-pronunciation-learning-for-text-to-speech) |
 
-### Speech Emotion Recognition
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Emotion Recognition
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-29-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF)
 
@@ -752,11 +752,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 311 | Hybrid Dataset for Speech Emotion Recognition in Russian Language | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kondratenko23_interspeech.pdf) |
 | 396 | Speech Emotion Recognition using Decomposed Speech via Multi-Task Learning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hsu23_interspeech.pdf) |
 
-### Spoken Dialog Systems and Conversational Analysis
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Spoken Dialog Systems and Conversational Analysis
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-37-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF)
 
@@ -800,11 +800,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1267 | Relationships between Gender, Personality Traits and Features of Multi-Modal Data to Responses to Spoken Dialog Systems Breakdown | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/tsubokura23_interspeech.pdf) |
 | 1650 | Speaker-aware Cross-Modal Fusion Architecture for Conversational Emotion Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhao23e_interspeech.pdf) |
 
-### Speech Coding and Enhancement
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Coding and Enhancement
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-58-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-33-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-14-1D7FBF)
 
@@ -869,11 +869,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 686 | Rethinking Complex-Valued Deep Neural Networks for Monaural Speech Enhancement | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wu23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.04320-b31b1b.svg)](https://arxiv.org/abs/2301.04320) |
 | 186 | Harmonic Enhancement using Learnable Comb Filter for Light-Weight Full-band Speech Enhancement Model | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/le23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00812-b31b1b.svg)](https://arxiv.org/abs/2306.00812) |
 
-### Paralinguistics
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Paralinguistics
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-22-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -902,11 +902,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 543 | Learning Local to Global Feature Aggregation for Speech Emotion Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lu23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01491-b31b1b.svg)](https://arxiv.org/abs/2306.01491) |
 | 842 | Supervised Contrastive Learning with Nearest Neighbor Search for Speech Emotion Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23q_interspeech.pdf) |
 
-### Speech Enhancement and Denoising
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Enhancement and Denoising
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -919,11 +919,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 318 | Multi-Input Multi-Output Complex Spectral Mapping for Speaker Separation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/taherian23_interspeech.pdf) |
 | 992 | Short-Term Extrapolation of Speech Signals using Recursive Neural Networks in the STFT Domain | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/oberhag23_interspeech.pdf) |
 
-### Speech Synthesis: Evaluation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Synthesis: Evaluation
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -936,11 +936,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2013 | Can Better Perception Become a Disadvantage? Synthetic Speech Perception in Congenitally Blind Users | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/melnikleroy23_interspeech.pdf) |
 | 1076 | Investigating Range-Equalizing Bias in Mean Opinion Score Ratings of Synthesized Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cooper23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10608-b31b1b.svg)](https://arxiv.org/abs/2305.10608) |
 
-### End-to-End Spoken Dialog Systems
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### End-to-End Spoken Dialog Systems
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -953,11 +953,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2018 | ConvKT: Conversation-Level Knowledge Transfer for Context Aware End-to-End Spoken Language Understanding | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sunder23_interspeech.pdf) |
 | 41 | GhostT5: Generate More Features with Cheap Operations to Improve Textless Spoken Question Answering | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cheng23_interspeech.pdf) |
 
-### Biosignal-enabled Spoken Communication
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Biosignal-enabled Spoken Communication
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -974,11 +974,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1881 | Spanish Phone Confusion Analysis for EMG-based Silent Speech Interfaces | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/salomons23_interspeech.pdf) |
 | 805 | Hybrid Silent Speech Interface through Fusion of Electroencephalography and Electromyography | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://stone-wave.github.io/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23l_interspeech.pdf) |
 
-### Neural-based Speech and Acoustic Analysis
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Neural-based Speech and Acoustic Analysis
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -991,11 +991,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2271 | MMER: Multimodal Multi-task Learning for Speech Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/Sreyan88/MMER)](https://github.com/Sreyan88/MMER) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ghosh23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2203.16794-b31b1b.svg)](https://arxiv.org/abs/2203.16794) |
 | 909 | A Multi-task Learning Framework for Sound Event Detection using High-Level Acoustic Characteristics of Sounds | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/khandelwal23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10729-b31b1b.svg)](https://arxiv.org/abs/2305.10729) |
 
-### DiGo - Dialog for Good: Speech and Language Technology for Social Good
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### DiGo - Dialog for Good: Speech and Language Technology for Social Good
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-5-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1007,11 +1007,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2086 | Prosody-Controllable Gender-Ambiguous Speech Synthesis: A Tool for Investigating Implicit Bias in Speech Perception | [![GitHub](https://img.shields.io/github/stars/evaszekely/ambiguous)](https://github.com/evaszekely/ambiguous) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/szekely23_interspeech.pdf) |
 | 848 | Affective Attributes of French Caregivers' Professional Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/rouas23_interspeech.pdf) |
 
-### Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources, and Evaluation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources, and Evaluation
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-48-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-21-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-12-1D7FBF)
 
@@ -1038,7 +1038,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 695 | J-ToneNet: A Transformer-based Encoding Network for Improving Tone Classification in Continuous Speech via F0 Sequences | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liu23e_interspeech.pdf) |
 | 1152 | Towards Cross-Language Prosody Transfer for Dialog | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.cs.utep.edu/nigel/abstracts/interspeech2023.html) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/avila23_interspeech.pdf) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.cs.utep.edu/nigel/papers/interspeech2023.pdf) |
 | 2506 | Strategies for Improving Low Resource Speech to Text Translation Relying on Pre-trained ASR Models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kesiraju23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00208-b31b1b.svg)](https://arxiv.org/abs/2306.00208) |
- | 1980 | ITALIC: An Italian Intent Classification Dataset | [![GitHub](https://img.shields.io/github/stars/RiTA-nlp/ITALIC)](https://github.com/RiTA-nlp/ITALIC) <br /> [![Zenodo](https://img.shields.io/badge/Zenodo-dataset-FFD1BF.svg)](https://zenodo.org/record/8040649) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/koudounas23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.08502-b31b1b.svg)](https://arxiv.org/abs/2306.08502) |
+| 1980 | ITALIC: An Italian Intent Classification Dataset | [![GitHub](https://img.shields.io/github/stars/RiTA-nlp/ITALIC)](https://github.com/RiTA-nlp/ITALIC) <br /> [![Zenodo](https://img.shields.io/badge/Zenodo-dataset-FFD1BF.svg)](https://zenodo.org/record/8040649) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/koudounas23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.08502-b31b1b.svg)](https://arxiv.org/abs/2306.08502) |
 | 1778 | Perceptual and Task-Oriented Assessment of a Semantic Metric for ASR Evaluation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/rugayan23_interspeech.pdf) |
 | 1466 | How ChatGPT is Robust for Spoken Language Understanding? | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23s_interspeech.pdf) |
 | 1233 | GigaST: A 10,000-hour Pseudo Speech Translation Corpus | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://st-benchmark.github.io/resources/GigaST.html) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ye23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2204.03939-b31b1b.svg)](https://arxiv.org/abs/2204.03939) |
@@ -1066,11 +1066,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2225 | Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/polak23_interspeech.pdf) |
 | 1979 | Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages | [![GitHub](https://img.shields.io/github/stars/unza-speech-lab/zambezi-voice)](https://github.com/unza-speech-lab/zambezi-voice) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sikasote23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.04428-b31b1b.svg)](https://arxiv.org/abs/2306.04428) |
 
-### Speech, Voice, and Hearing Disorders
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech, Voice, and Hearing Disorders
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-28-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-13-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF)
 
@@ -1105,11 +1105,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1096 | Detecting Manifest Huntington's Disease using Vocal Data | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/subramanian23_interspeech.pdf) |
 | 1623 | Exploring Multi-Task Learning and Data Augmentation in Dementia Detection with Self-Supervised Pre-trained Models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chen23q_interspeech.pdf) |
 
-### Spoken Term Detection and Voice Search
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Spoken Term Detection and Voice Search
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1122,11 +1122,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 689 | Improving Small Footprint Few-Shot Keyword Spotting with Supervision on Auxiliary Data | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yang23j_interspeech.pdf) |
 | 2222 | Robust Keyword Spotting for Noisy Environments by Leveraging Speech Enhancement and Speech Presence Probability | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yang23t_interspeech.pdf) |
 
-### Models for Streaming ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Models for Streaming ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1139,11 +1139,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1121 | Knowledge Distillation from Non-Streaming to Streaming ASR Encoder using Auxiliary Non-Streaming Layer | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/shim23_interspeech.pdf) |
 | 884 | Adaptive Contextual Biasing for Transducer based Streaming Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/xu23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00804-b31b1b.svg)](https://arxiv.org/abs/2306.00804) |
 
-### Source Separation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Source Separation
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -1156,11 +1156,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2537 | Multi-Channel Speech Separation with Cross-Attention and Beamforming | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/mosner23_interspeech.pdf) |
 | 185 | Background-Sound Controllable Voice Source Separation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/eom23_interspeech.pdf) |
 
-### Speech Perception
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Perception
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1173,11 +1173,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 63 | Exploring the Mutual Intelligibility Breakdown Caused by Sculpting Speech from a Competing Speech Signal | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cooke23_interspeech.pdf) |
 | 2103 | Perception of Incomplete Voicing Neutralization of Obstruents in Tohoku Japanese | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kitahara23_interspeech.pdf) |
 
-### Phonetics and Phonology: Languages and Varieties
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Phonetics and Phonology: Languages and Varieties
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1190,11 +1190,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 295 | Increasing Aspiration of Word-Medial Fortis Plosives in Swiss Standard German | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zebe23_interspeech.pdf) |
 | 1456 | Lexical Stress and Velar Palatalization in Italian: A Spatio-Temporal Interaction | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/shao23_interspeech.pdf) |
 
-### Speaker and Language Identification
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speaker and Language Identification
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-59-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-30-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-15-1D7FBF)
 
@@ -1260,11 +1260,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 453 | Improving Speaker Verification with Self-pretrained Transformer Models | [![GitHub](https://img.shields.io/github/stars/JunyiPeng00/Interspeech23_SelfPretraining)](https://github.com/JunyiPeng00/Interspeech23_SelfPretraining) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/peng23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10517-b31b1b.svg)](https://arxiv.org/abs/2305.10517) |
 | 372 | Handling the Alignment for Wake Word Detection: A Comparison Between Alignment-based, Alignment-Free and Hybrid Approaches | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ribeiro23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08950-b31b1b.svg)](https://arxiv.org/abs/2302.08950) |
 
-### Speech Synthesis and Voice Conversion
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Synthesis and Voice Conversion
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-17-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF)
 
@@ -1288,11 +1288,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1356 | Reverberation-Controllable Voice Conversion using Reverberation Time Estimator | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/choi23e_interspeech.pdf) |
 | 2558 | Cross-Utterance Conditioned Coherent Speech Editing | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](http://speechediting-8gdxbpso7cc72014-1307012619.tcloudbaseapp.com/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yu23d_interspeech.pdf) |
 
-### Speech and Language in Health: from Remote Monitoring to Medical Conversations
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech and Language in Health: from Remote Monitoring to Medical Conversations
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-29-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-13-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF)
 
@@ -1328,11 +1328,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2146 | Automatic Classification of Hypokinetic and Hyperkinetic Dysarthria based on GMM-Supervectors | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/riosurrego23_interspeech.pdf) |
 | 947 | Towards Robust Paralinguistic Assessment for Real-World Mobile Health (mHealth) Monitoring: an Initial Study of Reverberation Effects on Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/dineley23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.12514-b31b1b.svg)](https://arxiv.org/abs/2305.12514) |
 
-### Novel Transformer Models for ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Novel Transformer Models for ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1345,11 +1345,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 893 | Memory-Augmented Conformer for Improved End-To-End Long-form ASR | [![GitHub](https://img.shields.io/github/stars/Miamoto/Conformer-NTM)](https://github.com/Miamoto/Conformer-NTM) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/carvalho23_interspeech.pdf) |
 | 552 | Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cui23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.13307-b31b1b.svg)](https://arxiv.org/abs/2306.13307) |
 
-### Speaker Recognition
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speaker Recognition
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1366,11 +1366,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1379 | A Teacher-Student Approach for Extracting Informative Speaker Embeddings from Speech Mixtures | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cordlandwehr23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00634-b31b1b.svg)](https://arxiv.org/abs/2306.00634) |
 | 1479 | Experimenting with Additive Margins for Contrastive Self-Supervised Speaker Verification | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lepage23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.03664-b31b1b.svg)](https://arxiv.org/abs/2306.03664) |
 
-### Cross-lingual and Multilingual ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Cross-lingual and Multilingual ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1383,11 +1383,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1061 | Comparison of Multilingual Self-Supervised and Weakly-Supervised Speech Pre-training for Adaptation to Unseen Languages | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/rouditchenko23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.12606-b31b1b.svg)](https://arxiv.org/abs/2305.12606) |
 | 1444 | DistilXLSR: A Light Weight Cross-Lingual Speech Representation Model | [![GitHub](https://img.shields.io/github/stars/backspacetg/distilXLSR)](https://github.com/backspacetg/distilXLSR) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23ea_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01303-b31b1b.svg)](https://arxiv.org/abs/2306.01303) |
 
-### Voice Conversion
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Voice Conversion
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -1400,11 +1400,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1602 | Automatic Speech Disentanglement for Voice Conversion using Rank Module and Speech Augmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hhhuazi.github.io) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liu23s_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.12259-b31b1b.svg)](https://arxiv.org/abs/2306.12259) |
 | 2298 | End-to-End Zero-Shot Voice Conversion with Location-Variable Convolutions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lvc-vc.github.io/lvc-vc-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/wonjune-kang/lvc-vc)](https://github.com/wonjune-kang/lvc-vc) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kang23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2205.09784-b31b1b.svg)](https://arxiv.org/abs/2205.09784) |
 
-### Pathological Speech Analysis
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Pathological Speech Analysis
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1423,11 +1423,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1653 | Careful Whisper - Leveraging Advances in Automatic Speech Recognition for Robust and Interpretable Aphasia Subtype Classification | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zusag23_interspeech.pdf) |
 | 1868 | Behavioral Analysis of Pathological Speaker Embeddings of Patients During Oncological Treatment of Oral Cancer | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/thienpondt23_interspeech.pdf) |
 
-### Multimodal Speech Emotion Recognition
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Multimodal Speech Emotion Recognition
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1440,11 +1440,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 510 | Meta-Domain Adversarial Contrastive Learning for Alleviating Individual Bias in Self-Sentiment Predictions | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23f_interspeech.pdf) |
 | 413 | SWRR: Feature Map Classifier based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhao23b_interspeech.pdf) |
 
-### Phonetics, Phonology, and Prosody
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Phonetics, Phonology, and Prosody
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-32-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1483,11 +1483,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1822 | Pitch Distributions in a Very Large Corpus of Spontaneous Finnish Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lennes23_interspeech.pdf) |
 | 828 | Speech Enhancement Patterns in Human-Robot Interaction: A Cross-Linguistic Perspective | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://osf.io/qwyzv/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kudera23_interspeech.pdf) |
 
-### Speech Coding: Privacy
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Coding: Privacy
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1500,11 +1500,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 448 | Vocoder Drift in X-Vector–based Speaker Anonymization | [![GitHub](https://img.shields.io/github/stars/eurecom-asp/vocoder-drift)](https://github.com/eurecom-asp/vocoder-drift) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/panariello23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02892-b31b1b.svg)](https://arxiv.org/abs/2306.02892) |
 | 703 | Malafide: A Novel Adversarial Convolutive Noise Attack Against Deepfake and Spoofing Detection Systems | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/panariello23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.07655-b31b1b.svg)](https://arxiv.org/abs/2306.07655) |
 
-### Analysis of Neural Speech Representations
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Analysis of Neural Speech Representations
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -1517,11 +1517,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1418 | Comparison of GIF- and SSL-based Features in Pathological Voice Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sasou23_interspeech.pdf) |
 | 1617 | What is Learnt by the LEArnable Front-end (LEAF)? Adapting Per-Channel Energy Normalisation (PCEN) to Noisy Conditions | [![GitHub](https://img.shields.io/github/stars/Hanyu-Meng/Adapting-LEAF)](https://github.com/Hanyu-Meng/Adapting-LEAF) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/meng23c_interspeech.pdf) |
 
-### End-to-end ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### End-to-end ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -1534,11 +1534,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 142 | Multi-Pass Training and Cross-Information Fusion for Low-Resource End-to-End Accented Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.11309-b31b1b.svg)](https://arxiv.org/abs/2306.11309) |
 | 906 | Text-Only Domain Adaptation for End-to-End ASR using Integrated Text-to-Mel-Spectrogram Generator | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bataev23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.14036-b31b1b.svg)](https://arxiv.org/abs/2302.14036) |
 
-### Spoken Language Understanding, Summarization, and Information Retrieval
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Spoken Language Understanding, Summarization, and Information Retrieval
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF)
 
@@ -1551,11 +1551,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 242 | Sequence-Level Knowledge Distillation for Class-Incremental End-to-End Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/umbertocappellazzo/slurp-seqkd)](https://github.com/umbertocappellazzo/slurp-seqkd) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cappellazzo23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.13899-b31b1b.svg)](https://arxiv.org/abs/2305.13899) |
 | 1652 | Contrastive Disentangled Learning for Memory-Augmented Transformer | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chien23b_interspeech.pdf) |
 
-### Invariant and Robust Pre-trained Acoustic Models
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Invariant and Robust Pre-trained Acoustic Models
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -1568,11 +1568,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 847 | Self-Supervised Fine-tuning for Improved Content Representations by Speaker-Invariant Clustering | [![GitHub](https://img.shields.io/github/stars/vectominist/spin)](https://github.com/vectominist/spin) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chang23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.11072-b31b1b.svg)](https://arxiv.org/abs/2305.11072) |
 | 359 | Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lin23d_interspeech.pdf) |
 
-### Speech Synthesis: Representation Learning
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Synthesis: Representation Learning
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -1585,11 +1585,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 677 | LightVoc: an Upsampling-Free GAN Vocoder based on Conformer and Inverse Short-time Fourier Transform | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lightvoc.github.io/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/dang23b_interspeech.pdf) |
 | 1095 | ChatGPT-EDSS: Empathetic Dialogue Speech Synthesis Trained from ChatGPT-derived Context Word Embeddings | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sarulab-speech.github.io/demo_ChatGPT_EDSS/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/saito23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.13724-b31b1b.svg)](https://arxiv.org/abs/2305.13724) |
 
-### Speech Perception, Production, and Acquisition
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Perception, Production, and Acquisition
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-33-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1629,11 +1629,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1680 | HumanDiffusion: Diffusion Model using Perceptual Gradients | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ueda23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.12169-b31b1b.svg)](https://arxiv.org/abs/2306.12169) |
 | 2087 | Queer Events, Relationships, and Sports: Does Topic Influence Speakers' Acoustic Expression of Sexual Orientation? | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kachel23_interspeech.pdf) |
 
-### Acoustic Model Adaptation for ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Acoustic Model Adaptation for ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -1646,11 +1646,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
  | 2192 | Don't Stop Self-Supervision: Accent Adaptation of Speech Representations via Residual Adapters | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bhatia23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.00453-b31b1b.svg)](https://arxiv.org/abs/2307.00453) |
 | 1282 | SGEM: Test-Time Adaptation for Automatic Speech Recognition via Sequential-Level Generalized Entropy Minimization | [![GitHub](https://img.shields.io/github/stars/drumpt/SGEM)](https://github.com/drumpt/SGEM/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kim23f_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01981-b31b1b.svg)](https://arxiv.org/abs/2306.01981) |
 
-### Speech Synthesis: Expressivity
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Synthesis: Expressivity
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-26-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-15-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF)
 
@@ -1683,11 +1683,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2072 | Beyond Style: Synthesizing Speech with Pragmatic Functions | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.speech.kth.se/tts-demos/beyond_style/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lameris23_interspeech.pdf) |
 | 965 | eCat: An End-to-End Model for Multi-Speaker TTS & Many-to-Many Fine-Grained Prosody Transfer | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/abbas23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.11327-b31b1b.svg)](https://arxiv.org/abs/2306.11327) |
 
-### Multi-modal Systems
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Multi-modal Systems
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -1700,11 +1700,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 668 | Visually Grounded Few-Shot Word Acquisition with Fewer Shots | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nortje23_interspeech.pdf)  <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.15937-b31b1b.svg)](https://arxiv.org/abs/2305.15937) |
 | 183 | JAMFN: Joint Attention Multi-Scale Fusion Network for Depression Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhou23_interspeech.pdf) |
 
-### Question Answering from Speech
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Question Answering from Speech
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1717,11 +1717,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1606 | Multi-Scale Attention for Audio Question Answering | [![GitHub](https://img.shields.io/github/stars/GeWu-Lab/MWAFM)](https://github.com/GeWu-Lab/MWAFM) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23v_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17993-b31b1b.svg)](https://arxiv.org/abs/2305.17993) |
 | 539 | Enhancing Visual Question Answering via Deconstructing Questions and Explicating Answers | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chen23f_interspeech.pdf) |
 
-### Multi-talker Methods in Speech Processing
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Multi-talker Methods in Speech Processing
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -1744,11 +1744,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2076 | Directional Speech Recognition for Speaker Disambiguation and Cross-talk Suppression | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lin23j_interspeech.pdf) |
 | 1815 | Mixture Encoder for Joint Speech Separation and Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/berger23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.12173-b31b1b.svg)](https://arxiv.org/abs/2306.12173) |
 
-### Sociophonetics
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Sociophonetics
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1759,11 +1759,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1414 | Sociodemographic and Attitudinal Effects on Dialect Speakers' Articulation of the Standard Language: Evidence from German-Speaking Switzerland | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/steiner23_interspeech.pdf) |
 | 1704 | Vowel Normalisation in Latent Space for Sociolinguistics |:heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/burridge23_interspeech.pdf) |
 
-### Speaker and Language Diarization
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speaker and Language Diarization
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1776,11 +1776,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1839 | The SpeeD-ZevoTech Submission at DISPLACE 2023 | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/pirlogeanu23_interspeech.pdf) |
 | 656 | End-to-End Neural Speaker Diarization with Absolute Speaker Loss | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23g_interspeech.pdf) |
 
-### Anti-Spoofing for Speaker Verification
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Anti-Spoofing for Speaker Verification
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -1793,11 +1793,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1537 | Improved DeepFake Detection using Whisper Features | [![GitHub](https://img.shields.io/github/stars/piotrkawa/deepfake-whisper-features)](https://github.com/piotrkawa/deepfake-whisper-features) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kawa23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01428-b31b1b.svg)](https://arxiv.org/abs/2306.01428) |
 | 371 | DoubleDeceiver: Deceiving the Speaker Verification System Protected by Spoofing Countermeasures | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhang23c_interspeech.pdf) |
 
-### Speech Coding: Intelligibility
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Coding: Intelligibility
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1810,11 +1810,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2177 | Causal Signal-based DCCRN with Overlapped-Frame Prediction for Online Speech Enhancement | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bartolewska23_interspeech.pdf) |
 | 1511 | Gesper: A Restoration-Enhancement Framework for General Speech Reconstruction | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liu23q_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.08454-b31b1b.svg)](https://arxiv.org/abs/2306.08454) |
 
-### New Computational Strategies for ASR Training and Inference
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### New Computational Strategies for ASR Training and Inference
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1827,11 +1827,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 486 | Streaming Speech-to-Confusion Network Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/filimonov23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.03778-b31b1b.svg)](https://arxiv.org/abs/2306.03778) |
 | 809 | Accurate and Structured Pruning for Efficient Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/jiang23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19549-b31b1b.svg)](https://arxiv.org/abs/2305.19549) |
 
-### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-5-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1843,11 +1843,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2533 | Improving Wav2vec2-based Spoken Language Identification by Learning Phonological Features | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/shahin23_interspeech.pdf) |
 | 2047 | Language Identification Networks for Multilingual Everyday Recordings | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/praveen23_interspeech.pdf) |
 
-### Health-Related Speech Analysis
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Health-Related Speech Analysis
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -1860,11 +1860,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 658 | Comparing Hand-Crafted Features to Spectrograms for Autism Severity Estimation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/eni23_interspeech.pdf) |
 | 839 | Acoustic Characteristics of Depression in Older Adults' Speech: the Role of Covariates | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/mijnders23_interspeech.pdf) |
 
-### Automatic Audio Classification and Audio Captioning
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Automatic Audio Classification and Audio Captioning
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1875,11 +1875,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1610 | Few-Shot Class-Incremental Audio Classification using Stochastic Classifier | [![GitHub](https://img.shields.io/github/stars/vinceasvp/meta-sc)](https://github.com/vinceasvp/meta-sc) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/li23w_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02053-b31b1b.svg)](https://arxiv.org/abs/2306.02053) |
 | 1614 | Enhance Temporal Relations in Audio Captioning with Sound Event Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/xie23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01533-b31b1b.svg)](https://arxiv.org/abs/2306.01533) |
 
-### Speech Synthesis
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Synthesis
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-22-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-11-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF)
 
@@ -1908,11 +1908,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 534 | VITS2: Improving Quality and Efficiency of Single Stage Text to Speech with Adversarial Learning and Architecture Design | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://vits-2.github.io/demo/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kong23_interspeech.pdf) |
 | 1175 | Controlling Multi-Class Human Vocalization Generation via a Simple Segment-based Labeling Scheme | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/luong23_interspeech.pdf) |
 
-### Speech Synthesis: Controllability and Adaptation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Synthesis: Controllability and Adaptation
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1925,11 +1925,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1020 | Speech Inpainting: Context-based Speech Synthesis Guided by Video | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ipcv.github.io/avsi/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/montesinos23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00489-b31b1b.svg)](https://arxiv.org/abs/2306.00489) |
 | 2243 | STEN-TTS: Improving Zero-Shot Cross-Lingual Transfer for Multi-Lingual TTS with Style-Enhanced Normalization Diffusion Framework | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/tran23d_interspeech.pdf) |
 
-### Search Methods and Decoding Algorithms for ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Search Methods and Decoding Algorithms for ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -1942,11 +1942,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 78 | WhisperX: Time-Accurate Speech Transcription of Long-Form Audio | [![GitHub](https://img.shields.io/github/stars/m-bain/whisperX)](https://github.com/m-bain/whisperX) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bain23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00747-b31b1b.svg)](https://arxiv.org/abs/2303.00747) |
 | 2449 | Implementing Contextual Biasing in GPU Decoder for Online ASR | [![GitHub](https://img.shields.io/github/stars/idiap/contextual-biasing-on-gpus)](https://github.com/idiap/contextual-biasing-on-gpus) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/nigmatulina23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.15685-b31b1b.svg)](https://arxiv.org/abs/2306.15685) |
 
-### Speech Signal Analysis
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Signal Analysis
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -1959,11 +1959,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1738 | A Study on the Importance of Formant Transitions for Stop-Consonant Classification in VCV Sequence | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chandrasekar23_interspeech.pdf) <br /> [![idiap](https://img.shields.io/badge/idiap.ch.5064-FF6A00.svg)](https://publications.idiap.ch/index.php/publications/show/5064) |
 | 2229 | FusedF0: Improving DNN-based F0 Estimation by Fusion of Summary-Correlograms and Raw Waveform Representations of Speech Signals | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/eren23_interspeech.pdf) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://www.seas.ucla.edu/spapl/paper/Eray_IS_2023.pdf) |
 
-### Connecting Speech-science and Speech-technology for Children's Speech
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Connecting Speech-science and Speech-technology for Children's Speech
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-19-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF)
 
@@ -1989,11 +1989,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1873 | Influence of Utterance and Speaker Characteristics on the Classification of Children with Cleft Lip and Palate | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://clpclf.github.io/clp-clf/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/baumann23_interspeech.pdf)|
 | 1882 | Prospective Validation of Motor-based Intervention with Automated Mispronunciation Detection of Rhotics in Residual Speech Sound Disorders | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/benway23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19090-b31b1b.svg)](https://arxiv.org/abs/2305.19090) |
 
-### Dialog Management
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Dialog Management
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -2006,11 +2006,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1397 | Knowledge-Retrieval Task-Oriented Dialog Systems with Semi-Supervision | [![GitHub](https://img.shields.io/github/stars/thu-spmi/JSA-KRTOD)](https://github.com/thu-spmi/JSA-KRTOD) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cai23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.13199-b31b1b.svg)](https://arxiv.org/abs/2305.13199) |
 | 2513 | Tracking Must Go On: Dialogue State Tracking with Verified Self-Training | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lee23k_interspeech.pdf) |
 
-### Speech Activity Detection and Modeling
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Activity Detection and Modeling
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -2023,11 +2023,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 716 | Real-Time Causal Spectro-Temporal Voice Activity Detection based on Convolutional Encoding and Residual Decoding | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23k_interspeech.pdf) |
 | 2413 | SVVAD: Personal Voice Activity Detection for Speaker Verification | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kang23c_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19581-b31b1b.svg)](https://arxiv.org/abs/2305.19581) |
 
-### Multilingual Models for ASR
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Multilingual Models for ASR
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -2040,11 +2040,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1044 | N-Shot Benchmarking of Whisper on Diverse Arabic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/talafha23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02902-b31b1b.svg)](https://arxiv.org/abs/2306.02902) |
 | 1014 | The MALACH Corpus: Results with End-to-End Architectures and Pretraining | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/picheny23_interspeech.pdf) |
 
-### Speech Enhancement and Bandwidth Expansion
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Enhancement and Bandwidth Expansion
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -2057,11 +2057,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 634 | Low-Complexity Broadband Beampattern Synthesis using Array Response Control | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/xu23c_interspeech.pdf) |
 | 904 | A GAN Speech Inpainting Model for Audio Editing Software | [![GitHub](https://img.shields.io/github/stars/HXZhao1/GSIM)](https://github.com/HXZhao1/GSIM) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhao23d_interspeech.pdf) |
 
-### Articulation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Articulation
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -2072,11 +2072,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 804 | Generating High-Resolution 3D Real-Time MRI of the Vocal Tract | [![GitHub](https://img.shields.io/github/stars/tonioser/supplementary-material-Interspeech2023-paper804)](https://github.com/tonioser/supplementary-material-Interspeech2023-paper804) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/strauch23_interspeech.pdf) |
 | 1593 | Exploring a Classification Approach using Quantised Articulatory Movements for Acoustic to Articulatory Inversion | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bandekar23_interspeech.pdf) |
 
-### Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-9-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -2092,11 +2092,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1776 | Effects of Spectral Degradation on the Cortical Tracking of the Speech Envelope | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/macintyre23_interspeech.pdf) |
 | 964 | Effects of Spectral and Temporal Modulation Degradation on Intelligibility and Cortical Tracking of Speech Signals | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/calderondepalma23_interspeech.pdf) |
 
-### Perception of Paralinguistics
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Perception of Paralinguistics
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -2109,11 +2109,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 887 | Pardon my Disfluency: The Impact of Disfluency Effects on the Perception of Speaker Competence and Confidence | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kirkland23_interspeech.pdf) |
 | 711 | Cross-Linguistic Emotion Perception in Human and TTS Voices | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://michelledcohn.com/2023/05/19/interspeech-2023-paper-on-cross-cultural-emotion-perception/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gessinger23_interspeech.pdf)|
 
-### Technologies for Child Speech Processing
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Technologies for Child Speech Processing
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
@@ -2124,11 +2124,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2084 | An ASR-enabled Reading Tutor: Investigating Feedback to Optimize Interaction for Learning to Read | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bai23_interspeech.pdf) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://aichildinteraction.github.io/preprint/AIAIC23_paper_7671.pdf) |
 | 935 | Adaptation of Whisper Models to Child Speech Recognition | [![GitHub](https://img.shields.io/github/stars/C3Imaging/whisper_child_asr)](https://github.com/C3Imaging/whisper_child_asr) <br /> [![Hugging Face](https://img.shields.io/badge/HuggingFace-rishabhjain16-yellow)](https://huggingface.co/rishabhjain16)| [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/jain23_interspeech.pdf) |
 
-### Speech Synthesis: Multilinguality; Evaluation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Speech Synthesis: Multilinguality; Evaluation
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-22-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-15-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF)
 
@@ -2157,11 +2157,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1098 | CALLS: Japanese Empathetic Dialogue Speech Corpus of Complaint Handling and Attentive Listening in Customer Center | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sython.org/Corpus/STUDIES-2/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/saito23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.13713-b31b1b.svg)](https://arxiv.org/abs/2305.13713) |
 | 430 | SASPEECH: A Hebrew Single Speaker Dataset for Text to Speech and Voice Conversion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://anonymous19283746.github.io/saspeech/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sharoni23_interspeech.pdf) |
 
-### Show and Tell: Health Applications and Emotion Recognition
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Show and Tell: Health Applications and Emotion Recognition
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
 
@@ -2180,11 +2180,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2656 | 5G-IoT Cloud based Demonstration of Real-Time Audio-Visual Speech Enhancement for Multimodal Hearing-aids | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://cogmhear.org/index.html) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gupta23b_interspeech.pdf) |
 | 2671 | Towards Two-Point Neuron-Inspired Energy-Efficient Multimodal Open Master Hearing aid | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/raza23_interspeech.pdf) |
 
-### Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
@@ -2201,11 +2201,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2655 | Data Augmentation for Diverse Voice Conversion in Noisy Environments | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/tanna23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10684-b31b1b.svg)](https://arxiv.org/abs/2305.10684) |
 | 2667 | Application for Real-Time Audio-Visual Speech Enhancement | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gogate23_interspeech.pdf)|
 
-### Show and Tell: Language Learning and Educational Resources
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Show and Tell: Language Learning and Educational Resources
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-11-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
@@ -2223,11 +2223,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2668 | MyVoice: Arabic Speech Resource Collaboration Platform | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/elshahawy23_interspeech.pdf)|
 | 2669 | Personal Primer Prototype 1: Invitation to Make Your Own Embooked Speech-based Educational Artifact | [![GitHub](https://img.shields.io/github/stars/hromi/lesen-mikroserver)](https://github.com/hromi/lesen-mikroserver) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hromada23_interspeech.pdf) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371491906_Personal_Primer_Prototype_1_Invitation_to_Make_Your_Own_Embooked_Speech-Based_Educational_Artifact) |
 
-### Show and Tell: Media and Commercial Applications
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Show and Tell: Media and Commercial Applications
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
 
