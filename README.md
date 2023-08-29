@@ -17,6 +17,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/INTERSPEECH-2023-Papers)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8289052.svg)](https://doi.org/10.5281/zenodo.8289052)
+<!-- [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.8289052-2283C3.svg)](https://doi.org/10.5281/zenodo.8289052) -->
 
 > Completed: ![Progress](https://geps.dev/progress/100?successColor=006600)
 
