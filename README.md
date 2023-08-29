@@ -30,7 +30,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-236%20(20.67%25)%20*-1D7FBF)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-237%20(20.75%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -1167,12 +1167,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Phonetics and Phonology: Languages and Varieties
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 1879 | The Emergence of Obstruent-Intrinsic f0 and VOT as Cues to the Fortis/Lenis Contrast in West Central Bavarian | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/pohnlein23_interspeech.pdf) |
-| 431 | 〈'〉 in Tsimane': A Preliminary Investigation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/havard23_interspeech.pdf) |
+| 431 | 〈'〉 in Tsimane': A Preliminary Investigation | [![GIN](https://img.shields.io/badge/G-Node-2854A4.svg)](https://gin.g-node.org/William-N-Havard/tsimane-glottal-interspeech23) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/havard23_interspeech.pdf) |
 | 2200 | Segmental Features of Brazilian (Santa Catarina) Hunsrik | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hoffmann23_interspeech.pdf) |
 | 2337 | Opening or Closing? An Electroglottographic Analysis of Voiceless Coda Consonants in Australian English | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ratko23_interspeech.pdf) |
 | 295 | Increasing Aspiration of Word-Medial Fortis Plosives in Swiss Standard German | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zebe23_interspeech.pdf) |
