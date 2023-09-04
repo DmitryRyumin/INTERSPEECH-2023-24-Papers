@@ -64,6 +64,10 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
         <td><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
+        <td>ICCV</td>
+        <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+    <tr>
       <td colspan="2" align="center"><i>Speech (SP)</i></td>
     </tr>
     <tr>
