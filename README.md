@@ -32,7 +32,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-240%20(21.02%25)%20*-1D7FBF)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-241%20(21.11%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -1585,11 +1585,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Perception, Production, and Acquisition
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-33-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-33-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 1330 | Human Transcription Quality Improvement | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gao23f_interspeech.pdf) <br /> [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/human-transcription-quality-improvement) |
+| 1330 | Human Transcription Quality Improvement | [![GitHub](https://img.shields.io/github/stars/GenerateAI/TransAudioUI)](https://github.com/GenerateAI/TransAudioUI) <br /> [![GitHub](https://img.shields.io/github/stars/GenerateAI/LibriCrowd)](https://github.com/GenerateAI/LibriCrowd) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gao23f_interspeech.pdf) <br /> [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/human-transcription-quality-improvement) |
 | 1604 | The Effect of Masking Noise on Listeners' Spectral Tilt Preferences | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/simantiraki23_interspeech.pdf) |
 | 1967 | The Effect of Whistled Vowels on Whistled Word Categorization for Naive Listeners | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/tranngoc23_interspeech.pdf) |
 | 1481 | Automatic Deep Neural Network-based Segmental Pronunciation Error Detection of L2 English Speech (L1 Bengali) | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bharati23_interspeech.pdf) |
