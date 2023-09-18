@@ -32,7 +32,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-241%20(21.11%25)%20*-1D7FBF)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-242%20(21.19%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -663,12 +663,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Feature Modeling for ASR
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
 | 2296 | Re-Investigating the Efficient Transfer Learning of Speech Foundation Model using Feature Fusion Methods | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/huo23b_interspeech.pdf) |
-| 1556 | Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/qi23_interspeech.pdf) |
+| 1556 | Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/alibaba/easyrobust/tree/main/examples/asr/WAPAT) <br /> [![GitHub](https://img.shields.io/github/stars/alibaba/easyrobust)](https://github.com/alibaba/easyrobust) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/qi23_interspeech.pdf) |
 | 509 | InterFormer: Interactive Local and Global Features Fusion for Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lai23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.16342-b31b1b.svg)](https://arxiv.org/abs/2305.16342) |
 | 579 | Transductive Feature Space Regularization for Few-Shot Bioacoustic Event Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/tan23_interspeech.pdf) |
 | 615 | Incorporating L2 Phonemes using Articulatory Features for Robust Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23e_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02534-b31b1b.svg)](https://arxiv.org/abs/2306.02534) |
