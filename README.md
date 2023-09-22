@@ -32,7 +32,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-242%20(21.19%25)%20*-1D7FBF)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-243%20(21.28%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -2180,7 +2180,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF)
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -2188,7 +2188,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2615 | Nkululeko: Machine Learning Experiments on Speaker Characteristics without Programming | [![GitHub](https://img.shields.io/github/stars/felixbur/nkululeko)](https://github.com/felixbur/nkululeko) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/burkhardt23_interspeech.pdf) |
 | 2625 | Sp1NY: A Quick and Flexible Python Speech Visualization Tool | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/lemaguer23_interspeech.pdf) |
 | 2629 | Intonation Control for Neural Text-to-Speech Synthesis with Polynomial Models of F0 | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/corkey23_interspeech.pdf) |
-| 2634 | So-to-Speak: an Exploratory Platform for Investigating the Interplay between Style and Prosody in TTS | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/szekely23b_interspeech.pdf) |
+| 2634 | So-to-Speak: an Exploratory Platform for Investigating the Interplay between Style and Prosody in TTS | [![GitHub](https://img.shields.io/github/stars/evaszekely/So_To_Speak)](https://github.com/evaszekely/So_To_Speak) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/szekely23b_interspeech.pdf) |
 | 2638 | Comparing /b/ and /d/ with a Single Physical Model of the Human Vocal Tract to Visualize Droplets Produced while Speaking | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/arai23_interspeech.pdf) |
 | 2640 | Show & Tell: Voice Activity Projection and Turn-taking | [![GitHub](https://img.shields.io/github/stars/ErikEkstedt/VoiceActivityProjection)](https://github.com/ErikEkstedt/VoiceActivityProjection) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ekstedt23b_interspeech.pdf)|
 | 2652 | Real-Time Detection of Soft Voice for Speech Enhancement | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/cordourier23_interspeech.pdf) |
