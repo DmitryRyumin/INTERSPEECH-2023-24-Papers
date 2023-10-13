@@ -33,7 +33,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-243%20(21.28%25)%20*-1D7FBF)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-244%20(21.37%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -567,7 +567,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Recognition: Technologies and Systems for New Applications
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-35-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-20-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-35-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-20-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-8-1D7FBF)
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -590,7 +590,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 380 | Disentangling the Contribution of Non-Native Speech in Automated Pronunciation Assessment | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/shi23_interspeech.pdf) |
 | 337 | A Joint Model for Pronunciation Assessment and Mispronunciation Detection and Diagnosis with Multi-task Learning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ryu23_interspeech.pdf) |
 | 1635 | Assessing Intelligibility in Non-Native Speech: Comparing Measures Obtained at Different Levels | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wei23d_interspeech.pdf) |
-| 585 | End-to-End Word-Level Pronunciation Assessment with MASK Pre-training | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liang23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02682-b31b1b.svg)](https://arxiv.org/abs/2306.02682) |
+| 585 | End-to-End Word-Level Pronunciation Assessment with MASK Pre-training | [![GitHub](https://img.shields.io/github/stars/liangyukang/MPA-InterSpeech2023)](https://github.com/liangyukang/MPA-InterSpeech2023) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liang23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02682-b31b1b.svg)](https://arxiv.org/abs/2306.02682) |
 | 550 | A Hierarchical Context-aware Modeling Approach for Multi-Aspect and Multi-Granular Pronunciation Assessment | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chao23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.18146-b31b1b.svg)](https://arxiv.org/abs/2305.18146) |
 | 2541 | Automatic Prediction of Language Learners' Listenability using Speech and Text Features Extracted from Listening Drills | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gao23j_interspeech.pdf) |
 | 2371 | Assessment of Non-Native Speech Intelligibility using Wav2vec2-based Mispronunciation Detection and Multi-Level Goodness of Pronunciation Transformer | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/shekar23b_interspeech.pdf) |
