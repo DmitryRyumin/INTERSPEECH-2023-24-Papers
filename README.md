@@ -21,7 +21,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8289052.svg)](https://doi.org/10.5281/zenodo.8289052)
 <!-- [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.8289052-2283C3.svg)](https://doi.org/10.5281/zenodo.8289052) -->
 
-> Completed: ![Progress](https://geps.dev/progress/100?successColor=006600)
+<div style="float:left;">
+  <img src="https://geps.dev/progress/100?successColor=006600" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" />
+</div>
 
 ---
 
