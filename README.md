@@ -82,7 +82,6 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     <tr>
         <td>ISMIR</td>
         <td><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank">2023</a></td>
-        <td>2024</td>
     </tr>
 </table>
 
