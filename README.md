@@ -36,7 +36,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-244%20(21.37%25)%20*-1D7FBF)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-245%20(21.45%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -1448,7 +1448,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Phonetics, Phonology, and Prosody
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-32-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-32-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1460,7 +1460,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1619 | Investigating the Syntax-Discourse Interface in the Phonetic Implementation of Discourse Markers | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/hutin23_interspeech.pdf) |
 | 2214 | Evaluation of a Forensic Automatic Speaker Recognition System with Emotional Speech Recordings | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/essery23_interspeech.pdf) |
 | 1052 | An Outlier Analysis of Vowel Formants from a Corpus Phonetics Pipeline | [![GitHub](https://img.shields.io/github/stars/emilyahn/outliers)](https://github.com/emilyahn/outliers) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ahn23_interspeech.pdf) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.eleanorchodroff.com/articles/AhnLevowWrightChodroff_Outliers_Interspeech_2023.pdf) |
-| 340 | The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/qu23_interspeech.pdf) |
+| 340 | The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features | [![GitHub](https://img.shields.io/github/stars/Oscarwasoccupied/Interspeech2023_The_Hidden_Dance_of_Phonemes_and_Visage)](https://github.com/Oscarwasoccupied/Interspeech2023_The_Hidden_Dance_of_Phonemes_and_Visage) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/qu23_interspeech.pdf) |
 | 1880 | Beatboxing Kick Drum Kinematics | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/blaylock23_interspeech.pdf) |
 | 536 | Effects of Hearing Loss and Amplification on Mandarin Consonant Perception | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/zhou23b_interspeech.pdf) |
 | 2020 | An Acoustic Analysis of Fricative Variation in Three Accents of English | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/adams23_interspeech.pdf) |
