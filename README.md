@@ -36,7 +36,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-246%20(21.54%25)%20*-1D7FBF)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-502%20(43.96%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-247%20(21.63%25)%20*-1D7FBF)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -1950,11 +1950,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Signal Analysis
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2487 | MF-PAM: Accurate Pitch Estimation through Periodicity Analysis and Multi-Level Feature Fusion | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chung23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.09640-b31b1b.svg)](https://arxiv.org/abs/2306.09640) |
+| 2487 | MF-PAM: Accurate Pitch Estimation through Periodicity Analysis and Multi-Level Feature Fusion | [![GitHub](https://img.shields.io/github/stars/Woo-jin-Chung/MF-PAM_mfpam_pitch_estimation_pytorch)](https://github.com/Woo-jin-Chung/MF-PAM_mfpam_pitch_estimation_pytorch) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/chung23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.09640-b31b1b.svg)](https://arxiv.org/abs/2306.09640) |
 | 2211 | Enhancing Speech Articulation Analysis using A Geometric Transformation of the X-ray Microbeam Dataset | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/attia23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10775-b31b1b.svg)](https://arxiv.org/abs/2305.10775) |
 | 1729 | Matching Acoustic and Perceptual Measures of Phonation Assessment in Disordered Speech - A Case Study | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/jouaiti23_interspeech.pdf) |
 | 283 | Improved Contextualized Speech Representations for Tonal Analysis | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/yuan23_interspeech.pdf) |
