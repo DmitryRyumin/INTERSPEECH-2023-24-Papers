@@ -18,7 +18,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/INTERSPEECH-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FINTERSPEECH-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8289052.svg)](https://doi.org/10.5281/zenodo.8289052)
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8289052.svg)](https://doi.org/10.5281/zenodo.8289052) -->
 <!-- [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.8289052-2283C3.svg)](https://doi.org/10.5281/zenodo.8289052) -->
 
 <div style="float:left;">
@@ -58,30 +58,33 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 <table>
     <tr>
-        <td><strong>Conference</strong></td>
+        <td rowspan="2" align="center"><strong>Conference</strong></td>
         <td colspan="1" align="center"><strong>Year</strong></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><i>Computer Vision (CV)</i></td>
+        <td colspan="1" align="center"><i>2023</i></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><i>Computer Vision (CV)</i></td>
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" /></a></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers" /></a></td>
     </tr>
     <tr>
         <td>ISMIR</td>
-        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" /></a></td>
     </tr>
 </table>
 
