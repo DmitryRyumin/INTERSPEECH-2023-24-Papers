@@ -1,22 +1,47 @@
 # INTERSPEECH-2023-Papers
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?style=flat)](https://github.com/sindresorhus/awesome)
-[![Conference](http://img.shields.io/badge/Interspeech-2023-0C1C43.svg)](https://interspeech2023.org/)
-![Version](https://img.shields.io/badge/version-v1.0.0-4FC528)
-![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/INTERSPEECH-2023-Papers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/LICENSE)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat?style=flat)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/README.md)
-![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/INTERSPEECH-2023-Papers)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dmitryryumin/INTERSPEECH-2023-Papers)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/DmitryRyumin/INTERSPEECH-2023-Papers)
-![GitHub issues](https://img.shields.io/github/issues/DmitryRyumin/INTERSPEECH-2023-Papers)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/DmitryRyumin/INTERSPEECH-2023-Papers)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dmitryryumin/INTERSPEECH-2023-Papers)
-![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/INTERSPEECH-2023-Papers)
-![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/INTERSPEECH-2023-Papers?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/INTERSPEECH-2023-Papers?style=flat)
-![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/INTERSPEECH-2023-Papers?style=flat)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FINTERSPEECH-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
+<table>
+  <tr>
+    <td><strong>General Information</strong></td>
+    <td>
+      <a href="https://github.com/sindresorhus/awesome">
+        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+      </a>
+      <a href="https://interspeech2023.org/">
+        <img src="http://img.shields.io/badge/Interspeech-2023-0C1C43.svg" alt="Conference">
+      </a>
+      <img src="https://img.shields.io/badge/version-v1.0.0-4FC528" alt="Version">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Repository Size and Activity</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/repo-size/DmitryRyumin/INTERSPEECH-2023-Papers" alt="GitHub repo size">
+      <img src="https://img.shields.io/github/commit-activity/t/dmitryryumin/INTERSPEECH-2023-Papers" alt="GitHub commit activity (branch)">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Contribution Statistics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/contributors/dmitryryumin/INTERSPEECH-2023-Papers" alt="GitHub contributors">
+      <img src="https://img.shields.io/github/issues-closed/DmitryRyumin/INTERSPEECH-2023-Papers" alt="GitHub closed issues">
+      <img src="https://img.shields.io/github/issues/DmitryRyumin/INTERSPEECH-2023-Papers" alt="GitHub issues">
+      <img src="https://img.shields.io/github/issues-pr-closed/DmitryRyumin/INTERSPEECH-2023-Papers" alt="GitHub closed pull requests">
+      <img src="https://img.shields.io/github/issues-pr/dmitryryumin/INTERSPEECH-2023-Papers" alt="GitHub pull requests">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Other Metrics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/last-commit/DmitryRyumin/INTERSPEECH-2023-Papers" alt="GitHub last commit">
+      <img src="https://img.shields.io/github/watchers/dmitryryumin/INTERSPEECH-2023-Papers?style=flat" alt="GitHub watchers">
+      <img src="https://img.shields.io/github/forks/dmitryryumin/INTERSPEECH-2023-Papers?style=flat" alt="GitHub forks">
+      <img src="https://img.shields.io/github/stars/dmitryryumin/INTERSPEECH-2023-Papers?style=flat" alt="GitHub Repo stars">
+      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FINTERSPEECH-2023-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
+    </td>
+  </tr>
+</table>
 
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8289052.svg)](https://doi.org/10.5281/zenodo.8289052) -->
 <!-- [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.8289052-2283C3.svg)](https://doi.org/10.5281/zenodo.8289052) -->
@@ -139,7 +164,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 ## Contributors
 
 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/graphs/contributors">
-  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/INTERSPEECH-2023-Papers" />
+  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/INTERSPEECH-2023-Papers" alt="" />
 </a>
 
 <br />
