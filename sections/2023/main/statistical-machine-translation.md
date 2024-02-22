@@ -1,0 +1,37 @@
+# INTERSPEECH-2023-Papers
+
+<table>
+    <tr>
+        <td><strong>Application</strong></td>
+        <td>
+            <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+                <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+<div align="center">
+    <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/sections/2023/main/speech-synthesis-prosody-and-emotion.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers/blob/main/sections/2023/main/self-supervised-learning-in-asr.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
+    </a>
+</div>
+
+## Statistical Machine Translation
+
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
+
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 2484 | Modular Speech-to-Text Translation for Zero-Shot Cross-Modal Transfer | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/duquenne23_interspeech.pdf) |
+| 1063 | Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/pal23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.13204-b31b1b.svg)](https://arxiv.org/abs/2305.13204) |
+| 648 | StyleS2ST: Zero-Shot Style Transfer for Direct Speech-to-Speech Translation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://styles2st.github.io/StyleS2ST/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/song23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17732-b31b1b.svg)](https://arxiv.org/abs/2305.17732) |
+| 1767 | Joint Speech Translation and Named Entity Recognition | [![GitHub](https://img.shields.io/github/stars/hlt-mt/FBK-fairseq?style=flat)](https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/JOINT_ST_NER2023.md) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gaido23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.11987-b31b1b.svg)](https://arxiv.org/abs/2210.11987) |
+| 2050 | Analysis of Acoustic Information in End-to-End Spoken Language Translation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/sant23_interspeech.pdf) |
+| 2004 | LAMASSU: A Streaming Language-Agnostic Multilingual Speech Recognition and Translation Model using Neural Transducers | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-speech.org/archive/pdfs/interspeech_2023/wang23oa_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02809-b31b1b.svg)](https://arxiv.org/abs/2211.02809) |
