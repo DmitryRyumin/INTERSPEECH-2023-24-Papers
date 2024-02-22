@@ -145,7 +145,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     <tr>
         <td>AAAI</td>
         <td align="center">:heavy_minus_sign:</td>
-        <td align="center"><img src="https://img.shields.io/badge/February-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/AAAI-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/AAAI-2024-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICLR</td>
