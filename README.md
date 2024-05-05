@@ -1,6 +1,8 @@
-# INTERSPEECH-2023-Papers
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=INTERSPEECH-2023-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="INTERSPEECH-2023-Papers">
+</p>
 
-<table>
+<table align="center">
   <tr>
     <td><strong>General Information</strong></td>
     <td>
@@ -41,15 +43,27 @@
       <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FINTERSPEECH-2023-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
     </td>
   </tr>
+  <tr>
+    <td><strong>Application</strong></td>
+    <td>
+      <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+        <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Progress Status</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Main</strong></td>
+    <td>
+      <div style="float:left;">
+        <img src="https://geps.dev/progress/100?successColor=006600" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
+      </div>
+    </td>
+  </tr>
 </table>
-
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8289052.svg)](https://doi.org/10.5281/zenodo.8289052) -->
-<!-- [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.8289052-2283C3.svg)](https://doi.org/10.5281/zenodo.8289052) -->
-
-<div style="float:left;">
-  <img src="https://geps.dev/progress/100?successColor=006600" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
-</div>
 
 ---
 
@@ -61,12 +75,19 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-1142-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-503%20(44.05%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-248%20(21.72%25)%20*-1D7FBF)
+<div style="float:left;">
+    <strong>Main</strong>
+    <br />
+    <img src="https://img.shields.io/badge/Total%20Papers-1142-42BA16" alt="Total Papers" />
+    <img src="https://img.shields.io/badge/Preprint%20Papers-503%20(44.05%25)-b31b1b" alt="Preprint Papers" />
+    <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-248%20(21.72%25)%20*-1D7FBF" alt="Papers with Open Code" />
+</div>
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
 ---
 
+> [!TIP]
 [*The PDF version of the INTERSPEECH 2023 Conference Programme*](https://drive.google.com/file/d/1xnYB2tQdhSNQwa3txhxFJ3OyUnLpuOCT/view), comprises a list of all accepted full papers, their presentation order, as well as the designated presentation times.
 
 ---
@@ -79,7 +100,8 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 <br />
 <br />
 
-> :exclamation: Conference table will be up to date all the time.
+> [!important]
+> Conference table will be up to date all the time.
 
 <table>
     <tr>
@@ -95,8 +117,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers?style=flat" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-24-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
