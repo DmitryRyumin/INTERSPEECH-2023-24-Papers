@@ -199,9 +199,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ---
 
-## [Papers](https://www.isca-speech.org/archive/interspeech_2023/)
+## [Papers](https://www.isca-speech.org/archive/interspeech_2023/) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
 
-<!-- > :exclamation: Final paper links will be added post-conference. -->
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
 
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
@@ -2346,6 +2348,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2657 | Learning when to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models | [![GitHub](https://img.shields.io/github/stars/liamdugan/speech-to-speech?style=flat)](https://github.com/liamdugan/speech-to-speech) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/dugan23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01201-b31b1b.svg)](https://arxiv.org/abs/2306.01201) |
 | 2628 | Fast Enrollable Streaming Keyword Spotting System: Training and Inference using a Web Browser | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/cho23b_interspeech.pdf) |
 | 2665 | Cross-Lingual/Cross-Channel Intent Detection in Contact-Center Conversations | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/agrawal23b_interspeech.pdf) |
+
+---
+
+## Key Terms
+
+<p align="center">
+    <img width="500" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/INTERSPEECH-2023-Papers@main/images/Keywords.png" alt="Key Terms">
+<p>
 
 ---
 
