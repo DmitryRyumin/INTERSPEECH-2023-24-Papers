@@ -148,8 +148,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-24-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/September-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-24-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>ISMIR</td>
