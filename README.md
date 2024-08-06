@@ -189,6 +189,7 @@ INTERSPEECH 2024 Papers: A complete collection of influential and exciting resea
 <br />
 <br />
 
-Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
+> [!NOTE]
+> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
