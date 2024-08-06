@@ -210,6 +210,10 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
 
+<a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers">
+  <img src="http://img.shields.io/badge/Interspeech-2024-0C1C43.svg" alt="Conference">
+</a>
+
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
