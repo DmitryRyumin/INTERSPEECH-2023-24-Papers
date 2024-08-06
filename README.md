@@ -71,6 +71,6 @@ INTERSPEECH 2024 Papers: A complete collection of influential and exciting resea
 
 <p align="center">
     <a href="https://interspeech2024.org/" target="_blank">
-        <img width="600" src="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/tree/main/images/Interspeech2024-banner.png" alt="Interspeech 2024">
+        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/INTERSPEECH-2023-24-Papers@main/images/Interspeech2024-banner.png" alt="Interspeech 2024">
     </a>
 <p>
