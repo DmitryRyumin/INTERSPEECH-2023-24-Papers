@@ -246,7 +246,6 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Resources for Spoken Language Processing](#resources-for-spoken-language-processing)
 - [Speech Synthesis: Prosody and Emotion](#speech-synthesis-prosody-and-emotion)
 - [Statistical Machine Translation](#statistical-machine-translation)
 - [Self-Supervised Learning in ASR](#self-supervised-learning-in-asr)
