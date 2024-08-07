@@ -10,7 +10,7 @@
         <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
       </a>
       <a href="https://interspeech2023.org/">
-        <img src="http://img.shields.io/badge/Interspeech-2023-0C1C43.svg" alt="Conference">
+        <img src="http://img.shields.io/badge/INTERSPEECH-2023-0C1C43.svg" alt="Conference">
       </a>
       <img src="https://img.shields.io/badge/version-v1.0.0-4FC528" alt="Version">
       <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
@@ -71,7 +71,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 <p align="center">
     <a href="https://interspeech2023.org/" target="_blank">
-        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/INTERSPEECH-2023-24-Papers@main/images/Interspeech2023-Stacked-Colour_v2.png" alt="Interspeech 2023">
+        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/INTERSPEECH-2023-24-Papers@main/images/Interspeech2023-Stacked-Colour_v2.png" alt="INTERSPEECH 2023">
     </a>
 <p>
 
@@ -213,8 +213,35 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 </a>
 
 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers">
-  <img src="http://img.shields.io/badge/Interspeech-2024-0C1C43.svg" alt="Conference">
+  <img src="http://img.shields.io/badge/INTERSPEECH-2024-0C1C43.svg" alt="Conference">
 </a>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="col">Section</th>
+            <th scope="col">Papers</th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/resources-for-spoken-language-processing.md">Resources for Spoken Language Processing</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/resources-for-spoken-language-processing.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/resources-for-spoken-language-processing.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/resources-for-spoken-language-processing.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
@@ -304,23 +331,6 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 - [Show and Tell: Media and Commercial Applications](#show-and-tell-media-and-commercial-applications)
 
 </details>
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Resources for Spoken Language Processing
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 1686 | Multimodal Personality Traits Assessment (MuPTA) Corpus: The Impact of Spontaneous and Read Speech | [![GitHub](https://img.shields.io/github/stars/DmitryRyumin/OCEANAI?style=flat)](https://github.com/DmitryRyumin/OCEANAI) <br /> [![Documentation Status](https://readthedocs.org/projects/oceanai/badge/?version=latest)](https://oceanai.readthedocs.io/en/latest/?badge=latest) <br /> [![PyPI](https://img.shields.io/pypi/v/oceanai)](https://pypi.org/project/oceanai/) <br /> [![MuPTA](https://img.shields.io/badge/MuPTA-dataset-20BEFF.svg)](https://hci.nw.ru/en/pages/mupta-corpus) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/ryumina23_interspeech.pdf) |
-| 1049 | MOCKS 1.0: Multilingual Open Custom Keyword Spotting Testset | [![Hugging Face](https://img.shields.io/badge/🤗-MOCKS-FFD21F.svg)](https://huggingface.co/datasets/voiceintelligenceresearch/MOCKS) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/pudo23_interspeech.pdf) |
-| 2150 | MD3: The Multi-Dialect Dataset of Dialogues | [![Kaggle](https://img.shields.io/badge/kaggle-dataset-20BEFF.svg)](https://www.kaggle.com/datasets/jacobeis99/md3en) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/eisenstein23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.11355-b31b1b.svg)](https://arxiv.org/abs/2305.11355) |
-| 2279 | MuAViC: A Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation | [![GitHub](https://img.shields.io/github/stars/facebookresearch/muavic?style=flat)](https://github.com/facebookresearch/muavic) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/anwar23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00628-b31b1b.svg)](https://arxiv.org/abs/2303.00628) |
-| 1828 | Thai Dialect Corpus and Transfer-based Curriculum Learning Investigation for Dialect Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/suwanbandit23_interspeech.pdf) |
-| 2351 | HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/xiao23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.11252-b31b1b.svg)](https://arxiv.org/abs/2306.11252) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />

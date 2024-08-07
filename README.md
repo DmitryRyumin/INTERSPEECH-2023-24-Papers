@@ -10,7 +10,7 @@
         <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
       </a>
       <a href="https://interspeech2024.org/">
-        <img src="http://img.shields.io/badge/Interspeech-2024-0C1C43.svg" alt="Conference">
+        <img src="http://img.shields.io/badge/INTERSPEECH-2024-0C1C43.svg" alt="Conference">
       </a>
       <img src="https://img.shields.io/badge/version-v1.0.0-4FC528" alt="Version">
       <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
@@ -71,7 +71,7 @@ INTERSPEECH 2024 Papers: A complete collection of influential and exciting resea
 
 <p align="center">
     <a href="https://interspeech2024.org/" target="_blank">
-        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/INTERSPEECH-2023-24-Papers@main/images/Interspeech2024-banner.png" alt="Interspeech 2024">
+        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/INTERSPEECH-2023-24-Papers@main/images/Interspeech2024-banner.png" alt="INTERSPEECH 2024">
     </a>
 <p>
 
