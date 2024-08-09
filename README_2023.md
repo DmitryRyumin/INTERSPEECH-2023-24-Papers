@@ -394,17 +394,82 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
                 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-recognition-technologies-and-systems-for-new-applications.md"><img src="https://img.shields.io/badge/8-1D7FBF" alt="Open Code"></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/lexical-and-language-modeling-for-asr.md">Lexical and Language Modeling for ASR</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/lexical-and-language-modeling-for-asr.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/lexical-and-language-modeling-for-asr.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/lexical-and-language-modeling-for-asr.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/language-identification-and-diarization.md">Language Identification and Diarization</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/language-identification-and-diarization.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/language-identification-and-diarization.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/language-identification-and-diarization.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-quality-assessment.md">Speech Quality Assessment</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-quality-assessment.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-quality-assessment.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-quality-assessment.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/feature-modeling-for-asr.md">Feature Modeling for ASR</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/feature-modeling-for-asr.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/feature-modeling-for-asr.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/feature-modeling-for-asr.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/interfacing-speech-technology-and-phonetics.md">Interfacing Speech Technology and Phonetics</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/interfacing-speech-technology-and-phonetics.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/interfacing-speech-technology-and-phonetics.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/interfacing-speech-technology-and-phonetics.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Lexical and Language Modeling for ASR](#lexical-and-language-modeling-for-asr)
-- [Language Identification and Diarization](#language-identification-and-diarization)
-- [Speech Quality Assessment](#speech-quality-assessment)
-- [Feature Modeling for ASR](#feature-modeling-for-asr)
-- [Interfacing Speech Technology and Phonetics](#interfacing-speech-technology-and-phonetics)
 - [Speech Synthesis: Multilinguality](#speech-synthesis-multilinguality)
 - [Speech Emotion Recognition](#speech-emotion-recognition)
 - [Spoken Dialog Systems and Conversational Analysis](#spoken-dialog-systems-and-conversational-analysis)
@@ -473,89 +538,6 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 - [Show and Tell: Media and Commercial Applications](#show-and-tell-media-and-commercial-applications)
 
 </details>
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Lexical and Language Modeling for ASR
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 643 | NoRefER: A Referenceless Quality Metric for Automatic Speech Recognition via Semi-Supervised Language Model Fine-Tuning with Contrastive Learning | [![GitHub](https://img.shields.io/github/stars/aixplain/NoRefER?style=flat)](https://github.com/aixplain/NoRefER) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/yuksel23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.12577-b31b1b.svg)](https://arxiv.org/abs/2306.12577) |
-| 2128 | Scaling Laws for Discriminative Speech Recognition Rescoring Models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/gu23c_interspeech.pdf) <br /> [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/scaling-laws-for-discriminative-speech-recognition-rescoring-models) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.15815-b31b1b.svg)](https://arxiv.org/abs/2306.15815) |
-| 2429 | Exploring Energy-based Language Models with Different Architectures and Training Methods for Speech Recognition | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg?style=flat)](https://github.com/thu-spmi/CAT/blob/master/docs/energy-based_LM_training.md) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/liu23w_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.12676-b31b1b.svg)](https://arxiv.org/abs/2305.12676) |
-| 1362 | Memory Augmented Lookup Dictionary based Language Modeling for Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/feng23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.00066-b31b1b.svg)](https://arxiv.org/abs/2301.00066) |
-| 1251 | Memory Network-based End-To-End Neural ES-KMeans for Improved Word Segmentation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/iwamoto23_interspeech.pdf) |
-| 1320 | Retraining-free Customized ASR for Enharmonic Words based on a Named-Entity-Aware Model and Phoneme Similarity Estimation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/sudo23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17846-b31b1b.svg)](https://arxiv.org/abs/2305.17846) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Language Identification and Diarization
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 304 | Lightweight and Efficient Spoken Language Identification of Long-form Audio | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/zhu23c_interspeech.pdf) |
-| 1109 | End-to-End Spoken Language Diarization with Wav2vec Embeddings | [![GitHub](https://img.shields.io/github/stars/jagabandhumishra/W2V-E2E-Language-Diarization?style=flat)](https://github.com/jagabandhumishra/W2V-E2E-Language-Diarization) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/mishra23_interspeech.pdf) |
-| 1986 | Efficient Spoken Language Recognition via Multilabel Classification | [![Dropbox](https://img.shields.io/badge/Dropbox-Video-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/625psvljnntyiajrzmy9w/20230821-Interspeech-ONieto-Paper1986.mp4?dl=0&rlkey=w2nkc7zn9fvqcc5iwldlqbbrb) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/nieto23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01945-b31b1b.svg)](https://arxiv.org/abs/2306.01945) |
-| 1529 | Description and Analysis of ABC Submission to NIST LRE 2022 | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/matejka23_interspeech.pdf) |
-| 1790 | Exploring the Impact of Pretrained Models and Web-Scraped Data for the 2022 NIST Language Recognition Evaluation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/alumae23_interspeech.pdf) |
-| 1094 | Advances in Language Recognition in Low Resource African Languages: The JHU-MIT Submission for NIST LRE22 | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/villalba23_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Speech Quality Assessment
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 1436 | DeePMOS: Deep Posterior Mean-Opinion-Score of Speech | [![GitHub](https://img.shields.io/github/stars/Hope-Liang/DeePMOS?style=flat)](https://github.com/Hope-Liang/DeePMOS) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/liang23d_interspeech.pdf) |
-| 1644 | The Role of Formant and Excitation Source Features in Perceived Naturalness of Low Resource Tribal Language TTS: An Empirical Study | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/dasare23_interspeech.pdf) |
-| 811 | A No-Reference Speech Quality Assessment Method based on Neural Network with Densely Connected Convolutional Architecture | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/gong23_interspeech.pdf) |
-| 2507 | Probing Speech Quality Information in ASR Systems | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/ta23_interspeech.pdf) |
-| 589 | Preference-based Training Framework for Automatic Speech Quality Assessment using Deep Neural Network | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/hu23d_interspeech.pdf) |
-| 389 | Crowdsourced Data Validation for ASR Training | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/phatthiyaphaibun23_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Feature Modeling for ASR
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 2296 | Re-Investigating the Efficient Transfer Learning of Speech Foundation Model using Feature Fusion Methods | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/huo23b_interspeech.pdf) |
-| 1556 | Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg?style=flat)](https://github.com/alibaba/easyrobust/tree/main/examples/asr/WAPAT) <br /> [![GitHub](https://img.shields.io/github/stars/alibaba/easyrobust?style=flat)](https://github.com/alibaba/easyrobust) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/qi23_interspeech.pdf) |
-| 509 | InterFormer: Interactive Local and Global Features Fusion for Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/lai23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.16342-b31b1b.svg)](https://arxiv.org/abs/2305.16342) |
-| 579 | Transductive Feature Space Regularization for Few-Shot Bioacoustic Event Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/tan23_interspeech.pdf) |
-| 615 | Incorporating L2 Phonemes using Articulatory Features for Robust Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/wang23e_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02534-b31b1b.svg)](https://arxiv.org/abs/2306.02534) |
-| 1510 | On the (In)Efficiency of Acoustic Feature Extractors for Self-Supervised Speech Representation Learning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/parcollet23_interspeech.pdf) <br /> [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04116371) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Interfacing Speech Technology and Phonetics
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 1846 | Phonemic Competition in End-to-End ASR models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/tenbosch23_interspeech.pdf) |
-| 443 | Automatic Speaker Recognition with Variation Across Vocal Conditions: A Controlled Experiment with Implications for Forensics | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/hughes23_interspeech.pdf) |
-| 1398 | Exploring Graph Theory Methods for the Analysis of Pronunciation Variation in Spontaneous Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/geiger23_interspeech.pdf) |
-| 680 | Automatic Speaker Recognition Performance with Matched and Mismatched Female Bilingual Speech Data | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/nuttall23_interspeech.pdf) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
