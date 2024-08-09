@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/github/watchers/dmitryryumin/INTERSPEECH-2023-24-Papers?style=flat" alt="GitHub watchers">
       <img src="https://img.shields.io/github/forks/dmitryryumin/INTERSPEECH-2023-24-Papers?style=flat" alt="GitHub forks">
       <img src="https://img.shields.io/github/stars/dmitryryumin/INTERSPEECH-2023-24-Papers?style=flat" alt="GitHub Repo stars">
-      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FINTERSPEECH-2023-24-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
+      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FINTERSPEECH-2023-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
     </td>
   </tr>
   <tr>
