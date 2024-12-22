@@ -1248,17 +1248,82 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
                 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/multilingual-models-for-asr.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-enhancement-and-bandwidth-expansion.md">Speech Enhancement and Bandwidth Expansion</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-enhancement-and-bandwidth-expansion.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-enhancement-and-bandwidth-expansion.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-enhancement-and-bandwidth-expansion.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/articulation.md">Articulation</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/articulation.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/articulation.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/articulation.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/neural-processing-of-speech-and-language-encoding-and-decoding-the-diverse-auditory-brain.md">Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/neural-processing-of-speech-and-language-encoding-and-decoding-the-diverse-auditory-brain.md"><img src="https://img.shields.io/badge/9-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/neural-processing-of-speech-and-language-encoding-and-decoding-the-diverse-auditory-brain.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/neural-processing-of-speech-and-language-encoding-and-decoding-the-diverse-auditory-brain.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/perception-of-paralinguistics.md">Perception of Paralinguistics</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/perception-of-paralinguistics.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/perception-of-paralinguistics.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/perception-of-paralinguistics.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/technologies-for-child-speech-processing.md">Technologies for Child Speech Processing</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/technologies-for-child-speech-processing.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/technologies-for-child-speech-processing.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/technologies-for-child-speech-processing.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Speech Enhancement and Bandwidth Expansion](#speech-enhancement-and-bandwidth-expansion)
-- [Articulation](#articulation)
-- [Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain](#neural-processing-of-speech-and-language-encoding-and-decoding-the-diverse-auditory-brain)
-- [Perception of Paralinguistics](#perception-of-paralinguistics)
-- [Technologies for Child Speech Processing](#technologies-for-child-speech-processing)
 - [Speech Synthesis: Multilinguality; Evaluation](#speech-synthesis-multilinguality-evaluation)
 - [Show and Tell: Health Applications and Emotion Recognition](#show-and-tell-health-applications-and-emotion-recognition)
 - [Show and Tell: Speech Tools, Speech Enhancement, Speech Synthesis](#show-and-tell-speech-tools-speech-enhancement-speech-synthesis)
@@ -1266,90 +1331,6 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 - [Show and Tell: Media and Commercial Applications](#show-and-tell-media-and-commercial-applications)
 
 </details>
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Speech Enhancement and Bandwidth Expansion
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 232 | Unsupervised Speech Enhancement with Deep Dynamical Generative Speech and Noise Models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/lin23c_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.07820-b31b1b.svg)](https://arxiv.org/abs/2306.07820) |
-| 857 | Noise-Robust Bandwidth Expansion for 8K Speech Recordings | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/lin23f_interspeech.pdf) |
-| 113 | mdctGAN: Taming Transformer-based GAN for Speech Super-Resolution with Modified DCT Spectra | [![GitHub](https://img.shields.io/github/stars/neoncloud/mdctgan?style=flat)](https://github.com/neoncloud/mdctgan) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/shuai23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.11104-b31b1b.svg)](https://arxiv.org/abs/2305.11104) |
-| 625 | Zoneformer: On-Device Neural Beamformer for In-Car Multi-Zone Speech Separation, Enhancement and echo Cancellation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yongxuustc.github.io/zf/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/xu23b_interspeech.pdf) |
-| 634 | Low-Complexity Broadband Beampattern Synthesis using Array Response Control | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/xu23c_interspeech.pdf) |
-| 904 | A GAN Speech Inpainting Model for Audio Editing Software | [![GitHub](https://img.shields.io/github/stars/HXZhao1/GSIM?style=flat)](https://github.com/HXZhao1/GSIM) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/zhao23d_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Articulation
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 2316 | Deep Speech Synthesis from MRI-based Articulatory Representations | [![GitHub](https://img.shields.io/github/stars/articulatory/articulatory?style=flat)](https://github.com/articulatory/articulatory) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/wu23k_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.02471-b31b1b.svg)](https://arxiv.org/abs/2307.02471) |
-| 562 | Learning to Compute the Articulatory Representations of Speech with the MIRRORNET | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yashish92.github.io/MirrorNet-for-speech/) <br /> [![GitHub](https://img.shields.io/github/stars/Yashish92/MirrorNet-for-speech?style=flat)](https://github.com/Yashish92/MirrorNet-for-speech)| [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/siriwardena23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16454-b31b1b.svg)](https://arxiv.org/abs/2210.16454) |
-| 804 | Generating High-Resolution 3D Real-Time MRI of the Vocal Tract | [![GitHub](https://img.shields.io/github/stars/tonioser/supplementary-material-Interspeech2023-paper804?style=flat)](https://github.com/tonioser/supplementary-material-Interspeech2023-paper804) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/strauch23_interspeech.pdf) |
-| 1593 | Exploring a Classification Approach using Quantised Articulatory Movements for Acoustic to Articulatory Inversion | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/bandekar23_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Neural Processing of Speech and Language: Encoding and Decoding the Diverse Auditory Brain
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-9-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 633 | Coherence Estimation Tracks Auditory Attention in Listeners with Hearing Impairment | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/keding23_interspeech.pdf) |
-| 2378 | Enhancing the EEG Speech Match Mismatch Tasks with Word Boundaries | [![GitHub](https://img.shields.io/github/stars/iiscleap/EEGspeech-MatchMismatch?style=flat)](https://github.com/iiscleap/EEGspeech-MatchMismatch) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/soman23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.00366-b31b1b.svg)](https://arxiv.org/abs/2307.00366) |
-| 1347 | Similar Hierarchical Representation of Speech and Other Complex Sounds in the Brain and Deep Residual Networks: an MEG Study | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/cheng23e_interspeech.pdf) |
-| 121 | Speech Taskonomy: Which Speech Tasks are the most Predictive of fMRI Brain Activity? | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/oota23_interspeech.pdf) <br /> [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04131475) |
-| 282 | MEG Encoding using Word Context Semantics in Listening Stories | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/oota23b_interspeech.pdf) <br /> [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04148324) |
-| 1949 | Investigating the Cortical Tracking of Speech and Music with Sung Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/cantisani23_interspeech.pdf) |
-| 414 | Exploring Auditory Attention Decoding using Speaker Features | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/qiu23_interspeech.pdf)|
-| 1776 | Effects of Spectral Degradation on the Cortical Tracking of the Speech Envelope | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/macintyre23_interspeech.pdf) |
-| 964 | Effects of Spectral and Temporal Modulation Degradation on Intelligibility and Cortical Tracking of Speech Signals | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/calderondepalma23_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Perception of Paralinguistics
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 2061 | Transfer Learning for Personality Perception via Speech Emotion Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/li23da_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.16076-b31b1b.svg)](https://arxiv.org/abs/2305.16076) |
-| 1131 | A Stimulus-Organism-Response Model of Willingness to Buy from Advertising Speech using Voice Quality | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://ntt-hilab-gensp.github.io/is2023-SOR-VQ/)| [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/nagano23_interspeech.pdf) |
-| 1835 | Voice Passing: A Non-Binary Voice Gender Prediction System for evaluating Transgender | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/doukhan23_interspeech.pdf) |
-| 1139 | Influence of Personal Traits on Impressions of One's Own Voice | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/yanagida23_interspeech.pdf) |
-| 887 | Pardon my Disfluency: The Impact of Disfluency Effects on the Perception of Speaker Competence and Confidence | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/kirkland23_interspeech.pdf) |
-| 711 | Cross-Linguistic Emotion Perception in Human and TTS Voices | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://michelledcohn.com/2023/05/19/interspeech-2023-paper-on-cross-cultural-emotion-perception/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/gessinger23_interspeech.pdf)|
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Technologies for Child Speech Processing
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 1302 | Joint Learning Feature and Model Adaptation for Unsupervised Acoustic Modelling of Child Speech | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/duan23_interspeech.pdf) |
-| 1681 | Automatic Assessment of Oral Reading Accuracy for Reading Diagnostics | [![GitHub](https://img.shields.io/github/stars/bomolenaar/jasmin_data_prep?style=flat)](https://github.com/bomolenaar/jasmin_data_prep) <br /> [![GitHub](https://img.shields.io/github/stars/cristiantg/kaldi_egs_CGN?style=flat)](https://github.com/cristiantg/kaldi_egs_CGN/tree/onPonyLand) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/molenaar23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.03444-b31b1b.svg)](https://arxiv.org/abs/2306.03444) |
-| 2084 | An ASR-enabled Reading Tutor: Investigating Feedback to Optimize Interaction for Learning to Read | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/bai23_interspeech.pdf) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://aichildinteraction.github.io/preprint/AIAIC23_paper_7671.pdf) |
-| 935 | Adaptation of Whisper Models to Child Speech Recognition | [![GitHub](https://img.shields.io/github/stars/C3Imaging/whisper_child_asr?style=flat)](https://github.com/C3Imaging/whisper_child_asr) <br /> [![Hugging Face](https://img.shields.io/badge/🤗-rishabhjain16-FFD21F.svg)](https://huggingface.co/rishabhjain16) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/jain23_interspeech.pdf) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
