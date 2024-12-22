@@ -1038,17 +1038,82 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
                 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/sociophonetics.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speaker-and-language-diarization.md">Speaker and Language Diarization</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speaker-and-language-diarization.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speaker-and-language-diarization.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speaker-and-language-diarization.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/anti-spoofing-for-speaker-verification.md">Anti-Spoofing for Speaker Verification</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/anti-spoofing-for-speaker-verification.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/anti-spoofing-for-speaker-verification.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/anti-spoofing-for-speaker-verification.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-coding-intelligibility.md">Speech Coding: Intelligibility</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-coding-intelligibility.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-coding-intelligibility.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-coding-intelligibility.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/new-computational-strategies-for-asr-training-and-inference.md">New Computational Strategies for ASR Training and Inference</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/new-computational-strategies-for-asr-training-and-inference.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/new-computational-strategies-for-asr-training-and-inference.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/new-computational-strategies-for-asr-training-and-inference.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/merlion-ccs-challenge-multilingual-everyday-recordings---language-identification-on-code-switched-child-directed-speech.md">MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/merlion-ccs-challenge-multilingual-everyday-recordings---language-identification-on-code-switched-child-directed-speech.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/merlion-ccs-challenge-multilingual-everyday-recordings---language-identification-on-code-switched-child-directed-speech.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/merlion-ccs-challenge-multilingual-everyday-recordings---language-identification-on-code-switched-child-directed-speech.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Speaker and Language Diarization](#speaker-and-language-diarization)
-- [Anti-Spoofing for Speaker Verification](#anti-spoofing-for-speaker-verification)
-- [Speech Coding: Intelligibility](#speech-coding-intelligibility)
-- [New Computational Strategies for ASR Training and Inference](#new-computational-strategies-for-asr-training-and-inference)
-- [MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech](#merlion-ccs-challenge-multilingual-everyday-recordings---language-identification-on-code-switched-child-directed-speech)
 - [Health-Related Speech Analysis](#health-related-speech-analysis)
 - [Automatic Audio Classification and Audio Captioning](#automatic-audio-classification-and-audio-captioning)
 - [Speech Synthesis](#speech-synthesis)
@@ -1071,90 +1136,6 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 - [Show and Tell: Media and Commercial Applications](#show-and-tell-media-and-commercial-applications)
 
 </details>
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Speaker and Language Diarization
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 1228 | Attention-based Encoder-Decoder Network for End-to-End Neural Speaker Diarization with Target Speaker Attractor | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/chen23n_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10704-b31b1b.svg)](https://arxiv.org/abs/2305.10704) |
-| 1447 | Robust Self Supervised Speech Embeddings for Child-Adult Classification in Interactions involving Children with Autism | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/lahiri23_interspeech.pdf) |
-| 2367 | The DISPLACE Challenge 2023 - DIarization of SPeaker and LAnguage in Conversational Environments | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://displace2023.github.io/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/baghel23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00830-b31b1b.svg)](https://arxiv.org/abs/2303.00830) |
-| 1982 | Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/paturi23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.09313-b31b1b.svg)](https://arxiv.org/abs/2306.09313) |
-| 1839 | The SpeeD-ZevoTech Submission at DISPLACE 2023 | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/pirlogeanu23_interspeech.pdf) |
-| 656 | End-to-End Neural Speaker Diarization with Absolute Speaker Loss | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/wang23g_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Anti-Spoofing for Speaker Verification
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 1402 | Towards Single Integrated Spoofing-aware Speaker Verification Embeddings | [![GitHub](https://img.shields.io/github/stars/sasv-challenge/ASVSpoof5-SASVBaseline?style=flat)](https://github.com/sasv-challenge/ASVSpoof5-SASVBaseline) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/mun23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19051-b31b1b.svg)](https://arxiv.org/abs/2305.19051) |
-| 1352 | Pseudo-Siamese Network based Timbre-Reserved Black-Box Adversarial Attack in Speaker Identification | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/wang23ba_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19020-b31b1b.svg)](https://arxiv.org/abs/2305.19020) |
-| 2335 | Betray Oneself: A Novel Audio DeepFake Detection Model via Mono-to-Stereo Conversion | [![GitHub](https://img.shields.io/github/stars/ttslr/M2S-ADD?style=flat)](https://github.com/ttslr/M2S-ADD) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/liu23v_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.16353-b31b1b.svg)](https://arxiv.org/abs/2305.16353) |
-| 1166 | Robust Audio Anti-Spoofing Countermeasure with Joint Training of Front-end and Back-end and Models | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/wang23v_interspeech.pdf) |
-| 1537 | Improved DeepFake Detection using Whisper Features | [![GitHub](https://img.shields.io/github/stars/piotrkawa/deepfake-whisper-features?style=flat)](https://github.com/piotrkawa/deepfake-whisper-features) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/kawa23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01428-b31b1b.svg)](https://arxiv.org/abs/2306.01428) |
-| 371 | DoubleDeceiver: Deceiving the Speaker Verification System Protected by Spoofing Countermeasures | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/zhang23c_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Speech Coding: Intelligibility
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 2209 | On Training a Neural Residual Acoustic echo Suppressor for Improved ASR | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/panchapagesan23_interspeech.pdf) |
-| 1429 | Extending DNN-based Multiplicative Masking to Deep Subband Filtering for Improved Dereverberation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jmlemercier.github.io/2023/05/30/interspeech2023.html) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/lemercier23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00529-b31b1b.svg)](https://arxiv.org/abs/2303.00529) |
-| 378 | UnSE: Unsupervised Speech Enhancement using Optimal Transport | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jiang-wenbin.github.io/UnSE/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/jiang23b_interspeech.pdf) |
-| 1130 | MC-SpEx: Towards Effective Speaker Extraction with Multi-Scale Interfusion and Conditional Speaker Modulation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rookiejunchen.github.io/MC-SpEx_demo/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/chen23k_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.16250-b31b1b.svg)](https://arxiv.org/abs/2306.16250) |
-| 2177 | Causal Signal-based DCCRN with Overlapped-Frame Prediction for Online Speech Enhancement | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/bartolewska23_interspeech.pdf) |
-| 1511 | Gesper: A Restoration-Enhancement Framework for General Speech Reconstruction | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/liu23q_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.08454-b31b1b.svg)](https://arxiv.org/abs/2306.08454) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### New Computational Strategies for ASR Training and Inference
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 2183 | A Metric-Driven Approach to Conformer Layer Pruning for Efficient ASR Inference | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/bekal23_interspeech.pdf) |
-| 1981 | Distillation Strategies for Discriminative Speech Recognition Rescoring | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/gurunathshivakumar23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.09452-b31b1b.svg)](https://arxiv.org/abs/2306.09452) |
-| 969 | Another Point of View on Visual Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/pouthier23_interspeech.pdf) |
-| 1062 | RASR2: The RWTH ASR Toolkit for Generic Sequence-to-Sequence Speech Recognition | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg?style=flat)](https://github.com/rwth-i6/rasr/tree/generic-seq2seq-decoder) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/zhou23e_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17782-b31b1b.svg)](https://arxiv.org/abs/2305.17782) |
-| 486 | Streaming Speech-to-Confusion Network Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/filimonov23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.03778-b31b1b.svg)](https://arxiv.org/abs/2306.03778) |
-| 809 | Accurate and Structured Pruning for Efficient Automatic Speech Recognition | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/jiang23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19549-b31b1b.svg)](https://arxiv.org/abs/2305.19549) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### MERLIon CCS Challenge: Multilingual Everyday Recordings - Language Identification On Code-Switched Child-Directed Speech
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-5-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 1446 | MERLIon CCS Challenge: A English-Mandarin Code-Switching Child-directed Speech Corpus for Language Identification and Diarization | [![GitHub](https://img.shields.io/github/stars/MERLIon-Challenge/merlion-ccs-2023?style=flat)](https://github.com/MERLIon-Challenge/merlion-ccs-2023) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/chua23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.18881-b31b1b.svg)](https://arxiv.org/abs/2305.18881) |
-| 1335 | Spoken Language Identification System for English-Mandarin Code-Switching Child-Directed Speech | [![GitHub](https://img.shields.io/github/stars/shashikg/LID-Code-Switching?style=flat)](https://github.com/shashikg/LID-Code-Switching) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/gupta23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00736-b31b1b.svg)](https://arxiv.org/abs/2306.00736) |
-| 1707 | Investigating Model Performance in Language Identification: beyond Simple Error Statistics | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/styles23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.18925-b31b1b.svg)](https://arxiv.org/abs/2305.18925) |
-| 2533 | Improving Wav2vec2-based Spoken Language Identification by Learning Phonological Features | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/shahin23_interspeech.pdf) |
-| 2047 | Language Identification Networks for Multilingual Everyday Recordings | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/praveen23_interspeech.pdf) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
