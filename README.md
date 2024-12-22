@@ -78,7 +78,7 @@ INTERSPEECH 2024 Papers: A complete collection of influential and exciting resea
 ---
 
 > [!TIP]
-[*The PDF version of the INTERSPEECH 2024 Conference Programme*](https://interspeech2024.org/wp-content/uploads/provisional_programme_31.07.pdf), comprises a list of all accepted full papers, their presentation order, as well as the designated presentation times.
+[*The PDF version of the INTERSPEECH 2024 Conference Programme*](https://drive.google.com/file/d/1w_F9STjblCMANAZXO8l5Yy6vfDSNYFIw/view), comprises a list of all accepted full papers, their presentation order, as well as the designated presentation times.
 
 ---
 
