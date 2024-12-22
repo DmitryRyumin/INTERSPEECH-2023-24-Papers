@@ -1108,17 +1108,82 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
                 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/merlion-ccs-challenge-multilingual-everyday-recordings---language-identification-on-code-switched-child-directed-speech.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/health-related-speech-analysis.md">Health-Related Speech Analysis</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/health-related-speech-analysis.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/health-related-speech-analysis.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/health-related-speech-analysis.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/automatic-audio-classification-and-audio-captioning.md">Automatic Audio Classification and Audio Captioning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/automatic-audio-classification-and-audio-captioning.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/automatic-audio-classification-and-audio-captioning.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/automatic-audio-classification-and-audio-captioning.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-synthesis.md">Speech Synthesis</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-synthesis.md"><img src="https://img.shields.io/badge/22-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-synthesis.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-synthesis.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-synthesis-controllability-and-adaptation.md">Speech Synthesis: Controllability and Adaptation</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-synthesis-controllability-and-adaptation.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-synthesis-controllability-and-adaptation.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/speech-synthesis-controllability-and-adaptation.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/search-methods-and-decoding-algorithms-for-asr.md">Search Methods and Decoding Algorithms for ASR</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/search-methods-and-decoding-algorithms-for-asr.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/search-methods-and-decoding-algorithms-for-asr.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2023/main/search-methods-and-decoding-algorithms-for-asr.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Health-Related Speech Analysis](#health-related-speech-analysis)
-- [Automatic Audio Classification and Audio Captioning](#automatic-audio-classification-and-audio-captioning)
-- [Speech Synthesis](#speech-synthesis)
-- [Speech Synthesis: Controllability and Adaptation](#speech-synthesis-controllability-and-adaptation)
-- [Search Methods and Decoding Algorithms for ASR](#search-methods-and-decoding-algorithms-for-asr)
 - [Speech Signal Analysis](#speech-signal-analysis)
 - [Connecting Speech-science and Speech-technology for Children's Speech](#connecting-speech-science-and-speech-technology-for-childrens-speech)
 - [Dialog Management](#dialog-management)
@@ -1136,105 +1201,6 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 - [Show and Tell: Media and Commercial Applications](#show-and-tell-media-and-commercial-applications)
 
 </details>
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Health-Related Speech Analysis
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 2038 | Classification of Vocal Intensity Category from Speech using the Wav2vec2 and Whisper Embeddings | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/kodali23_interspeech.pdf) |
-| 1668 | The Effect of Clinical Intervention on the Speech of Individuals with PTSD: Features and Recognition Performances | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/kathan23_interspeech.pdf) |
-| 470 | Analysis and Automatic Prediction of Exertion from Speech: Contrasting Objective and Subjective Measures Collected while Running | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/triantafyllopoulos23_interspeech.pdf) |
-| 894 | The Androids Corpus: A New Publicly Available Benchmark for Speech based Depression Detection | [![GitHub](https://img.shields.io/github/stars/androidscorpus/data?style=flat)](https://github.com/androidscorpus/data) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/tao23_interspeech.pdf) |
-| 658 | Comparing Hand-Crafted Features to Spectrograms for Autism Severity Estimation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/eni23_interspeech.pdf) |
-| 839 | Acoustic Characteristics of Depression in Older Adults' Speech: the Role of Covariates | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/mijnders23_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Automatic Audio Classification and Audio Captioning
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-4-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 943 | Dual Transformer Decoder based Features Fusion Network for Automated Audio Captioning | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/sun23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.18753-b31b1b.svg)](https://arxiv.org/abs/2305.18753) |
-| 1564 | Adapting a ConvNeXt Model to Audio Classification on AudioSet | [![GitHub](https://img.shields.io/github/stars/topel/audioset-convnext-inf?style=flat)](https://github.com/topel/audioset-convnext-inf) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/pellegrini23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00830-b31b1b.svg)](https://arxiv.org/abs/2306.00830) |
-| 1610 | Few-Shot Class-Incremental Audio Classification using Stochastic Classifier | [![GitHub](https://img.shields.io/github/stars/vinceasvp/meta-sc?style=flat)](https://github.com/vinceasvp/meta-sc) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/li23w_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.02053-b31b1b.svg)](https://arxiv.org/abs/2306.02053) |
-| 1614 | Enhance Temporal Relations in Audio Captioning with Sound Event Detection | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/xie23d_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01533-b31b1b.svg)](https://arxiv.org/abs/2306.01533) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Speech Synthesis
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-22-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-11-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 407 | Epoch-based Spectrum Estimation for Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg?style=flat)](https://github.com/cadia-lvl/ebs/tree/interspeech2023/) <br /> [![GitHub](https://img.shields.io/github/stars/cadia-lvl/ebs?style=flat)](https://github.com/cadia-lvl/ebs/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/gunason23_interspeech.pdf) |
-| 1996 | OverFlow: Putting Flows on Top of Neural Transducers for Better TTS | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://shivammehta25.github.io/OverFlow/) <br /> [![GitHub](https://img.shields.io/github/stars/shivammehta25/OverFlow?style=flat)](https://github.com/shivammehta25/OverFlow) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/mehta23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.06892-b31b1b.svg)](https://arxiv.org/abs/2211.06892) |
-| 1568 | AdapterMix: Exploring the Efficacy of Mixture of Adapters for Low-Resource TTS Adaptation | [![GitHub](https://img.shields.io/github/stars/declare-lab/adapter-mix?style=flat)](https://github.com/declare-lab/adapter-mix) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/mehrish23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.18028-b31b1b.svg)](https://arxiv.org/abs/2305.18028) |
-| 506 | Prior-Free Guided TTS: An Improved and Efficient Diffusion-based Text-Guided Speech Synthesis | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/choi23c_interspeech.pdf) |
-| 367 | UnDiff: Unsupervised Voice Restoration with Unconditional Diffusion Model | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/iashchenko23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00721-b31b1b.svg)](https://arxiv.org/abs/2306.00721) |
-| 1301 | Pruning Self-Attention for Zero-Shot Multi-Speaker Text-to-Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hcy71o.github.io/SparseTTS-demo/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/yoon23_interspeech.pdf) |
-| 1151 | Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gwh22.github.io/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/guan23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.04301-b31b1b.svg)](https://arxiv.org/abs/2306.04301) |
-| 879 | Towards Robust FastSpeech 2 by Modelling Residual Multimodality | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sony.github.io/ai-research-code/tvcgmm/project_page/index.html) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/kogel23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01442-b31b1b.svg)](https://arxiv.org/abs/2306.01442) |
-| 1137 | Real Time Spectrogram Inversion on Mobile Phone | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg?style=flat)](https://github.com/google-research/google-research/tree/master/specinvert) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/rybakov23c_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2203.00756-b31b1b.svg)](https://arxiv.org/abs/2203.00756) |
-| 58 | Automatic Tuning of Loss Trade-offs without Hyper-Parameter Search in End-to-End Zero-Shot Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cnaigithub.github.io/Auto_Tuning_Zeroshot_TTS_and_VC/) <br /> [![GitHub](https://img.shields.io/github/stars/cnaigithub/Auto_Tuning_Zeroshot_TTS_and_VC?style=flat)](https://github.com/cnaigithub/Auto_Tuning_Zeroshot_TTS_and_VC) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/park23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.16699-b31b1b.svg)](https://arxiv.org/abs/2305.16699) |
-| 2056 | A Low-Resource Pipeline for Text-to-Speech from Found Data With Application to Scottish Gaelic | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg?style=flat)](https://github.com/dan-wells/kiss-aligner/tree/main/egs/learngaelic_litir) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/wells23_interspeech.pdf) |
-| 2173 | Self-Supervised Solution to the Control Problem of Articulatory Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tensortract.github.io/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/krug23_interspeech.pdf) |
-| 1128 | Hierarchical Timbre-Cadence Speaker Encoder for Zero-Shot Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://srtts.github.io/tc-zstts/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/lee23f_interspeech.pdf) |
-| 754 | ZET-Speech: Zero-Shot adaptive Emotion-Controllable Text-to-Speech Synthesis with Diffusion and Style-based Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zet-speech.github.io/ZET-Speech-Demo/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/kang23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.13831-b31b1b.svg)](https://arxiv.org/abs/2305.13831) |
-| 690 | Improving WaveRNN with Heuristic Dynamic Blending for Fast and High-Quality GPU Vocoding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://muyangdu.github.io/WaveRNN-Heuristic-Dynamic-Blending/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/du23_interspeech.pdf) |
-| 194 | Intelligible Lip-to-Speech Synthesis with Speech Units | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://choijeongsoo.github.io/lip2speech-unit/) <br /> [![GitHub](https://img.shields.io/github/stars/choijeongsoo/lip2speech-unit?style=flat)](https://github.com/choijeongsoo/lip2speech-unit) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/choi23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19603-b31b1b.svg)](https://arxiv.org/abs/2305.19603) |
-| 1212 | Parameter-Efficient Learning for Text-to-Speech Accent Adaptation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tts-research.github.io) <br /> [![GitHub](https://img.shields.io/github/stars/TTS-Research/PEL-TTS?style=flat)](https://github.com/TTS-Research/PEL-TTS) <br /> [![GitHub](https://img.shields.io/github/stars/Li-JEN/PEL-accent-adaptaion?style=flat)](https://github.com/Li-JEN/PEL-accent-adaptaion) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/yang23p_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.11320-b31b1b.svg)](https://arxiv.org/abs/2305.11320) |
-| 820 | Controlling Formant Frequencies with Neural Text-to-Speech for the Manipulation of Perceived Speaker Age | [![GitHub](https://img.shields.io/github/stars/ziafkhan/FastPitch?style=flat)](https://github.com/ziafkhan/FastPitch) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/khan23_interspeech.pdf) |
-| 2379 | FastFit: Towards Real-Time Iterative Neural Vocoder by Replacing U-Net Encoder with Multiple STFTs | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://kallavinka8045.github.io/is2023/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/jang23b_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10823-b31b1b.svg)](https://arxiv.org/abs/2305.10823) |
-| 1726 | iSTFTNet2: Faster and more Lightweight iSTFT-based Neural Vocoder using 1D-2D CNN | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/istftnet2/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/kaneko23_interspeech.pdf) |
-| 534 | VITS2: Improving Quality and Efficiency of Single Stage Text to Speech with Adversarial Learning and Architecture Design | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://vits-2.github.io/demo/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/kong23_interspeech.pdf) |
-| 1175 | Controlling Multi-Class Human Vocalization Generation via a Simple Segment-based Labeling Scheme | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/luong23_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Speech Synthesis: Controllability and Adaptation
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 1608 | HierVST: Hierarchical Adaptive Zero-Shot Voice Style Transfer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hiervst.github.io) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/lee23i_interspeech.pdf) |
-| 391 | VISinger2: High-Fidelity End-to-End Singing Voice Synthesis Enhanced by Digital Signal Processing Synthesizer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zhangyongmao.github.io/VISinger2/) <br /> [![GitHub](https://img.shields.io/github/stars/zhangyongmao/VISinger2?style=flat)](https://github.com/zhangyongmao/VISinger2) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/zhang23e_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02903-b31b1b.svg)](https://arxiv.org/abs/2211.02903) |
-| 700 | EdenTTS: A Simple and Efficient Parallel Text-to-Speech Architecture with Collaborative Duration-Alignment Learning | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://edenynm.github.io/edentts-demo/) <br /> [![GitHub](https://img.shields.io/github/stars/younengma/eden-tts?style=flat)](https://github.com/younengma/eden-tts)| [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/ma23c_interspeech.pdf) |
-| 368 | Generalizable Zero-Shot Speaker Adaptive Speech Synthesis with Disentangled Representations | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gzs-tv.github.io/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/wang23c_interspeech.pdf) |
-| 1020 | Speech Inpainting: Context-based Speech Synthesis Guided by Video | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ipcv.github.io/avsi/) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/montesinos23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.00489-b31b1b.svg)](https://arxiv.org/abs/2306.00489) |
-| 2243 | STEN-TTS: Improving Zero-Shot Cross-Lingual Transfer for Multi-Lingual TTS with Style-Enhanced Normalization Diffusion Framework | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/tran23d_interspeech.pdf) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
-</a>
-
-### Search Methods and Decoding Algorithms for ASR
-
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF)
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 933 | Average Token Delay: A Latency Metric for Simultaneous Translation | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/kano23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.13173-b31b1b.svg)](https://arxiv.org/abs/2211.13173) |
-| 1450 | Automatic Speech Recognition Transformer with Global Contextual Information Decoder | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/qian23_interspeech.pdf) |
-| 1333 | Time-Synchronous One-Pass Beam Search for Parallel Online and Offline Transducers with Dynamic Block Training | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/sudo23c_interspeech.pdf) |
-| 2065 | Prefix Search Decoding for RNN Transducers | :heavy_minus_sign: | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/praveen23b_interspeech.pdf) |
-| 78 | WhisperX: Time-Accurate Speech Transcription of Long-Form Audio | [![GitHub](https://img.shields.io/github/stars/m-bain/whisperX?style=flat)](https://github.com/m-bain/whisperX) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/bain23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00747-b31b1b.svg)](https://arxiv.org/abs/2303.00747) |
-| 2449 | Implementing Contextual Biasing in GPU Decoder for Online ASR | [![GitHub](https://img.shields.io/github/stars/idiap/contextual-biasing-on-gpus?style=flat)](https://github.com/idiap/contextual-biasing-on-gpus) | [![ISCA](https://img.shields.io/badge/isca-version-355778.svg)](https://www.isca-archive.org/interspeech_2023/nigmatulina23_interspeech.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.15685-b31b1b.svg)](https://arxiv.org/abs/2306.15685) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
