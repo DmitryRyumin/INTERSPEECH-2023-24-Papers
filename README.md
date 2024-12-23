@@ -194,14 +194,10 @@ INTERSPEECH 2024 Papers: A complete collection of influential and exciting resea
 
 ---
 
-## [Papers](https://www.isca-archive.org/interspeech_2024/) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+## [Papers-2024](https://www.isca-archive.org/interspeech_2024/) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
 
 <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
-</a>
-
-<a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/README_2023.md">
-  <img src="http://img.shields.io/badge/INTERSPEECH-2023-0C1C43.svg" alt="Conference">
 </a>
 
 <table>
