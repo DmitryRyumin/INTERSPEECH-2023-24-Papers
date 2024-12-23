@@ -211,6 +211,7 @@ INTERSPEECH 2024 Papers: A complete collection of influential and exciting resea
             <th scope="col">Papers</th>
             <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /></th>
             <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /></th>
         </tr>
     </thead>
     <tbody>
@@ -219,13 +220,16 @@ INTERSPEECH 2024 Papers: A complete collection of influential and exciting resea
                 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/l2-speech-bilingualism-and-code-switching.md">L2 Speech, Bilingualism and Code-Switching</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/l2-speech-bilingualism-and-code-switching.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/l2-speech-bilingualism-and-code-switching.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/l2-speech-bilingualism-and-code-switching.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/l2-speech-bilingualism-and-code-switching.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/l2-speech-bilingualism-and-code-switching.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/l2-speech-bilingualism-and-code-switching.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/l2-speech-bilingualism-and-code-switching.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
     </tbody>
