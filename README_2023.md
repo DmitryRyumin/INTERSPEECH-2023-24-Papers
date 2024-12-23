@@ -206,7 +206,7 @@ INTERSPEECH 2023 Papers: A complete collection of influential and exciting resea
 
 ---
 
-## [Papers](https://www.isca-speech.org/archive/interspeech_2023/) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+## [Papers](https://www.isca-archive.org/interspeech_2023/) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
 
 <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
