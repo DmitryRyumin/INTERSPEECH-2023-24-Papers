@@ -270,10 +270,10 @@ INTERSPEECH 2024 Papers: A complete collection of influential and exciting resea
                 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/acoustic-event-detection-segmentation-and-classification.md"><img src="https://img.shields.io/badge/20-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/acoustic-event-detection-segmentation-and-classification.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/acoustic-event-detection-segmentation-and-classification.md"><img src="https://img.shields.io/badge/14-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/acoustic-event-detection-segmentation-and-classification.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/acoustic-event-detection-segmentation-and-classification.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers/blob/main/sections/2024/main/acoustic-event-detection-segmentation-and-classification.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
