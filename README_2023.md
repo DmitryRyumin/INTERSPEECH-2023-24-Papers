@@ -12,7 +12,7 @@
       <a href="https://interspeech2023.org/">
         <img src="http://img.shields.io/badge/INTERSPEECH-2023-0C1C43.svg" alt="Conference">
       </a>
-      <img src="https://img.shields.io/badge/version-v1.0.0-4FC528" alt="Version">
+      <img src="https://img.shields.io/badge/version-v1.0.1-4FC528" alt="Version">
       <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
     </td>
   </tr>
